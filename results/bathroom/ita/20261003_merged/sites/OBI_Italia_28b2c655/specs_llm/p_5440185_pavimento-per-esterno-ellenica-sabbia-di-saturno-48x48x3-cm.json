@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5440185/pavimento-per-esterno-ellenica-sabbia-di-saturno-48x48x3-cm",
+  "model": "qwen2.5:32b",
+  "html": "p_5440185_pavimento-per-esterno-ellenica-sabbia-di-saturno-48x48x3-cm.html",
+  "title": "Pavimento per esterno Ellenica Sabbia di Saturno 48x48x3 cm",
+  "text_chars": 620,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "effetto pietra ricostruita",
+      "evidence": "Realizzato con un effetto pietra ricostruita",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "48x48x3 cm",
+      "evidence": "Pavimento per esterno Ellenica Sabbia di Saturno 48x48x3 cm",
+      "location": "title"
+    },
+    "series": {
+      "value": "Ellenica",
+      "evidence": "Pavimento per esterno Ellenica Sabbia di Saturno",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1070,
+    "output_tokens": 561,
+    "seconds": 45.92
+  }
+}

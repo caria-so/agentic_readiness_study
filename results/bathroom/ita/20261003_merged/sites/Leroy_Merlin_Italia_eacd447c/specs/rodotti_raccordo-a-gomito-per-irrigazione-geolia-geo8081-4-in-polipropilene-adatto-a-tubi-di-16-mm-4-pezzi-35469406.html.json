@@ -1,0 +1,122 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/raccordo-a-gomito-per-irrigazione-geolia-geo8081-4-in-polipropilene-adatto-a-tubi-di-16-mm-4-pezzi-35469406.html",
+ "file": "rodotti_raccordo-a-gomito-per-irrigazione-geolia-geo8081-4-in-polipropilene-adatto-a-tubi-di-16-mm-4-pezzi-35469406.html.html",
+ "title": "Raccordo a gomito per irrigazione GEOLIA GEO8081-4 in polipropilene adatto a tubi di ⌀ 16 mm, 4 pezzi",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4531,
+ "attributes": {
+  "brand": {
+   "value": "GEOLIA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "GEOLIA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "35469406",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "35469406"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8424019650070",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8424019650070"
+    }
+   ]
+  },
+  "installation": {
+   "value": "4",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di pezzi",
+     "value": "4"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Tipo di installazione",
+     "value": "Da pressare"
+    }
+   ]
+  },
+  "material": {
+   "value": "Polipropilene",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Polipropilene"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "11.4",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "11.4"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "1.8"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "16.7"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.02",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.02"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Diametro (in mm)": "16",
+  "Regolabile": "No",
+  "Home Index": "B"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 8,
+  "L3": 2,
+  "dropped": 6
+ }
+}

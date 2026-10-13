@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/box-doccia-semicircolare-opaco-6mm-doppia-scorrevole",
+  "model": "qwen2.5:32b",
+  "html": "products_box-doccia-semicircolare-opaco-6mm-doppia-scorrevole.html",
+  "title": "Box Doccia Semicircolare Opaco 6mm Doppia Scorrevole H190cm",
+  "text_chars": 8722,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "satinato",
+      "evidence": "Cristallo: 6mm satinato",
+      "location": "body"
+    },
+    "width": {
+      "value": "70cm",
+      "evidence": "70x90 raggio 38cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "6mm",
+      "evidence": "Cristallo: 6mm satinato",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3955,
+    "output_tokens": 577,
+    "seconds": 59.82
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/prodotto/purewater-direct-reverse-osmosis-1-way-200-gpd-with-vane-pump-and-water-cooling/",
+  "model": "qwen2.5:32b",
+  "html": "prodotto_purewater-direct-reverse-osmosis-1-way-200-gpd-with-vane-pump-and-water-cooling.html",
+  "title": "Direct reverse osmosis PureWater 1-way 200 GPD",
+  "text_chars": 3716,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "10.8 cm",
+      "evidence": "Dimensions(cm): H 45 x W 10.8 x D 42",
+      "location": "body"
+    },
+    "height": {
+      "value": "45 cm",
+      "evidence": "Dimensions(cm): H 45 x W 10.8 x D 42",
+      "location": "body"
+    },
+    "depth": {
+      "value": "42 cm",
+      "evidence": "Dimensions(cm): H 45 x W 10.8 x D 42",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "H 45 x W 10.8 x D 42 cm",
+      "evidence": "Dimensions(cm): H 45 x W 10.8 x D 42",
+      "location": "body"
+    },
+    "water": {
+      "value": "Nominal production: 90-102 l/h. version with 200GPD membranes",
+      "evidence": "Nominal production: 90-102 l/h. version with 200GPD membranes",
+      "location": "body"
+    },
+    "electrical": {
+      "value": "Power supply: 230V-50Hz",
+      "evidence": "Power supply: 230V-50Hz",
+      "location": "body"
+    },
+    "brand": {
+      "value": "PureWater",
+      "evidence": "PureWater Direct Reverse Osmosis 1 way 200 GPD with vane pump and water cooling",
+      "location": "body"
+    },
+    "certification": {
+      "value": "Certified product D.M.25 dated 07.02.12, D.M. 174 of 06.04.04 Italian Ministry",
+      "evidence": "Certified product D.M.25 dated 07.02.12, D.M. 174 of 06.04.04 Italian Ministry",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1873,
+    "output_tokens": 745,
+    "seconds": 70.77
+  }
+}

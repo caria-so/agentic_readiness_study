@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/sedute/634-sgabello-doccia-antiscivolo-altezza-regolabile-34-51-cm-portata-max-100-kg.html",
+  "model": "qwen2.5:32b",
+  "html": "sedute_634-sgabello-doccia-antiscivolo-altezza-regolabile-34-51-cm-portata-max-100-kg.html.html",
+  "title": "Sgabello doccia antiscivolo altezza regolabile 34-51 cm portata max 100 kg",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "56 cm",
+      "evidence": "Dimensioni totali: L 56 x p 48 x H 56 cm;",
+      "location": "body"
+    },
+    "height": {
+      "value": "56 cm",
+      "evidence": "Dimensioni totali: L 56 x p 48 x H 56 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "48 cm",
+      "evidence": "Dimensioni totali: L 56 x p 48 x H 56 cm;",
+      "location": "body"
+    },
+    "installation": {
+      "value": "in appoggio al pavimento",
+      "evidence": "Installazione antiscivolo in appoggio al pavimento;",
+      "location": "body"
+    },
+    "water": {
+      "value": "portata massima 100 kg",
+      "evidence": "Altezza regolabile da 34 a 51 cm,portata massima 100 kg;",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3911,
+    "output_tokens": 659,
+    "seconds": 65.91
+  }
+}

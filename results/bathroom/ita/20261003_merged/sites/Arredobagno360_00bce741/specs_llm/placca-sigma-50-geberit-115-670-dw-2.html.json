@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/placca-sigma-50-geberit-115-670-dw-2.html",
+  "model": "qwen2.5:32b",
+  "html": "placca-sigma-50-geberit-115-670-dw-2.html.html",
+  "title": "Sigma50 | Placca con 2 pulsanti square per cassetta WC, colore nero lucido-oro rosso",
+  "text_chars": 1715,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "24,6 cm",
+      "evidence": "Dimensioni: 24,6 x 16,4 x 1,3 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "16,4 cm",
+      "evidence": "Dimensioni: 24,6 x 16,4 x 1,3 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "1,3 cm",
+      "evidence": "Dimensioni: 24,6 x 16,4 x 1,3 cm",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "square",
+      "evidence": "Placca con 2 pulsanti square per cassetta WC",
+      "location": "title"
+    },
+    "brand": {
+      "value": "Geberit",
+      "evidence": "Geberit (Placche)",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1489,
+    "output_tokens": 684,
+    "seconds": 54.35
+  }
+}

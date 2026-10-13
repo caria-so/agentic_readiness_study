@@ -1,0 +1,1526 @@
+{
+  "source": "https://www.mondoconv.it/",
+  "generated": "2026-10-02T18:30:14.198888",
+  "total": 204,
+  "internal_count": 72,
+  "external_count": 132,
+  "links": [
+    {
+      "url": "https://www.mondoconv.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/configuratori-mondo-convenienza",
+      "fragment": "",
+      "text": "Guide alla scelta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/punti-vendita",
+      "fragment": "",
+      "text": "Punti Vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://account.mondoconv.it/login?mode=redirect&amp;redirectUrl=/settembre-2026",
+      "fragment": "",
+      "text": "Account",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/catalogo",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/cucine/composizioni-fisse.html",
+      "fragment": "",
+      "text": "Scopri le nostre cucine fisse",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/configura-divano-personalizzato",
+      "fragment": "",
+      "text": "Il divano perfetto? Configuralo in 3D!",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/offerte/miglior-prezzo.html",
+      "fragment": "",
+      "text": "Vedi tutti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/dafne-gig5.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/sogno-qaii.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/amburgo-brd2.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/silver-fast-pmbr.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/amburgo-24yg.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/camere-da-letto.html",
+      "fragment": "",
+      "text": "Camere da letto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/divani.html",
+      "fragment": "",
+      "text": "Divani",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/cucine.html",
+      "fragment": "",
+      "text": "Cucine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/armadi.html",
+      "fragment": "",
+      "text": "Armadi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/reti-e-materassi.html",
+      "fragment": "",
+      "text": "Reti e Materassi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/soggiorni.html",
+      "fragment": "",
+      "text": "Soggiorni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/tavoli-e-sedie.html",
+      "fragment": "",
+      "text": "Tavoli e Sedie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/bagni.html",
+      "fragment": "",
+      "text": "Bagni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/camerette.html",
+      "fragment": "",
+      "text": "Camerette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/letti.html",
+      "fragment": "",
+      "text": "Letti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/accessori/arredo-ufficio.html",
+      "fragment": "",
+      "text": "Arredo ufficio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/accessori.html",
+      "fragment": "",
+      "text": "Complementi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/camere.html",
+      "fragment": "",
+      "text": "Camere da letto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/camere/armadi-anta-battente-moderni-1.html",
+      "fragment": "",
+      "text": "Armadi battenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/camere/armadi-anta-scorrevole-1.html",
+      "fragment": "",
+      "text": "Armadi scorrevoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/donatella-big-qs5h.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/donatella-3puh.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/primula-u3xw.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/roma-dd1t.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/liberty-iizf.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/sara-wk5n.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/zante-f7s8.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/luna-yc7y.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/mercurio-4tmv.html",
+      "fragment": "",
+      "text": "Mercurio Tavolo raddoppiabile (max 180 cm) 198 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/alba-3mze.html",
+      "fragment": "",
+      "text": "Alba Sedia 44 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/amburgo-jmwo.html",
+      "fragment": "",
+      "text": "Amburgo Soggiorno 260 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/amburgo-3e68.html",
+      "fragment": "",
+      "text": "Amburgo Madia 3 ante battenti 182 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/wood-3ml0.html",
+      "fragment": "",
+      "text": "Wood Tavolo allungabile (max 220 cm) 348 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/alba-88fi.html",
+      "fragment": "",
+      "text": "Alba Sedia 44 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/fantasy-d22l.html",
+      "fragment": "",
+      "text": "Fantasy Vetrina 1 anta 283 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/fantasy-4o2h.html",
+      "fragment": "",
+      "text": "Fantasy Madia 3 ante 254 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/fly-frmv.html",
+      "fragment": "",
+      "text": "Fly Tavolo allungabile 165 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/quadra-cjna.html",
+      "fragment": "",
+      "text": "Quadra Sedia 38 €",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/privacy",
+      "fragment": "",
+      "text": "Informativa privacy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://account.mondoconv.it/login?mode=redirect&amp;redirectUrl=%2F",
+      "fragment": "",
+      "text": "ACCEDI ALL'AREA UTENTE",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/mondoconv/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://it.pinterest.com/mondoconv/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.tiktok.com/@mondoconvenienza",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.youtube.com/user/mondoconvenienzatv",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/mondoconvenienza/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/modalita-pagamento/metodi-di-pagamento",
+      "fragment": "",
+      "text": "Modalità di pagamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/consegna-montaggio/trasporto-e-montaggio",
+      "fragment": "",
+      "text": "Consegna e montaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/garanzie/-le-nostre-garanzie",
+      "fragment": "",
+      "text": "I tuoi diritti di garanzia legale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/servizio-clienti",
+      "fragment": "servizi",
+      "text": "Servizi aggiuntivi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/servizio-clienti",
+      "fragment": "contatti",
+      "text": "Contatti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/resi-e-rimborsi",
+      "fragment": "",
+      "text": "Recesso e rimborsi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/i-tuoi-diritti",
+      "fragment": "",
+      "text": "I tuoi diritti nella consegna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/faq",
+      "fragment": "",
+      "text": "Faq",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/servizio-clienti",
+      "fragment": "",
+      "text": "SERVIZIO CLIENTI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/come-acquistare/presso-i-punti-vendita",
+      "fragment": "",
+      "text": "Come acquistare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/punti-vendita/",
+      "fragment": "",
+      "text": "Punti vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/come-acquistare/progetto-dolce-casa",
+      "fragment": "",
+      "text": "Consulenza a domicilio - Dolce casa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/appuntamento-venditore/index/index/step-shop",
+      "fragment": "",
+      "text": "Consulenza in negozio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/prenotazione-videoconferenza/index/index/step-shop",
+      "fragment": "",
+      "text": "Consulenza in videochiamata",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/modalita-pagamento/bonus-mobili-elettrodomestici",
+      "fragment": "",
+      "text": "Bonus mobili e elettrodomestici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/newsletter-mondo-convenienza",
+      "fragment": "",
+      "text": "Newsletter",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconvenienzagroup.com/valori/",
+      "fragment": "",
+      "text": "I nostri valori",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconvenienzagroup.com/la-storia/",
+      "fragment": "",
+      "text": "Storia",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconvenienzagroup.com/la-filiera/",
+      "fragment": "",
+      "text": "Il presente",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconvenienzagroup.com/innovazione-digitale/",
+      "fragment": "",
+      "text": "Innovazione e ricerca",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://blog.mondoconv.it/",
+      "fragment": "",
+      "text": "Blog",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/modello-d-lgs-231-2001",
+      "fragment": "",
+      "text": "Modello D.LGS. 231/2001",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/procedura-whistleblowing",
+      "fragment": "",
+      "text": "Procedura Whistleblowing",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/impegni-agcm",
+      "fragment": "",
+      "text": "Procedimento AGCM PS 11948",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/obblighi-informativi-per-erogazioni-pubbliche",
+      "fragment": "",
+      "text": "Obblighi informativi per erogazioni pubbliche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconvenienzagroup.com/",
+      "fragment": "",
+      "text": "AZIENDA",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://careers.mondoconv.it/jobs.php?country=109",
+      "fragment": "",
+      "text": "LAVORA CON NOI",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/come-acquistare/condizioni-di-vendita",
+      "fragment": "",
+      "text": "Condizioni di vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/riepilogo-note-mc",
+      "fragment": "",
+      "text": "Riepilogo note",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/sitemap",
+      "fragment": "",
+      "text": "Sitemap",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/cookies",
+      "fragment": "",
+      "text": "Informativa Cookie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondoconv.it/media/wysiwyg/homepage/Dichirazione_di_accessibilit%C3%A0_MondoConv_30072025.pdf",
+      "fragment": "",
+      "text": "Dichiarazione di accessibilità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://mondoconvenienza.bravosolution.com/web/login.html",
+      "fragment": "",
+      "text": "E-Procurement",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://mondoconv.it/cookies",
+      "fragment": "",
+      "text": "Policy sui cookie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbusiness.safety.google%2Fprivacy%2F&amp;data=05%7C02%7CFederica.Feroci%40protiviti.it%7C21ad17ec0f6a472887d008ddb0027af8%7C16532572d5674d678727f12f7bb6aed3%7C0%7C0%7C638860246954554350%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=vJatwOZYWxzEikXKtl3xYfl532N4FPota9HKGlEwK4o%3D&amp;reserved=0",
+      "fragment": "",
+      "text": "Privacy &amp; Terms di Google",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.onetrust.com/products/cookie-consent/",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/configuratore/asset-manifest.json",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://sgtm.mondoconv.it",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://load.sgtm.mondoconv.es",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.gstatic.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600&amp;family=Raleway:ital,wght@0,300;0,600;1,700&amp;family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&amp;family=Yeseva+One&amp;family=Montserrat:wght@400;500;600;700&amp;display=swap",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/stores/1/favicon.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/version1790196971/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/it_IT.7a7c3cda.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/favicon.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_2048x2048.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_1668x1668.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_1536x1536.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_1125x1125.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_1242x1242.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_750x750.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_640x640.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_120x120.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_152x152.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_167x167.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_180x180.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_1024x1024.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_android_36x36.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_android_48x48.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_android_72x72.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_android_96x96.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_android_144x144.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_android_192x192.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/favicon/icons/icon_android_512x512.png",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/media/webmanifest/manifest.json",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://ui.swogo.net",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.evgnet.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/4972.c0a16eac.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/1530.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/1530.d5a0344b.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/render.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/render.4e402459.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/456.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/4501.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/7218.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/5728.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/5728.b0ead1ca.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/6861.747d6339.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/3271.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/3271.793f65a6.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/1290.cf9cecba.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/8774.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/8746.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/2457.ee860f79.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/7006.5a16bdbd.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/5780.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/5780.d4e51316.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/4698.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/9622.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/3624.4671b4e0.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/9330.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/5618.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/6623.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/6623.478ee021.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/5201.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/5201.9964e702.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/4132.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/8402.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/3175.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/3175.29dfa3cc.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/9847.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/2197.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/2197.566d3f3f.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/8505.9a3a1c39.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/5163.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/2260.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/2260.0b2afafa.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/6523.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/8413.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/8413.e754a3b0.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/compare.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/compare.87f962eb.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/3917.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/2699.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/8862.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/8862.714fc966.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/8913.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/6423.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/5717.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/7359.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/7791.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/cms.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/cms.0393d5ae.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/2939.05488bf7.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/js/it_IT.7a7c3cda.chunk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/1718.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/HomepageAb.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/3050.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/9344.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/notice.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/2358.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/1138.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/2569.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/108.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/6351.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/8026.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/2285.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/header.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/6058.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/590.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/970.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/1416.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/7158.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/9195.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/4643.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/2225.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://media.mondoconv.it/static/frontend/scandipwa/pwa/en_US/Magento_Theme/static/css/overlay.chunk.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://mondoconvenienza.my.site.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://mondoconvenienza.my.salesforce-scrt.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

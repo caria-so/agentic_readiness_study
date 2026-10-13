@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/grohe-bauedge-miscelatore-monocomando-lavello-per-cucina-bocca-alta-girevole-31367001",
+  "model": "qwen2.5:32b",
+  "html": "products_grohe-bauedge-miscelatore-monocomando-lavello-per-cucina-bocca-alta-girevole-31367001.html",
+  "title": "Grohe Bauedge miscelatore monocomando lavello per cucina bocca alta girevole 31367001 | Arcshop",
+  "text_chars": 3102,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "opening": {
+      "value": "girevole a 360 gradi",
+      "evidence": "Grohe Bauedge miscelatore monocomando lavello per cucina bocca alta girevole a 360 gradi 31367001",
+      "location": "body"
+    },
+    "series": {
+      "value": "Bauedge",
+      "evidence": "Grohe Bauedge miscelatore monocomando lavello per cucina bocca alta girevole 31367001",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "5 Anni",
+      "evidence": "Esaurito Garanzia: 5 Anni",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1937,
+    "output_tokens": 609,
+    "seconds": 50.62
+  }
+}

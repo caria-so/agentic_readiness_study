@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/mobili-bagno/1635-mobile-da-bagno-bequia-plus-100-cm-2-cassetti-nero-opaco-e-mobiletto-sinistro-2-vani-rovere-con-lavabo-integrato-8421194943157.html",
+  "model": "qwen2.5:32b",
+  "html": "agno-bequia-plus-100-cm-2-cassetti-nero-opaco-e-mobiletto-sinistro-2-vani-rovere-con-lavabo-integrato-8421194943157.html.html",
+  "title": "Mobile da bagno Bequia Plus 100 cm 2 cassetti Nero opaco e mobilett...",
+  "text_chars": 6684,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "pannello truciolare laminato",
+      "evidence": "- Frontale e lati realizzati in pannello truciolare laminato da 1,6 cm (classe E-1) con bordi in PVC (con colla PUR) altamente resistenti all'umidità.",
+      "location": "body"
+    },
+    "finish": {
+      "value": "opaco",
+      "evidence": "Mobile da bagno Bequia Plus 100 cm 2 cassetti Nero opaco e mobiletto sinistro 2 vani Rovere con lavabo integrato",
+      "location": "body"
+    },
+    "width": {
+      "value": "60 cm",
+      "evidence": "- Dimensioni del mobile (cm): 60 x 45 x 54 cm (larghezza x profondità x altezza)",
+      "location": "body"
+    },
+    "height": {
+      "value": "54 cm",
+      "evidence": "- Dimensioni del mobile (cm): 60 x 45 x 54 cm (larghezza x profondità x altezza)",
+      "location": "body"
+    },
+    "depth": {
+      "value": "45 cm",
+      "evidence": "- Dimensioni del mobile (cm): 60 x 45 x 54 cm (larghezza x profondità x altezza)",
+      "location": "body"
+    },
+    "opening": {
+      "value": "apertura e chiusura a pressione",
+      "evidence": "- Cassetti con apertura e chiusura a pressione.",
+      "location": "body"
+    },
+    "series": {
+      "value": "BEQUIA",
+      "evidence": "La serie BEQUIA ha un design funzionale e minimalista.",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "5 anni",
+      "evidence": "- Garanzia di 5 anni su danni e pezzi di ricambio.",
+      "location": "body"
+    },
+    "certification": {
+      "value": "PEFC",
+      "evidence": "- Certificato PEFC, che garantisce lo sfruttamento sostenibile delle risorse forestali. Imballaggi senza plastica.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Spagna",
+      "evidence": "- Progettati e realizzati in Spagna",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "colour": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Nero opaco, Rovere",
+        "evidence": "Mobile da bagno Bequia Plus 100 cm 2 cassetti Nero opaco e mobiletto sinistro 2 vani Rovere con lavabo integrato"
+      }
+    },
+    "dimensions": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "100x45x59 cm",
+        "evidence": "- Dimensioni del mobile (cm): 60 x 45 x 54 cm (larghezza x profondità x altezza) - Dimensioni della cassettiera (cm): 30 x 45 x 54 cm (larghezza x profondità x altezza) x2 - Dimensioni del lavabo (cm): 100 x 45 x 2 (larghezza x profondità x altezza)"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3429,
+    "output_tokens": 916,
+    "seconds": 79.62
+  }
+}

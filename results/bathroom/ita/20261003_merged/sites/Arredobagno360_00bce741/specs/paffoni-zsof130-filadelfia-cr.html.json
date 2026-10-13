@@ -1,0 +1,104 @@
+{
+ "url": "https://www.arredobagno360.it/paffoni-zsof130-filadelfia-cr.html",
+ "file": "paffoni-zsof130-filadelfia-cr.html.html",
+ "title": "ZSOF130 Filadelfia | Soffione doccia incasso D400, cromo",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1004,
+ "attributes": {
+  "sku": {
+   "value": "paffoni-zsof130-filadelfia-cr",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "paffoni-zsof130-filadelfia-cr"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice articolo",
+     "value": "ZSOF 130 FILADELFIA CR"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "paffoni-zsof130-filadelfia-cr",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "paffoni-zsof130-filadelfia-cr"
+    }
+   ]
+  },
+  "series": {
+   "value": "ZSOF130 Filadelfia | Soffione doccia incasso D400, cromo",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "ZSOF130 Filadelfia | Soffione doccia incasso D400, cromo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Modello",
+     "value": "FILADELFIA"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Paffoni",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Paffoni"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Cromo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "Cromo"
+    }
+   ]
+  },
+  "water": {
+   "value": "getto pioggia + nebulizzatore",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Getti",
+     "value": "getto pioggia + nebulizzatore"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 5,
+  "dropped": 3
+ }
+}

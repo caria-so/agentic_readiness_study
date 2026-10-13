@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/mobile-bagno-industrial-sospeso-60cm-color-oro",
+  "model": "qwen2.5:32b",
+  "html": "products_mobile-bagno-industrial-sospeso-60cm-color-oro.html",
+  "title": "Mobile Bagno Industrial Sospeso 60cm Color Oro",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Oro",
+      "evidence": "Mobile Bagno Industrial Sospeso 60cm Color Oro",
+      "location": "title"
+    },
+    "width": {
+      "value": "60cm",
+      "evidence": "Mobile Bagno Industrial Sospeso 60cm Color Oro",
+      "location": "title"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Mobile Bagno Industrial Sospeso 60cm Color Oro",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3992,
+    "output_tokens": 495,
+    "seconds": 53.41
+  }
+}

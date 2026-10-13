@@ -1,0 +1,48 @@
+{
+ "url": "https://www.idrobric.it/it/aquaxense/1124-aquaxense-adattatore-a-leva-8007931114389.html",
+ "file": "it_aquaxense_1124-aquaxense-adattatore-a-leva-8007931114389.html.html",
+ "title": "Aquaxense Adattatore a leva",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 486,
+ "attributes": {
+  "sku": {
+   "value": "SCACER1129AT",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SCACER1129AT"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931114389",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931114389"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 0
+ }
+}

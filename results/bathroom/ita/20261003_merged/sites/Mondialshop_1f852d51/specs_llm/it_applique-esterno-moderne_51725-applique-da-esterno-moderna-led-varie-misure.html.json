@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/applique-esterno-moderne/51725-applique-da-esterno-moderna-led-varie-misure.html",
+  "model": "qwen2.5:32b",
+  "html": "it_applique-esterno-moderne_51725-applique-da-esterno-moderna-led-varie-misure.html.html",
+  "title": "Applique da Esterno LED Varie Misure | Mondialshop",
+  "text_chars": 7309,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "shape_style": {
+      "value": "rettangolare",
+      "evidence": "La sua silhouette a blocco rettangolare adorna le pareti verticali distribuendo un flusso luminoso bidirezionale impeccabile",
+      "location": "body"
+    },
+    "care": {
+      "value": "Passare un panno morbido in microfibra leggermente inumidito con sola acqua o con un goccio di sapone neutro delicato.",
+      "evidence": "Per asportare i depositi accumulati all'esterno come polvere, smog, polline o residui di pioggia dalla superficie e dagli schermi in acrilico , basta passare un panno morbido in microfibra leggermente inumidito con sola acqua o con un goccio di sapone neutro delicato.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondialshop",
+        "evidence": "Applique da Esterno LED Varie Misure | Mondialshop"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3289,
+    "output_tokens": 1024,
+    "seconds": 92.11
+  }
+}

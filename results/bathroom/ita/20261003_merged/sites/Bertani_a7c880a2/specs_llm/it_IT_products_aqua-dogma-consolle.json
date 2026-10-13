@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/aqua-dogma-consolle",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_aqua-dogma-consolle.html",
+  "title": "Aqua, Dogma Consolle  | Bertani",
+  "text_chars": 1127,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "alluminio",
+      "evidence": "Struttura in alluminio color carbone L120, P50, H86 cm",
+      "location": "body"
+    },
+    "colour": {
+      "value": "carbone",
+      "evidence": "Struttura in alluminio color carbone L120, P50, H86 cm",
+      "location": "body"
+    },
+    "width": {
+      "value": "L120",
+      "evidence": "Struttura in alluminio color carbone L120, P50, H86 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "H86 cm",
+      "evidence": "Struttura in alluminio color carbone L120, P50, H86 cm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L120, P50, H86 cm",
+      "evidence": "Struttura in alluminio color carbone L120, P50, H86 cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "SP 6 cm",
+      "evidence": "Top in rovere L 120 SP 6 cm con lavabo da semincasso soprapiano in ceramica colore bianco opaco 55x34xH14,4 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Sistema Wall a terra in finitura rovere naturale con illuminazione interna composto da:",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "non è compreso il miscelatore",
+      "evidence": "Attenzione: non è compreso il miscelatore .",
+      "location": "body"
+    },
+    "electrical": {
+      "value": "IP44, L200, H90 cm",
+      "evidence": "Specchiera retroilluminata a LED con barra di illuminazione a LED superiore - IP44, L200, H90 cm.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "opening": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "anta sinistra, anta destra",
+        "evidence": "- elemento 1 anta sinistra H125, L40, P18 cm, - elemento 1 anta destra H125, L40, P18 cm"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1267,
+    "output_tokens": 844,
+    "seconds": 68.65
+  }
+}

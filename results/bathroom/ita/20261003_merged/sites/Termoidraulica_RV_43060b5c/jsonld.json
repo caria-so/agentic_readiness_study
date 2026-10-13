@@ -1,0 +1,254 @@
+{
+  "source": "https://termoidraulicarv.com/",
+  "generated": "2026-10-03T07:23:58.310685",
+  "block_count": 1,
+  "types": [
+    "ContactPoint",
+    "ImageObject",
+    "Organization",
+    "SearchAction",
+    "SiteNavigationElement",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 7332,
+      "parse_error": "",
+      "data": [
+        {
+          "@context": "https://schema.org/",
+          "@graph": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#addolcitori-e-ricambi",
+              "name": "Addolcitori e ricambi",
+              "url": "https://termoidraulicarv.com/addolcitori-e-ricambi/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#filtri-per-acqua",
+              "name": "Filtri per acqua",
+              "url": "https://termoidraulicarv.com/filtri-per-acqua/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#filtri-drop-in-autopulenti-e-contenitori",
+              "name": "Filtri drop in, autopulenti e contenitori",
+              "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#gasatori-e-refrigeratori-acqua",
+              "name": "Gasatori e refrigeratori acqua",
+              "url": "https://termoidraulicarv.com/gasatori-e-refrigeratori-acqua/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#sanificazione-e-tester-per-acqua",
+              "name": "Sanificazione e tester per acqua",
+              "url": "https://termoidraulicarv.com/sanificazione-e-tester-per-acqua/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#bombole-ricariche-e-riduttori-co2",
+              "name": "Bombole ricariche e riduttori Co2",
+              "url": "https://termoidraulicarv.com/bombole-ricariche-e-riduttori-co2/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#raccordi-tubi-e-accessori-john-guest",
+              "name": "Raccordi, tubi e accessori John Guest",
+              "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#sistemi-uv-per-acqua",
+              "name": "Sistemi uv per acqua",
+              "url": "https://termoidraulicarv.com/sistemi-uv-per-acqua/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#osmosi-inversa-e-microfiltrazione-filtri-e-sistemi",
+              "name": "Osmosi inversa e microfiltrazione: filtri e sistemi",
+              "url": "https://termoidraulicarv.com/osmosi-inversa-e-microfiltrazione/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#accessori-per-linstallazione",
+              "name": "Accessori per l'installazione",
+              "url": "https://termoidraulicarv.com/accessori-per-l-installazione/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#raccordi-tubi-e-accessori-dm-fit",
+              "name": "Raccordi, tubi e accessori DM Fit",
+              "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#rubinetteria-per-trattamento-acqua",
+              "name": "Rubinetteria per trattamento acqua",
+              "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#strumenti-di-controllo-e-dosaggio",
+              "name": "Strumenti di controllo e dosaggio",
+              "url": "https://termoidraulicarv.com/strumenti-di-controllo-e-dosaggio/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#borracce",
+              "name": "Borracce",
+              "url": "https://termoidraulicarv.com/borracce/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#filtri-a-colonna",
+              "name": "Filtri a colonna",
+              "url": "https://termoidraulicarv.com/dearsenificatori-e-deferizzatori/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#sistemi-di-irrigazione-a-goccia",
+              "name": "Sistemi di irrigazione a goccia",
+              "url": "https://termoidraulicarv.com/sistemi-di-irrigazione-a-goccia/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#offerte",
+              "name": "Offerte",
+              "url": "https://termoidraulicarv.com/offerte/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#chi-siamo",
+              "name": "Chi Siamo",
+              "url": "https://termoidraulicarv.com/chi-siamo/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#fatture-garanzia",
+              "name": "Fatture – Garanzia",
+              "url": "https://termoidraulicarv.com/fatture-garanzia/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#pagamento-privacy",
+              "name": "Pagamento – Privacy",
+              "url": "https://termoidraulicarv.com/pagamento-privacy/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#spedizione",
+              "name": "Spedizione",
+              "url": "https://termoidraulicarv.com/spedizione/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#blog",
+              "name": "Blog",
+              "url": "https://termoidraulicarv.com/blog/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#faq",
+              "name": "FAQ",
+              "url": "https://termoidraulicarv.com/faq/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#contatti",
+              "name": "Contatti",
+              "url": "https://termoidraulicarv.com/contatti/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#facebook",
+              "name": "Facebook",
+              "url": "https://www.facebook.com/termoidraulicarv"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#instagram",
+              "name": "Instagram",
+              "url": "https://www.instagram.com/termoidraulica_rv/"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "SiteNavigationElement",
+              "@id": "https://termoidraulicarv.com/#youtube",
+              "name": "YouTube",
+              "url": "https://www.youtube.com/user/termoidraulicaRV"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebSite",
+          "@id": "https://termoidraulicarv.com#website",
+          "headline": "TermoidraulicaRV",
+          "name": "TermoidraulicaRV",
+          "url": "https://termoidraulicarv.com",
+          "description": "Trattamento acqua, Filtri Everpure, Addolcitori, Osmosi inversa, Filtri Profine, Rubinetteria",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://termoidraulicarv.com?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Organization",
+          "@id": "https://termoidraulicarv.com#Organization",
+          "name": "TermoidraulicaRV",
+          "url": "https://termoidraulicarv.com",
+          "sameAs": [
+            "https://www.facebook.com/termoidraulicarv",
+            "https://www.instagram.com/termoidraulica_rv/",
+            "https://www.youtube.com/termoidraulicaRV"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://termoidraulicarv.com/wp-content/uploads/2023/08/Logo-Termoidraulica-RV.png",
+            "width": "800",
+            "height": "101"
+          },
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "+390763630132",
+            "url": "https://termoidraulicarv.com/contatti/"
+          }
+        }
+      ]
+    }
+  ]
+}

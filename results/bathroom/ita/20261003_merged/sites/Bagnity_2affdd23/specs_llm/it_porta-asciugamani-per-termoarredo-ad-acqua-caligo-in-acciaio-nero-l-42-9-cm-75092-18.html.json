@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/porta-asciugamani-per-termoarredo-ad-acqua-caligo-in-acciaio-nero-l-42-9-cm-75092-18.html",
+  "model": "qwen2.5:32b",
+  "html": "it_porta-asciugamani-per-termoarredo-ad-acqua-caligo-in-acciaio-nero-l-42-9-cm-75092-18.html.html",
+  "title": "Porta asciugamani per termoarredo Caligo in acciaio nero L.42,9 cm",
+  "text_chars": 8702,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3997,
+    "output_tokens": 557,
+    "seconds": 55.04
+  }
+}

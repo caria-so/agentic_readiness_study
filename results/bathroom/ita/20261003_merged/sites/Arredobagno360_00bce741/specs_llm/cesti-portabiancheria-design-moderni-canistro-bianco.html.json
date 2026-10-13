@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/cesti-portabiancheria-design-moderni-canistro-bianco.html",
+  "model": "qwen2.5:32b",
+  "html": "cesti-portabiancheria-design-moderni-canistro-bianco.html.html",
+  "title": "Canistro | Gettacarte in cuoio rigenerato 31x24cm H34cm, colore K07",
+  "text_chars": 1068,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "31 cm",
+      "evidence": "Misure: 31x24x34 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "34 cm",
+      "evidence": "Misure: 31x24x34 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "24 cm",
+      "evidence": "Misure: 31x24x34 cm",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Limac Design",
+      "evidence": "Limac Design",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Prodotto artigianale di alta qualità Made in Italy",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1252,
+    "output_tokens": 602,
+    "seconds": 47.58
+  }
+}

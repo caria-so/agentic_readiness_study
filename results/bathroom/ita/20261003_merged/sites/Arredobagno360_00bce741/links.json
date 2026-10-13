@@ -1,0 +1,1677 @@
+{
+  "source": "https://www.arredobagno360.it/",
+  "generated": "2026-10-02T16:12:21.329943",
+  "total": 212,
+  "internal_count": 204,
+  "external_count": 8,
+  "links": [
+    {
+      "url": "https://www.arredobagno360.it/checkout/cart/",
+      "fragment": "",
+      "text": "Carrello",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/customer/account/login/",
+      "fragment": "",
+      "text": "Accedi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/customer/account/create/",
+      "fragment": "",
+      "text": "Registrati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/catalogsearch/advanced/",
+      "fragment": "",
+      "text": "Ricerca avanzata",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/",
+      "fragment": "store.menu",
+      "text": "Menu",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobili-bagno.html",
+      "fragment": "",
+      "text": "Arredo Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobili-bagno/mobili-bagno-sospesi.html",
+      "fragment": "",
+      "text": "Mobili Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobili-bagno/mobili-bagno-terra.html",
+      "fragment": "",
+      "text": "Mobili a Terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobili-bagno/lavabi.html",
+      "fragment": "",
+      "text": "Lavabi e Ciotole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobili-bagno/mensole-carrelli.html",
+      "fragment": "",
+      "text": "Pensili e Colonne",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobili-bagno/outlet-mobili.html",
+      "fragment": "",
+      "text": "Outlet Mobili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/specchiere.html",
+      "fragment": "",
+      "text": "Specchi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/specchiere/specchi-a-led.html",
+      "fragment": "",
+      "text": "Specchi a Led",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/specchiere/specchi-bagno.html",
+      "fragment": "",
+      "text": "Specchi da Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/specchiere/specchi-ingranditori.html",
+      "fragment": "",
+      "text": "Specchi da Trucco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/doccia.html",
+      "fragment": "",
+      "text": "Zona Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/doccia/piatti-doccia.html",
+      "fragment": "",
+      "text": "Piatti Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/doccia/box-doccia.html",
+      "fragment": "",
+      "text": "Box Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/doccia/cabine-multifunzione.html",
+      "fragment": "",
+      "text": "Cabine Multifunzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/doccia/trasformazione-vasca-doccia.html",
+      "fragment": "",
+      "text": "Pannelli per Pareti Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/doccia/pedane-doccia.html",
+      "fragment": "",
+      "text": "Pedane Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/doccia/pulizia-e-manutenzione.html",
+      "fragment": "",
+      "text": "Pulizia e Manutenzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/vasche-da-bagno.html",
+      "fragment": "",
+      "text": "Zona Vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/vasche-da-bagno/vasche-standard.html",
+      "fragment": "",
+      "text": "Vasche Standard",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/vasche-da-bagno/vasche-idromassaggio.html",
+      "fragment": "",
+      "text": "Vasche Idromassaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/vasche-da-bagno/vasche-centro-stanza.html",
+      "fragment": "",
+      "text": "Vasche Centro Stanza",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/vasche-da-bagno/vasche-per-anziani.html",
+      "fragment": "",
+      "text": "Vasche per Anziani",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/vasche-da-bagno/box-e-chiusure-per-vasca.html",
+      "fragment": "",
+      "text": "Box Sopravasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramiche.html",
+      "fragment": "",
+      "text": "Sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramiche/sanitari-sospesi.html",
+      "fragment": "",
+      "text": "Sanitari Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramiche/sanitari-a-terra.html",
+      "fragment": "",
+      "text": "Sanitari a Terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramiche/wc-bidet-elettronici.html",
+      "fragment": "",
+      "text": "WC Elettronici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramiche/sedili-copriwater.html",
+      "fragment": "",
+      "text": "Copriwater",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramiche/cassette-e-staffe.html",
+      "fragment": "",
+      "text": "Cassette e Staffe",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramiche/placche-estetiche.html",
+      "fragment": "",
+      "text": "Placche WC Estetiche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramiche/pulizia-e-manutenzione.html",
+      "fragment": "",
+      "text": "Pulizia e Manutenzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetteria.html",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetteria/miscelatori-bagno.html",
+      "fragment": "",
+      "text": "Miscelatori Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetteria/rubinetti-cucina.html",
+      "fragment": "",
+      "text": "Miscelatori Cucina e Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetteria/pannelli-doccia.html",
+      "fragment": "",
+      "text": "Colonne Doccia e Saliscendi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetteria/doccini.html",
+      "fragment": "",
+      "text": "Doccette e Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetteria/sistemi-doccia-completi.html",
+      "fragment": "",
+      "text": "Set Doccia Completi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetteria/soffioni-doccia.html",
+      "fragment": "",
+      "text": "Soffioni e Bracci",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetteria/pilette-e-sifoni.html",
+      "fragment": "",
+      "text": "Pilette e Sifoni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetteria/accessori-tecnici.html",
+      "fragment": "",
+      "text": "Accessori Tecnici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/scaldasalviette.html",
+      "fragment": "",
+      "text": "Termoarredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/scaldasalviette/termi-ad-acqua.html",
+      "fragment": "",
+      "text": "Termoarredo Bagno ad Acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/scaldasalviette/termoarredo-elettrici.html",
+      "fragment": "",
+      "text": "Termoarredo Bagno Elettrici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/scaldasalviette/termosifoni-alta-efficienza.html",
+      "fragment": "",
+      "text": "Termosifoni per la Casa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/scaldasalviette/valvole-e-accessori.html",
+      "fragment": "",
+      "text": "Valvole e Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno.html",
+      "fragment": "",
+      "text": "Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/collezione-accessori.html",
+      "fragment": "",
+      "text": "Accessori da Parete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/piantane.html",
+      "fragment": "",
+      "text": "Piantane",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/griglie-doccia-porta-shampoo.html",
+      "fragment": "",
+      "text": "Griglie Doccia Portashampoo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/faretti-appliques.html",
+      "fragment": "",
+      "text": "Illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/scopini-bagno.html",
+      "fragment": "",
+      "text": "Scopini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/sgabelli-sedute.html",
+      "fragment": "",
+      "text": "Sgabelli e Sedute",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/cestini.html",
+      "fragment": "",
+      "text": "Cestini Gettacarta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/cesti-portabiancheria-gettacarta.html",
+      "fragment": "",
+      "text": "Cestoni Biancheria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/hotellerie-e-ambienti-pubblici.html",
+      "fragment": "",
+      "text": "Hotellerie e Ambienti Pubblici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/maniglioni-e-ausili.html",
+      "fragment": "",
+      "text": "Maniglioni e Ausili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/complementi-bagno/pulizia-e-manutenzione.html",
+      "fragment": "",
+      "text": "Pulizia e Manutenzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/lavanderia.html",
+      "fragment": "",
+      "text": "Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/lavanderia/mobili-bagno-lavanderia.html",
+      "fragment": "",
+      "text": "Mobili Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/lavanderia/lavelle-lavatoi.html",
+      "fragment": "",
+      "text": "Lavelle e Lavatoi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/lavanderia/colonne-bagno-lavanderia.html",
+      "fragment": "",
+      "text": "Colonne e Pensili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa.html",
+      "fragment": "",
+      "text": "HomeSPA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/bagno-turco.html",
+      "fragment": "",
+      "text": "Bagno Turco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/bagno-turco/hammam-completi.html",
+      "fragment": "",
+      "text": "Hammam Completi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/bagno-turco/generatori-vapore-bagno-turco-hammam.html",
+      "fragment": "",
+      "text": "Generatori di Vapore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/bagno-turco/porte-vetrate-bagno-turco.html",
+      "fragment": "",
+      "text": "Porte e Vetrate",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/bagno-turco/kit-isolamento-hammam-bagno-turco.html",
+      "fragment": "",
+      "text": "Kit di Isolamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/bagno-turco/panche-e-sedute.html",
+      "fragment": "",
+      "text": "Panche e Sedute",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/sauna.html",
+      "fragment": "",
+      "text": "Saune",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/cabine-multifunzione.html",
+      "fragment": "",
+      "text": "Cabine Multifunzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/minipiscine.html",
+      "fragment": "",
+      "text": "Minipiscine Idromassaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wellness-spa/accessori-per-il-wellness.html",
+      "fragment": "",
+      "text": "Complementi per il Wellness",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/pavimenti.html",
+      "fragment": "",
+      "text": "Rivestimenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/pavimenti/piastrelle.html",
+      "fragment": "",
+      "text": "Piastrelle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/pavimenti/carta-da-parati.html",
+      "fragment": "",
+      "text": "Carte da Parati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/pavimenti/pavimenti-in-laminato.html",
+      "fragment": "",
+      "text": "Pavimenti in Laminato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/pavimenti/pavimento-in-legno.html",
+      "fragment": "",
+      "text": "Pavimenti in Legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/pavimenti/pavimenti-in-vinile-spc.html",
+      "fragment": "",
+      "text": "Pavimenti in SPC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/pavimenti/pulizia-e-manutenzione.html",
+      "fragment": "",
+      "text": "Pulizia e Manutenzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione.html",
+      "fragment": "",
+      "text": "Stili &amp; Bagni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-black-white.html",
+      "fragment": "",
+      "text": "Bagno Black&amp;White",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-classico.html",
+      "fragment": "",
+      "text": "Bagno Classico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-design.html",
+      "fragment": "",
+      "text": "Bagno Design",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-economico.html",
+      "fragment": "",
+      "text": "Bagno Economico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-industriale.html",
+      "fragment": "",
+      "text": "Bagno Industriale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-lavanderia.html",
+      "fragment": "",
+      "text": "Bagno Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-liberty.html",
+      "fragment": "",
+      "text": "Bagno Liberty",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-minimal.html",
+      "fragment": "",
+      "text": "Bagno Minimal",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-ospiti.html",
+      "fragment": "",
+      "text": "Bagno Ospiti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-scandinavo.html",
+      "fragment": "",
+      "text": "Bagno Scandinavo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-spa.html",
+      "fragment": "",
+      "text": "Bagno Spa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-stretto.html",
+      "fragment": "",
+      "text": "Bagno Stretto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/bagno-vasca.html",
+      "fragment": "",
+      "text": "Bagno Vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/progettazione/outlet-saldi.html",
+      "fragment": "",
+      "text": "Saldi - Outlet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/",
+      "fragment": "store.links",
+      "text": "Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/catalog/product_compare/",
+      "fragment": "",
+      "text": "Confronta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/wishlist/",
+      "fragment": "",
+      "text": "Lista desideri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/antrax-radiatori.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/customer/account/forgotpassword/",
+      "fragment": "",
+      "text": "Hai dimenticato la password?",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobile-bagno-terra-alchimia-etoile-et05.html",
+      "fragment": "",
+      "text": "Etoile #ET05 | Mobile a terra da 100cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/specchio-italia-ledimex.html",
+      "fragment": "",
+      "text": "Italia | Specchio retroilluminato, varie misure",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/touch-accessori.html",
+      "fragment": "",
+      "text": "Touch| Accessori da bagno | Varie tipologie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/antrax-rabbit-h20.html",
+      "fragment": "",
+      "text": "Rabbit H20 | Termoarredo Design ad acqua, varie misure e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/flor-vasca-da-bagno-170x80-globo.html",
+      "fragment": "",
+      "text": "Flor 170.80 | Vasca ad angolo 170x80, varie finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramica-globo-lalita-5436.html",
+      "fragment": "",
+      "text": "Lalita 54.36 | Sanitari a terra, singoli elementi o set completo, vari colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetti-paffoni-fox.html",
+      "fragment": "",
+      "text": "Fox | Collezione di miscelatori da bagno, varie tipologie e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/lineabeta-picola-accessori.html",
+      "fragment": "",
+      "text": "Picola | Accessori da bagno | Varie tipologie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geda-rubinetti-roon.html",
+      "fragment": "",
+      "text": "Roon | Collezione di miscelatori da bagno, varie tipologie e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/antrax-flaps.html",
+      "fragment": "",
+      "text": "Flaps | Termoarredo Design ad acqua, varie misure e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/box-doccia-scorrevole-megius-zen-p1s.html",
+      "fragment": "",
+      "text": "Zen P1S | Box doccia Scorrevole per nicchia, varie misure e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/sweet-46-miscelatori-lavabo-bidet-fir.html",
+      "fragment": "",
+      "text": "Sweet 46 (Expo) | Miscelatori lavabo e bidet, cromo, Fir",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mito-accessori.html",
+      "fragment": "",
+      "text": "Mito | Accessori da bagno | Varie tipologie e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/villeroy-boch-subway-3-0-sospesi.html",
+      "fragment": "",
+      "text": "Subway 3.0 | Sanitari sospesi, singoli elementi o set completo, vari colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/tibo-miscelatore-lavabo-bidet-geda.html",
+      "fragment": "",
+      "text": "Tibò (Expo) | Set di miscelatori lavabo e bidet, nero e rosso, Geda",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/novello-canestro-albero.html",
+      "fragment": "",
+      "text": "Albero | Attaccapanni bianco opaco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/specchio-ability-ledimex-140x80.html",
+      "fragment": "",
+      "text": "Ability | Specchio con cornice nera luce perimetrale, 3 led, 140x80",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/categoria1-homepage.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/compab.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobile-bagno-compab-picta06.html",
+      "fragment": "",
+      "text": "PC#06 Mobile a terra da 121cm + 3 pensili da 35 cm e 1 mensola da 105 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobile-bagno-compab-minimo-05.html",
+      "fragment": "",
+      "text": "MM#05 Mobile in appoggio da 70cm + pensile da 35 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobile-bagno-terra-alchimia-etoile-et02.html",
+      "fragment": "",
+      "text": "Etoile #ET02 | Mobile a terra da 80cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobile-bagno-terra-alchimia-etoile-et03.html",
+      "fragment": "",
+      "text": "Etoile #ET03 | Mobile a terra da 100cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobile-bagno-compab-b201-002.html",
+      "fragment": "",
+      "text": "B201#002 Mobile sospeso da 141cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobile-bagno-compab-bgo-up005.html",
+      "fragment": "",
+      "text": "UP#005 Mobile sospeso da 85cm + colonna da 35cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobile-bagno-compab-bgo-019.html",
+      "fragment": "",
+      "text": "BGO#019 Mobile sospeso da 86cm + colonna da 70cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/mobile-bagno-compab-bgo-006.html",
+      "fragment": "",
+      "text": "BGO#006 Mobile sospeso da 180cm + doppio pensile da 85cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/categoria2-homepage.html",
+      "fragment": "",
+      "text": "CATEGORIA2--Homepage (Miscelatori)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geda-rubinetti-tibo.html",
+      "fragment": "",
+      "text": "Tibò | Collezione di miscelatori da bagno, varie tipologie e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geda-rubinetti-koe.html",
+      "fragment": "",
+      "text": "Koè | Collezione di miscelatori da bagno, varie tipologie e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetti-paffoni-tilt.html",
+      "fragment": "",
+      "text": "Tilt | Collezione di miscelatori da bagno, varie tipologie e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/rubinetti-paffoni-tango.html",
+      "fragment": "",
+      "text": "Tango | Collezione di miscelatori da bagno, varie tipologie e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geda-rubinetti-tell.html",
+      "fragment": "",
+      "text": "Tell | Collezione di miscelatori da bagno, varie tipologie e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geda-rubinetti-teo.html",
+      "fragment": "",
+      "text": "Teo | Collezione di miscelatori da bagno, varie tipologie e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geda-rubinetti-jago.html",
+      "fragment": "",
+      "text": "Jago | Collezione di miscelatori da bagno, varie tipologie e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/categoria3-homepage.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geberit-piatto-doccia-sestra.html",
+      "fragment": "",
+      "text": "Sestra | Piatto doccia in Resin Stone effetto pietra, varie misure e colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geberit-piatto-doccia-olona.html",
+      "fragment": "",
+      "text": "Olona | Piatto doccia in Resin Stone bianco, varie misure",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/olympic-plus-piatto-doccia-novellini.html",
+      "fragment": "",
+      "text": "Olympic Plus | Piatto doccia in acrilico, varie misure e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/novomatt-piatto-doccia-novellini.html",
+      "fragment": "",
+      "text": "Novomatt | Piatto doccia in effetto pietra, varie misure e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/piatto-doccia-privilege-extrapiano-fiora.html",
+      "fragment": "",
+      "text": "Privilege | Piatto doccia effetto pietra, varie misure",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/categoria4-homepage.html",
+      "fragment": "",
+      "text": "CATEGORIA4--Homepage (Box Doccia)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/box-doccia-megius-stile-libero-a12-f00.html",
+      "fragment": "",
+      "text": "Stile Libero A1/2+F00 | Box doccia Porta a Battente + Fisso ad angolo, varie misure e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/box-doccia-megius-prisma-pbf.html",
+      "fragment": "",
+      "text": "Prisma 1.0 PBF | Box doccia Porta a Battente per nicchia, varie misure e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/box-doccia-megius-live-top-a12.html",
+      "fragment": "",
+      "text": "Live Top A1/2 | Box doccia Scorrevole Doppio ad angolo, varie misure e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/zen-plus-a12-box-doccia-megius.html",
+      "fragment": "",
+      "text": "Zen Plus+ A1/2 | Box doccia ad angolo scorrevole, varie finiture e dimensioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/box-doccia-scorrevole-megius-zen-a1s-fs.html",
+      "fragment": "",
+      "text": "Zen A1S + FS0 | Box doccia Scorrevole + Fisso ad angolo, varie misure e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/box-doccia-megius-solodoccia-evo-sa5-sf1.html",
+      "fragment": "",
+      "text": "Solodoccia Evo SA5 + SF1 | Box doccia Walk-In, varie misure e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/categoria5-homepage.html",
+      "fragment": "",
+      "text": "CATEGORIA5--Homepage (Sanitari)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geberit-smyle-sospesi.html",
+      "fragment": "",
+      "text": "Smyle Square| Sanitari sospesi a cacciata, Rimfree, singoli elementi o set completo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/selvova-premium-base-geberit.html",
+      "fragment": "",
+      "text": "Selnova Premium | Sanitari sospesi a cacciata Rimfree, con sedile standard",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/selnova-premium-base-pavimento-geberit.html",
+      "fragment": "",
+      "text": "Selnova Premium | Sanitari a terra a cacciata, Rimfree, con sedile standard, singoli elementi o set completo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramica-globo-lalita-sospesi-5436.html",
+      "fragment": "",
+      "text": "Lalita 54.36 | Sanitari sospesi, singoli elementi o set completo, vari colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/flaminia-sanitari-app-sospesi-goclean.html",
+      "fragment": "",
+      "text": "App | Sanitari sospesi, singoli elementi o set completo, vari colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/flaminia-sanitari-fluo-sospesi-goclean.html",
+      "fragment": "",
+      "text": "Fluo GoClean | Sanitari sospesi, singoli elementi o set completo, vari colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/ceramica-globo-paestum-terra.html",
+      "fragment": "",
+      "text": "Paestum 57.38 | Sanitari a terra, singoli elementi o set completo bianco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geberit-aquaclean-alba-bianco-146-350-01-1.html",
+      "fragment": "",
+      "text": "AquaClean Alba | Vaso Bidet elettronico sospeso bianco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/geberit-icon-sospesi-1.html",
+      "fragment": "",
+      "text": "iCon TurboFlush| Sanitari sospesi, singoli elementi o set completo, vari colori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/categoria6-homepage.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/celsius-sauna-novellini.html",
+      "fragment": "",
+      "text": "Celsius Sauna 120x100 | Sauna finlandese, disponibile in varie versioni e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/celsius-sauna-150-novellini.html",
+      "fragment": "",
+      "text": "Celsius Sauna 150x120 | Sauna finlandese, disponibile in varie versioni e finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/megius-sauna-karma-160100.html",
+      "fragment": "",
+      "text": "Karma 160x100cm | Sauna finlandese in abete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/megius-sauna-karma-190130.html",
+      "fragment": "",
+      "text": "Karma 190x130cm | Sauna finlandese in abete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/megius-sauna-tao-140100.html",
+      "fragment": "",
+      "text": "Tao 140x100cm | Sauna finlandese in abete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/megius-sauna-exen-pivot-150120.html",
+      "fragment": "",
+      "text": "Exen Pivot 150x120cm | Sauna finlandese con porta battente, varie finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/chi-siamo",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/termini-di-pagamento",
+      "fragment": "",
+      "text": "Termini di pagamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/spedizioni",
+      "fragment": "",
+      "text": "Spedizioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/condizioni-di-vendita",
+      "fragment": "",
+      "text": "Condizioni di vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/customer/account/login",
+      "fragment": "",
+      "text": "Login",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/search/term/popular/",
+      "fragment": "",
+      "text": "Termini di ricerca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/sales/guest/form/",
+      "fragment": "",
+      "text": "Ordini e Resi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/faq",
+      "fragment": "",
+      "text": "FAQ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/informativa-cookies",
+      "fragment": "",
+      "text": "Informativa sui cookies",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iubenda.com/privacy-policy/43980084",
+      "fragment": "",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/contact",
+      "fragment": "",
+      "text": "Contattaci",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/Arredobagno360",
+      "fragment": "",
+      "text": "Facebook",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.pinterest.it/arredobagno360i/",
+      "fragment": "",
+      "text": "Pinterest",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iubenda.com/privacy-policy/80751448/cookie-policy?an=no&amp;s_ck=false&amp;newmarkup=yes",
+      "fragment": "",
+      "text": "cookie policy",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/mage/calendar.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/css/styles-m.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/bootstrap/css/bootstrap.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/fonts/fontawesome/css/font-awesome.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/fonts/electro/css/font-electro.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/fonts/fonticon/linearicons/css/demo.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/fonts/webfont/css/simple-line-icons.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/fonts/flaticon/css/flaticon.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/fonts/font-stroke/css/font-stroke.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/css/animate.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/css/perfect-scrollbar.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/css/styles.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/jquery/uppy/dist/uppy-custom.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/Aitoc_ProductUnitsAndQuantities/css/product-units-and-quantities.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/Amasty_LibFancybox/fancybox/jquery.fancybox.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/Amasty_HidePrice/css/amhideprice.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/MageWorx_SearchSuiteAutocomplete/css/searchsuiteautocomplete.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/mage/gallery/gallery.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/Webiators_CustomChanges/css/custom.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/css/styles-l.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/css/print.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/frontend/Alothemes/arredobagno/it_IT/css/arredobagno.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/media/favicon/default/favicon.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.arredobagno360.it/static/version1790692975/_cache/merged/stores/1/alothemes_custom.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;display=swap",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

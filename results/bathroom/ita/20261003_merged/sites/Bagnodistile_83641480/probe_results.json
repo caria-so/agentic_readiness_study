@@ -1,0 +1,81 @@
+{
+  "company": "Bagnodistile",
+  "url": "https://www.bagnodistile.com/",
+  "site_dir": "discovery_round_final_e/sites/Bagnodistile_83641480",
+  "final_url": "https://www.bagnodistile.com/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.413178",
+  "http_status": 200,
+  "fetch_ms": 18918.7,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.bagnodistile.com/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bagnodistile_83641480/index.html",
+      "count": 498820,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.bagnodistile.com/1_it_0_sitemap.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bagnodistile_83641480/sitemap.json",
+      "count": 1392,
+      "total_available": 1392,
+      "truncated": false,
+      "product_url_count": 1064,
+      "product_total_available": 1064
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bagnodistile_83641480/jsonld.json",
+      "count": 4,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bagnodistile_83641480/links.json",
+      "count": 181,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

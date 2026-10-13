@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/water-filters/oceano-cartridge/oceano-extruded-carbon-block-large-5-micron-cartridge/",
+  "model": "qwen2.5:32b",
+  "html": "water-filters_oceano-cartridge_oceano-extruded-carbon-block-large-5-micron-cartridge.html",
+  "title": "Oceano Extruded Carbon Block Large 5 micron cartridge",
+  "text_chars": 2610,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "installation": {
+      "value": "Vertical / horizontal",
+      "evidence": "Operation Vertical / horizontal",
+      "location": "body"
+    },
+    "water": {
+      "value": "5 micron",
+      "evidence": "Filtering capacity 5 micron",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Oceano",
+      "evidence": "Oceano Extruded Carbon Block Large 5 micron cartridge",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1477,
+    "output_tokens": 516,
+    "seconds": 50.36
+  }
+}

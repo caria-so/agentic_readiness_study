@@ -1,0 +1,137 @@
+{
+ "url": "https://www.inbagno.it/portarotolo-carta-igienica-bagno/28536-porta-rotolo-da-muro-bianco-in-acciaio-inox-sidera.html",
+ "file": "portarotolo-carta-igienica-bagno_28536-porta-rotolo-da-muro-bianco-in-acciaio-inox-sidera.html.html",
+ "title": "Porta rotolo da muro bianco in acciaio inox Sidera",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9103,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "InBagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "InBagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "107600",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "107600"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "107600"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8052334104666",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8052334104666"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "107600",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "107600"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Porta rotolo bagno da muro;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Porta rotolo bagno da muro;"
+    }
+   ]
+  },
+  "series": {
+   "value": "Sidera;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Linea",
+     "value": "Sidera;"
+    }
+   ]
+  },
+  "material": {
+   "value": "acciaio inox;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "acciaio inox;"
+    }
+   ]
+  },
+  "colour": {
+   "value": "bianco;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "bianco;"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L 15,4 x p 7,6 x H 5 cm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "L 15,4 x p 7,6 x H 5 cm;"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "acciaio inox": "doppio fissaggio tramite viti o bioadesivo",
+  "porta rotolo bagno da muro": "acciaio inox bianco",
+  "isole": "zone difficili",
+  "Doppia modalità di fissaggio": "installazione con viti o bioadesivo;"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 4,
+  "L3": 6,
+  "dropped": 11
+ }
+}

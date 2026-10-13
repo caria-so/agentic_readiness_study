@@ -1,0 +1,47 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/lampioni-da-esterno/31879-paletto-da-esterno-con-schuko-antracite-8031414879564.html",
+  "model": "qwen2.5:32b",
+  "html": "it_lampioni-da-esterno_31879-paletto-da-esterno-con-schuko-antracite-8031414879564.html.html",
+  "title": "Paletto per Esterni con Prese Schuko | Mondialshop",
+  "text_chars": 1764,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "shape_style": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "moderno",
+        "evidence": "Colonnina da esterno moderna in acciaio antracite"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1515,
+    "output_tokens": 628,
+    "seconds": 53.2
+  }
+}

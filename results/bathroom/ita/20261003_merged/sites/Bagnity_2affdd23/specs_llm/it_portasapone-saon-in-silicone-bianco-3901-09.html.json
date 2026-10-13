@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/portasapone-saon-in-silicone-bianco-3901-09.html",
+  "model": "qwen2.5:32b",
+  "html": "it_portasapone-saon-in-silicone-bianco-3901-09.html.html",
+  "title": "Portasapone Saon in silicone bianco",
+  "text_chars": 7972,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3643,
+    "output_tokens": 554,
+    "seconds": 53.4
+  }
+}

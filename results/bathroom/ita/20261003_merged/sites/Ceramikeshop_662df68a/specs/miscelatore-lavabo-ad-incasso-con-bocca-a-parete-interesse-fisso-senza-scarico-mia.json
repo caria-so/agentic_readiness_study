@@ -1,0 +1,61 @@
+{
+ "url": "https://ceramikeshop.it/miscelatore-lavabo-ad-incasso-con-bocca-a-parete-interesse-fisso-senza-scarico-mia",
+ "file": "miscelatore-lavabo-ad-incasso-con-bocca-a-parete-interesse-fisso-senza-scarico-mia.html",
+ "title": "Mix lavabo bocca a parete interasse fisso senza scarico Mia | Gaboli",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9734,
+ "attributes": {
+  "brand": {
+   "value": "Gaboli Fratelli Rubinetteria",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gaboli Fratelli Rubinetteria"
+    }
+   ]
+  },
+  "sku": {
+   "value": "GBL/4271CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "GBL/4271CR"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "GBL/4271CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "GBL/4271CR"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/geberit-aquaclean-sela-square-bianco-cromo-146-250-21-1.html",
+  "model": "qwen2.5:32b",
+  "html": "geberit-aquaclean-sela-square-bianco-cromo-146-250-21-1.html.html",
+  "title": "AquaClean Sela Square | Vaso Bidet elettronico sospeso bianco-cromo",
+  "text_chars": 5826,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromato lucido",
+      "evidence": "Vaso: bianco/Kera Tect - Copertura design: cromato lucido",
+      "location": "body"
+    },
+    "colour": {
+      "value": "bianco",
+      "evidence": "Vaso: bianco/Kera Tect - Copertura design: cromato lucido",
+      "location": "body"
+    },
+    "width": {
+      "value": "37,5 cm",
+      "evidence": "Misure: L37,5 H40 P57 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "40 cm",
+      "evidence": "Misure: L37,5 H40 P57 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "57 cm",
+      "evidence": "Misure: L37,5 H40 P57 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Vaso bidet elettronico sospeso bianco-cromo",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "material": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "ceramica",
+        "evidence": "Vaso: bianco/Kera Tect - Copertura design: cromato lucido"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2694,
+    "output_tokens": 758,
+    "seconds": 64.85
+  }
+}

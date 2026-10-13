@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/copriwater-di-serie/copriwater-castellana-scarabeo-ceramiche.html",
+  "model": "qwen2.5:32b",
+  "html": "copriwater-di-serie_copriwater-castellana-scarabeo-ceramiche.html.html",
+  "title": "Copriwater CASTELLANA in legno",
+  "text_chars": 1330,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1369,
+    "output_tokens": 514,
+    "seconds": 43.82
+  }
+}

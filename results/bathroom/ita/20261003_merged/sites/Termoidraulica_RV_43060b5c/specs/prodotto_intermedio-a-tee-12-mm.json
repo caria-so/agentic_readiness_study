@@ -1,0 +1,75 @@
+{
+ "url": "https://en.termoidraulicarv.com/prodotto/intermedio-a-tee-12-mm/",
+ "file": "prodotto_intermedio-a-tee-12-mm.html",
+ "title": "Black union tee 12 mm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2840,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "D176-ATU121212M",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D176-ATU121212M"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "D176-ATU121212M"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "45816",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "45816"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,200000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Weight",
+     "value": "0,200000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 1,
+  "L3": 1,
+  "dropped": 2
+ }
+}

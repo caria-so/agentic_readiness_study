@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/camera-da-letto/lenzuola/lenzuola-con-angoli/lenzuolo-con-angoli-dagny-160x200x35-cm-grigio-chiaro",
+  "model": "qwen2.5:32b",
+  "html": "camera-da-letto_lenzuola_lenzuola-con-angoli_lenzuolo-con-angoli-dagny-160x200x35-cm-grigio-chiaro.html",
+  "title": "Lenzuolo con angoli DAGNY 160x200x35 cm grigio chiaro | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "series": {
+      "value": "DAGNY",
+      "evidence": "Lenzuolo con angoli DAGNY 160x200x35 cm grigio chiaro | JYSK",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore\nJYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5294,
+    "output_tokens": 821,
+    "seconds": 86.63
+  }
+}

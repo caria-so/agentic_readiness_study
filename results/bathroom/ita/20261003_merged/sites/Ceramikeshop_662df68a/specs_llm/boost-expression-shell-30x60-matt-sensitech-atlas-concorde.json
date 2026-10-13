@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/boost-expression-shell-30x60-matt-sensitech-atlas-concorde",
+  "model": "qwen2.5:32b",
+  "html": "boost-expression-shell-30x60-matt-sensitech-atlas-concorde.html",
+  "title": "Boost Expression Shell 30x60 Matt Sensitech | Atlas Concorde",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "Matt",
+      "evidence": "Boost Expression Shell 30x60 Matt Sensitech | Atlas Concorde",
+      "location": "title"
+    },
+    "width": {
+      "value": "60 cm",
+      "evidence": "Boost Expression Shell 30x60 Matt Sensitech | Atlas Concorde",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "30x60 cm",
+      "evidence": "Boost Expression Shell 30x60 Matt Sensitech | Atlas Concorde",
+      "location": "title"
+    },
+    "thickness": {
+      "value": "9 mm",
+      "evidence": "Spessore 9 mm Effetto cemento",
+      "location": "body"
+    },
+    "series": {
+      "value": "Boost Expression Shell",
+      "evidence": "Boost Expression Shell 30x60 Matt Sensitech | Atlas Concorde",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4224,
+    "output_tokens": 551,
+    "seconds": 59.36
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/piastrella-nevada-grey-20-5x41-5-gres-per-esterni-effetto-pietra-grigia",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_piastrella-nevada-grey-20-5x41-5-gres-per-esterni-effetto-pietra-grigia.html",
+  "title": "Piastrella Nevada Grey 20,5X41,5 Gres per Esterni Effetto Pietra Grigia - Iperceramica",
+  "text_chars": 2298,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "gres porcellanato",
+      "evidence": "Piastrella per esterni in gres porcellanato",
+      "location": "body"
+    },
+    "colour": {
+      "value": "grigio caldo con variazioni che vanno dal grigio chiaro al marrone, sfumature ruggine e venature chiare",
+      "evidence": "Nevada Grey è caratterizzata dal colore, un grigio caldo con variazioni che vanno dal grigio chiaro al marrone, sfumature ruggine e venature chiare.",
+      "location": "body"
+    },
+    "width": {
+      "value": "20,5 cm",
+      "evidence": "dimensioni 20,5x41,5 cm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "20,5x41,5 cm",
+      "evidence": "dimensioni 20,5x41,5 cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "10 mm",
+      "evidence": "uno spessore di 10 mm",
+      "location": "body"
+    },
+    "certification": {
+      "value": "R11",
+      "evidence": "indice di resistenza allo scivolamento pari a R11",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "effetto pietra",
+        "evidence": "riproduce con ricchezza di dettagli l’aspetto della pietra piasentina."
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "- Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1956,
+    "output_tokens": 652,
+    "seconds": 56.72
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/pavimenti-interni/297-adria-305x61-grigio--693059701983.html",
+  "model": "qwen2.5:32b",
+  "html": "pavimenti-interni_297-adria-305x61-grigio--693059701983.html.html",
+  "title": "ADRIA 30,5X61 Grigio | Bagno di Stile",
+  "text_chars": 3905,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Grigio",
+      "evidence": "ADRIA 30,5X61 Grigio",
+      "location": "title"
+    },
+    "width": {
+      "value": "61 cm",
+      "evidence": "Formato 30,5x61",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "30,5x61",
+      "evidence": "Formato 30,5x61",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "Rettangolare",
+      "evidence": "Formato Rettangolare",
+      "location": "body"
+    },
+    "series": {
+      "value": "Adria",
+      "evidence": "Serie Adria",
+      "location": "body"
+    },
+    "certification": {
+      "value": "R10",
+      "evidence": "Adria 30,5x61 Grigio (R10)",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2600,
+    "output_tokens": 573,
+    "seconds": 50.39
+  }
+}

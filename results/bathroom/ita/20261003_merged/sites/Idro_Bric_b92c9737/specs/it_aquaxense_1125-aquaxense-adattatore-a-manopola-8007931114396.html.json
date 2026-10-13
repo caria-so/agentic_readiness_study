@@ -1,0 +1,48 @@
+{
+ "url": "https://www.idrobric.it/it/aquaxense/1125-aquaxense-adattatore-a-manopola-8007931114396.html",
+ "file": "it_aquaxense_1125-aquaxense-adattatore-a-manopola-8007931114396.html.html",
+ "title": "Aquaxense adattatore a manopola",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 498,
+ "attributes": {
+  "sku": {
+   "value": "SCACER1130AT",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SCACER1130AT"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931114396",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931114396"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/207d372f3ea74c2bb257ce2486574a4a",
+  "model": "qwen2.5:32b",
+  "html": "detail_207d372f3ea74c2bb257ce2486574a4a.html",
+  "title": "Cassettone scorrevole 120cm bianco opaco chiusura soft-close | Bako",
+  "text_chars": 4562,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "120cm",
+      "evidence": "Dimensione 120cm",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "opening": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "scorrevole, soft-close",
+        "evidence": "Cassettone scorrevole Bako da 120 cm bianco opaco; Chiusura soft-close"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2394,
+    "output_tokens": 622,
+    "seconds": 53.3
+  }
+}

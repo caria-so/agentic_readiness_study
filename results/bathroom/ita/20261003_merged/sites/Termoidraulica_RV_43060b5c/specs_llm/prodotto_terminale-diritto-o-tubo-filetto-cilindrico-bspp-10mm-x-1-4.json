@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/prodotto/terminale-diritto-o-tubo-filetto-cilindrico-bspp-10mm-x-1-4/",
+  "model": "qwen2.5:32b",
+  "html": "prodotto_terminale-diritto-o-tubo-filetto-cilindrico-bspp-10mm-x-1-4.html",
+  "title": "Terminale diritto Ø tubo – filetto cilindrico BSP(P) 10MM x 1/4″ – TermoidraulicaRV",
+  "text_chars": 3297,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "resina acetalica",
+      "evidence": "Questi raccordi DMfit sono in resina acetalica, conosciuta anche come POM",
+      "location": "body"
+    },
+    "series": {
+      "value": "black series acetal resin fittings",
+      "evidence": "black series acetal resin fittings",
+      "location": "body"
+    },
+    "certification": {
+      "value": "US FDA, WRAS, ANSI/NSF-51, 61, ACS, KTW e DVGW-W270",
+      "evidence": "I raccordi DMfit sono prodotti fabbricati con materiali sicuri e non tossici in accordo con i requisiti della US FDA,\nWRAS, ANSI/NSF-51, 61, ACS, KTW e DVGW-W270",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "TermoidraulicaRV",
+        "evidence": "Terminale diritto Ø tubo – filetto cilindrico BSP(P) 10MM x 1/4\" – TermoidraulicaRV"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1860,
+    "output_tokens": 641,
+    "seconds": 60.07
+  }
+}

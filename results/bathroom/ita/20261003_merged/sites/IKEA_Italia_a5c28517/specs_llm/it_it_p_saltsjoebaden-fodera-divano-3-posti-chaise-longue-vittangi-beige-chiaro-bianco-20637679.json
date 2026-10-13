@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/saltsjoebaden-fodera-divano-3-posti-chaise-longue-vittangi-beige-chiaro-bianco-20637679/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_saltsjoebaden-fodera-divano-3-posti-chaise-longue-vittangi-beige-chiaro-bianco-20637679.html",
+  "title": "SALTSJÖBADEN fodera divano 3 posti/chaise-longue, Vittangi beige chiaro/bianco  - IKEA Italia",
+  "text_chars": 1342,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "38 cm",
+      "evidence": "Larghezza: 38 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "9 cm",
+      "evidence": "Altezza: 9 cm",
+      "location": "body"
+    },
+    "length": {
+      "value": "57 cm",
+      "evidence": "Lunghezza: 57 cm",
+      "location": "body"
+    },
+    "weight": {
+      "value": "4.73 kg",
+      "evidence": "Peso: 4.73 kg",
+      "location": "body"
+    },
+    "series": {
+      "value": "SALTSJÖBADEN",
+      "evidence": "SALTSJÖBADEN fodera divano 3 posti/chaise-longue",
+      "location": "title"
+    },
+    "care": {
+      "value": "Sfoderabile Lavabile in lavatrice, max 40°C, azione meccanica normale. Da lavare separatamente. Non candeggiare. Non mettere nell'asciugatrice. Stirare a max 200°C. Lavaggio a secco con tetracloroetilene e idrocarburi, azione meccanica normale.",
+      "evidence": "Cura Sfoderabile Lavabile in lavatrice, max 40°C, azione meccanica normale. Da lavare separatamente. Non candeggiare. Non mettere nell'asciugatrice. Stirare a max 200°C. Lavaggio a secco con tetracloroetilene e idrocarburi, azione meccanica normale.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA Italia",
+        "evidence": "SALTSJÖBADEN fodera divano 3 posti/chaise-longue, Vittangi beige chiaro/bianco - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1398,
+    "output_tokens": 769,
+    "seconds": 63.49
+  }
+}

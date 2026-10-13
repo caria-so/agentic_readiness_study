@@ -1,0 +1,121 @@
+{
+ "url": "https://www.inbagno.it/rubinetteria-lavanderia/28982-miscelatore-lavello-a-canna-lunga-in-ottone-cromato.html",
+ "file": "rubinetteria-lavanderia_28982-miscelatore-lavello-a-canna-lunga-in-ottone-cromato.html.html",
+ "title": "Miscelatore lavello a canna lunga in ottone cromato",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9226,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "InBagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "InBagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "108232",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "108232"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "108232"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8057604740315",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8057604740315"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "108232",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "108232"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "miscelatore canna bassa-lunga;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "miscelatore canna bassa-lunga;"
+    }
+   ]
+  },
+  "material": {
+   "value": "ottone;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "ottone;"
+    }
+   ]
+  },
+  "finish": {
+   "value": "cromo;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "cromo;"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "H 14 x P 22,6 cm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "H 14 x P 22,6 cm;"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 4,
+  "dropped": 10
+ }
+}

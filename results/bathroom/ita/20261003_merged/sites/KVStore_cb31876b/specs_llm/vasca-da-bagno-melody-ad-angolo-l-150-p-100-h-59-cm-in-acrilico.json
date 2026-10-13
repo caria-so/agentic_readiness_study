@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://www.kvstore.it/vasca-da-bagno-melody-ad-angolo-l-150-p-100-h-59-cm-in-acrilico/",
+  "model": "qwen2.5:32b",
+  "html": "vasca-da-bagno-melody-ad-angolo-l-150-p-100-h-59-cm-in-acrilico.html",
+  "title": "Vasca da bagno freestanding angolare in acrilico bianco lucido 150x100 cm | Melany",
+  "text_chars": 3616,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "lucido",
+      "evidence": "Colore/Finitura: bianco lucido",
+      "location": "body"
+    },
+    "width": {
+      "value": "150 cm",
+      "evidence": "Dimensioni: larghezza 150 cm, profondità 100 cm, altezza 59 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "59 cm",
+      "evidence": "Dimensioni: larghezza 150 cm, profondità 100 cm, altezza 59 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "100 cm",
+      "evidence": "Dimensioni: larghezza 150 cm, profondità 100 cm, altezza 59 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "freestanding",
+      "evidence": "Tipologia: vasca da bagno freestanding angolare",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Melany",
+      "evidence": "Vasca da bagno freestanding angolare in acrilico bianco lucido 150x100 cm | Melany",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2234,
+    "output_tokens": 875,
+    "seconds": 71.42
+  }
+}

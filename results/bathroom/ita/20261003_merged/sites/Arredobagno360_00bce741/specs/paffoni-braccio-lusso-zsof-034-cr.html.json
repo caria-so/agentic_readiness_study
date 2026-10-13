@@ -1,0 +1,88 @@
+{
+ "url": "https://www.arredobagno360.it/paffoni-braccio-lusso-zsof-034-cr.html",
+ "file": "paffoni-braccio-lusso-zsof-034-cr.html.html",
+ "title": "ZSOF 034 | Braccio doccia LUSSO L400 per soffione da parete, cromo",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 930,
+ "attributes": {
+  "sku": {
+   "value": "paffoni-braccio-lusso-zsof-034-cr",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "paffoni-braccio-lusso-zsof-034-cr"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice articolo",
+     "value": "ZSOF 034"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "paffoni-braccio-lusso-zsof-034-cr",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "paffoni-braccio-lusso-zsof-034-cr"
+    }
+   ]
+  },
+  "series": {
+   "value": "ZSOF 034 | Braccio doccia LUSSO L400 per soffione da parete, cromo",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "ZSOF 034 | Braccio doccia LUSSO L400 per soffione da parete, cromo"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Paffoni",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Paffoni"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Cromo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "Cromo"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 3,
+  "dropped": 3
+ }
+}

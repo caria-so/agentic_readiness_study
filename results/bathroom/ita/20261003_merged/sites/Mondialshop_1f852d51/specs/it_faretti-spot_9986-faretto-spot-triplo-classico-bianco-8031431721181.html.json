@@ -1,0 +1,192 @@
+{
+ "url": "https://www.mondialshop.it/it/faretti-spot/9986-faretto-spot-triplo-classico-bianco-8031431721181.html",
+ "file": "it_faretti-spot_9986-faretto-spot-triplo-classico-bianco-8031431721181.html.html",
+ "title": "Faretto Spot Triplo Classico Bianco",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2376,
+ "attributes": {
+  "brand": {
+   "value": "Gt Luce",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gt Luce"
+    }
+   ]
+  },
+  "sku": {
+   "value": "SPOT-CARRERA-3",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "SPOT-CARRERA-3"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8031431721181",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8031431721181"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.833000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.833000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "height": {
+   "value": "18,7",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "18,7"
+    }
+   ]
+  },
+  "material": {
+   "value": "Metallo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Metallo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiali di qualità",
+     "value": "Corpo robusto interamente in metallo di colore bianco."
+    }
+   ]
+  },
+  "installation": {
+   "value": "3",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "3"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "E27"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "IP20",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Protezione Ip",
+     "value": "IP20"
+    }
+   ]
+  },
+  "length": {
+   "value": "37",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza cm",
+     "value": "37"
+    }
+   ]
+  },
+  "width": {
+   "value": "14",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza cm",
+     "value": "14"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Struttura lineare con tre faretti orientabili indipendentemente per direzionare la luce.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Design a tre luci",
+     "value": "Struttura lineare con tre faretti orientabili indipendentemente per direzionare la luce."
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Lunghezza di 370 mm e altezza di 170 mm.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni della struttura",
+     "value": "Lunghezza di 370 mm e altezza di 170 mm."
+    }
+   ]
+  },
+  "warranty": {
+   "value": "Prodotto coperto da una garanzia di 3 anni.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia ufficiale",
+     "value": "Prodotto coperto da una garanzia di 3 anni."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Configurazione luminosa": "Predisposto per tre sorgenti luminose con attacco E27 fino a un massimo di 40W ciascuna."
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 8,
+  "L3": 5,
+  "dropped": 0
+ }
+}

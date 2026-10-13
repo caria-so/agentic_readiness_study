@@ -1,0 +1,61 @@
+{
+ "url": "https://ceramikeshop.it/miscelatore-per-lavello-con-canna-alta-modern-line",
+ "file": "miscelatore-per-lavello-con-canna-alta-modern-line.html",
+ "title": "Miscelatore lavello canna alta Modern Line | Gaboli",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9702,
+ "attributes": {
+  "brand": {
+   "value": "Gaboli Fratelli Rubinetteria",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gaboli Fratelli Rubinetteria"
+    }
+   ]
+  },
+  "sku": {
+   "value": "GBL/1057CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "GBL/1057CR"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "GBL/1057CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "GBL/1057CR"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

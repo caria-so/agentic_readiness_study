@@ -1,0 +1,164 @@
+{
+ "url": "https://www.deghi.it/specchio-da-bagno-3-led-100x55-cm-luce-perimetrale-retroilluminato-con-antiappannante-e-ingranditore-grigio-cobalto-pulli",
+ "file": "pecchio-da-bagno-3-led-100x55-cm-luce-perimetrale-retroilluminato-con-antiappannante-e-ingranditore-grigio-cobalto-pulli.html",
+ "title": "Specchio da bagno 3 led 55X100 cm luce perimetrale retroilluminato con antiappannante e ingranditore grigio cobalto - Pulli",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 11370,
+ "attributes": {
+  "sku": {
+   "value": "PLI-15G",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "PLI-15G"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "PLI-15G"
+    }
+   ]
+  },
+  "material": {
+   "value": "| Alluminio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Vetro",
+     "value": "| Alluminio"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Vetro | Alluminio"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Specchio LED con cornice",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Specchio LED con cornice"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Forma",
+     "value": "Ovale"
+    }
+   ]
+  },
+  "series": {
+   "value": "Pulli",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Pulli"
+    }
+   ]
+  },
+  "width": {
+   "value": "100 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza specchio",
+     "value": "100 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "55 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza specchio",
+     "value": "55 cm"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "5,2 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore",
+     "value": "5,2 cm"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "60 W",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Potenza",
+     "value": "60 W"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Grigio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore cornice",
+     "value": "Grigio"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Incluso",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Fissaggio a muro",
+     "value": "Incluso"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Orizzontale": "| Verticale",
+  "Orientamento": "Orizzontale | Verticale",
+  "Reversibile": "Si",
+  "Accensione": "Sensore touch",
+  "Luminosità": "1890 lm",
+  "Luce": "Calda | Fredda | Naturale",
+  "Diodi": "120",
+  "Volt": "220 V | 240 V",
+  "Temperatura": "3000 K | 4000 K | 6500 K",
+  "Protezione": "IP 44",
+  "Caratteristiche": "Retroilluminato | Ingranditore | Antiappanante",
+  "Ganci": "Inclusi"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 23,
+  "L3": 1,
+  "dropped": 13
+ }
+}

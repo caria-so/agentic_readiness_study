@@ -1,0 +1,114 @@
+{
+ "url": "https://www.obi-italia.it/p/4683215/granulato-verde-alpi-50-70-mm-25-kg",
+ "file": "p_4683215_granulato-verde-alpi-50-70-mm-25-kg.html",
+ "title": "Granulato verde Alpi 50-70 mm 25 kg",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1223,
+ "attributes": {
+  "sku": {
+   "value": "4683215",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "4683215"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8032679601129",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8032679601129"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Verde",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Verde"
+    }
+   ]
+  },
+  "width": {
+   "value": "25.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "25.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "10.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "10.00 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "35.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "35.00 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "25 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "25 KGM"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "50-70 mm 25 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "50-70 mm 25 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "Granulati Zandobbio SpA Via Selva 29 24060 Zandobbio IT info@granulati.it EAN(s): [ 8032679601129 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 8,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

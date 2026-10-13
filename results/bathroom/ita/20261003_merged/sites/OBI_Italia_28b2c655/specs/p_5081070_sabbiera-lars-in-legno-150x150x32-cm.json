@@ -1,0 +1,114 @@
+{
+ "url": "https://www.obi-italia.it/p/5081070/sabbiera-lars-in-legno-150x150x32-cm",
+ "file": "p_5081070_sabbiera-lars-in-legno-150x150x32-cm.html",
+ "title": "Sabbiera Lars in legno 150x150x32 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 765,
+ "attributes": {
+  "sku": {
+   "value": "5081070",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5081070"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "4021452511711",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "4021452511711"
+    }
+   ]
+  },
+  "width": {
+   "value": "150.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "150.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "3.20 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "3.20 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "150.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "150.00 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "10 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "10 KGM"
+    }
+   ]
+  },
+  "material": {
+   "value": "Legno",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Legno"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "150 cm x 150 cm x 32 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "150 cm x 150 cm x 32 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "ante-holz Polska spółka z o.o. Spółdzielcza 2 67-120 Kożuchów PL hug@ante-holz.de EAN(s): [ 4021452511711 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 6,
+  "L2": 0,
+  "L3": 2,
+  "dropped": 0
+ }
+}

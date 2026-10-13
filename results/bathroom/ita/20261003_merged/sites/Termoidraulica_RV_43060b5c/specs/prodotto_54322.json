@@ -1,0 +1,73 @@
+{
+ "url": "https://fr.termoidraulicarv.com/prodotto/54322/",
+ "file": "prodotto_54322.html",
+ "title": "Filtre en ligne à sédiments 12″-5 micron Kemflo F5633/PP.",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2331,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "OI023020",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "OI023020"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "54322",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "54322"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,500000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Poids",
+     "value": "0,500000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Activé": "Désactivé",
+  "UGS": "OI023020"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 2,
+  "L3": 1,
+  "dropped": 1
+ }
+}

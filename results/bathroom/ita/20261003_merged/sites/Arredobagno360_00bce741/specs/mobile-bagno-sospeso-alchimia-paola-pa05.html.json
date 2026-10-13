@@ -1,0 +1,111 @@
+{
+ "url": "https://www.arredobagno360.it/mobile-bagno-sospeso-alchimia-paola-pa05.html",
+ "file": "mobile-bagno-sospeso-alchimia-paola-pa05.html.html",
+ "title": "Paola #PA05 | Mobile sospeso da 60cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6501,
+ "attributes": {
+  "sku": {
+   "value": "mobile-bagno-sospeso-alchimia-paola-pa05",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "mobile-bagno-sospeso-alchimia-paola-pa05"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "mobile-bagno-sospeso-alchimia-paola-pa05",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "mobile-bagno-sospeso-alchimia-paola-pa05"
+    }
+   ]
+  },
+  "series": {
+   "value": "Paola #PA05 | Mobile sospeso da 60cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Paola #PA05 | Mobile sospeso da 60cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "39.0000 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "39.0000 KGM"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "60 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misura totale",
+     "value": "60 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Le strutture in listellare di abete impiallacciato in frassino provengono da aziende rigorosamente italiane. Queste vengono rifinite sul bordo anteriore con il legno massello. Infine l'assemblaggio avviene tramite spine di legno e incollanti termo e idro resistenti",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Strutture",
+     "value": "Le strutture in listellare di abete impiallacciato in frassino provengono da aziende rigorosamente italiane. Queste vengono rifinite sul bordo anteriore con il legno massello. Infine l'assemblaggio av"
+    }
+   ]
+  },
+  "installation": {
+   "value": "I vari elementi che compongono il mobile vengono assemblati e collaudati utilizzando meccanismi di apertura BLUM e sistemi di ultima generazione provenienti dalle migliori e più qualificate aziende italiane ed europee",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Montaggio",
+     "value": "I vari elementi che compongono il mobile vengono assemblati e collaudati utilizzando meccanismi di apertura BLUM e sistemi di ultima generazione provenienti dalle migliori e più qualificate aziende it"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "pezzo unico": "realizzato per te",
+  "tecniche artigianali": "tradizione marchigiana",
+  "fascino per il legno": "cura e rispetto verso l'ambiente",
+  "provenienza del legname": "innovativi processi ecocompatibili",
+  "Imballaggio": "materiali adatti all'imballo"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 5,
+  "L3": 3,
+  "dropped": 4
+ }
+}

@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/mobile-bagno-sospeso-alchimia-paola-pa05.html",
+  "model": "qwen2.5:32b",
+  "html": "mobile-bagno-sospeso-alchimia-paola-pa05.html.html",
+  "title": "Paola #PA05 | Mobile sospeso da 60cm",
+  "text_chars": 6501,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "-- Seleziona -- Bianco Assoluto Bianco Decapè Pergamon Sahara Tortora Visone Tabacco Noce Mattone Rosa Magnolia Grigio Nuvola Grigio Titanio Grigio Ardesia Nero British Green Verde Muschio Blu Danubio Azzurro Arabesque Giallo Zafferano",
+      "evidence": "Colore:\n-- Seleziona -- Bianco Assoluto Bianco Decapè Pergamon Sahara Tortora Visone Tabacco Noce Mattone Rosa Magnolia Grigio Nuvola Grigio Titanio Grigio Ardesia Nero British Green Verde Muschio Blu Danubio Azzurro Arabesque Giallo Zafferano",
+      "location": "body"
+    },
+    "width": {
+      "value": "60 cm",
+      "evidence": "Misura totale: 60 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "48,5 cm",
+      "evidence": "- Base con 1 cassetto, meccanismo di chiusura rallentata, finitura a scelta, L60 P46,5 H48,5 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "46,5 cm",
+      "evidence": "- Base con 1 cassetto, meccanismo di chiusura rallentata, finitura a scelta, L60 P46,5 H48,5 cm",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "foro rubinetto",
+      "evidence": "- Vasca lavabo integrata in ceramica mod. \"Paola Slim\", bianco lucido e foro rubinetto, L61 P46,5 H13 cm",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Alchimia (Eban)",
+      "evidence": "Il mobile firmato Alchimia (Eban)",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "opening": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "soft close",
+        "evidence": "- Base con 1 cassetto, meccanismo di chiusura rallentata, finitura a scelta, L60 P46,5 H48,5 cm"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2974,
+    "output_tokens": 972,
+    "seconds": 81.67
+  }
+}

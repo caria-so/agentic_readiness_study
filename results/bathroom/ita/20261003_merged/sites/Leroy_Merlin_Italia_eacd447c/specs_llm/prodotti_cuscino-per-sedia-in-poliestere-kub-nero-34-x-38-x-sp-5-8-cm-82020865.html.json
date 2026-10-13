@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/cuscino-per-sedia-in-poliestere-kub-nero-34-x-38-x-sp-5-8-cm-82020865.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_cuscino-per-sedia-in-poliestere-kub-nero-34-x-38-x-sp-5-8-cm-82020865.html.html",
+  "title": "Cuscino per sedia in poliestere Kub nero 34 x 38 x Sp 5.8 cm | Leroy Merlin",
+  "text_chars": 2993,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "nero",
+      "evidence": "Cuscino per sedia in poliestere Kub nero 34 x 38 x Sp 5.8 cm",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "34x38 cm",
+      "evidence": "Dimensioni: 34x38cm.",
+      "location": "body"
+    },
+    "series": {
+      "value": "SPACEO KUB",
+      "evidence": "per sedia o poltroncina della serie SPACEO KUB.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1920,
+    "output_tokens": 643,
+    "seconds": 52.9
+  }
+}

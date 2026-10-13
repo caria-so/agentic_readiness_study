@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/lavabo-da-appoggio-cm65x38-music",
+  "model": "qwen2.5:32b",
+  "html": "lavabo-da-appoggio-cm65x38-music.html",
+  "title": "Lavabo da appoggio cm.65x38 Music | Opera Sanitari | Ceramikeshop",
+  "text_chars": 8632,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "ceramica bianca",
+      "evidence": "Realizzato in ceramica bianca finemente smaltato.",
+      "location": "body"
+    },
+    "finish": {
+      "value": "finemente smaltato",
+      "evidence": "Realizzato in ceramica bianca finemente smaltato.",
+      "location": "body"
+    },
+    "width": {
+      "value": "65 cm",
+      "evidence": "L 65 P 38 H 11 cm / 11 kg",
+      "location": "body"
+    },
+    "height": {
+      "value": "11 cm",
+      "evidence": "L 65 P 38 H 11 cm / 11 kg",
+      "location": "body"
+    },
+    "depth": {
+      "value": "38 cm",
+      "evidence": "L 65 P 38 H 11 cm / 11 kg",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L 65 P 38 H 11 cm",
+      "evidence": "L 65 P 38 H 11 cm / 11 kg",
+      "location": "body"
+    },
+    "weight": {
+      "value": "11 kg",
+      "evidence": "L 65 P 38 H 11 cm / 11 kg",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "senza foro rubinetteria",
+      "evidence": "Il lavabo da appoggio senza foro rubinetteria è scenografico, moderno e arreda il bagno secondo le tendenze del momento conquistando sempre più persone.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "colour": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "bianco",
+        "evidence": "Realizzato in ceramica bianca finemente smaltato."
+      }
+    },
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da appoggio",
+        "evidence": "Lavabo d'appoggio con installazione su piano."
+      }
+    },
+    "series": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Music",
+        "evidence": "PRODUCT TITLE:\nLavabo da appoggio cm.65x38 Music | Opera Sanitari | Ceramikeshop"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4904,
+    "output_tokens": 729,
+    "seconds": 76.5
+  }
+}

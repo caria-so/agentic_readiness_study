@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/sanitari-filomuro/22819-sanitari-filo-parete-feeling-rimfree-in-grigio-opaco-con-copriwc-softclose.html",
+  "model": "qwen2.5:32b",
+  "html": "sanitari-filomuro_22819-sanitari-filo-parete-feeling-rimfree-in-grigio-opaco-con-copriwc-softclose.html.html",
+  "title": "Sanitari filo parete Feeling rimfree in grigio opaco con copriwc softclose",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "L36 cm",
+      "evidence": "Dimensione wc:L36 x P55 x H40 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "H40 cm",
+      "evidence": "Dimensione wc:L36 x P55 x H40 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P55 cm",
+      "evidence": "Dimensione wc:L36 x P55 x H40 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "filo parete",
+      "evidence": "Sanitari filo parete Feeling rimfree in grigio opaco con copriwc softclose",
+      "location": "title"
+    },
+    "opening": {
+      "value": "softcose",
+      "evidence": "Sedile copri wc ultraslim con chiusura rallentata softcose",
+      "location": "body"
+    },
+    "series": {
+      "value": "Feeling",
+      "evidence": "Sanitari filo parete Feeling rimfree in grigio opaco con copriwc softclose",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "opaco matt",
+        "evidence": "rigorosamente realizzati in ceramica grigio matt di alta qualità"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3667,
+    "output_tokens": 734,
+    "seconds": 70.58
+  }
+}

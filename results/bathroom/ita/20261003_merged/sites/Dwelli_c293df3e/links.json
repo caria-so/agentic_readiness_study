@@ -1,0 +1,1198 @@
+{
+  "source": "https://dwellistore.it/",
+  "generated": "2026-10-01T17:07:44.579228",
+  "total": 152,
+  "internal_count": 138,
+  "external_count": 14,
+  "links": [
+    {
+      "url": "https://dwellistore.it/contact-us",
+      "fragment": "",
+      "text": "info@dwelli.it",
+      "rel": "noopener",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?phone=393393540030&amp;text=Hi,%20I%20would%20like%20some%20information%20about%20your%20products.",
+      "fragment": "",
+      "text": "WhatsApp",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/",
+      "fragment": "contentarea",
+      "text": "Salta al contenuto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/",
+      "fragment": "",
+      "text": "AUD - dollaro australiano",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/customer/account/login/",
+      "fragment": "",
+      "text": "Accedi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/customer/account/create/",
+      "fragment": "",
+      "text": "Crea un Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/wishlist/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/request_quote/cart/",
+      "fragment": "",
+      "text": "Preventivo 0",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/checkout/cart/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno",
+      "fragment": "",
+      "text": "Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/accessori",
+      "fragment": "",
+      "text": "Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/accessori/mensole-per-bagno",
+      "fragment": "",
+      "text": "Mensole bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/accessori/porta-carta-igienica",
+      "fragment": "",
+      "text": "Porta carta igienica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/accessori/porta-sapone-dispenser",
+      "fragment": "",
+      "text": "Porta sapone / dispenser",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/accessori/appendi-abiti",
+      "fragment": "",
+      "text": "Appendi Abiti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/accessori/porta-scopino-it",
+      "fragment": "",
+      "text": "Porta Scopino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/accessori/porta-asciugamani-it",
+      "fragment": "",
+      "text": "Porta Asciugamani",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/accessori/maniglie",
+      "fragment": "",
+      "text": "Maniglie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/doccia",
+      "fragment": "",
+      "text": "Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/doccia/colonna-doccia",
+      "fragment": "",
+      "text": "Colonna doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/doccia/piatto-doccia",
+      "fragment": "",
+      "text": "Piatto doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/doccia/soffioni",
+      "fragment": "",
+      "text": "Soffioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/doccia/box-doccia",
+      "fragment": "",
+      "text": "Box Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/lavabi-bagno",
+      "fragment": "",
+      "text": "Lavabi bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/lavabi-bagno/lavabo-da-appoggio",
+      "fragment": "",
+      "text": "Lavabo da appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/lavabi-bagno/lavabo-sospeso",
+      "fragment": "",
+      "text": "Lavabo sospeso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/lavabi-bagno/lavabo-freestanding",
+      "fragment": "",
+      "text": "Lavabo freestanding",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/lavabi-bagno/lavabo-da-incasso",
+      "fragment": "",
+      "text": "Lavabo da incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/lavabi-bagno/lavabo-consolle",
+      "fragment": "",
+      "text": "Lavabo consolle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/lavabi-bagno/lavabi-d-appoggio-sospesi",
+      "fragment": "",
+      "text": "Lavabi d'appoggio sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno/mobili-1",
+      "fragment": "",
+      "text": "Mobili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno/mobili-1/mobili-lavabo",
+      "fragment": "",
+      "text": "Mobili lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno/mobili-1/composizioni",
+      "fragment": "",
+      "text": "Composizioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno/mobili-1/pensili-colonne",
+      "fragment": "",
+      "text": "Pensili | Colonne",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/rubinetteria-bagno",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/rubinetteria-bagno/miscelatori-lavabo",
+      "fragment": "",
+      "text": "Miscelatori lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/rubinetteria-bagno/miscelatori-vasca-it",
+      "fragment": "",
+      "text": "Miscelatori vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/rubinetteria-bagno/miscelatori-doccia-it",
+      "fragment": "",
+      "text": "Miscelatori doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/rubinetteria-bagno/set-doccia",
+      "fragment": "",
+      "text": "Set Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/rubinetteria-bagno/miscelatori-bidet-it",
+      "fragment": "",
+      "text": "Miscelatori bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/rubinetteria-bagno/incassi-e-complementi",
+      "fragment": "",
+      "text": "Incassi e complementi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno/sanitari",
+      "fragment": "",
+      "text": "Sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno/sanitari/sanitari-sospesi-1",
+      "fragment": "",
+      "text": "Sanitari sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/sanitari/sanitari-a-terra",
+      "fragment": "",
+      "text": "Sanitari a terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno/sanitari/sanitari-monoblocco-it",
+      "fragment": "",
+      "text": "Sanitari monoblocco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/sanitari/orinatoi",
+      "fragment": "",
+      "text": "Orinatoi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredo-bagno/specchi-20",
+      "fragment": "",
+      "text": "Specchi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno/vasche",
+      "fragment": "",
+      "text": "Vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/bagno/vasche/vasche-idromassaggio-it",
+      "fragment": "",
+      "text": "Vasche idromassaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/wellness",
+      "fragment": "",
+      "text": "Wellness",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/wellness/minipiscine-it",
+      "fragment": "",
+      "text": "Minipiscine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/wellness/saune",
+      "fragment": "",
+      "text": "Saune",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/wellness/soffioni-multifunzionali-it",
+      "fragment": "",
+      "text": "Soffioni multifunzionali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/wellness/soffioni-multifunzionali-it/soffioni-cromoterapia-it",
+      "fragment": "",
+      "text": "Soffioni cromoterapia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/wellness/hamman",
+      "fragment": "",
+      "text": "Hamman",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/wellness/bagno-turco-it",
+      "fragment": "",
+      "text": "Bagno turco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/cucina",
+      "fragment": "",
+      "text": "Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/cucina/lavelli-it",
+      "fragment": "",
+      "text": "Lavelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/cucina/rubinetteria-it",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/cucina/rubinetteria-it/miscelatori-monocomando-it",
+      "fragment": "",
+      "text": "Miscelatori monocomando",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/cucina/rubinetteria-it/miscelatori-con-doccetta-estraibile-it",
+      "fragment": "",
+      "text": "Miscelatori con doccetta estraibile",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/cucina/rubinetteria-it/miscelatori-con-canna-girevole-it",
+      "fragment": "",
+      "text": "Miscelatori con canna girevole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/cucina/rubinetteria-it/miscelatori-a-3-fori-it",
+      "fragment": "",
+      "text": "Miscelatori a 3 fori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/cucina/rubinetteria-it/miscelatori-elettronici-it",
+      "fragment": "",
+      "text": "Miscelatori elettronici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredamento",
+      "fragment": "",
+      "text": "Arredamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredamento/sedie-it",
+      "fragment": "",
+      "text": "Sedie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredamento/tavoli-it",
+      "fragment": "",
+      "text": "Tavoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredamento/illuminazione-it",
+      "fragment": "",
+      "text": "Illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredamento/illuminazione-it/lampade-parete",
+      "fragment": "",
+      "text": "Lampade a parete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredamento/illuminazione-it/lampade-a-sospensione-it",
+      "fragment": "",
+      "text": "Lampade a sospensione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredamento/illuminazione-it/lampade-da-tavolo-it",
+      "fragment": "",
+      "text": "Lampade da tavolo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/arredamento/illuminazione-it/lampade-da-terra-it",
+      "fragment": "",
+      "text": "Lampade da terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/piastrelle",
+      "fragment": "",
+      "text": "Piastrelle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/piastrelle/grandi-formati-1",
+      "fragment": "",
+      "text": "Grandi Formati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/riscaldamento",
+      "fragment": "",
+      "text": "Riscaldamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/riscaldamento/stufe-it",
+      "fragment": "",
+      "text": "Stufe",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/riscaldamento/stufe-it/stufe-a-pellet",
+      "fragment": "",
+      "text": "Stufe a pellet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/riscaldamento/stufe-it/stufe-a-legna",
+      "fragment": "",
+      "text": "Stufe a legna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/riscaldamento/camini-it",
+      "fragment": "",
+      "text": "Camini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/riscaldamento/camini-it/camini-a-gas-it",
+      "fragment": "",
+      "text": "Camini a gas",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/riscaldamento/camini-it/camini-legna-it",
+      "fragment": "",
+      "text": "Camini a legna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/riscaldamento/radiatori-it",
+      "fragment": "",
+      "text": "Radiatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/riscaldamento/scaldasalviette-it",
+      "fragment": "",
+      "text": "Scaldasalviette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/completed-projects",
+      "fragment": "",
+      "text": "Progetti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/blog",
+      "fragment": "",
+      "text": "Blog",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands",
+      "fragment": "",
+      "text": "Brand",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/consulenza",
+      "fragment": "",
+      "text": "PRENOTA LA TUA CONSULENZA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/gessi",
+      "fragment": "",
+      "text": "Perle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/fantini",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/zucchetti",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/cea-design",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/cielo",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/agape",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/antonio-lupi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/tubes",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/link-1",
+      "fragment": "",
+      "text": "Gessi Incastri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/link-2",
+      "fragment": "",
+      "text": "Antoniolupi Nebula",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/composizione-lavabo-antoniolupi-lineadacqua.html",
+      "fragment": "",
+      "text": "Antoniolupi Lineadacqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/mutina?serie=4182",
+      "fragment": "",
+      "text": "Mutina Aurore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/gessi-sogni-soffione-doccia-57963.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/mutina-dechirer-piastrelle-gres-porcellanato-60x120-cm-pudn15.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/antonio-lupi-ago-lavabo-da-terra-ago85.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/antonio-lupi-nabatei-composizione-mobili-bagno.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/boffi",
+      "fragment": "",
+      "text": "Boffi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/catalano",
+      "fragment": "",
+      "text": "Catalano",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/fir-italia",
+      "fragment": "",
+      "text": "Fir Italia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/bongio",
+      "fragment": "",
+      "text": "Bongio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/jacuzzi",
+      "fragment": "",
+      "text": "Jacuzzi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/hafro-geromin",
+      "fragment": "",
+      "text": "Hafro Geromin",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/foster",
+      "fragment": "",
+      "text": "Foster",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/brands/falper",
+      "fragment": "",
+      "text": "Falper",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/chi-siamo",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/contatti",
+      "fragment": "",
+      "text": "Consulenza dedicata",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/agevolazioni-fiscali",
+      "fragment": "",
+      "text": "Agevolazioni Iva",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/condizioni-generali-vendita",
+      "fragment": "",
+      "text": "Condizioni di vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/reso",
+      "fragment": "",
+      "text": "Reso e reclamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/privacy-cookie-policy",
+      "fragment": "",
+      "text": "Privacy policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/cookie-policy",
+      "fragment": "",
+      "text": "Cookie policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/faq",
+      "fragment": "",
+      "text": "FAQ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/sitemap.html",
+      "fragment": "",
+      "text": "Sitemap",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?phone=393393540030",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/dwellistore/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/dwelli_store/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.linkedin.com/company/dwelli",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://wa.me/393393540030?text=Ciao%20Dwelli%2C%20vorrei%20una%20consulenza.",
+      "fragment": "",
+      "text": "Scrivici su WhatsApp Risposta rapida in chat",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Swissup_FontAwesome5/fontawesome-free-5.15.4-web/css/all.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/mage/calendar.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Mageplaza_Blog/css/mpBlogIcon.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/css/styles-m.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Amasty_Base/vendor/slick/amslick.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Amasty_Cart/css/vendor/owl.carousel.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Amasty_Customform/css/form-builder.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Amasty_Customform/css/form-render.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Amasty_HidePrice/css/amhideprice.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Amasty_LibSwiperJs/vendor/swiper/swiper.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/Swissup_Swiper/lib/swiper.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/css/views/home-page.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/css/views/cms-pages.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/css/styles-l.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/css/print.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/static/version1790176337/frontend/Amasty/LevelzeroJet/it_IT/fonts/Blank-Theme-Icons/Blank-Theme-Icons.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.gstatic.com/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it/media/favicon/default/Pittogramma_sito_3.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.de",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.fr",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.it",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.com/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.de/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://dwellistore.fr/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

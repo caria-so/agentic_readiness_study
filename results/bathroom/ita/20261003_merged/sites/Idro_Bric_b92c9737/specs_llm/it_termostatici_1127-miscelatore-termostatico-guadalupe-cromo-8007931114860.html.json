@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.idrobric.it/it/termostatici/1127-miscelatore-termostatico-guadalupe-cromo-8007931114860.html",
+  "model": "qwen2.5:32b",
+  "html": "it_termostatici_1127-miscelatore-termostatico-guadalupe-cromo-8007931114860.html.html",
+  "title": "Miscelatore termostatico Guadalupe cromo",
+  "text_chars": 507,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "acciao SS304",
+      "evidence": "Miscelatore termostatico esterno doccia, realizzato in acciao SS304, finitura cromo, attacco inferiore da 1/2”",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "attacco inferiore da 1/2”",
+      "evidence": "Miscelatore termostatico esterno doccia, realizzato in acciao SS304, finitura cromo, attacco inferiore da 1/2”",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Guadalupe",
+      "evidence": "Miscelatore termostatico Guadalupe cromo",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1055,
+    "output_tokens": 563,
+    "seconds": 45.91
+  }
+}

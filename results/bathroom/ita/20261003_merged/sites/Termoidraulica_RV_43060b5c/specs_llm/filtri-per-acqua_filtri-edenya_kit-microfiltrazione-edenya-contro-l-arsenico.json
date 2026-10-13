@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "url": "https://termoidraulicarv.com/filtri-per-acqua/filtri-edenya/kit-microfiltrazione-edenya-contro-l-arsenico/",
+  "model": "qwen2.5:32b",
+  "html": "filtri-per-acqua_filtri-edenya_kit-microfiltrazione-edenya-contro-l-arsenico.html",
+  "title": "Kit microfiltrazione Edenya contro l'arsenico",
+  "text_chars": 4619,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromo lucido",
+      "evidence": "Rubinetto 1 via cromo lucido con maniglia (Hike)",
+      "location": "body"
+    },
+    "water": {
+      "value": "350 lt/h",
+      "evidence": "Flusso: 350 lt/h**",
+      "location": "body"
+    },
+    "series": {
+      "value": "Edenya",
+      "evidence": "Kit microfiltrazione Edenya contro l’arsenico",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "sottolavello",
+        "evidence": "in cucina (sotto lavello)"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_series",
+      "raw": {
+        "value": "Edenya",
+        "evidence": "Kit microfiltrazione Edenya contro l’arsenico",
+        "location": "title"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2300,
+    "output_tokens": 553,
+    "seconds": 50.6
+  }
+}

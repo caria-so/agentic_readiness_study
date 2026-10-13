@@ -1,0 +1,138 @@
+{
+ "url": "https://www.bagnodistile.com/pavimenti-interni/63-contemporaneo-30x60-cappuccino-rettificato-693059700849.html",
+ "file": "pavimenti-interni_63-contemporaneo-30x60-cappuccino-rettificato-693059700849.html.html",
+ "title": "CONTEMPORANEO 30X60 CAPPUCCINO Rettificato",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3974,
+ "attributes": {
+  "brand": {
+   "value": "AREA CERAMICHE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "AREA CERAMICHE"
+    }
+   ]
+  },
+  "sku": {
+   "value": "3060CCR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "3060CCR"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059700849",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059700849"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "3060CCR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "3060CCR"
+    }
+   ]
+  },
+  "weight": {
+   "value": "23.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "23.000000 kg"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "10mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore",
+     "value": "10mm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "l’eleganza dal carattere industrial.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Effetto cemento",
+     "value": "l’eleganza dal carattere industrial."
+    }
+   ]
+  },
+  "series": {
+   "value": "Contemporaneo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Collezione",
+     "value": "Contemporaneo"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "30x60 Rettificato",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Formato",
+     "value": "30x60 Rettificato"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cappuccino",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Cappuccino"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 1,
+  "L3": 4,
+  "dropped": 27
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "url": "https://www.obi-italia.it/p/4884045/batteria-moto-unibat-cbtx7abs-6-ah-12-v",
+ "file": "p_4884045_batteria-moto-unibat-cbtx7abs-6-ah-12-v.html",
+ "title": "Batteria moto Unibat CBTX7ABS 6 Ah 12 V",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 924,
+ "attributes": {
+  "brand": {
+   "value": "Unibat",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Unibat"
+    }
+   ]
+  },
+  "sku": {
+   "value": "4884045",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "4884045"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8058045040552",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8058045040552"
+    }
+   ]
+  },
+  "width": {
+   "value": "15.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "15.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "9.40 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "9.40 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "8.70 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "8.70 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "2.088 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "2.088 KGM"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

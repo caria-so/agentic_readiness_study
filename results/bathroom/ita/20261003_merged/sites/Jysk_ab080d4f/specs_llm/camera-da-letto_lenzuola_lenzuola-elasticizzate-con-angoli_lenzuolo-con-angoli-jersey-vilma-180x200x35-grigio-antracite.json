@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/camera-da-letto/lenzuola/lenzuola-elasticizzate-con-angoli/lenzuolo-con-angoli-jersey-vilma-180x200x35-grigio-antracite",
+  "model": "qwen2.5:32b",
+  "html": "camera-da-letto_lenzuola_lenzuola-elasticizzate-con-angoli_lenzuolo-con-angoli-jersey-vilma-180x200x35-grigio-antracite.html",
+  "title": "Lenzuolo con angoli Jersey VILMA 180x200x35 grigio antracite | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "series": {
+      "value": "VILMA",
+      "evidence": "Lenzuolo con angoli Jersey VILMA 180x200x35 grigio antracite | JYSK",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 5313,
+    "output_tokens": 844,
+    "seconds": 88.09
+  }
+}

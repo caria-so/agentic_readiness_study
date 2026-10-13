@@ -1,0 +1,91 @@
+{
+ "url": "https://termoidraulicarv.com/sistemi-uv-per-acqua/ricambi-sistemi-uv/trasformatore-ricambio-220v-per-lampada-uv-14w-4-pin-stesso-lato/",
+ "file": "sistemi-uv-per-acqua_ricambi-sistemi-uv_trasformatore-ricambio-220v-per-lampada-uv-14w-4-pin-stesso-lato.html",
+ "title": "Trasformatore ricambio 220V per lampada UV 14W 4 pin stesso lato",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1779,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    },
+    {
+     "layer": "L2_block",
+     "label": "BRAND",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "12000002-04",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "12000002-04"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD",
+     "value": "12000002-04"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "2634",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "2634"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,500000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "0,500000 kg"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "0793596900693",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "EAN",
+     "value": "0793596900693"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 3,
+  "L3": 1,
+  "dropped": 2
+ }
+}

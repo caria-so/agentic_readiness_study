@@ -1,0 +1,143 @@
+{
+ "url": "https://www.mondialshop.it/it/lampadari-moderni/51221-sospensione-paula-madreperla-1xe27-40x40x120cm.html",
+ "file": "it_lampadari-moderni_51221-sospensione-paula-madreperla-1xe27-40x40x120cm.html.html",
+ "title": "SOSPENSIONE PAULA MADREPERLA 1XE27 40X40X120CM",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 2938,
+ "attributes": {
+  "brand": {
+   "value": "Gt Luce",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gt Luce"
+    }
+   ]
+  },
+  "sku": {
+   "value": "I-PAULA-S1",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "I-PAULA-S1"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "I-PAULA-S1",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "I-PAULA-S1"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.300000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.300000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Multicolore",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Multicolore"
+    }
+   ]
+  },
+  "height": {
+   "value": "21",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "21"
+    }
+   ]
+  },
+  "series": {
+   "value": "-",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "-"
+    }
+   ]
+  },
+  "material": {
+   "value": "Madreperla",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Madreperla"
+    }
+   ]
+  },
+  "installation": {
+   "value": "E27",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "E27"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "N/A",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "N/A"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "N/A"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 7,
+  "L3": 0,
+  "dropped": 0
+ }
+}

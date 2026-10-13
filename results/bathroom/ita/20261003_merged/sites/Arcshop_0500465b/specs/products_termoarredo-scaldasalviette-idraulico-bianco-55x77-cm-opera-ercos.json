@@ -1,0 +1,72 @@
+{
+ "url": "https://www.arcshop.it/products/termoarredo-scaldasalviette-idraulico-bianco-55x77-cm-opera-ercos",
+ "file": "products_termoarredo-scaldasalviette-idraulico-bianco-55x77-cm-opera-ercos.html",
+ "title": "Termoarredo scaldasalviette idraulico bianco 55X77 cm Opera Ercos",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3021,
+ "attributes": {
+  "brand": {
+   "value": "Ercos",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Ercos"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8033143380175",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8033143380175"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "8033143380175",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "8033143380175"
+    }
+   ]
+  },
+  "weight": {
+   "value": "4.64kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "4.64kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "gtin=mpn"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

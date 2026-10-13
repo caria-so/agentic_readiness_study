@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/asta-rettangolare-in-faggio-scolpito-decoro-treccia-1000-x-26-spessore-6-mm-82053406.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_asta-rettangolare-in-faggio-scolpito-decoro-treccia-1000-x-26-spessore-6-mm-82053406.html.html",
+  "title": "Asta rettangolare in faggio scolpito decoro treccia 1000 x 26 spessore 6 mm | Leroy Merlin",
+  "text_chars": 4886,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "certification": {
+      "value": "PEFC",
+      "evidence": "Certificazione PEFC",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2624,
+    "output_tokens": 583,
+    "seconds": 51.39
+  }
+}

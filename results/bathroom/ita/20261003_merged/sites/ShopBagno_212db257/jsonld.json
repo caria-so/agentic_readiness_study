@@ -1,0 +1,187 @@
+{
+  "source": "https://www.shopbagno.it/",
+  "generated": "2026-10-02T16:13:16.289757",
+  "block_count": 4,
+  "types": [
+    "AggregateRating",
+    "ContactPoint",
+    "EntryPoint",
+    "GeoCoordinates",
+    "LocalBusiness",
+    "MerchantReturnPolicy",
+    "OpeningHoursSpecification",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "PropertyValue",
+    "SearchAction",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 328,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "https://www.shopbagno.it/#organization",
+        "sameAs": [
+          "https://www.facebook.com/Shopbagno",
+          "https://www.instagram.com/shopbagno.it/",
+          "https://it.trustpilot.com/review/shopbagno.it",
+          "https://www.feedaty.com/recensioni/shopbagno"
+        ]
+      }
+    },
+    {
+      "index": 1,
+      "chars": 452,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "url": "https://www.shopbagno.it/",
+        "@id": "https://www.shopbagno.it//#website",
+        "name": "Shopbagno.it",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.shopbagno.it/search?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "chars": 1867,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org/",
+        "@type": "Organization",
+        "url": "https://www.shopbagno.it/",
+        "@id": "https://www.shopbagno.it/#organization",
+        "name": "Shopbagno.it",
+        "legalName": "Webmart di Simone Benedettis",
+        "foundingDate": "2013-10-01",
+        "taxID": "12570821004",
+        "logo": "https://www.shopbagno.it/cdn/shop/files/favico.jpg?v=1782782773&width=801",
+        "image": "https://www.shopbagno.it/cdn/shop/files/Logo-shopbagno-specialisti-box-doccia.png?v=1772956455&width=5760",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "url": "https://www.shopbagno.it/pages/resi-e-rimborsi",
+          "returnPolicyCountry": "IT",
+          "applicableCountry": [
+            "IT"
+          ],
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnLink": "https://www.shopbagno.it/pages/resi-e-rimborsi",
+          "merchantReturnDays": 30,
+          "refundType": "https://schema.org/FullRefund",
+          "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility",
+          "returnMethod": "https://schema.org/ReturnByMail"
+        },
+        "email": "info@shopbagno.it",
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "url": "https://www.shopbagno.it/pages/contattaci",
+            "telephone": "0686356166",
+            "email": "info@shopbagno.it",
+            "contactType": "customer service"
+          }
+        ],
+        "telephone": "0686356166",
+        "description": "Scopri box doccia, piatti doccia e arredo bagno su ShopBagno. Design moderno, offerte esclusive e assistenza dedicata per il tuo bagno ideale!",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Via Tradate 26c, P.IVA 12570821004 - C.F. BNDSMN80T26H501J",
+          "addressLocality": "Rome",
+          "addressRegion": "Roma",
+          "postalCode": "00126",
+          "addressCountry": "IT"
+        },
+        "founder": {
+          "@type": "Person",
+          "name": "Simone Benedettis"
+        },
+        "sameAs": [
+          "https://www.facebook.com/Shopbagno"
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "chars": 1242,
+      "parse_error": "",
+      "data": [
+        {
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "@id": "https://www.shopbagno.it/#location",
+          "name": "Shopbagno.it",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Via Tradate, 26",
+            "addressLocality": "Rome",
+            "addressRegion": "Metropolitan City of Rome Capital",
+            "postalCode": "00126",
+            "addressCountry": "IT"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "41.7910692",
+            "longitude": "12.3286514"
+          },
+          "telephone": "+39 06 8635 6166",
+          "url": "https://www.shopbagno.it/",
+          "sameAs": [
+            "https://maps.google.com/?cid=3384731760910961937&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+          ],
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+              ],
+              "opens": "09:30",
+              "closes": "19:30"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Saturday"
+              ],
+              "opens": "09:30",
+              "closes": "13:00"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "name": "Google Places ID",
+            "value": "ChIJH3HXvGjxJRMREY0UfZr7-C4"
+          },
+          "parentOrganization": {
+            "@type": "Organization",
+            "@id": "https://www.shopbagno.it/#organization",
+            "url": "https://www.shopbagno.it/",
+            "name": "Shopbagno.it"
+          }
+        }
+      ]
+    }
+  ]
+}

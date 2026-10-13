@@ -1,0 +1,71 @@
+{
+ "url": "https://dwellistore.com/abk-tile-petraia-series-33-3x33-3-green-stone-effect-a8528-h.html",
+ "file": "abk-tile-petraia-series-33-3x33-3-green-stone-effect-a8528-h.html.html",
+ "title": "ABK Tile Petraia Series 33.3x33.3 green stone effect A8528.H",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 758,
+ "attributes": {
+  "brand": {
+   "value": "ABK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "ABK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "ABK"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "ABK"
+    }
+   ]
+  },
+  "sku": {
+   "value": "A8528.H",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "A8528.H"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "A8528.H",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "A8528.H"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 0,
+  "dropped": 1
+ }
+}

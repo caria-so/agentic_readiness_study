@@ -1,0 +1,104 @@
+{
+ "url": "https://jysk.it/la-casa/decorazione/vasi-fiori/vaso-alvis-o20xh30-cm-bianco",
+ "file": "la-casa_decorazione_vasi-fiori_vaso-alvis-o20xh30-cm-bianco.html",
+ "title": "ALVIS Vaso ALVIS Ø20xH30 cm bianco",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 8124,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "4911489",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "4911489"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "4911489"
+    }
+   ]
+  },
+  "material": {
+   "value": "Dolomite",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Dolomite"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Diametro 20 cm, Altezza 30 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Diametro 20 cm, Altezza 30 cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Uso": "Interno"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 5,
+  "L3": 1,
+  "dropped": 23
+ }
+}

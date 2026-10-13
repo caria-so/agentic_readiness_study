@@ -1,0 +1,172 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/tappeto-florentine-baroque-in-viscosa-crema-l-230-x-l-160-cm-36583085.html",
+ "file": "prodotti_tappeto-florentine-baroque-in-viscosa-crema-l-230-x-l-160-cm-36583085.html.html",
+ "title": "Tappeto Florentine Baroque in viscosa crema L 230 x L 160 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 5881,
+ "attributes": {
+  "sku": {
+   "value": "36583085",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "36583085"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8055742459717",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8055742459717"
+    }
+   ]
+  },
+  "material": {
+   "value": "100% viscosa",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Composizione (in %)",
+     "value": "100% viscosa"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Interno",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Luogo di utilizzo",
+     "value": "Interno"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Meccanico",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di fabbricazione",
+     "value": "Meccanico"
+    }
+   ]
+  },
+  "weight": {
+   "value": "5888",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso totale (in g/m²)",
+     "value": "5888"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "160x230",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione (L x L) (in cm)",
+     "value": "160x230"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "2"
+    }
+   ]
+  },
+  "care": {
+   "value": "Lavare a mano a 30 ° C",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Consigli per il lavaggio",
+     "value": "Lavare a mano a 30 ° C"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "160",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "160"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "23"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "23"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "7.59",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "7.59"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "Abc Italia srl",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "Abc Italia srl"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Fondo antiscivolo": "No",
+  "Compatibilità riscaldamento a pavimento": "Sì",
+  "Home Index": "C"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 13,
+  "L3": 2,
+  "dropped": 4
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "url": "https://www.bagnity.com/it/bicchiere-porta-spazzolini-da-appoggio-in-acciaio-lucido-ao0010al.html",
+ "file": "it_bicchiere-porta-spazzolini-da-appoggio-in-acciaio-lucido-ao0010al.html.html",
+ "title": "Bicchiere porta spazzolini da appoggio in acciaio lucido",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 7410,
+ "attributes": {
+  "brand": {
+   "value": "Inda",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Inda"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Brand",
+     "value": "Inda"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Acciaio"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Acciaio inox"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Argento",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Argento"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Acciaio lucido"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Tondo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Forma",
+     "value": "Tondo"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Cromato, Lucido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "Cromato, Lucido"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Da appoggio",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Installazione",
+     "value": "Da appoggio"
+    }
+   ]
+  },
+  "width": {
+   "value": "8 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "8 cm"
+    }
+   ]
+  },
+  "depth": {
+   "value": "8 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Profondità",
+     "value": "8 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "10 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "10 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 9,
+  "dropped": 25
+ }
+}

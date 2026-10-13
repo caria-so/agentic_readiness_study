@@ -1,0 +1,87 @@
+2026-10-03 07:25:48,158 INFO excluded: Idrocentro (pdf_catalog_only)
+2026-10-03 07:25:48,158 INFO excluded: ManoMano Italia (cloudflare_challenge_manual_visit_pending)
+2026-10-03 07:25:48,159 INFO auditing 25 sites, n=25 products each
+2026-10-03 07:25:48,657 INFO Chrome persistent profile ready (/Users/fedepro/.deepowl-chrome); ~12s min between same-domain loads
+2026-10-03 07:25:48,657 INFO If blocks cite your IP, use a clean network once in the visible browser — code cannot fix datacenter/VPN reputation alone.
+2026-10-03 07:27:41,589 INFO [1/25] Amazon.it                custom      no_candidates     tries=4   prod=0   ld/md=0/0 dims=0.00 mat=0.00 rel=0.00  pool_exhausted (113s)
+2026-10-03 07:38:21,365 INFO [2/25] Arcshop                  shopify     open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (640s)
+2026-10-03 07:49:31,417 INFO [3/25] Arredobagno360           magento     open              tries=26  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (670s)
+2026-10-03 08:00:55,217 INFO [4/25] Bagnity                  magento     open              tries=26  prod=25  ld/md=25/0 dims=0.00 mat=1.00 rel=0.00  sample_complete (684s)
+2026-10-03 08:12:43,652 INFO [5/25] Bagnodistile             prestashop  open              tries=29  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  HTTP 404×2 (708s)
+2026-10-03 08:23:14,950 INFO [6/25] Bertani                  shopify     open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (631s)
+2026-10-03 08:36:50,323 INFO [7/25] Boleco                   prestashop  open              tries=27  prod=25  ld/md=0/25 dims=0.00 mat=0.00 rel=0.00  sample_complete (815s)
+2026-10-03 08:38:17,623 INFO [8/25] Ceramikeshop             prestashop  no_candidates     tries=3   prod=0   ld/md=0/0 dims=0.00 mat=0.00 rel=0.00  pool_exhausted (87s)
+2026-10-03 08:38:17,860 INFO [9/25] Deghi                    custom      no_candidates     tries=0   prod=0   ld/md=0/0 dims=0.00 mat=0.00 rel=0.00  pool_exhausted (0s)
+2026-10-03 08:48:53,856 INFO [10/25] Dwelli                   magento     open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (636s)
+2026-10-03 09:11:00,536 INFO [11/25] IKEA Italia              custom      open              tries=40  prod=25  ld/md=25/0 dims=0.92 mat=0.72 rel=0.00  sample_complete (1327s)
+2026-10-03 09:17:36,202 INFO [12/25] Idro-Bric                prestashop  degraded          tries=15  prod=15  ld/md=15/0 dims=0.00 mat=0.00 rel=0.00  pool_exhausted (396s)
+2026-10-03 09:29:19,829 INFO [13/25] InBagno                  prestashop  open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (704s)
+2026-10-03 09:41:20,287 INFO [14/25] Iperceramica             custom      open              tries=30  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  HTTP 404×1 (720s)
+2026-10-04 16:55:14,238 INFO excluded: Idrocentro (pdf_catalog_only)
+2026-10-04 16:55:14,238 INFO excluded: ManoMano Italia (cloudflare_challenge_manual_visit_pending)
+2026-10-04 16:55:14,238 INFO auditing 25 sites, n=25 products each
+2026-10-04 16:55:14,774 INFO Chrome persistent profile ready (/Users/fedepro/.deepowl-chrome); ~12s min between same-domain loads
+2026-10-04 16:55:14,774 INFO If blocks cite your IP, use a clean network once in the visible browser — code cannot fix datacenter/VPN reputation alone.
+2026-10-04 16:55:14,813 INFO [1/25] Amazon.it                resumed from product_audit.json
+2026-10-04 16:55:14,814 INFO [2/25] Arcshop                  resumed from product_audit.json
+2026-10-04 16:55:14,814 INFO [3/25] Arredobagno360           resumed from product_audit.json
+2026-10-04 16:55:14,814 INFO [4/25] Bagnity                  resumed from product_audit.json
+2026-10-04 16:55:14,815 INFO [5/25] Bagnodistile             resumed from product_audit.json
+2026-10-04 16:55:14,815 INFO [6/25] Bertani                  resumed from product_audit.json
+2026-10-04 16:55:14,816 INFO [7/25] Boleco                   resumed from product_audit.json
+2026-10-04 17:11:20,019 INFO [8/25] Ceramikeshop             prestashop  open              tries=37  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (965s)
+2026-10-04 17:21:32,620 INFO [9/25] Deghi                    custom      open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (613s)
+2026-10-04 17:21:32,620 INFO [10/25] Dwelli                   resumed from product_audit.json
+2026-10-04 17:21:32,621 INFO [11/25] IKEA Italia              resumed from product_audit.json
+2026-10-04 17:21:32,621 INFO [12/25] Idro-Bric                resumed from product_audit.json
+2026-10-04 17:21:32,621 INFO [13/25] InBagno                  resumed from product_audit.json
+2026-10-04 17:21:32,622 INFO [14/25] Iperceramica             resumed from product_audit.json
+2026-10-04 17:32:08,968 INFO [15/25] Jo-Bagno                 woocommerce open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (636s)
+2026-10-04 17:44:07,816 INFO [16/25] Jysk                     custom      open              tries=28  prod=25  ld/md=25/0 dims=0.40 mat=0.00 rel=0.00  sample_complete (719s)
+2026-10-04 18:15:54,949 INFO [17/25] KVStore                  magento     degraded          tries=75  prod=3   ld/md=0/0 dims=0.00 mat=0.00 rel=0.00  pool_exhausted (1907s)
+2026-10-04 18:29:32,306 INFO [18/25] Leroy Merlin Italia      custom      open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (817s)
+2026-10-04 18:40:23,428 INFO [19/25] Mondialshop              prestashop  open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (651s)
+2026-10-04 18:53:46,380 INFO [20/25] Mondo Convenienza        magento     open              tries=29  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (803s)
+2026-10-05 08:01:31,528 INFO excluded: Idrocentro (pdf_catalog_only)
+2026-10-05 08:01:31,528 INFO excluded: ManoMano Italia (cloudflare_challenge_manual_visit_pending)
+2026-10-05 08:01:31,528 INFO auditing 25 sites, n=25 products each
+2026-10-05 08:01:32,056 INFO Chrome persistent profile ready (/Users/fedepro/.deepowl-chrome); ~12s min between same-domain loads
+2026-10-05 08:01:32,056 INFO If blocks cite your IP, use a clean network once in the visible browser — code cannot fix datacenter/VPN reputation alone.
+2026-10-05 08:01:32,100 INFO [1/25] Amazon.it                resumed from product_audit.json
+2026-10-05 08:01:32,101 INFO [2/25] Arcshop                  resumed from product_audit.json
+2026-10-05 08:01:32,102 INFO [3/25] Arredobagno360           resumed from product_audit.json
+2026-10-05 08:01:32,102 INFO [4/25] Bagnity                  resumed from product_audit.json
+2026-10-05 08:01:32,102 INFO [5/25] Bagnodistile             resumed from product_audit.json
+2026-10-05 08:01:32,103 INFO [6/25] Bertani                  resumed from product_audit.json
+2026-10-05 08:01:32,103 INFO [7/25] Boleco                   resumed from product_audit.json
+2026-10-05 08:01:32,103 INFO [8/25] Ceramikeshop             resumed from product_audit.json
+2026-10-05 08:01:32,104 INFO [9/25] Deghi                    resumed from product_audit.json
+2026-10-05 08:01:32,104 INFO [10/25] Dwelli                   resumed from product_audit.json
+2026-10-05 08:01:32,104 INFO [11/25] IKEA Italia              resumed from product_audit.json
+2026-10-05 08:01:32,105 INFO [12/25] Idro-Bric                resumed from product_audit.json
+2026-10-05 08:01:32,105 INFO [13/25] InBagno                  resumed from product_audit.json
+2026-10-05 08:01:32,105 INFO [14/25] Iperceramica             resumed from product_audit.json
+2026-10-05 08:01:32,106 INFO [15/25] Jo-Bagno                 resumed from product_audit.json
+2026-10-05 08:01:32,106 INFO [16/25] Jysk                     resumed from product_audit.json
+2026-10-05 08:01:32,106 INFO [17/25] KVStore                  resumed from product_audit.json
+2026-10-05 08:01:32,107 INFO [18/25] Leroy Merlin Italia      resumed from product_audit.json
+2026-10-05 08:01:32,107 INFO [19/25] Mondialshop              resumed from product_audit.json
+2026-10-05 08:01:32,108 INFO [20/25] Mondo Convenienza        resumed from product_audit.json
+2026-10-05 08:17:00,351 INFO [21/25] OBI Italia               custom      open              tries=25  prod=25  ld/md=25/0 dims=0.96 mat=0.00 rel=0.00  sample_complete (928s)
+2026-10-05 08:55:29,515 INFO [22/25] Paramashop               shopware    open              tries=84  prod=24  ld/md=0/24 dims=0.00 mat=0.00 rel=0.00  pool_exhausted (2309s)
+2026-10-05 09:06:01,585 INFO [23/25] ShopBagno                shopify     open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (632s)
+2026-10-05 09:17:53,900 INFO [24/25] Tecnomat                 magento     open              tries=25  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (712s)
+2026-10-05 09:32:10,529 INFO [25/25] Termoidraulica RV        woocommerce open              tries=32  prod=25  ld/md=25/0 dims=0.00 mat=0.00 rel=0.00  sample_complete (857s)
+2026-10-05 09:32:10,660 INFO wrote discovery_merged/product_audit.csv (27 rows, 2 excluded)
+2026-10-05 09:32:10,660 INFO ── access: {'no_candidates': 1, 'open': 22, 'degraded': 2, 'excluded': 2}
+2026-10-05 09:32:10,660 INFO ── across 22 sites with >=20 product pages ──
+2026-10-05 09:32:10,660 INFO    has_price                  median 1.00  sites>0: 21/22
+2026-10-05 09:32:10,660 INFO    has_gtin_or_mpn            median 1.00  sites>0: 16/22
+2026-10-05 09:32:10,660 INFO    has_brand                  median 1.00  sites>0: 17/22
+2026-10-05 09:32:10,660 INFO    has_material               median 0.00  sites>0: 2/22
+2026-10-05 09:32:10,660 INFO    has_color                  median 0.00  sites>0: 4/22
+2026-10-05 09:32:10,660 INFO    has_size_or_dims           median 0.00  sites>0: 3/22
+2026-10-05 09:32:10,660 INFO    has_additional_property    median 0.00  sites>0: 1/22
+2026-10-05 09:32:10,660 INFO    has_any_relational         median 0.00  sites>0: 0/22
+2026-10-05 09:32:10,660 INFO    platforms: {'shopify': 3, 'magento': 5, 'prestashop': 5, 'custom': 6, 'woocommerce': 2, 'shopware': 1}
+2026-10-05 09:32:10,660 INFO    pages audited: 549  (json-ld 500, microdata 49, no markup 0)

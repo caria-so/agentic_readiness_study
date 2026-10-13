@@ -1,0 +1,90 @@
+{
+ "url": "https://jo-bagno.it/parete-walk-in/box-doccia-nero-walk-in-8-mm-h-200-wolf-line.html",
+ "file": "parete-walk-in_box-doccia-nero-walk-in-8-mm-h-200-wolf-line.html.html",
+ "title": "Box Doccia Nero Walk-In 8 mm H 200 WOLF LINE",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1756,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Jo-Bagno.it",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jo-Bagno.it"
+    }
+   ]
+  },
+  "sku": {
+   "value": "JW911-WOLFLINE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "JW911-WOLFLINE"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "da 80/90/100/110/120/130/140/150/160 cm H 200 cm 8mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "da 80/90/100/110/120/130/140/150/160 cm H 200 cm 8mm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misure Lato A",
+     "value": "da 80/90/100/110/120/130/140/150/160 x h200 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "55x36xh43 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "70/80/90xh200 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misura",
+     "value": "100/120/140 x h 200 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Flat Nero Matte",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Struttura",
+     "value": "Flat Nero Matte"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 6,
+  "dropped": 3
+ }
+}

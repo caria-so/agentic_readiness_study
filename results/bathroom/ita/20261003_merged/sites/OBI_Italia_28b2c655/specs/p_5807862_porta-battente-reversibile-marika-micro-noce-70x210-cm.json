@@ -1,0 +1,187 @@
+{
+ "url": "https://www.obi-italia.it/p/5807862/porta-battente-reversibile-marika-micro-noce-70x210-cm",
+ "file": "p_5807862_porta-battente-reversibile-marika-micro-noce-70x210-cm.html",
+ "title": "Porta battente reversibile Marika micro noce 70x210 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 10166,
+ "attributes": {
+  "sku": {
+   "value": "5807862",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5807862"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Art. N",
+     "value": "5807862"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8058753240091",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8058753240091"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "EAN(s)",
+     "value": "8058753240091"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Noce",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Noce"
+    }
+   ]
+  },
+  "width": {
+   "value": "73.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "73.00 CMT"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "73,0 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "212.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "212.00 CMT"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "2,12 m"
+    }
+   ]
+  },
+  "depth": {
+   "value": "4.40 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "4.40 CMT"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Profondità",
+     "value": "4,4 cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "30 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "30 KGM"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "30,0 kg"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "70X210 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "70X210 cm"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Porta intera",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Porta intera"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Forma spigolo",
+     "value": "Bordo angolare"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Altro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Superficie",
+     "value": "Altro"
+    }
+   ]
+  },
+  "material": {
+   "value": "Senza vetro di sicurezza",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Vetro di sicurezza",
+     "value": "Senza vetro di sicurezza"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Decorazione": "Imitazione di legno di noce",
+  "Battuta": "A sinistra e a destra",
+  "Accessori": "Serratura per porta",
+  "Inserto in vetro": "Senza inserto in vetro"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "NADDEO PORTE SRL VIA BELLINI 72 84090 MONTECORVINO PUGLIANO (SA) IT direzione@naddeoporte.it EAN(s): [ 8058753240091 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 8,
+  "L2": 12,
+  "L3": 2,
+  "dropped": 1
+ }
+}

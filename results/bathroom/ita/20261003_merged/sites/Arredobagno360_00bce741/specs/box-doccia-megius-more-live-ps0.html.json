@@ -1,0 +1,177 @@
+{
+ "url": "https://www.arredobagno360.it/box-doccia-megius-more-live-ps0.html",
+ "file": "box-doccia-megius-more-live-ps0.html.html",
+ "title": "More Live PS0 | Box doccia Soffietto per nicchia, varie misure e finiture",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4718,
+ "attributes": {
+  "sku": {
+   "value": "box-doccia-megius-more-live-ps0",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "box-doccia-megius-more-live-ps0"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "box-doccia-megius-more-live-ps0",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "box-doccia-megius-more-live-ps0"
+    }
+   ]
+  },
+  "series": {
+   "value": "More Live PS0 | Box doccia Soffietto per nicchia, varie misure e finiture",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "More Live PS0 | Box doccia Soffietto per nicchia, varie misure e finiture"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Modello",
+     "value": "MORE LIVE PS0"
+    }
+   ]
+  },
+  "weight": {
+   "value": "29.0000 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "29.0000 KGM"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "-- Seleziona -- 67 - 72 cm 72 - 77 cm +23,03 € 77 - 82 cm +53,22 € 82 - 87 cm +81,80 € 87 - 92 cm +116,75 € 97 - 97 cm +139,79 € 97 - 102 cm +173,14 €",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione lato con porta",
+     "value": "-- Seleziona -- 67 - 72 cm 72 - 77 cm +23,03 € 77 - 82 cm +53,22 € 82 - 87 cm +81,80 € 87 - 92 cm +116,75 € 97 - 97 cm +139,79 € 97 - 102 cm +173,14 €"
+    }
+   ]
+  },
+  "finish": {
+   "value": "-- Seleziona -- Bianco RAL9010 Argento satinato +38,13 € Argento lucido +104,04 €",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura profili",
+     "value": "-- Seleziona -- Bianco RAL9010 Argento satinato +38,13 € Argento lucido +104,04 €"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Finitura vetri",
+     "value": "-- Seleziona -- Trasparente Orange Serigrafia Line +261,30 € Serigrafia Stripe +261,30 € Satinato +261,30 €"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Megius",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Megius"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Soffietto per nicchia",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Soffietto per nicchia"
+    }
+   ]
+  },
+  "height": {
+   "value": "195 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "195 cm"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "6 mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessore vetro lato",
+     "value": "6 mm"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "16 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Interasse maniglia",
+     "value": "16 cm"
+    }
+   ]
+  },
+  "care": {
+   "value": "si sconsiglia di eseguire azioni meccaniche con attrezzi duri e/o abrasivi",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "PULIZIA GENERALE",
+     "value": "si sconsiglia di eseguire azioni meccaniche con attrezzi duri e/o abrasivi"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "mantenere il trattamento nel tempo": "semplici accorgimenti",
+  "non utilizzare spugne": "panni abrasivi",
+  "sciacquare": "superficie interna",
+  "Trattamento antigoccia sui vetri": "optional",
+  "Estensibilità profilo-profilo": "5 cm",
+  "Su misura": "è possibile realizzare il box doccia anche su misura, sia in altezza, che in larghezza."
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 6,
+  "L3": 10,
+  "dropped": 7
+ }
+}

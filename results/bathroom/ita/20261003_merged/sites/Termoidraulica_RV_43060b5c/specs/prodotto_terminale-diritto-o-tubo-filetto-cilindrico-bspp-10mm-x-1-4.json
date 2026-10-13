@@ -1,0 +1,75 @@
+{
+ "url": "https://en.termoidraulicarv.com/prodotto/terminale-diritto-o-tubo-filetto-cilindrico-bspp-10mm-x-1-4/",
+ "file": "prodotto_terminale-diritto-o-tubo-filetto-cilindrico-bspp-10mm-x-1-4.html",
+ "title": "Terminale diritto Ø tubo – filetto cilindrico BSP(P) 10MM x 1/4″",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3297,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "D153-AMCB1004M",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D153-AMCB1004M"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "D153-AMCB1004M"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "58002",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "58002"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,200000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Weight",
+     "value": "0,200000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 1,
+  "L3": 1,
+  "dropped": 2
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "url": "https://www.obi-italia.it/p/4064309/pasta-polimerica-to-do-you-clay-034-britsh-green-56-g",
+ "file": "p_4064309_pasta-polimerica-to-do-you-clay-034-britsh-green-56-g.html",
+ "title": "Pasta polimerica To-Do You Clay 034 Britsh Green 56 g",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 682,
+ "attributes": {
+  "sku": {
+   "value": "4064309",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "4064309"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8030055699333",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8030055699333"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Verde",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Verde"
+    }
+   ]
+  },
+  "width": {
+   "value": "5.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "5.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "9.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "9.00 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "2.50 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "2.50 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.06 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.06 KGM"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "COLORIFICIO CENTRALE SRL Via industria 12,14,16 25030 Torbole Casaglia IT info@colorificiocentrale.it EAN(s): [ 8030055699333 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

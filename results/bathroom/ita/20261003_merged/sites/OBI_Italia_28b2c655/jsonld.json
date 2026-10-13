@@ -1,0 +1,117 @@
+{
+  "source": "https://www.obi-italia.it/",
+  "generated": "2026-09-30T20:10:18.987136",
+  "block_count": 1,
+  "types": [
+    "ContactPoint",
+    "ImageObject",
+    "Organization",
+    "ReadAction",
+    "WebPage"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 2320,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.obi-italia.it#/schema/organization/#OBI",
+            "@type": "Organization",
+            "name": "OBI",
+            "url": "https://www.obi-italia.it",
+            "contactPoint": {
+              "@type": "ContactPoint"
+            },
+            "hasPOS": {},
+            "logo": {
+              "contentUrl": "/assets/icons/logos/obi-logo-orange.svg",
+              "url": "/assets/icons/logos/obi-logo-orange.svg",
+              "description": "Die Nummer Eins in Deutschland: OBI Baumarkt - Online und in Ihrer Nähe immer für Sie da! Alles für Heimwerken, Bauen und Garten bei OBI.",
+              "name": "OBI Baumarkt",
+              "width": 147,
+              "height": 34
+            },
+            "sameAs": []
+          },
+          {
+            "@id": "https://www.obi-italia.it#webpage",
+            "@type": "WebPage",
+            "dateCreated": "2022-11-11T10:18:54.348+01:00",
+            "dateModified": "2026-09-23T14:06:09.990+02:00",
+            "description": "OBI Italia - il numero uno per arredare, decorare e rinnovare casa e giardino. Scopri il nostro catalogo prodotti e le nostre offerte, compra online o in negozio",
+            "headline": "OBI Italia - tutto per il fai da te, bricolage, casa, giardino",
+            "name": "OBI Italia - tutto per il fai da te, bricolage, casa, giardino",
+            "url": "https://www.obi-italia.it",
+            "author": {
+              "@id": "https://www.obi-italia.it#/schema/organization/#OBI"
+            },
+            "creator": {
+              "@id": "#OBI"
+            },
+            "keywords": [
+              "fai-da-te",
+              "bricolage",
+              "giardino",
+              "idraulica",
+              "sanitari",
+              "barbecue",
+              "bbq",
+              "mobili da giardino",
+              "pergole",
+              "fiori",
+              "piante",
+              "auto",
+              "officina",
+              "elettroutensili",
+              "ferramenta",
+              "pavimenti",
+              "rivestimenti",
+              "piastrelle",
+              "elettricità",
+              "smarthome",
+              "domotica",
+              "riscaldamento",
+              "stufe",
+              "pellet",
+              "mobili bagno",
+              "docce",
+              "finestre pvc",
+              "vernici"
+            ],
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.obi-italia.it"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@type": "ImageObject",
+              "name": "Promozione SpaccaPrezzo!",
+              "url": "https://imgix.obi.de/api/disc/cms/public/dam/ita/promo/super_offerte_2/KV%20HEADER%20Spaccaprezzo%20Settembre_New2.png",
+              "thumbnailUrl": "https://imgix.obi.de/api/disc/cms/public/dam/ita/promo/super_offerte_2/KV%20HEADER%20Spaccaprezzo%20Settembre_New2.png?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=1&w=300&auto=format%2Ccompress&h=169",
+              "author": {
+                "@id": "#OBI"
+              },
+              "publisher": {
+                "@id": "#OBI"
+              },
+              "creator": {
+                "@id": "https://www.obi-italia.it#/schema/organization/#OBI"
+              },
+              "inLanguage": "it-IT",
+              "contentUrl": "https://imgix.obi.de/api/disc/cms/public/dam/ita/promo/super_offerte_2/KV%20HEADER%20Spaccaprezzo%20Settembre_New2.png"
+            },
+            "publisher": {
+              "@id": "#OBI"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

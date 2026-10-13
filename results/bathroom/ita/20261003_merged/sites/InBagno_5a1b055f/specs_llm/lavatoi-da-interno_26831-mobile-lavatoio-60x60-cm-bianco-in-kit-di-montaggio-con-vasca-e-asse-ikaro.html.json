@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/lavatoi-da-interno/26831-mobile-lavatoio-60x60-cm-bianco-in-kit-di-montaggio-con-vasca-e-asse-ikaro.html",
+  "model": "qwen2.5:32b",
+  "html": "lavatoi-da-interno_26831-mobile-lavatoio-60x60-cm-bianco-in-kit-di-montaggio-con-vasca-e-asse-ikaro.html.html",
+  "title": "Mobile lavatoio 60x60 cm bianco in kit di montaggio con vasca e asse Ikaro",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "60 cm",
+      "evidence": "Dimensioni mobile: L 61 x p 60 x H 85 cm;",
+      "location": "body"
+    },
+    "height": {
+      "value": "85 cm",
+      "evidence": "Dimensioni mobile: L 61 x p 60 x H 85 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "61 cm",
+      "evidence": "Dimensioni mobile: L 61 x p 60 x H 85 cm;",
+      "location": "body"
+    },
+    "opening": {
+      "value": "apertura mediante maniglie cromo",
+      "evidence": "Struttura con due ante, apertura mediante maniglie cromo da montare;",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "Vasca con foro troppo pieno e predisposizione per foro miscelatore",
+      "evidence": "Vasca con foro troppo pieno e predisposizione per foro miscelatore;",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3797,
+    "output_tokens": 653,
+    "seconds": 64.67
+  }
+}

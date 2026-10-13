@@ -1,0 +1,81 @@
+{
+  "company": "Iperceramica",
+  "url": "https://www.iperceramica.it/",
+  "site_dir": "discovery_round_final_e/sites/Iperceramica_dacdc019",
+  "final_url": "https://www.iperceramica.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.414028",
+  "http_status": 200,
+  "fetch_ms": 24740.5,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.iperceramica.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Iperceramica_dacdc019/index.html",
+      "count": 240481,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.iperceramica.it/sitemap.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Iperceramica_dacdc019/sitemap.json",
+      "count": 16869,
+      "total_available": 16869,
+      "truncated": false,
+      "product_url_count": 14409,
+      "product_total_available": 14409
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Iperceramica_dacdc019/jsonld.json",
+      "count": 1,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Iperceramica_dacdc019/links.json",
+      "count": 191,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

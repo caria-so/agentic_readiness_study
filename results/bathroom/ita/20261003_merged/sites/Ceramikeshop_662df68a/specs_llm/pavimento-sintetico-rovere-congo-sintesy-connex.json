@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/pavimento-sintetico-rovere-congo-sintesy-connex",
+  "model": "qwen2.5:32b",
+  "html": "pavimento-sintetico-rovere-congo-sintesy-connex.html",
+  "title": "Pavimento sintetico Rovere Congo Sintesy | Conne.X | Skema",
+  "text_chars": 8881,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "vinile caricato con carbonato di calcio",
+      "evidence": "Conne.x è un pavimento vinilico rigido, con tecnologia SPC Skema, dotato di pannello estruso in vinile caricato con carbonato di calcio",
+      "location": "body"
+    },
+    "width": {
+      "value": "180 mm",
+      "evidence": "Dimensioni: 1500x180x5,5 mm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "5,5 mm",
+      "evidence": "Dimensioni: 1500x180x5,5 mm",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "certification": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Bfl-s1, A+ relativa all’emissione di VOC",
+        "evidence": "Reazione al Fuoco: Bfl-s1\nCertificazione ambientale A+ relativa all’emissione di VOC"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4467,
+    "output_tokens": 651,
+    "seconds": 68.29
+  }
+}

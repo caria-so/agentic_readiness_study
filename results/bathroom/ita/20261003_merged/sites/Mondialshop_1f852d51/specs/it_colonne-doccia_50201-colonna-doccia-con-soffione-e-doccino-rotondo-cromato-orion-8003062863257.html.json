@@ -1,0 +1,112 @@
+{
+ "url": "https://www.mondialshop.it/it/colonne-doccia/50201-colonna-doccia-con-soffione-e-doccino-rotondo-cromato-orion-8003062863257.html",
+ "file": "it_colonne-doccia_50201-colonna-doccia-con-soffione-e-doccino-rotondo-cromato-orion-8003062863257.html.html",
+ "title": "Colonna Doccia con Soffione e Doccino Rotondo Cromato ORION",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2419,
+ "attributes": {
+  "brand": {
+   "value": "Metaform",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Metaform"
+    }
+   ]
+  },
+  "sku": {
+   "value": "101R67100",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "101R67100"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8003062863257",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8003062863257"
+    }
+   ]
+  },
+  "weight": {
+   "value": "2.660000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "2.660000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Cromato"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Tondo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Forma",
+     "value": "Tondo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Design moderno e minimalista",
+     "value": "Le linee essenziali e la finitura cromata donano un tocco di raffinatezza al tuo bagno e si adattano perfettamente a qualsiasi stile di arredamento."
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio cromato, ABS e ottone cromato garantiscono una lunga durata nel tempo, una resistenza all'usura e alla corrosione e una brillantezza impareggiabile.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiali di alta qualità",
+     "value": "Acciaio cromato, ABS e ottone cromato garantiscono una lunga durata nel tempo, una resistenza all'usura e alla corrosione e una brillantezza impareggiabile."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Deviatore con presa d'acqua 1/2\"": "Permette di scegliere tra il soffione e la doccetta con facilità.",
+  "Ugelli in silicone morbido": "Garantiscono un getto uniforme e piacevole sulla pelle.",
+  "Anticalcare": "Il trattamento anticalcare previene la formazione di incrostazioni e facilita la pulizia della doccia."
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 2,
+  "L3": 5,
+  "dropped": 0
+ }
+}

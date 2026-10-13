@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/miscelatore-per-lavello-con-canna-alta-modern-line",
+  "model": "qwen2.5:32b",
+  "html": "miscelatore-per-lavello-con-canna-alta-modern-line.html",
+  "title": "Miscelatore lavello canna alta Modern Line | Gaboli",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromo",
+      "evidence": "Miscelatore per lavello con canna alta. Collezione Modern Line versione cromo.",
+      "location": "body"
+    },
+    "series": {
+      "value": "Modern Line",
+      "evidence": "Miscelatore per lavello con canna alta. Collezione Modern Line versione cromo.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4722,
+    "output_tokens": 512,
+    "seconds": 58.3
+  }
+}

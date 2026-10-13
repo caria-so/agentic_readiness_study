@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.com/hafro-rigenera-200-shower-column-4ria3n0.html",
+  "model": "qwen2.5:32b",
+  "html": "hafro-rigenera-200-shower-column-4ria3n0.html.html",
+  "title": "Hafro Rigenera 200 Shower Column 4RIA3N0 | Dwellistore",
+  "text_chars": 596,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Steel and polyurethane",
+      "evidence": "Steel and polyurethane foldable seat",
+      "location": "body"
+    },
+    "width": {
+      "value": "35 cm",
+      "evidence": "Size: cm 35x11x199h",
+      "location": "body"
+    },
+    "height": {
+      "value": "199 cm",
+      "evidence": "Size: cm 35x11x199h",
+      "location": "body"
+    },
+    "depth": {
+      "value": "11 cm",
+      "evidence": "Size: cm 35x11x199h",
+      "location": "body"
+    },
+    "water": {
+      "value": "6 hydromassage jets with 3 functions: nebulizing, pulsating and raining",
+      "evidence": "6 hydromassage jets with 3 functions: nebulizing, pulsating and raining",
+      "location": "body"
+    },
+    "series": {
+      "value": "Rigenera 200",
+      "evidence": "Hafro Rigenera 200 Shower Column 4RIA3N0",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1068,
+    "output_tokens": 626,
+    "seconds": 50.92
+  }
+}

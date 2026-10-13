@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/mobili-bagno-online-oltre-91-cm/29108-mobile-bagno-a-terra-120-cm-verde-tre-cassetti-e-doppia-vasca-tierra.html",
+  "model": "qwen2.5:32b",
+  "html": "mobili-bagno-online-oltre-91-cm_29108-mobile-bagno-a-terra-120-cm-verde-tre-cassetti-e-doppia-vasca-tierra.html.html",
+  "title": "Mobile bagno a terra 120 cm verde con doppia vasca – Tierra",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "120 cm",
+      "evidence": "Dimensioni: L 120 x p 46 x H 84 cm;",
+      "location": "body"
+    },
+    "height": {
+      "value": "84 cm",
+      "evidence": "Dimensioni: L 120 x p 46 x H 84 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "46 cm",
+      "evidence": "Dimensioni: L 120 x p 46 x H 84 cm;",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Mobile bagno a terra Tierra da 120 cm è la soluzione ideale per arredare la zona lavabo con uno stile moderno, elegante e funzionale.",
+      "location": "body"
+    },
+    "opening": {
+      "value": "push and pull",
+      "evidence": "sei cassetti push and pull",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3829,
+    "output_tokens": 677,
+    "seconds": 63.4
+  }
+}

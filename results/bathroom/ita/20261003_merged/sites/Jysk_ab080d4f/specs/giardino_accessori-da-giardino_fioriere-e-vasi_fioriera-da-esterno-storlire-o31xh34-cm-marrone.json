@@ -1,0 +1,122 @@
+{
+ "url": "https://jysk.it/giardino/accessori-da-giardino/fioriere-e-vasi/fioriera-da-esterno-storlire-o31xh34-cm-marrone",
+ "file": "giardino_accessori-da-giardino_fioriere-e-vasi_fioriera-da-esterno-storlire-o31xh34-cm-marrone.html",
+ "title": "STORLIRE Fioriera da esterno STORLIRE Ø31xH34 cm marrone",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 8082,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "6426075",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "6426075"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "6426075"
+    }
+   ]
+  },
+  "material": {
+   "value": "Fibra d'argilla",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Fibra d'argilla"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Diametro 31 cm, Altezza 34 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni da montato",
+     "value": "Diametro 31 cm, Altezza 34 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Misure interne",
+     "value": "Diametro 23 cm, Altezza 32 cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Marrone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Marrone"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "3 kg"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Foro di drenaggio": "Con foro di drenaggio",
+  "Utilizzo": "Esterno",
+  "Resistente al gelo": "Sì"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 9,
+  "L3": 1,
+  "dropped": 28
+ }
+}

@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/set-miscelatori-lavabo-bidet-e-doccia-incasso-made-in-italy",
+  "model": "qwen2.5:32b",
+  "html": "products_set-miscelatori-lavabo-bidet-e-doccia-incasso-made-in-italy.html",
+  "title": "Set miscelatori lavabo bidet e doccia incasso Made in Italy | Arcshop",
+  "text_chars": 3326,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "ottone",
+      "evidence": "Design moderno in ottone cromato.",
+      "location": "body"
+    },
+    "finish": {
+      "value": "cromato",
+      "evidence": "Design moderno in ottone cromato.",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "moderno",
+      "evidence": "Design moderno in ottone cromato.",
+      "location": "body"
+    },
+    "series": {
+      "value": "Napoli",
+      "evidence": "Kit completo bagno serie Napoli: miscelatore lavabo, bidet e doccia incasso 1 uscita. Include pilette e flessibili.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Set miscelatori lavabo bidet e doccia incasso Made in Italy con pilette incluse",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Set miscelatori lavabo bidet e doccia incasso Made in Italy con pilette incluse"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1943,
+    "output_tokens": 645,
+    "seconds": 53.42
+  }
+}

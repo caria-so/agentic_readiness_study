@@ -1,0 +1,1339 @@
+{
+  "source": "https://www.bagnity.com/it/",
+  "generated": "2026-10-02T16:17:01.028833",
+  "total": 167,
+  "internal_count": 157,
+  "external_count": 10,
+  "links": [
+    {
+      "url": "https://www.bagnity.com/it/sales/guest/form/",
+      "fragment": "",
+      "text": "Segui il tuo ordine",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/sotto-i-riflettori.html",
+      "fragment": "",
+      "text": "Sotto i riflettori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/sotto-i-riflettori/i-piu-amati.html",
+      "fragment": "",
+      "text": "I più amati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/sotto-i-riflettori/ultimi-arrivi.html",
+      "fragment": "",
+      "text": "Ultimi arrivi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/sotto-i-riflettori/scelti-da-noi.html",
+      "fragment": "",
+      "text": "Scelti da noi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/sotto-i-riflettori/promozioni-bagno.html",
+      "fragment": "",
+      "text": "Promozioni bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno.html",
+      "fragment": "",
+      "text": "Accessori bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/set-accessori-bagno.html",
+      "fragment": "",
+      "text": "Set accessori bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/porta-asciugamani.html",
+      "fragment": "",
+      "text": "Porta asciugamani bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/barre-attrezzate-bagno.html",
+      "fragment": "",
+      "text": "Barre attrezzate bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/piantane-bagno.html",
+      "fragment": "",
+      "text": "Piantane bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/appendini-bagno.html",
+      "fragment": "",
+      "text": "Appendini Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/porta-teli-da-bagno.html",
+      "fragment": "",
+      "text": "Porta teli da bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/mensole-bagno.html",
+      "fragment": "",
+      "text": "Mensole bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/porta-rotolo-carta-igienica.html",
+      "fragment": "",
+      "text": "Porta carta igienica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/dispenser-sapone.html",
+      "fragment": "",
+      "text": "Dispenser sapone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/porta-spazzolini.html",
+      "fragment": "",
+      "text": "Porta spazzolini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/portasapone.html",
+      "fragment": "",
+      "text": "Portasapone bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/scopini-bagno.html",
+      "fragment": "",
+      "text": "Scopini bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/maniglioni-di-sicurezza.html",
+      "fragment": "",
+      "text": "Maniglioni di sicurezza",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/kit-incollo.html",
+      "fragment": "",
+      "text": "Kit incollo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/accessori-bagno-hotel.html",
+      "fragment": "",
+      "text": "Accessori bagno Hotel",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/a-muro.html",
+      "fragment": "",
+      "text": "Accessori bagno a muro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/da-appoggio.html",
+      "fragment": "",
+      "text": "Accessori bagno da appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/senza-forare.html",
+      "fragment": "",
+      "text": "Accessori bagno senza forare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/moderno.html",
+      "fragment": "",
+      "text": "Accessori bagno moderno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/classico.html",
+      "fragment": "",
+      "text": "Accessori bagno classico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno.html",
+      "fragment": "",
+      "text": "Complementi Arredo Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/termoarredo.html",
+      "fragment": "",
+      "text": "Termoarredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/illuminazione-bagno.html",
+      "fragment": "",
+      "text": "Illuminazione bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/specchi-ingranditori.html",
+      "fragment": "",
+      "text": "Specchi ingranditori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/pattumiere-bagno.html",
+      "fragment": "",
+      "text": "Pattumiere bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/portabiancheria.html",
+      "fragment": "",
+      "text": "Portabiancheria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/porta-fazzoletti.html",
+      "fragment": "",
+      "text": "Porta fazzoletti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/portaoggetti-bagno.html",
+      "fragment": "",
+      "text": "Portaoggetti bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/sgabelli-per-bagni.html",
+      "fragment": "",
+      "text": "Sgabelli bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/termoarredo/elettrico.html",
+      "fragment": "",
+      "text": "Termoarredo elettrico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/complementi-arredo-bagno/termoarredo/idraulico.html",
+      "fragment": "",
+      "text": "Termoarredo idraulico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno.html",
+      "fragment": "",
+      "text": "Mobili Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/mobili-bagno-con-lavabo.html",
+      "fragment": "",
+      "text": "Mobili bagno con lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/mobili-bagno-da-terra.html",
+      "fragment": "",
+      "text": "Mobiletti con rotelle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/colonne-bagno-e-pensili.html",
+      "fragment": "",
+      "text": "Colonne bagno e pensili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/lavabi-bagno.html",
+      "fragment": "",
+      "text": "Lavabi bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/specchi-bagno.html",
+      "fragment": "",
+      "text": "Specchi bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/sospesi.html",
+      "fragment": "",
+      "text": "Mobili bagno sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/mobili-bagno-con-lavabo/doppio-1.html",
+      "fragment": "",
+      "text": "Mobili bagno con doppio lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/mobili-bagno-con-lavabo/integrato.html",
+      "fragment": "",
+      "text": "Mobili bagno con lavabo integrato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/mobili-bagno-con-lavabo/in-appoggio.html",
+      "fragment": "",
+      "text": "Mobili bagno con lavabo in appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/mobili-bagno-con-lavabo/nero.html",
+      "fragment": "",
+      "text": "Mobili bagno con lavabo-nero",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/mobili-bagno-con-lavabo/bianco.html",
+      "fragment": "",
+      "text": "Mobili bagno con lavabo-bianco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/mobili-bagno-con-lavabo/marrone.html",
+      "fragment": "",
+      "text": "Mobili bagno con lavabo-marrone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/rubinetti-bagno.html",
+      "fragment": "",
+      "text": "Rubinetti Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/rubinetti-bagno/rubinetti-lavabo.html",
+      "fragment": "",
+      "text": "Rubinetti lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/rubinetti-bagno/rubinetti-bidet.html",
+      "fragment": "",
+      "text": "Rubinetti bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/rubinetti-bagno/rubinetti-doccia.html",
+      "fragment": "",
+      "text": "Rubinetti doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/rubinetti-bagno/pilette.html",
+      "fragment": "",
+      "text": "Pilette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/rubinetti-bagno/accessori-rubinetteria.html",
+      "fragment": "",
+      "text": "Accessori rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori.html",
+      "fragment": "",
+      "text": "Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/box-doccia.html",
+      "fragment": "",
+      "text": "Box doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/box-doccia-per-vasca.html",
+      "fragment": "",
+      "text": "Box doccia per vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/soffioni-doccia.html",
+      "fragment": "",
+      "text": "Soffioni doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/doccette-doccia.html",
+      "fragment": "",
+      "text": "Doccette doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/bracci-doccia.html",
+      "fragment": "",
+      "text": "Bracci doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/saliscendi-doccia.html",
+      "fragment": "",
+      "text": "Saliscendi doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/colonne-doccia.html",
+      "fragment": "",
+      "text": "Colonne doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/mensole-doccia.html",
+      "fragment": "",
+      "text": "Mensole doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/maniglioni-per-doccia.html",
+      "fragment": "",
+      "text": "Maniglioni per doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/sedili-doccia.html",
+      "fragment": "",
+      "text": "Sedili doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/sgabelli-doccia.html",
+      "fragment": "",
+      "text": "Sgabelli doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/tergivetri-doccia.html",
+      "fragment": "",
+      "text": "Tergivetri doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/box-doccia/walk-in.html",
+      "fragment": "",
+      "text": "Box doccia Walk-in",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/box-doccia/nicchia.html",
+      "fragment": "",
+      "text": "Box doccia per nicchia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/doccia-e-accessori/box-doccia/angolare.html",
+      "fragment": "",
+      "text": "Box doccia angolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/outlet.html",
+      "fragment": "",
+      "text": "Outlet Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/brands/",
+      "fragment": "",
+      "text": "Brands",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/brands/inda",
+      "fragment": "",
+      "text": "Inda",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/brands/lineabeta",
+      "fragment": "",
+      "text": "Lineabeta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/brands/paffoni",
+      "fragment": "",
+      "text": "Paffoni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/brands/siro",
+      "fragment": "",
+      "text": "Siro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/magazine/",
+      "fragment": "",
+      "text": "MAGAZINE",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/spedizione-e-consegna/",
+      "fragment": "",
+      "text": "Spedizione e consegna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/reso-facile/",
+      "fragment": "",
+      "text": "Reso facile",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pagamenti/",
+      "fragment": "",
+      "text": "Pagamenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/faq/",
+      "fragment": "",
+      "text": "FAQ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/bagnity-store/",
+      "fragment": "",
+      "text": "Punti Vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/chi-siamo/",
+      "fragment": "",
+      "text": "CHI SIAMO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/customer/account/",
+      "fragment": "",
+      "text": "Il mio Account",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/customer/account/index/",
+      "fragment": "",
+      "text": "Accedi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/customer/account/create/",
+      "fragment": "",
+      "text": "Crea un Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/wishlist/",
+      "fragment": "",
+      "text": "Lista desideri",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/checkout/cart/index/",
+      "fragment": "",
+      "text": "Carrello 0",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/checkout/",
+      "fragment": "",
+      "text": "Checkout",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/checkout/cart/",
+      "fragment": "",
+      "text": "Visualizza e modifica il carrello",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/",
+      "fragment": "contentarea",
+      "text": "Salta al contenuto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/sotto-i-riflettori/promozioni-bagno.html",
+      "fragment": "",
+      "text": "Scopri ora!",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/sotto-i-riflettori/promozioni-bagno/diamante.html",
+      "fragment": "",
+      "text": "DIAMANTE - Gola centrale Linee essenziali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/sotto-i-riflettori/promozioni-bagno/onice.html",
+      "fragment": "",
+      "text": "ONICE - Cassetti e fianchi a 45° Carattere contemporaneo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-idraulico-a-muro-caligo-in-acciaio-al-carbonio-bianco-75011-09.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/brands/Lineabeta",
+      "fragment": "",
+      "text": "Lineabeta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-idraulico-a-muro-caligo-in-acciaio-al-carbonio-antracite-75011-17.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-idraulico-a-muro-caligo-in-acciaio-al-carbonio-nero-75011-18.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-idraulico-a-muro-caligo-in-acciaio-al-carbonio-bianco-75021-09.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-idraulico-a-muro-caligo-in-acciaio-al-carbonio-antracite-75021-17.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-idraulico-a-muro-caligo-in-acciaio-al-carbonio-nero-75021-18.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-idraulico-a-muro-caligo-in-acciaio-al-carbonio-bianco-75031-09.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-idraulico-a-muro-caligo-in-acciaio-al-carbonio-antracite-75031-17.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-idraulico-a-muro-caligo-in-acciaio-al-carbonio-nero-75031-18.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-elettrico-a-muro-caligo-in-acciaio-al-carbonio-bianco-75041-09.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-elettrico-a-muro-caligo-in-acciaio-al-carbonio-antracite-75041-17.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/termoarredo-elettrico-a-muro-caligo-in-acciaio-al-carbonio-nero-75041-18.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobile-bagno-2-cassetti-l-120-con-lavabo-opaco-rovere-castano-diamante-m172b9abll165.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/brands/Inda",
+      "fragment": "",
+      "text": "Inda",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobile-bagno-2-cassetti-l-100-con-lavabo-opaco-rovere-naturale-diamante-m172b6abll119.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/box-doccia-ad-angolo-70x70-cm-2-ante-scorrevoli-bianco-stampato-2-b0022l01st.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/brands/Siro",
+      "fragment": "",
+      "text": "Siro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/portarotolo-styl-in-acciaio-lucido-a6025aal.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/box-doccia-per-nicchia-90-cm-con-anta-a-battente-cromo-trasparente-ba1-b0037ulutr.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/porta-asciugamani-forum-cromo-lucido-l-50-cm-a3690bcr.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobile-bagno-2-cassetti-l-120-con-lavabo-lucido-rovere-naturale-diamante-m172b93bll119.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/box-doccia-ad-angolo-80x80-cm-con-1-anta-a-battente-cromo-trasparente-ba2-b0036-b0020ulutr.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobile-bagno-120-cm-olmo-fume-con-2-cassetti-e-lavabo-in-ceramica-diamante-m172b9pbll158.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-dx-30x30-cm-rovere-naturale-b-p16003bdll119.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-sx-30x30-cm-rovere-naturale-b-p16003bsll119.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-dx-30x30-cm-rovere-castano-b-p16003bdll165.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-sx-30x30-cm-rovere-castano-b-p16003bsll165.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-dx-30x30-cm-rovere-miele-b-p16003bdll199.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-sx-30x30-cm-rovere-miele-b-p16003bsll199.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-dx-30x30-cm-olmo-fum-b-p16003bdll158.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-sx-30x30-cm-olmo-fum-b-p16003bsll158.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-dx-30x30-cm-abete-chiaro-b-p16003bdll198.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-sx-30x30-cm-abete-chiaro-b-p16003bsll198.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-dx-30x30-cm-bianco-opaco-b-p16003bdlc402.html",
+      "fragment": "",
+      "text": "(usato se / non supportato) -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/magazine/bagno-nero-idee-e-consigli-per-un-ambiente-elegante-e-moderno/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/magazine/arredare-il-bagno-di-una-camera-dhotel-con-lusso-ed-eleganza/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/magazine/come-scegliere-il-box-doccia-angolare-perfetto/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/magazine/come-arredare-un-bagno-con-lavanderia/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/magazine/soffioni-doccia-che-cambiano-il-tuo-bagno-guida-completa-per-scegliere-installare-e-mantenere-il-getto-perfetto/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/magazine/come-arredare-un-bagno-per-disabili-soluzioni-pratiche-e-funzionali/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mobili-bagno/mobili-bagno-completi.html",
+      "fragment": "",
+      "text": "Soluzioni complete bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/accessori-bagno-hotel/asciugamani-elettrici.html",
+      "fragment": "",
+      "text": "Asciugamani elettici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/accessori-bagno-hotel/distributori-carta-igienica.html",
+      "fragment": "",
+      "text": "Distributori carta igienica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/accessori-bagno/accessori-bagno-hotel/maniglioni-di-sicurezza.html",
+      "fragment": "",
+      "text": "Maniglioni di sicurezza hotel",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/privacy-policy",
+      "fragment": "",
+      "text": "Privacy policy",
+      "rel": "noopener noreferrer nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/chi-siamo",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/preventivi-personalizzati",
+      "fragment": "",
+      "text": "Preventivi Personalizzati",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/condizioni-generali-di-vendita",
+      "fragment": "",
+      "text": "Condizioni di vendita",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/spedizione-e-consegna",
+      "fragment": "",
+      "text": "Spedizione e consegna",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/pagamenti",
+      "fragment": "",
+      "text": "Pagamenti",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/faq",
+      "fragment": "",
+      "text": "FAQ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/informativa-reso-diritto-recesso",
+      "fragment": "",
+      "text": "Informativa reso e diritto di recesso",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/returns/guest/new/",
+      "fragment": "",
+      "text": "Richiedi recesso online",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/cookie-policy",
+      "fragment": "",
+      "text": "Cookie policy",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/it/mappa-del-sito",
+      "fragment": "",
+      "text": "Mappa del sito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.consorzionetcomm.it/soci/bagnity/",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/Bagnity/",
+      "fragment": "",
+      "text": "facebook",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/bagnitymag/",
+      "fragment": "",
+      "text": "instagram",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.tiktok.com/@bagnity",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.pinterest.it/BagnityStore/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.cosmobile.com/",
+      "fragment": "",
+      "text": "Engineered and designed by Cosmobile",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://wa.me/393760471290",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnity.com/static/version1790670626/frontend/Magenio/bagnity-hyva/it_IT/css/styles.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bagnity.com/media/favicon/default/bagnity-favicon.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bagnity.com/static/version1790670626/frontend/Magenio/bagnity-hyva/it_IT/Trustpilot_Reviews/css/trustpilot.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://layer.accelasearch.io/versions/1.10.48/static/css/app.css?version=v1.10.48",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://layer.accelasearch.io/versions/1.10.48/static/css/main.css?version=v1.10.48",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/4014.b5fec642c6440.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/mobile-bagno-l-80-con-lavabo-in-appoggio-bianco-opaco-2-ante-zaffiro-m171c3mblc402.html",
+  "model": "qwen2.5:32b",
+  "html": "it_mobile-bagno-l-80-con-lavabo-in-appoggio-bianco-opaco-2-ante-zaffiro-m171c3mblc402.html.html",
+  "title": "Mobile bagno 80 cm Bianco opaco  con 2 ante e lavabo in appoggio - Zaffiro",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "L.80 x P.45 x H.60 cm",
+      "evidence": "BASE PORTALAVABO: La base portalavabo a 2 ante, dalle dimensioni compatte (L.80 x P.45 x H.60 cm)",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3968,
+    "output_tokens": 728,
+    "seconds": 67.91
+  }
+}

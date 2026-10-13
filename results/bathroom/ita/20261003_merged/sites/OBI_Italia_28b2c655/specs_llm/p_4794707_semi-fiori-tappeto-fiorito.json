@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/4794707/semi-fiori-tappeto-fiorito",
+  "model": "qwen2.5:32b",
+  "html": "p_4794707_semi-fiori-tappeto-fiorito.html",
+  "title": "Semi fiori Tappeto fiorito",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "brand": {
+      "value": "MAGNANI GREEN SRL",
+      "evidence": "Dati del produttore MAGNANI GREEN SRL",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4218,
+    "output_tokens": 536,
+    "seconds": 57.79
+  }
+}

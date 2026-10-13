@@ -1,0 +1,83 @@
+{
+ "url": "https://www.bagnodistile.com/rubinetteria/535-miscelatore-doccia-incasso-con-deviatore-cromo-eden-693059702591.html",
+ "file": "rubinetteria_535-miscelatore-doccia-incasso-con-deviatore-cromo-eden-693059702591.html.html",
+ "title": "MISCELATORE DOCCIA INCASSO con deviatore CROMO EDEN",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4610,
+ "attributes": {
+  "brand": {
+   "value": "EMMEVI",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "EMMEVI"
+    }
+   ]
+  },
+  "sku": {
+   "value": "CR71019",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "CR71019"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059702591",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059702591"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "CR71019",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "CR71019"
+    }
+   ]
+  },
+  "weight": {
+   "value": "2.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "2.000000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 11
+ }
+}

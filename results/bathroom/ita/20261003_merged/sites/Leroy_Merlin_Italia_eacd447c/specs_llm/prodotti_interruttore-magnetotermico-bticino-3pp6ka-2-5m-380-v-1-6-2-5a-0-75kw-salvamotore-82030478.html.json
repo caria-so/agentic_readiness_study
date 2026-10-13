@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/interruttore-magnetotermico-bticino-3pp6ka-2-5m-380-v-1-6-2-5a-0-75kw-salvamotore-82030478.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_interruttore-magnetotermico-bticino-3pp6ka-2-5m-380-v-1-6-2-5a-0-75kw-salvamotore-82030478.html.html",
+  "title": "Interruttore magnetotermico BTICINO 3PP6kA 2.5M  380 V 1.6-2.5A/0.75KW salvamotore | Leroy Merlin",
+  "text_chars": 4475,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "series": {
+      "value": "3PP6kA 2.5M",
+      "evidence": "Interruttore magnetotermico BTICINO 3PP6kA 2.5M 380 V",
+      "location": "title"
+    },
+    "origin": {
+      "value": "Fabbricato in Italia.",
+      "evidence": "Sai perché è un prodotto Scelta Responsabile? Fabbricato in Italia.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "weight": {
+      "reason": "package_value",
+      "raw": {
+        "value": "0.33 kg",
+        "evidence": "Prodotto imballato: peso (in kg) 0.33"
+      }
+    },
+    "warranty": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "2 anni",
+        "evidence": "Questo prodotto ha il vantaggio di una garanzia commerciale del produttore 2 e contiene i dati di consegna."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2458,
+    "output_tokens": 646,
+    "seconds": 55.18
+  }
+}

@@ -1,0 +1,1075 @@
+{
+  "source": "https://www.idrobric.it/it/",
+  "generated": "2026-10-01T22:53:38.696837",
+  "total": 136,
+  "internal_count": 122,
+  "external_count": 14,
+  "links": [
+    {
+      "url": "https://www.idrobric.it/it/",
+      "fragment": "",
+      "text": "&nbsp;Italiano",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/fr/",
+      "fragment": "",
+      "text": "&nbsp;Français",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/en/",
+      "fragment": "",
+      "text": "&nbsp;English",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/idrobric",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.linkedin.com/company/idro-bric/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/idrobric/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.youtube.com/user/idrobricspa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/content/4-chi-siamo",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/10-prodotti",
+      "fragment": "",
+      "text": "Prodotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/11-rubinetteria",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/13-idroterapia",
+      "fragment": "",
+      "text": "Idroterapia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/12-brand-partners",
+      "fragment": "",
+      "text": "Brand Partners",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/17-termoidraulica",
+      "fragment": "",
+      "text": "Termoidraulica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/16-caldaie-e-scaldabagni",
+      "fragment": "",
+      "text": "Caldaie e scaldabagni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/14-sanitari",
+      "fragment": "",
+      "text": "Sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/15-box-piatti-doccia-e-vasche",
+      "fragment": "",
+      "text": "Box, piatti doccia e vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.aquasanit.it/it/10-prodotti",
+      "fragment": "",
+      "text": "Arredo bagno",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/18-rubinetteria-bagno",
+      "fragment": "",
+      "text": "Rubinetteria Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/135-tradizionale",
+      "fragment": "",
+      "text": "Tradizionale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/136-moderna",
+      "fragment": "",
+      "text": "Moderna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/137-vintage",
+      "fragment": "",
+      "text": "Vintage",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/138-made-in-italy",
+      "fragment": "",
+      "text": "Made in Italy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/19-rubinetteria-cucina",
+      "fragment": "",
+      "text": "Rubinetteria Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/106-bocca-alta",
+      "fragment": "",
+      "text": "Bocca Alta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/107-bocca-bassa",
+      "fragment": "",
+      "text": "Bocca Bassa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/108-doccetta-estraibile",
+      "fragment": "",
+      "text": "Doccetta Estraibile",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/109-a-parete",
+      "fragment": "",
+      "text": "A parete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/110-leva-clinica",
+      "fragment": "",
+      "text": "Leva clinica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/hide-on-mobile-only2",
+      "fragment": "",
+      "text": "hide",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/25-colonne-doccia",
+      "fragment": "",
+      "text": "Colonne doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/22-docce",
+      "fragment": "",
+      "text": "Docce",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/143-docce-pulizia-animali",
+      "fragment": "",
+      "text": "Docce pulizia animali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/24-duplex-e-complementi-doccia",
+      "fragment": "",
+      "text": "Duplex",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/144-idroscopini",
+      "fragment": "",
+      "text": "Idroscopini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/193-igiene-personale",
+      "fragment": "",
+      "text": "Igiene personale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/26-soffioni",
+      "fragment": "",
+      "text": "Soffioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/27-bracci-doccia",
+      "fragment": "",
+      "text": "Bracci doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/28-saliscendi",
+      "fragment": "",
+      "text": "Saliscendi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/29-flessibili-doccia",
+      "fragment": "",
+      "text": "Flessibili doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/30-accessori-e-ricambi",
+      "fragment": "",
+      "text": "Accessori e ricambi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/20-grohe",
+      "fragment": "",
+      "text": "Grohe",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/21-ideal-standard",
+      "fragment": "",
+      "text": "Ideal Standard",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/117-mamoli",
+      "fragment": "",
+      "text": "Mamoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/118-vitra",
+      "fragment": "",
+      "text": "Vitra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/119-riscaldamento",
+      "fragment": "",
+      "text": "Riscaldamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/120-gas",
+      "fragment": "",
+      "text": "Gas",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/121-multistrato",
+      "fragment": "",
+      "text": "Multistrato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/122-rame",
+      "fragment": "",
+      "text": "Rame",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/123-ottone-filettato",
+      "fragment": "",
+      "text": "Ottone filettato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/124-valvole",
+      "fragment": "",
+      "text": "Valvole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/125-acciaio-zincato-e-ghisa",
+      "fragment": "",
+      "text": "Acciaio zincato e ghisa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/126-polietilene-e-polipropilene",
+      "fragment": "",
+      "text": "Polietilene e polipropilene",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/127-accessori-rubinetteria",
+      "fragment": "",
+      "text": "Accessori rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/128-sifoni-e-pilette",
+      "fragment": "",
+      "text": "Sifoni e pilette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/129-wc",
+      "fragment": "",
+      "text": "WC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/130-scarichi-idrici",
+      "fragment": "",
+      "text": "Scarichi idrici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/131-lavelli-cucina-lavatoi-e-pedane",
+      "fragment": "",
+      "text": "Lavelli cucina, lavatoi e pedane",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/132-depurazione",
+      "fragment": "",
+      "text": "Depurazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/133-aspirazione-ventilazione",
+      "fragment": "",
+      "text": "Aspirazione ventilazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/134-tubi-scarico-fumi-e-acque-pluviali",
+      "fragment": "",
+      "text": "Tubi evacuazione fumi scarico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/141-scaldabagni",
+      "fragment": "",
+      "text": "Scaldabagni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/31-collezioni-sanitari",
+      "fragment": "",
+      "text": "Collezioni sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/197-aquaxense",
+      "fragment": "",
+      "text": "Aquaxense",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/32-lavabi-arredo",
+      "fragment": "",
+      "text": "Lavabi arredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/148-sedili-wc",
+      "fragment": "",
+      "text": "Sedili WC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/93-terza-eta-e-disabili",
+      "fragment": "",
+      "text": "Terza età e disabili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/94-orinatoi-e-turche",
+      "fragment": "",
+      "text": "Orinatoi e turche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/34-piatti-doccia",
+      "fragment": "",
+      "text": "Piatti doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/35-vasche",
+      "fragment": "",
+      "text": "Vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/33-box-doccia",
+      "fragment": "",
+      "text": "Box doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.aquasanit.it/it/11-accessori-bagno-a-muro",
+      "fragment": "",
+      "text": "Accessori bagno a muro",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.aquasanit.it/it/12-accessori-bagno-appoggio",
+      "fragment": "",
+      "text": "Accessori bagno appoggio",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.aquasanit.it/it/14-complementi-d-arredo",
+      "fragment": "",
+      "text": "Complementi arredo",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.aquasanit.it/it/15-box-doccia",
+      "fragment": "",
+      "text": "Box doccia",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/content/6-servizi",
+      "fragment": "",
+      "text": "Servizi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/news.html",
+      "fragment": "",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/content/7-cataloghi",
+      "fragment": "",
+      "text": "Cataloghi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.aquasanit.it",
+      "fragment": "",
+      "text": "Aquasanit",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/contattaci",
+      "fragment": "",
+      "text": "Contatti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/colonne-doccia/1092-571-colonna-doccia-neptune.html",
+      "fragment": "/3-finitura-cromo",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/37-riviera",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/soffioni/905-339-soffione-vortex-square.html",
+      "fragment": "/103-finitura-square_cromo_nero",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/",
+      "fragment": "featureProduct",
+      "text": "Consigliati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/",
+      "fragment": "newProduct",
+      "text": "Novità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/dynamic/971-455-miscelatore-lavabo-serie-dynamic.html",
+      "fragment": "/111-finitura-gungrey",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/docce/935-442-doccia-impulse-silver-blu-o-verde.html",
+      "fragment": "/106-finitura-silver",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/docce/941-doccia-galaxy-8007931103062.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/docce/940-doccia-cosmo-8007931103048.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/astral/979-miscelatore-lavabo-serie-astral-8007931105394.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/termostatici/1130-miscelatore-termostatico-dominica-cromo-8007931114921.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/termostatici/1127-miscelatore-termostatico-guadalupe-cromo-8007931114860.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/aquaxense/1125-aquaxense-adattatore-a-manopola-8007931114396.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/aquaxense/1124-aquaxense-adattatore-a-leva-8007931114389.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/aquaxense/1123-aquaxense-sedile-wc-o-shape-8007931114372.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/aquaxense/1122-aquaxense-sedile-wc-d-shape-8007931114365.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/aquaxense/1121-aquaxense-sedile-wc-smart-2000-8007931114358.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/aquaxense/1120-aquaxense-sedile-wc-smart-1000-8007931114341.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/195-accessori",
+      "fragment": "",
+      "text": "Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/115-caldaie",
+      "fragment": "",
+      "text": "Caldaie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/news/come-scegliere-la-rubinetteria-per-il-bagno-b17.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/img/psblog/b/17/370_161/b-b-omega.jpg",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/news/idro-bric-crea-la-tua-spa-b16.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/img/psblog/b/16/370_161/b-neptune.jpg",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/news/idro-bric-in-fiera-un-avventura-internazionale-b15.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/img/psblog/b/15/370_161/b-anteprima articolo.jpg",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/brand/2-grohe",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/brand/1-ideal-standard",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/brand/3-mamoli",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/brand/4-vitra",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/negozi",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/it/content/8-etichettatura-ambientale",
+      "fragment": "",
+      "text": "Etichettatura Ambientale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://idrobric.wallbreakers.it/",
+      "fragment": "/",
+      "text": "Whistleblowing",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.privacylab.it/archive.php?id=2761871&amp;idDoc=51&amp;idTarget=475156&amp;output=html",
+      "fragment": "",
+      "text": "Privacy",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/",
+      "fragment": "",
+      "text": "© 2026 Idro-Bric S.p.a.",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.idrobric.it/favicon/apple-touch-icon-114x114-precomposed.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/favicon/apple-touch-icon-72x72-precomposed.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/favicon/apple-touch-icon-precomposed.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/img/favicon.ico?1677071449",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,700",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/themes/PRSADD259/assets/css/theme.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/themes/PRSADD259/assets/css/font-awesome.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/blockreassurance/views/dist/front.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/themes/PRSADD259/modules/ps_searchbar/ps_searchbar.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/g_megamenu/views/css/admin/font-awesome.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/g_megamenu/views/css/front/menu.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/g_megamenu/views/css/front/menucss/displayTop1.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/bacookielawinfo/views/css/style_frontend.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/bacookielawinfo/views/css/font-awesome/css/font-awesome.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/psblog/views/css/psblog.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/psblog/views/css/lightbox.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/js/jquery/ui/themes/base/minified/jquery-ui.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/js/jquery/ui/themes/base/minified/jquery.ui.theme.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/tm_imageslider/views/css/nivo-slider.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/modules/tm_categorylist/views/css/tmcategorylist.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.idrobric.it/themes/PRSADD259/assets/css/custom.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/lisa-l767.html",
+  "model": "qwen2.5:32b",
+  "html": "lisa-l767.html.html",
+  "title": "Divano letto angolare con penisola destra - meccanismo estraibile tessuto plutone elefante: Lisa | Mondo Convenienza",
+  "text_chars": 1481,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "tessuto plutone elefante",
+      "evidence": "LISA DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.259 P.171 H.94 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE ELEFANTE",
+      "location": "body"
+    },
+    "width": {
+      "value": "L.259",
+      "evidence": "LISA DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.259 P.171 H.94 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE ELEFANTE",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.94",
+      "evidence": "LISA DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.259 P.171 H.94 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE ELEFANTE",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.171",
+      "evidence": "LISA DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.259 P.171 H.94 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE ELEFANTE",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L.259 P.171 H.94",
+      "evidence": "LISA DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.259 P.171 H.94 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE ELEFANTE",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "angolare",
+      "evidence": "Divano letto angolare con penisola destra - meccanismo estraibile",
+      "location": "title"
+    },
+    "series": {
+      "value": "Lisa",
+      "evidence": "LISA DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.259 P.171 H.94 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE ELEFANTE",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondo Convenienza",
+        "evidence": "Divano letto angolare con penisola destra - meccanismo estraibile tessuto plutone elefante: Lisa | Mondo Convenienza"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1308,
+    "output_tokens": 879,
+    "seconds": 71.41
+  }
+}

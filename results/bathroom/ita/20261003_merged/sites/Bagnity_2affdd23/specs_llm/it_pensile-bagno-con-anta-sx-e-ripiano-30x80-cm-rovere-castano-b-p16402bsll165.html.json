@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/pensile-bagno-con-anta-sx-e-ripiano-30x80-cm-rovere-castano-b-p16402bsll165.html",
+  "model": "qwen2.5:32b",
+  "html": "it_pensile-bagno-con-anta-sx-e-ripiano-30x80-cm-rovere-castano-b-p16402bsll165.html.html",
+  "title": "Pensile bagno con anta SX e ripiano 30x80 cm - Rovere castano",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3819,
+    "output_tokens": 570,
+    "seconds": 55.9
+  }
+}

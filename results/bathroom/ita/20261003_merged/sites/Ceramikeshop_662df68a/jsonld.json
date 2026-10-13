@@ -1,0 +1,64 @@
+{
+  "source": "https://ceramikeshop.it/",
+  "generated": "2026-10-02T21:39:14.455819",
+  "block_count": 3,
+  "types": [
+    "ImageObject",
+    "Organization",
+    "SearchAction",
+    "WebPage",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 272,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Ceramikeshop.it",
+        "url": "https://ceramikeshop.it/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://ceramikeshop.it/img/logo-1698865669.jpg"
+        }
+      }
+    },
+    {
+      "index": 1,
+      "chars": 302,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "isPartOf": {
+          "@type": "WebSite",
+          "url": "https://ceramikeshop.it/",
+          "name": "Ceramikeshop.it"
+        },
+        "name": "Ceramikeshop | Arredo Bagno ed Accessori | Rubinetteria",
+        "url": "https://ceramikeshop.it/"
+      }
+    },
+    {
+      "index": 2,
+      "chars": 470,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://ceramikeshop.it/",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://ceramikeshop.it/img/logo-1698865669.jpg"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://ceramikeshop.it/ricerca?search_query={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    }
+  ]
+}

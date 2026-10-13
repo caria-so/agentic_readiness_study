@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/tappo-con-catena-o40mm-10030361/",
+  "model": "qwen2.5:32b",
+  "html": "it_tappo-con-catena-o40mm-10030361.html",
+  "title": "TAPPO CON CATENA Ø 40 mm",
+  "text_chars": 928,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "metallica",
+      "evidence": "La catenella metallica, resistente e maneggevole",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "origin": {
+      "reason": "origin_not_stated",
+      "raw": {
+        "value": "Italia",
+        "evidence": "FAID SRL VIA ECHING 24 20090, TREZZANO SUL NAVIGLIO Italia",
+        "location": "body"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1155,
+    "output_tokens": 501,
+    "seconds": 41.81
+  }
+}

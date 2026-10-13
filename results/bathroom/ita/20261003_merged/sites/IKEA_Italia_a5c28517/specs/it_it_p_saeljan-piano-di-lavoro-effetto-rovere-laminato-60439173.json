@@ -1,0 +1,155 @@
+{
+ "url": "https://www.ikea.com/it/it/p/saeljan-piano-di-lavoro-effetto-rovere-laminato-60439173/",
+ "file": "it_it_p_saeljan-piano-di-lavoro-effetto-rovere-laminato-60439173.html",
+ "title": "SÄLJAN Piano di lavoro, effetto rovere/laminato, 186x3.8 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4961,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "604.391.73",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "604.391.73"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "604.391.73",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "604.391.73"
+    }
+   ]
+  },
+  "material": {
+   "value": "Laminato.",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Laminato."
+    }
+   ]
+  },
+  "colour": {
+   "value": "beige, marrone",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "beige, marrone"
+    }
+   ]
+  },
+  "depth": {
+   "value": "63.5 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "63.5 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Profondità",
+     "value": "63.5 cm"
+    }
+   ]
+  },
+  "length": {
+   "value": "186 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza",
+     "value": "186 cm"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "3.8 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore",
+     "value": "3.8 cm"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "65 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "65 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "4 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lunghezza",
+     "value": "195 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "30.50 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "30.50 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "SÄLJAN Piano di lavoro": "604.391.73"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 6,
+  "L2": 4,
+  "L3": 4,
+  "dropped": 0
+ }
+}

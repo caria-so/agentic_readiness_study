@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/sala-da-pranzo/set-tavoli-e-sedie-da-pranzo/marstrand-tavolo-l200cm-rovere-scuro-4-guderup-rovere-scuro",
+  "model": "qwen2.5:32b",
+  "html": "sala-da-pranzo_set-tavoli-e-sedie-da-pranzo_marstrand-tavolo-l200cm-rovere-scuro-4-guderup-rovere-scuro.html",
+  "title": "MARSTRAND Tavolo L200cm rovere scuro +4 GUDERUP rovere scuro | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "100 cm",
+      "evidence": "Dimensioni da montato Larghezza 100 cm, Lunghezza 200/280 cm, Altezza 75 cm",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "MARSTRAND + GUDERUP",
+        "evidence": "MARSTRAND Tavolo L200cm rovere scuro +4 GUDERUP rovere scuro | JYSK"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S Sødalsparken 18, DK-8220 Brabrand JYSK.com Contatta il Servizio Clienti"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5155,
+    "output_tokens": 795,
+    "seconds": 82.71
+  }
+}

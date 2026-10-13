@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/wc-a-terra/wc-a-terra-planet.html",
+  "model": "qwen2.5:32b",
+  "html": "wc-a-terra_wc-a-terra-planet.html.html",
+  "title": "WC PLANET a terra 50×45 cm",
+  "text_chars": 1962,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "ceramica",
+      "evidence": "Il WC PLANET è un sanitario in ceramica con installazione a terra e misure 50 × 45 × H44,5 cm.",
+      "location": "body"
+    },
+    "width": {
+      "value": "50 cm",
+      "evidence": "Misure: 50 × 45 × H44,5 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "H44,5 cm",
+      "evidence": "Misure: 50 × 45 × H44,5 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "45 cm",
+      "evidence": "Misure: 50 × 45 × H44,5 cm",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1722,
+    "output_tokens": 645,
+    "seconds": 55.45
+  }
+}

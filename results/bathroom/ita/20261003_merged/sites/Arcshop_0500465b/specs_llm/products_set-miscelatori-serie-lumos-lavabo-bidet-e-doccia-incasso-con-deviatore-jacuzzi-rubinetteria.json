@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/set-miscelatori-serie-lumos-lavabo-bidet-e-doccia-incasso-con-deviatore-jacuzzi-rubinetteria",
+  "model": "qwen2.5:32b",
+  "html": "products_set-miscelatori-serie-lumos-lavabo-bidet-e-doccia-incasso-con-deviatore-jacuzzi-rubinetteria.html",
+  "title": "Set miscelatori serie Lumos lavabo bidet e doccia incasso con deviatore Jacuzzi Rubinetteria | Arcshop",
+  "text_chars": 3339,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromato",
+      "evidence": "Set miscelatori Jacuzzi Rubinetteria Lumos cromato lavabo alto e bidet per piletta click clack e incasso doccia con deviatore",
+      "location": "body"
+    },
+    "series": {
+      "value": "Lumos",
+      "evidence": "Set miscelatori serie Lumos lavabo bidet e doccia incasso con deviatore Jacuzzi Rubinetteria",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Set miscelatori serie Lumos lavabo bidet e doccia incasso con deviatore Jacuzzi Rubinetteria"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1977,
+    "output_tokens": 632,
+    "seconds": 53.22
+  }
+}

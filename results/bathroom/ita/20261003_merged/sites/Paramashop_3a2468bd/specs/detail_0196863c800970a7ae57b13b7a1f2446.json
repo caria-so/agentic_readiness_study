@@ -1,0 +1,91 @@
+{
+ "url": "https://www.paramashop.it/detail/0196863c800970a7ae57b13b7a1f2446",
+ "file": "detail_0196863c800970a7ae57b13b7a1f2446.html",
+ "title": "Bancarella in legno 142x137 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1777,
+ "attributes": {
+  "mpn": {
+   "value": "305.008",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "305.008"
+    }
+   ]
+  },
+  "height": {
+   "value": "222cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza massima",
+     "value": "222cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza minima",
+     "value": "190cm"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "142x137cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione",
+     "value": "142x137cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Abete naturale massello",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Legno",
+     "value": "Abete naturale massello"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Legno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "305.008",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "305.008"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 5,
+  "L3": 1,
+  "dropped": 8
+ }
+}

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /customer/
+Disallow: /checkout/
+Disallow: /b2b/
+Disallow: *filters=*
+Disallow: *sort=*
+Disallow: /search
+
+Sitemap: https://jysk.it/sitemap.xml

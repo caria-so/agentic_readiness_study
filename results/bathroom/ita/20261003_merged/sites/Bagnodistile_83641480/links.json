@@ -1,0 +1,1446 @@
+{
+  "source": "https://www.bagnodistile.com/",
+  "generated": "2026-10-02T16:15:10.936617",
+  "total": 181,
+  "internal_count": 170,
+  "external_count": 11,
+  "links": [
+    {
+      "url": "https://www.facebook.com/people/BagnodiStile/61573699357442/",
+      "fragment": "",
+      "text": "",
+      "rel": "noreferrer noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://x.com/bagnodistile",
+      "fragment": "",
+      "text": "",
+      "rel": "noreferrer noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/bagnodistile/",
+      "fragment": "",
+      "text": "",
+      "rel": "noreferrer noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "http://www.tiktok.com/@bagnodistile",
+      "fragment": "",
+      "text": "",
+      "rel": "noreferrer noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/content/1-Spedizioni-e-consegne",
+      "fragment": "",
+      "text": "Spedizioni e consegne",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/content/2-diritto-di-recesso",
+      "fragment": "",
+      "text": "Diritto di Recesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/module/iqitwishlist/view",
+      "fragment": "",
+      "text": "Lista dei desideri ( 0 )",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/login?back=https%3A%2F%2Fwww.bagnodistile.com%2F",
+      "fragment": "",
+      "text": "Accedi",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/3-pavimenti-interni",
+      "fragment": "",
+      "text": "Pavimenti interni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/4-gres-porcellanato",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/5-effetto-legno",
+      "fragment": "",
+      "text": "Effetto Legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/6-pvc-vinile",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/7-laminato",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/8-parquet",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/9-cotto",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/10-cementine",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/129-finiture",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/133-colle-e-stucchi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/11-pavimenti-per-esterno",
+      "fragment": "",
+      "text": "Pavimenti esterni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/12-gres-porcellanato",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/130-finiture",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/13-rivestimenti",
+      "fragment": "",
+      "text": "Rivestimenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/18-carta-da-parati",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/14-ceramica",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/15-effetto-legno",
+      "fragment": "",
+      "text": "Effetto Legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/16-effetto-carta-da-parati",
+      "fragment": "",
+      "text": "Effetto Carta da Parati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/131-finiture",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/17-mosaici",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/33-sanitari",
+      "fragment": "",
+      "text": "Sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/42-accessori-sanitari",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/34-wc",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/35-sospesi",
+      "fragment": "",
+      "text": "Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/36-a-terra",
+      "fragment": "",
+      "text": "A terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/37-bidet",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/38-sospesi",
+      "fragment": "",
+      "text": "Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/39-a-terra",
+      "fragment": "",
+      "text": "A terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/40-lavabi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/41-piatti-doccia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/43-cassette-wc",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/44-ad-incasso",
+      "fragment": "",
+      "text": "Ad incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/45-accessori-e-ricambi",
+      "fragment": "",
+      "text": "Accessori e ricambi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/46-piastre-azionamento",
+      "fragment": "",
+      "text": "Piastre azionamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/47-copriwater",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/55-arredo-bagno",
+      "fragment": "",
+      "text": "Arredo bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/56-mobili-bagno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/57-pensili_colonne",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/58-specchi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/59-lampade",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/134-lavanderia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/60-accessori-bagno",
+      "fragment": "",
+      "text": "Accessori bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/64-linea-hotel",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/61-riscaldamento",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/62-radiatori",
+      "fragment": "",
+      "text": "Radiatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/63-scaldasalviette",
+      "fragment": "",
+      "text": "Scaldasalviette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/65-bagno-disabili-terza-eta",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/48-rubinetteria",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/54-accessori-rubinetteria",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/53-rubinetti-cucina",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/49-lavabo",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/50-bidet",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/51-doccia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/52-vasca-da-bagno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/132-idraulica",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/139-termostatici",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/19-wellnessspa",
+      "fragment": "",
+      "text": "Wellness &amp; SPA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/20-box-doccia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/21-angolare",
+      "fragment": "",
+      "text": "Angolare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/22-semicircolare",
+      "fragment": "",
+      "text": "Semicircolare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/23-nicchia",
+      "fragment": "",
+      "text": "Nicchia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/24-vasche-da-bagno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/25-freestanding",
+      "fragment": "",
+      "text": "Freestanding",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/26-con-pannelli",
+      "fragment": "",
+      "text": "Con Pannelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/27-da-incasso",
+      "fragment": "",
+      "text": "Da Incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/28-spa-e-benessere",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/29-sauna",
+      "fragment": "",
+      "text": "Sauna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/30-hammam",
+      "fragment": "",
+      "text": "Hammam",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/31-generatori-di-vapore",
+      "fragment": "",
+      "text": "Generatori di Vapore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/32-minipiscine",
+      "fragment": "",
+      "text": "Minipiscine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/140-cucina",
+      "fragment": "",
+      "text": "Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/66-porte",
+      "fragment": "",
+      "text": "Porte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/189-riscaldamento-e-climatizzazione",
+      "fragment": "",
+      "text": "Climatizzazione Riscaldamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/197-caminetti-",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/198--caminetti-da-incasso-",
+      "fragment": "",
+      "text": "Caminetti da Incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/199--caminetti-ad-acqua-",
+      "fragment": "",
+      "text": "Caminetti ad Acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/200--caminetti-trifacciali-",
+      "fragment": "",
+      "text": "Caminetti Trifacciali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/201--caminetti-da-parete-",
+      "fragment": "",
+      "text": "Caminetti da Parete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/202--caminetti-con-cornice-in-legno-",
+      "fragment": "",
+      "text": "Caminetti Con Cornice in Legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/203--inserti-cornici-bruciatori-",
+      "fragment": "",
+      "text": "Inserti Cornici Bruciatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/204--mobili-per-caminetti-elettrici",
+      "fragment": "",
+      "text": "Mobili per Caminetti Elettrici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/205--mobili-completi-di-caminetto",
+      "fragment": "",
+      "text": "Mobili Completi di Caminetto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/190-riscaldatori-a-infrarossi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/191--riscaldatori-infrarossi-onde-corte-",
+      "fragment": "",
+      "text": "Riscaldatori Infrarossi Onde Corte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/192--riscaldatori-infrarossi-su-piantana-",
+      "fragment": "",
+      "text": "Riscaldatori Infrarossi Su Piantana",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/193--riscaldatori-infrarossi-onde-lunghe-",
+      "fragment": "",
+      "text": "Riscaldatori Infrarossi Onde Lunghe",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/194--termoconvettori-",
+      "fragment": "",
+      "text": "Termoconvettori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/195--riscaldatori-elettrici-pavimento",
+      "fragment": "",
+      "text": "Riscaldatori Elettrici Pavimento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/196--termo-ombrelli-elettrici",
+      "fragment": "",
+      "text": "Termo Ombrelli Elettrici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/137-pulizia",
+      "fragment": "",
+      "text": "Pulizia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/67-outlet",
+      "fragment": "",
+      "text": "Outlet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/153-giardino",
+      "fragment": "",
+      "text": "Giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/154-arredo-giardino",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/155-oggetti-luminosi-da-giardino",
+      "fragment": "",
+      "text": "Oggetti luminosi da giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/156--sfere-led-ricarica-solare",
+      "fragment": "",
+      "text": "Sfere Led Ricarica Solare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/157--sgabelli-e-tavolini-luminosi-solari-",
+      "fragment": "",
+      "text": "Sgabelli e Tavolini Luminosi Solari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/158--vasi-luminosi-ricarica-solare",
+      "fragment": "",
+      "text": "Vasi Luminosi Ricarica Solare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/159--fontanelle-",
+      "fragment": "",
+      "text": "Fontanelle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/160-ricambi-accessori-e-trattamento-acqua",
+      "fragment": "",
+      "text": "Ricambi Accessori e Trattamento Acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/161--accessori-docce-",
+      "fragment": "",
+      "text": "Accessori Docce",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/162--sistema-fissaggio-docce-inox-c-box",
+      "fragment": "",
+      "text": "Sistema Fissaggio Docce Inox C-BOX",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/163--lavapiedi-deviatori-docce",
+      "fragment": "",
+      "text": "Lavapiedi Deviatori Docce",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/164--piatti-doccia-in-legno",
+      "fragment": "",
+      "text": "Piatti Doccia in Legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/165--sacche-protezione-docce",
+      "fragment": "",
+      "text": "Sacche Protezione Docce",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/174-docce-da-piscina-e-giardino-",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/175--docce-acqua-calda-e-fredda-",
+      "fragment": "",
+      "text": "Docce Acqua Calda e Fredda",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/176--docce-piscina-inox-con-doccetta-flessibile",
+      "fragment": "",
+      "text": "Docce Piscina Inox con Doccetta flessibile",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/177--docce-in-acciaio-inox-da-parete",
+      "fragment": "",
+      "text": "Docce in Acciaio Inox Da Parete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/178--docce-piscina-inox-con-lavapiedi",
+      "fragment": "",
+      "text": "Docce Piscina Inox con lavapiedi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/179--docce-piscina-alluminio-con-lavapiedi",
+      "fragment": "",
+      "text": "Docce Piscina Alluminio con Lavapiedi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/180--docce-piscina-alluminio-con-doccetta",
+      "fragment": "",
+      "text": "Docce Piscina Alluminio con Doccetta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/181--docce-piscina-alluminio-con-temporizzatore",
+      "fragment": "",
+      "text": "Docce Piscina Alluminio con Temporizzatore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/182--docce-riscaldamento-solare-",
+      "fragment": "",
+      "text": "Docce Riscaldamento Solare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/183--docce-solari-alluminio",
+      "fragment": "",
+      "text": "Docce Solari Alluminio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/184--docce-solari-polietilene-",
+      "fragment": "",
+      "text": "Docce Solari Polietilene",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/185--docce-acqua-fredda-",
+      "fragment": "",
+      "text": "Docce Acqua Fredda",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/186--docce-piscina-inox-con-temporizzatore",
+      "fragment": "",
+      "text": "Docce Piscina Inox con Temporizzatore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/account",
+      "fragment": "",
+      "text": "Accedi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/48-rubinetteria",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/55-arredo-bagno",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/5-effetto-legno",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/16-effetto-carta-da-parati",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bagnodistile.com/content/3-termini-e-condizioni-di-uso",
+      "fragment": "",
+      "text": "Leggi tutto",
+      "rel": "noopener noreferrer",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1xHVwyoyj07g_VMzIgwNbB5wks0D_bz-L/view?usp=sharing",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/outlet/2124-piatto-doccia-ceramica-semicircolare-90x90-h-11-bordo-stondato-bianco--693059708135.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/outlet/2125-piatto-doccia-ceramica-70x120-h-11-bianco--693059710084.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/outlet/2123-piatto-doccia-ceramica-90x90-h-10-cm-malta--693059708159.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/pavimenti-interni/2607-time-stone-60-x-60-sabbia-rettificato-693059709750.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/pavimenti-interni/2596-vintage-30x60-gold--693059709743.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/pavimenti-interni/2598-vintage-60x60-gold--693059709729.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/pavimenti-per-esterno/2597-vintage-30x60-gold-grip--693059709712.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/pavimenti-per-esterno/2599-vintage-60x60-gold-grip--693059709484.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/idraulica/2595-sifone-flessibile-112-x-o-40-abs-bianco--693059709354.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/pavimenti-per-esterno/2594-nativa-25x50-bianco--693059709453.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/riscaldamento-e-climatizzazione/2580-ventilatore-a-soffitto-con-telecomando-bianco-nick-novolux-8433264168223.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/idraulica/2568-supporto-snodato-x-doccetta-in-abs-cromo-.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/idraulica/2561-supporto-fisso-x-doccetta-in-abs-cromo-.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/34-wc",
+      "fragment": "",
+      "text": "WC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/37-bidet",
+      "fragment": "",
+      "text": "BIDET",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/40-lavabi",
+      "fragment": "",
+      "text": "LAVABI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/41-piatti-doccia",
+      "fragment": "",
+      "text": "PIATTI DOCCIA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/20-box-doccia",
+      "fragment": "",
+      "text": "BOX DOCCIA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/24-vasche-da-bagno",
+      "fragment": "",
+      "text": "VASCHE DA BAGNO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/53-rubinetti-cucina",
+      "fragment": "",
+      "text": "RUBINETTI CUCINA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/56-mobili-bagno",
+      "fragment": "",
+      "text": "MOBILI BAGNO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/57-pensili_colonne",
+      "fragment": "",
+      "text": "COLONNE e PENSILI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/58-specchi",
+      "fragment": "",
+      "text": "SPECCHI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/blog/news/-no-rim-o-vertigo-scopri-la-differenza",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/blog/news",
+      "fragment": "",
+      "text": "News",
+      "rel": "category",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/blog/news/perche-scegliere-un-pavimento-in-gres-porcellanato-effetto-legno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/contattaci",
+      "fragment": "",
+      "text": "Contattaci",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/content/3-termini-e-condizioni-di-uso",
+      "fragment": "",
+      "text": "Termini e condizioni d'uso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/mappa-del-sito",
+      "fragment": "",
+      "text": "Mappa del sito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iubenda.com/privacy-policy/46922886",
+      "fragment": "",
+      "text": "Privacy Policy",
+      "rel": "noreferrer noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iubenda.com/privacy-policy/46922886/cookie-policy",
+      "fragment": "",
+      "text": "Cookie Policy",
+      "rel": "noreferrer noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/cronologia-ordini",
+      "fragment": "",
+      "text": "Storico ordini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/tracciatura-ospite",
+      "fragment": "",
+      "text": "Tracciatura ospite",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/dati-personali",
+      "fragment": "",
+      "text": "Dati personali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/login",
+      "fragment": "",
+      "text": "Entra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/recupero-password",
+      "fragment": "",
+      "text": "Hai dimenticato la password?",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/registrazione",
+      "fragment": "",
+      "text": "Non hai un account? Creane uno qui",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bagnodistile.com/img/favicon.ico?1750237836",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bagnodistile.com/themes/warehousechild/assets/cache/theme-1e3c68302.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bagnodistile.com/themes/warehouse/assets/css/font-awesome/webfonts/fa-brands-400.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bagnodistile.com/themes/warehouse/assets/css/font-awesome/webfonts/fa-regular-400.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bagnodistile.com/themes/warehouse/assets/css/font-awesome/webfonts/fa-solid-900.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bagnodistile.com/themes/warehouse/assets/css/font-awesome/css/font-awesome-preload.css?v=6.7.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bagnodistile.com/modules/revsliderprestashop/public/assets/fonts/font-awesome/css/font-awesome.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:500%2C400",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.gstatic.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Karla:400,700",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

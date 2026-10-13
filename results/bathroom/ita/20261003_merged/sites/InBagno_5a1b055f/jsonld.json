@@ -1,0 +1,259 @@
+{
+  "source": "https://www.inbagno.it/",
+  "generated": "2026-10-02T16:09:58.752002",
+  "block_count": 6,
+  "types": [
+    "BreadcrumbList",
+    "Certification",
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "MerchantReturnPolicy",
+    "OnlineBusiness",
+    "Organization",
+    "PostalAddress",
+    "QuantitativeValue",
+    "SearchAction",
+    "WebPage",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 262,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "InBagno",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.inbagno.it/img/logo-1783502560.jpg"
+        },
+        "url": "https://www.inbagno.it/"
+      }
+    },
+    {
+      "index": 1,
+      "chars": 298,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "isPartOf": {
+          "@type": "WebSite",
+          "url": "https://www.inbagno.it/",
+          "name": "InBagno"
+        },
+        "name": "Arredo bagno online: acquista mobili bagno in offerta|InBagno",
+        "url": "https://www.inbagno.it/"
+      }
+    },
+    {
+      "index": 2,
+      "chars": 467,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.inbagno.it/",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.inbagno.it/img/logo-1783502560.jpg"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.inbagno.it/ricerca?search_query={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "chars": 1874,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://www.inbagno.it/#website",
+            "url": "https://www.inbagno.it/",
+            "name": "InBagno",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.inbagno.it/search?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.inbagno.it/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@type": "WebPage",
+                  "name": "Home",
+                  "@id": "https://www.inbagno.it/",
+                  "url": "https://www.inbagno.it/"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "OnlineBusiness",
+            "@id": "https://inbagno.it",
+            "name": "inbagno.it",
+            "url": "https://inbagno.it",
+            "sameAs": [
+              "https://www.trustedshops.it/valutazione-del-negozio/info_XD71E3E08900C5D3977B83CFEDAFBCB77.html"
+            ],
+            "hasCertification": {
+              "@type": "Certification",
+              "name": "Trusted Shops Trustmark",
+              "certificationIdentification": "https://www.trustedshops.it/valutazione-del-negozio/info_XD71E3E08900C5D3977B83CFEDAFBCB77.html",
+              "certificationStatus": "CertificationActive",
+              "sameAs": [
+                "https://www.trustedshops.it/valutazione-del-negozio/info_XD71E3E08900C5D3977B83CFEDAFBCB77.html"
+              ],
+              "issuedBy": {
+                "@type": "Organization",
+                "name": "Trusted Shops",
+                "url": "https://www.trustedshops.com",
+                "sameAs": [
+                  "https://business.trustedshops.com/",
+                  "https://www.trstd.com/"
+                ]
+              },
+              "dateModified": "2026-10-01",
+              "validFrom": "2023-09-18 00:00:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "chars": 1917,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "InBagno",
+        "url": "https://www.inbagno.it/",
+        "logo": "https://www.inbagno.it/img/logo.jpg",
+        "email": "ordini@inbagno.it",
+        "telephone": "08119751316",
+        "vatID": "08720791212",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Zona Industriale A.S.I. Loc. Boscofangone",
+          "addressLocality": "Nola",
+          "postalCode": "80035",
+          "addressCountry": "Italia"
+        },
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "telephone": "+3908119751316"
+          }
+        ],
+        "sameAs": [
+          "https://www.amazon.it/stores/Inbagno/page/547231FD-2C62-47D4-898E-D8471E280550?lp_asin=B09TF88YJV&ref_=ast_bln",
+          "https://www.leroymerlin.it/marchi/inbagno/?origin=redirection&query=inbagno&src=brd",
+          "https://www.ebay.it/str/inbagnosrl?_trksid=p4432023.m570.l113337",
+          "https://www.manomano.it/marca/inbagno-251418",
+          "https://www.feedaty.com/recensioni/inbagno",
+          "https://www.youtube.com/@inbagno"
+        ],
+        "acceptsPaymentMethod": [
+          "Visa",
+          "MasterCard",
+          "PayPal",
+          "BankTransferInAdvance",
+          "CashOnDelivery"
+        ],
+        "areaServed": [
+          "IT"
+        ],
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 14,
+          "returnFees": "https://schema.org/FreeReturn",
+          "returnMethod": "https://schema.org/ReturnInStore",
+          "applicableCountry": [
+            "IT"
+          ],
+          "returnPolicyUrl": "https://www.inbagno.it/content/1-Resi-e-recessi"
+        },
+        "knowsAbout": [
+          "Arredo bagno",
+          "Mobili bagno sospesi",
+          "Mobili bagno a terra",
+          "Lavabi da appoggio",
+          "Lavabi in ceramica",
+          "Sanitari sospesi",
+          "Sanitari a pavimento",
+          "WC",
+          "Bidet",
+          "Box doccia in cristallo",
+          "Piatti doccia in resina",
+          "Rubinetteria bagno",
+          "Miscelatori lavabo",
+          "Miscelatori doccia",
+          "Colonne doccia",
+          "Soffioni doccia",
+          "Kit doccia completi",
+          "Accessori bagno",
+          "Portasalviette",
+          "Portarotolo",
+          "Arredo lavanderia",
+          "Lavatoi",
+          "Mobili lavanderia"
+        ],
+        "knowsLanguage": [
+          "it",
+          "en"
+        ],
+        "numberOfEmployees": {
+          "@type": "QuantitativeValue",
+          "value": 15,
+          "unitText": "EMP"
+        }
+      }
+    },
+    {
+      "index": 5,
+      "chars": 606,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "InBagno",
+        "legalName": "InBagno",
+        "url": "https://www.inbagno.it/",
+        "email": "ordini@inbagno.it",
+        "telephone": "08119751316",
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "08119751316",
+            "email": "ordini@inbagno.it"
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Zona Industriale A.S.I. Loc. Boscofangone",
+          "addressLocality": "Nola",
+          "postalCode": "80035",
+          "addressCountry": "Italia"
+        }
+      }
+    }
+  ]
+}

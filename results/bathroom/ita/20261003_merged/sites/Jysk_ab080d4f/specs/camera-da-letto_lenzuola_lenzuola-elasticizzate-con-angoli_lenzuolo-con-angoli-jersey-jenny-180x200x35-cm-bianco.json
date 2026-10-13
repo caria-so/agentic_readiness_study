@@ -1,0 +1,196 @@
+{
+ "url": "https://jysk.it/camera-da-letto/lenzuola/lenzuola-elasticizzate-con-angoli/lenzuolo-con-angoli-jersey-jenny-180x200x35-cm-bianco",
+ "file": "camera-da-letto_lenzuola_lenzuola-elasticizzate-con-angoli_lenzuolo-con-angoli-jersey-jenny-180x200x35-cm-bianco.html",
+ "title": "JENNY Plus Lenzuolo con angoli Jersey JENNY 180x200x35 cm bianco",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 13307,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "1632501",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "1632501"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "1632501"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Bianco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Bianco Colore : Blu Colore : Grigio Colore : Grigio antracite"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "180x200x35",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "180x200x35"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni del lenzuolo",
+     "value": "180x200x35 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "100% cotone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "100% cotone"
+    }
+   ]
+  },
+  "care": {
+   "value": "60°C",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lavare",
+     "value": "60°C"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Candeggio",
+     "value": "Non candeggiare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Asciugatrice",
+     "value": "* Asciugabile in asciugatrice a basse temperature (max. 60ºC)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Stiratura",
+     "value": "* Stirabile, a temperature basse (max. 110°C)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio a secco e a umido",
+     "value": "Non lavare a secco"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Istruzioni",
+     "value": "Lavare prima dell'uso, Lavare con colori simili, per i primi lavaggi lavare separatamente"
+    }
+   ]
+  },
+  "weight": {
+   "value": "130 g/m².",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "130 g/m²."
+    }
+   ]
+  },
+  "certification": {
+   "value": "OEKO-TEX® STANDARD 100 ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "OEKO-TEX® STANDARD 100 "
+    }
+   ]
+  },
+  "origin": {
+   "value": "PK",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "PK"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Decolorato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Metodo di colorazione",
+     "value": "Decolorato"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Lenzuolo con Angoli in jersey",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Lenzuolo con Angoli in jersey"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Imballato": "Contiene 1 lenzuolo",
+  "Elastico": "Bordi elasticizzati",
+  "Indice di qualità": "PLUS"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 16,
+  "L3": 2,
+  "dropped": 31
+ }
+}

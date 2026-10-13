@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/parete-walkin-h200cm-cristallo-trasparente-8mm-anticalcare-profili-rose-gold",
+  "model": "qwen2.5:32b",
+  "html": "products_parete-walkin-h200cm-cristallo-trasparente-8mm-anticalcare-profili-rose-gold.html",
+  "title": "Parete Walkin H200cm Cristallo Trasparente 8mm Anticalcare Profili Rose Gold",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "trasparente",
+      "evidence": "Parete Walkin H200cm Cristallo Trasparente 8mm Anticalcare Profili Rose Gold",
+      "location": "title"
+    },
+    "width": {
+      "value": "50 cm",
+      "evidence": "50 cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "8mm",
+      "evidence": "Cristallo: 8mm trasparente",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4145,
+    "output_tokens": 581,
+    "seconds": 60.92
+  }
+}

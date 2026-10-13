@@ -1,0 +1,29 @@
+
+===== 2026-10-12T13:48:37  /Users/fedepro/Desktop/deepowl/git/exploration/.venv/bin/python -u /Users/fedepro/Desktop/deepowl/git/exploration/f_headline.py --batch /Users/fedepro/Desktop/deepowl/git/exploration/results/bathroom/ita/20261003_merged
+Averaged over 23 retailers (each weighs the same).
+Left out: KVStore_cb31876b (3 pages).
+
+| Attribute | Stated (L1–L4) | Found by rules (L1–L3) | Machine-readable (L1) |
+| --- | --- | --- | --- |
+| Material | 74.8% | 47.1% | 7.5% |
+| Colour | 61.9% | 38.7% | 11.3% |
+| Any dimension | 70.1% | 50.6% | 10.4% |
+
+Other attributes (not in the headline):
+
+| Attribute | Stated (L1–L4) | Found by rules (L1–L3) | Machine-readable (L1) |
+| --- | --- | --- | --- |
+| Finish | 50.4% | 28.3% | 0.3% |
+| Weight | 32.7% | 30.3% | 17.4% |
+| Installation | 40.7% | 27.0% | 0.0% |
+| Opening | 22.8% | 10.3% | 0.0% |
+| Warranty | 18.9% | 10.4% | 0.0% |
+| Certification | 14.3% | 7.1% | 0.0% |
+| Origin | 14.2% | 4.5% | 0.0% |
+| Shape / style | 45.8% | 33.2% | 0.0% |
+| Series | 66.1% | 28.0% | 4.3% |
+| Brand | 56.2% | 42.3% | 37.0% |
+
+"Any dimension" is the highest of width, height, depth, length and dimensions per retailer (a lower bound).
+
+Wrote headline_results.md, headline_results.csv in /Users/fedepro/Desktop/deepowl/git/exploration/results/bathroom/ita/20261003_merged/tables

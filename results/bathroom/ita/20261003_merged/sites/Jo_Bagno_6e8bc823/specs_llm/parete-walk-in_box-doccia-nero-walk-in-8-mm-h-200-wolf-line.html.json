@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/parete-walk-in/box-doccia-nero-walk-in-8-mm-h-200-wolf-line.html",
+  "model": "qwen2.5:32b",
+  "html": "parete-walk-in_box-doccia-nero-walk-in-8-mm-h-200-wolf-line.html.html",
+  "title": "Box Doccia Nero Walk-In 8 mm H 200 WOLF LINE",
+  "text_chars": 1756,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "da 80/90/100/110/120/130/140/150/160 cm",
+      "evidence": "Misure Lato A: da 80/90/100/110/120/130/140/150/160 x h200 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "H 200 cm",
+      "evidence": "Misure: da 80/90/100/110/120/130/140/150/160 cm H 200 cm 8mm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "8 mm",
+      "evidence": "Vetro temprato 8 mm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "veloce",
+      "evidence": "Installazione Veloce",
+      "location": "body"
+    },
+    "series": {
+      "value": "WOLF LINE",
+      "evidence": "Box doccia nero Walk-In 8 mm con profilo nero WOLF LINE",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "colour": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "nero opaco",
+        "evidence": "Struttura: Flat Nero Matte"
+      }
+    },
+    "shape_style": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "moderno ed elegante",
+        "evidence": "con profilo nero WOLF LINE da 8 mmun profilo in alluminio Nero con profilo nero dal design moderno ed elegante."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1710,
+    "output_tokens": 773,
+    "seconds": 65.0
+  }
+}

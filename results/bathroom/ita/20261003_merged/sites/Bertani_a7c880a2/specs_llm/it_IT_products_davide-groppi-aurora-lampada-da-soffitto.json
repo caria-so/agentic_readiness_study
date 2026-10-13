@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/davide-groppi-aurora-lampada-da-soffitto",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_davide-groppi-aurora-lampada-da-soffitto.html",
+  "title": "Davide Groppi, Aurora Lampada da soffitto | Bertani",
+  "text_chars": 589,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "metallo e PMMA",
+      "evidence": "Apparecchio illuminante in metallo e PMMA, colore Matt white.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Matt white",
+      "evidence": "Apparecchio illuminante in metallo e PMMA, colore Matt white.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "Diam. 46 cm",
+      "evidence": "Diam. 46 cm",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "a soffitto o a parete",
+        "evidence": "È applicabile a soffitto o a parete ed è modulabile in differenti le intensita`."
+      }
+    },
+    "electrical": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Potenza 28W, Temperatura colore 3000K, CRI >80, IP20",
+        "evidence": "Potenza 28W\nTemperatura colore 3000K\nCRI >80\nIP20"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1073,
+    "output_tokens": 616,
+    "seconds": 50.21
+  }
+}

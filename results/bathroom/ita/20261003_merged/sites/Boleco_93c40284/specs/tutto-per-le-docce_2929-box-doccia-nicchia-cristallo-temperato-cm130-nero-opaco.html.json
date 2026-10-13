@@ -1,0 +1,167 @@
+{
+ "url": "https://www.boleco.it/tutto-per-le-docce/2929-box-doccia-nicchia-cristallo-temperato-cm130-nero-opaco.html",
+ "file": "tutto-per-le-docce_2929-box-doccia-nicchia-cristallo-temperato-cm130-nero-opaco.html.html",
+ "title": "Box doccia nicchia, cristallo temperato, cm.130, nero opaco",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4538,
+ "attributes": {
+  "sku": {
+   "value": "89050",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "89050"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "89050"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "89050"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Nicchia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Box Doccia",
+     "value": "Nicchia"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Vetro Box Doccia",
+     "value": "Trasparente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Apertura",
+     "value": "Scorrevole"
+    }
+   ]
+  },
+  "colour": {
+   "value": "NERO OPACO",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "NERO OPACO"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "cm 130",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Box Doccia",
+     "value": "cm 130"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione",
+     "value": "130x190 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "green pvc",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "green pvc"
+    }
+   ]
+  },
+  "finish": {
+   "value": "nero opaco",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "nero opaco"
+    }
+   ]
+  },
+  "opening": {
+   "value": "con sistema a calamita",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "con sistema a calamita"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Maniglia",
+     "value": "Si"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Apertura",
+     "value": "Reversibile"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Si",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "Si"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Installazione",
+     "value": "Tolleranza - 10 cm"
+    }
+   ]
+  },
+  "certification": {
+   "value": "CE",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Riducibile in fase di montaggio": "- 10 cm"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 6,
+  "L3": 11,
+  "dropped": 0
+ }
+}

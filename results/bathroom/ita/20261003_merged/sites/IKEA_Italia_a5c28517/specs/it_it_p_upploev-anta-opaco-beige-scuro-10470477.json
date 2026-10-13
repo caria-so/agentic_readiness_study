@@ -1,0 +1,164 @@
+{
+ "url": "https://www.ikea.com/it/it/p/upploev-anta-opaco-beige-scuro-10470477/",
+ "file": "it_it_p_upploev-anta-opaco-beige-scuro-10470477.html",
+ "title": "UPPLÖV Anta, opaco beige scuro, 40x40 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4922,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "104.704.77",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "104.704.77"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "104.704.77",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "104.704.77"
+    }
+   ]
+  },
+  "material": {
+   "value": "Legno (pannello incluso)",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Legno (pannello incluso)"
+    }
+   ]
+  },
+  "colour": {
+   "value": "beige",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "beige"
+    }
+   ]
+  },
+  "width": {
+   "value": "39.7 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "39.7 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "39.7 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "39.7 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "39.7 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "39.7 cm"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "1.9 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore",
+     "value": "1.9 cm"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "40 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "40 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "2 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lunghezza",
+     "value": "49 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "2.51 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "2.51 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Parti principali": "Truciolare",
+  "Parte anteriore/ Parte posteriore": "Lamina in plastica (min 90% riciclata)",
+  "Bordo": "Bordo in plastica, Bordo in plastica",
+  "Impugnatura": "Alluminio, Rivestimento a polvere epossidico",
+  "UPPLÖV Anta": "104.704.77"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 8,
+  "L3": 4,
+  "dropped": 0
+ }
+}

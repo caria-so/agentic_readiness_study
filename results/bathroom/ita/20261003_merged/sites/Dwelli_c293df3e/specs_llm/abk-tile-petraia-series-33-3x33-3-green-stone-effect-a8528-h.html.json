@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.com/abk-tile-petraia-series-33-3x33-3-green-stone-effect-a8528-h.html",
+  "model": "qwen2.5:32b",
+  "html": "abk-tile-petraia-series-33-3x33-3-green-stone-effect-a8528-h.html.html",
+  "title": "ABK Tile Petraia Series 33.3x33.3 green stone effect A8528.H | Dwellistore",
+  "text_chars": 758,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Porcelain stoneware",
+      "evidence": "Porcelain stoneware, available in others formats or colours.",
+      "location": "body"
+    },
+    "finish": {
+      "value": "natural finish",
+      "evidence": "ABK Tile Petraia Series 33.3x33.3 green stone effect in natural finish.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "green",
+      "evidence": "ABK Tile Petraia Series 33.3x33.3 green stone effect A8528.H",
+      "location": "title"
+    },
+    "width": {
+      "value": "33.3 cm",
+      "evidence": "ABK Tile Petraia Series 33.3x33.3 green stone effect in natural finish.",
+      "location": "body"
+    },
+    "height": {
+      "value": "33.3 cm",
+      "evidence": "ABK Tile Petraia Series 33.3x33.3 green stone effect in natural finish.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "33.3x33.3 cm",
+      "evidence": "ABK Tile Petraia Series 33.3x33.3 green stone effect in natural finish.",
+      "location": "body"
+    },
+    "series": {
+      "value": "Petraia Series",
+      "evidence": "ABK Tile Petraia Series 33.3x33.3 green stone effect A8528.H",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1060,
+    "output_tokens": 635,
+    "seconds": 48.97
+  }
+}

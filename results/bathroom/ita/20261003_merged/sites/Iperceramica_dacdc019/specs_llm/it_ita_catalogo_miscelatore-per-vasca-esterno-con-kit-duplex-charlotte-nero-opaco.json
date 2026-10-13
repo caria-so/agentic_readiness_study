@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/miscelatore-per-vasca-esterno-con-kit-duplex-charlotte-nero-opaco",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_miscelatore-per-vasca-esterno-con-kit-duplex-charlotte-nero-opaco.html",
+  "title": "Miscelatore per Vasca Esterno con Kit Duplex Charlotte Nero Opaco - Iperceramica",
+  "text_chars": 605,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Iperceramica",
+      "evidence": "Miscelatore per Vasca Esterno con Kit Duplex Charlotte Nero Opaco - Iperceramica",
+      "location": "title"
+    },
+    "finish": {
+      "value": "opaco",
+      "evidence": "Charlotte miscelatore vasca esterno con kit doccia ottone nero opaco.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "nero opaco",
+      "evidence": "Charlotte miscelatore vasca esterno con kit doccia ottone nero opaco.",
+      "location": "body"
+    },
+    "series": {
+      "value": "Charlotte",
+      "evidence": "Miscelatore per Vasca Esterno con Kit Duplex Charlotte Nero Opaco - Iperceramica",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1184,
+    "output_tokens": 539,
+    "seconds": 44.74
+  }
+}

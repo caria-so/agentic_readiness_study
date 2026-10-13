@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/luna-dvk8.html",
+  "model": "qwen2.5:32b",
+  "html": "luna-dvk8.html.html",
+  "title": "Armadio senza massellino 8 ante battenti olmo, bianco opaco: Luna | Mondo Convenienza",
+  "text_chars": 1649,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "opaco",
+      "evidence": "LUNA ARMADIO SENZA MASSELLINO 8 ANTE BATTENTI L.365 P.55 H.247 COLORE OLMO / BIANCO OPACO",
+      "location": "body"
+    },
+    "width": {
+      "value": "365",
+      "evidence": "LUNA ARMADIO SENZA MASSELLINO 8 ANTE BATTENTI L.365 P.55 H.247 COLORE OLMO / BIANCO OPACO",
+      "location": "body"
+    },
+    "height": {
+      "value": "247",
+      "evidence": "LUNA ARMADIO SENZA MASSELLINO 8 ANTE BATTENTI L.365 P.55 H.247 COLORE OLMO / BIANCO OPACO",
+      "location": "body"
+    },
+    "depth": {
+      "value": "55",
+      "evidence": "LUNA ARMADIO SENZA MASSELLINO 8 ANTE BATTENTI L.365 P.55 H.247 COLORE OLMO / BIANCO OPACO",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "365 x 55 x 247",
+      "evidence": "LUNA ARMADIO SENZA MASSELLINO 8 ANTE BATTENTI L.365 P.55 H.247 COLORE OLMO / BIANCO OPACO",
+      "location": "body"
+    },
+    "opening": {
+      "value": "battenti",
+      "evidence": "LUNA ARMADIO SENZA MASSELLINO 8 ANTE BATTENTI L.365 P.55 H.247 COLORE OLMO / BIANCO OPACO",
+      "location": "body"
+    },
+    "series": {
+      "value": "Luna",
+      "evidence": "LUNA ARMADIO SENZA MASSELLINO 8 ANTE BATTENTI L.365 P.55 H.247 COLORE OLMO / BIANCO OPACO",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "colour": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "olmo, bianco opaco",
+        "evidence": "LUNA ARMADIO SENZA MASSELLINO 8 ANTE BATTENTI L.365 P.55 H.247 COLORE OLMO / BIANCO OPACO"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1402,
+    "output_tokens": 834,
+    "seconds": 68.48
+  }
+}

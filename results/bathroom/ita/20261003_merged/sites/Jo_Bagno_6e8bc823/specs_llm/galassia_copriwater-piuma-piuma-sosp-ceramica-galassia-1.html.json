@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/galassia/copriwater-piuma-piuma-sosp-ceramica-galassia-1.html",
+  "model": "qwen2.5:32b",
+  "html": "galassia_copriwater-piuma-piuma-sosp-ceramica-galassia-1.html.html",
+  "title": "Copriwater Piuma / Piuma Sospeso Ceramica Galassia",
+  "text_chars": 2318,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "36",
+      "evidence": "Misure: X: 36 Y: 41 Z: Min. 120 – Max. 170 (J1)",
+      "location": "body"
+    },
+    "length": {
+      "value": "41",
+      "evidence": "Misure: X: 36 Y: 41 Z: Min. 120 – Max. 170 (J1)",
+      "location": "body"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Copriwater Piuma / Piuma sospeso Ceramica Galassia",
+      "location": "title"
+    },
+    "brand": {
+      "value": "Ceramica Galassia",
+      "evidence": "Copriwater Piuma / Piuma sospeso Ceramica Galassia",
+      "location": "title"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Il copriwater Wc è un prodotto Made in Italy",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1836,
+    "output_tokens": 691,
+    "seconds": 59.2
+  }
+}

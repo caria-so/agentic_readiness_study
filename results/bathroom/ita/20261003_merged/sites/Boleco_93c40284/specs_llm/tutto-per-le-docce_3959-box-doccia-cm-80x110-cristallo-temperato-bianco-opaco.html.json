@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/tutto-per-le-docce/3959-box-doccia-cm-80x110-cristallo-temperato-bianco-opaco.html",
+  "model": "qwen2.5:32b",
+  "html": "tutto-per-le-docce_3959-box-doccia-cm-80x110-cristallo-temperato-bianco-opaco.html.html",
+  "title": "Box doccia cm 80x110 cristallo temperato – bianco opaco | Boleco",
+  "text_chars": 4560,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "80 cm",
+      "evidence": "Dimensione: cm 80x110x200",
+      "location": "body"
+    },
+    "height": {
+      "value": "200 cm",
+      "evidence": "Dimensione: cm 80x110x200",
+      "location": "body"
+    },
+    "depth": {
+      "value": "110 cm",
+      "evidence": "Dimensione: cm 80x110x200",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "6 mm",
+      "evidence": "Vetro Temperato 6 mm trasparente",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Prodotto garantito 2 anni",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Italia",
+      "evidence": "Box doccia prodotto in Italia",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Boleco",
+        "evidence": "Box doccia cm 80x110 cristallo temperato – bianco opaco | Boleco"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2511,
+    "output_tokens": 673,
+    "seconds": 61.01
+  }
+}

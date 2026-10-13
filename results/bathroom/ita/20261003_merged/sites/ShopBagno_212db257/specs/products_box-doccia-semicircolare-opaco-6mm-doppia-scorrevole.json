@@ -1,0 +1,119 @@
+{
+ "url": "https://www.shopbagno.it/products/box-doccia-semicircolare-opaco-6mm-doppia-scorrevole",
+ "file": "products_box-doccia-semicircolare-opaco-6mm-doppia-scorrevole.html",
+ "title": "Box Doccia Semicircolare Opaco 6mm Doppia Scorrevole H190cm",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 8728,
+ "attributes": {
+  "sku": {
+   "value": "wld79s",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "wld79s"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "WLD79S"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "6014348273211",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "6014348273211"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "70x90 raggio 38cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "dimensioni",
+     "value": "70x90 raggio 38cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "190cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "190cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "6mm satinato",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Cristallo",
+     "value": "6mm satinato"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Doppio scorrevole",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Apertura",
+     "value": "Doppio scorrevole"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "Magnetica"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Moderno",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Stile",
+     "value": "Moderno"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Adattabilità": "-2cm | +1cm",
+  "Anticalcare": "No",
+  "Raggio di curvatura": "55cm (80x80 e 90x90)",
+  "Sgancio rapido": "Sì",
+  "Tenuta inferiore": "Profilo"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 12,
+  "dropped": 15
+ }
+}

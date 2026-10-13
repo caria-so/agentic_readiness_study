@@ -1,0 +1,159 @@
+{
+ "url": "https://www.deghi.it/box-doccia-walk-in-tre-lati-90x120x90-con-vetro-anticalcare-fum-e-profilo-nero-opaco-200h-keep",
+ "file": "box-doccia-walk-in-tre-lati-90x120x90-con-vetro-anticalcare-fum-e-profilo-nero-opaco-200h-keep.html",
+ "title": "Box doccia walk-in tre lati 90x120x90 con vetro anticalcare fumè e profilo nero opaco 200h - Keep",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 11263,
+ "attributes": {
+  "sku": {
+   "value": "KPT929-NF",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "KPT929-NF"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "KPT929-NF"
+    }
+   ]
+  },
+  "series": {
+   "value": "Keep",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Keep"
+    }
+   ]
+  },
+  "height": {
+   "value": "200 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "200 cm"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Walk in",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Apertura",
+     "value": "Walk in"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "90 x 120 x 90 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "90 x 120 x 90 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensione Entrata",
+     "value": "60 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Vetro temperato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale anta",
+     "value": "Vetro temperato"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale profilo",
+     "value": "Alluminio"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Fumè",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura anta",
+     "value": "Fumè"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "8 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore anta",
+     "value": "8 mm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Nero opaco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore profilo",
+     "value": "Nero opaco"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Riducibile da 100 fino a 50 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Braccio di sostegno",
+     "value": "Riducibile da 100 fino a 50 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Filopavimento | Su piatto doccia"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Entrata": "Su lato lungo",
+  "Anticalcare": "Si"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 14,
+  "L3": 1,
+  "dropped": 12
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "url": "https://www.shopbagno.it/products/set-rubinetteria-lavabo-e-bidet-colore-nero-opaco-e-bronze",
+ "file": "products_set-rubinetteria-lavabo-e-bidet-colore-nero-opaco-e-bronze.html",
+ "title": "Set Rubinetteria Lavabo e Bidet Colore Nero Opaco e Bronze",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 6909,
+ "attributes": {
+  "sku": {
+   "value": "wkg-andareset-nb",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "wkg-andareset-nb"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "productID",
+     "value": "6804188659810"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "WKG-ANDARESET-NB"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "609003975508",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin12",
+     "value": "609003975508"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 13
+ }
+}

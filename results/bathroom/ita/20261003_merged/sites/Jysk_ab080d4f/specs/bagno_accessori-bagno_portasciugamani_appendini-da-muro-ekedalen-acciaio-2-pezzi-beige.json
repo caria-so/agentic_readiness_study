@@ -1,0 +1,124 @@
+{
+ "url": "https://jysk.it/bagno/accessori-bagno/portasciugamani/appendini-da-muro-ekedalen-acciaio-2-pezzi-beige",
+ "file": "bagno_accessori-bagno_portasciugamani_appendini-da-muro-ekedalen-acciaio-2-pezzi-beige.html",
+ "title": "EKEDALEN Appendini da muro EKEDALEN acciaio 2 pezzi beige",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 9998,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "2769001",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "2769001"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "2769001"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Appendini e porta asciugamani",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Appendini e porta asciugamani"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Acciaio"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Diametro 5 cm, Profondità 3 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Diametro 5 cm, Profondità 3 cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Beige",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Beige"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Nastro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Montaggio",
+     "value": "Nastro"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 6,
+  "L3": 1,
+  "dropped": 36
+ }
+}

@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/tretur-tenda-a-rullo-oscurante-grigio-chiaro-60380460/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_tretur-tenda-a-rullo-oscurante-grigio-chiaro-60380460.html",
+  "title": "TRETUR tenda a rullo oscurante, grigio chiaro, 100x195 cm  - IKEA Italia",
+  "text_chars": 4359,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "weight": {
+      "value": "1.82 kg",
+      "evidence": "Peso: 1.82 kg",
+      "location": "body"
+    },
+    "care": {
+      "value": "Non lavabile ad acqua.\nNon candeggiare.\nNon mettere nell'asciugatrice.\nNon stirare.\nNon lavare a secco.\nPulisci con un panno inumidito in un detersivo poco concentrato.",
+      "evidence": "Cura\nNon lavabile ad acqua.\nNon candeggiare.\nNon mettere nell'asciugatrice.\nNon stirare.\nNon lavare a secco.\nPulisci con un panno inumidito in un detersivo poco concentrato.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "TRETUR",
+        "evidence": "Tenda a rullo oscurante, grigio chiaro, 100x195 cm"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA Italia",
+        "evidence": "TRETUR tenda a rullo oscurante, grigio chiaro, 100x195 cm - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2432,
+    "output_tokens": 763,
+    "seconds": 67.53
+  }
+}

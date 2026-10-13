@@ -1,0 +1,92 @@
+{
+ "url": "https://jo-bagno.it/nero-ceramica/copriwater-iceberg-ceramica-neroceramica-mdf.html",
+ "file": "nero-ceramica_copriwater-iceberg-ceramica-neroceramica-mdf.html.html",
+ "title": "Copriwater Iceberg Ceramica Neroceramica MDF",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2923,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Jo-Bagno.it",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jo-Bagno.it"
+    }
+   ]
+  },
+  "sku": {
+   "value": "JEM167YL-ICEBERG",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "JEM167YL-ICEBERG"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "X: 36,1 Y: 45,5-48,8 Z: 10,2-19,8 (J3)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "X: 36,1 Y: 45,5-48,8 Z: 10,2-19,8 (J3)"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Copriwater Compatibile realizzato sullo stampo dell’originale",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Copriwater Compatibile realizzato sullo stampo dell’originale"
+    }
+   ]
+  },
+  "material": {
+   "value": "MDF",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "MDF"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "3 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 4,
+  "dropped": 9
+ }
+}

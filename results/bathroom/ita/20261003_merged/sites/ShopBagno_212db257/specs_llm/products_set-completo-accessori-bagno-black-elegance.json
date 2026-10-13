@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/set-completo-accessori-bagno-black-elegance",
+  "model": "qwen2.5:32b",
+  "html": "products_set-completo-accessori-bagno-black-elegance.html",
+  "title": "Set Completo Accessori Bagno Black Elegance",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "series": {
+      "value": "Black Elegance",
+      "evidence": "Set Completo Accessori Bagno Black Elegance",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "colour": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "nero",
+        "evidence": "Set Completo Accessori Bagno Black Elegance"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3897,
+    "output_tokens": 475,
+    "seconds": 51.71
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/rubinetti-doccia/28764-miscelatore-doccia-incasso-3-vie-con-deviatore-cromato-artic-mariani.html",
+  "model": "qwen2.5:32b",
+  "html": "rubinetti-doccia_28764-miscelatore-doccia-incasso-3-vie-con-deviatore-cromato-artic-mariani.html.html",
+  "title": "Miscelatore doccia incasso 3 vie con deviatore cromato Artic Mariani",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "ottone",
+      "evidence": "Miscelatore doccia ad incasso Artic Mariani in ottone cromato con deviatore a 3 vie",
+      "location": "body"
+    },
+    "width": {
+      "value": "11 cm",
+      "evidence": "Dimensioni: L 11 x p 5,6 x H 22 cm;",
+      "location": "body"
+    },
+    "height": {
+      "value": "22 cm",
+      "evidence": "Dimensioni: L 11 x p 5,6 x H 22 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "5,6 cm",
+      "evidence": "Dimensioni: L 11 x p 5,6 x H 22 cm;",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "Attacchi da 1/2 “;",
+      "evidence": "Attacchi da 1/2 “;",
+      "location": "body"
+    },
+    "water": {
+      "value": "Cartuccia diam. 35",
+      "evidence": "Cartuccia diam. 35",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Miscelatore doccia ad incasso Artic Mariani in ottone cromato con deviatore a 3 vie"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_series",
+      "raw": {
+        "value": "Artic Mariani",
+        "evidence": "Miscelatore doccia ad incasso Artic Mariani in ottone cromato con deviatore a 3 vie",
+        "location": "body"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3865,
+    "output_tokens": 740,
+    "seconds": 68.19
+  }
+}

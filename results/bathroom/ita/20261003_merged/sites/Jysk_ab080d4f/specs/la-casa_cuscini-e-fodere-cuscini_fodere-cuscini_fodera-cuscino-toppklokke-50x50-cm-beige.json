@@ -1,0 +1,183 @@
+{
+ "url": "https://jysk.it/la-casa/cuscini-e-fodere-cuscini/fodere-cuscini/fodera-cuscino-toppklokke-50x50-cm-beige",
+ "file": "la-casa_cuscini-e-fodere-cuscini_fodere-cuscini_fodera-cuscino-toppklokke-50x50-cm-beige.html",
+ "title": "TOPPKLOKKE Fodera cuscino TOPPKLOKKE 50x50 cm beige",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 10407,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "6897312",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "6897312"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "6897312"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Beige",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Beige"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Beige Colore : Marrone"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "50x50",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "50x50"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Larghezza 50 cm, Lunghezza 50 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "100% poliestere (100% riciclato)",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "100% poliestere (100% riciclato)"
+    }
+   ]
+  },
+  "care": {
+   "value": "40°C",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio",
+     "value": "40°C"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Candeggio",
+     "value": "Non candeggiare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Asciugatrice",
+     "value": "Non asciugare in asciugatrice"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Stiratura",
+     "value": "* Stirabile, a temperature basse (max. 110°C)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio a secco e a umido",
+     "value": "Non lavare a secco"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Istruzioni",
+     "value": "Lavare sempre con colori simili, Assicurarsi di chiudere la cerniera prima del lavaggio"
+    }
+   ]
+  },
+  "weight": {
+   "value": "290 g/m².",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "290 g/m²."
+    }
+   ]
+  },
+  "finish": {
+   "value": "Tinto",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Metodo di colorazione",
+     "value": "Tinto"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "A tinta unita",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Design",
+     "value": "A tinta unita"
+    }
+   ]
+  },
+  "certification": {
+   "value": "OEKO-TEX® STANDARD 100 ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "OEKO-TEX® STANDARD 100 "
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Caratteristica": "Con cerniera"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 13,
+  "L3": 2,
+  "dropped": 29
+ }
+}

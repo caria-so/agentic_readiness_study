@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/4923454/serratura-ad-infilare-antipanico-porta-tagliafuoco-quadro-passante-cisa-9-mm",
+  "model": "qwen2.5:32b",
+  "html": "p_4923454_serratura-ad-infilare-antipanico-porta-tagliafuoco-quadro-passante-cisa-9-mm.html",
+  "title": "Serratura ad infilare antipanico porta tagliafuoco quadro passante Cisa 9 mm",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "9 mm",
+      "evidence": "Serratura ad infilare antipanico porta tagliafuoco quadro passante Cisa 9 mm",
+      "location": "title"
+    },
+    "brand": {
+      "value": "Cisa",
+      "evidence": "Serratura ad infilare antipanico porta tagliafuoco quadro passante Cisa 9 mm",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4274,
+    "output_tokens": 552,
+    "seconds": 59.18
+  }
+}

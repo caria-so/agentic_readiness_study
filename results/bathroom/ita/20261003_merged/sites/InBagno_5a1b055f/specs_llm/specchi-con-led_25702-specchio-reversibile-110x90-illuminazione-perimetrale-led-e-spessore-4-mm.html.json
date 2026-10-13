@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/specchi-con-led/25702-specchio-reversibile-110x90-illuminazione-perimetrale-led-e-spessore-4-mm.html",
+  "model": "qwen2.5:32b",
+  "html": "specchi-con-led_25702-specchio-reversibile-110x90-illuminazione-perimetrale-led-e-spessore-4-mm.html.html",
+  "title": "Specchio reversibile 110x90 illuminazione perimetrale LED e spessore 4 mm",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "lucido",
+      "evidence": "Specchiera LED rettangolare a filo lucido con installazione reversibile e angoli raggiati",
+      "location": "body"
+    },
+    "width": {
+      "value": "110 cm",
+      "evidence": "Dimensioni:L 110 x p 2,5 x H 90 cm,installazione reversibile;",
+      "location": "body"
+    },
+    "height": {
+      "value": "90 cm",
+      "evidence": "Dimensioni:L 110 x p 2,5 x H 90 cm,installazione reversibile;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "2,5 cm",
+      "evidence": "Dimensioni:L 110 x p 2,5 x H 90 cm,installazione reversibile;",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "4 mm",
+      "evidence": "Materiale:vetro (4 mm);",
+      "location": "body"
+    },
+    "certification": {
+      "value": "CE,IP44,ROHS",
+      "evidence": "Certificati componenti CE,IP44,ROHS;",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Made in Italy;",
+      "evidence": "Made in Italy;",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "a muro",
+        "evidence": "è dotato di installazione reversibile ,per essere applicato alla parete sia in orizzontale che in verticale."
+      }
+    },
+    "electrical": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "12 Vac LED,flusso luminoso 2950 lumens;Luce naturale con temperatura 4000 K e potenza 17 W;",
+        "evidence": "Illuminazione 12 Vac LED,flusso luminoso 2950 lumens;Luce naturale con temperatura 4000 K e potenza 17 W;"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3846,
+    "output_tokens": 771,
+    "seconds": 74.54
+  }
+}

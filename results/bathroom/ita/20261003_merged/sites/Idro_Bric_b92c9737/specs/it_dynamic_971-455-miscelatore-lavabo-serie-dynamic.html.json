@@ -1,0 +1,81 @@
+{
+ "url": "https://www.idrobric.it/it/dynamic/971-455-miscelatore-lavabo-serie-dynamic.html",
+ "file": "it_dynamic_971-455-miscelatore-lavabo-serie-dynamic.html.html",
+ "title": "Miscelatore lavabo serie Dynamic",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 927,
+ "attributes": {
+  "sku": {
+   "value": "SCARUB1435GU",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SCARUB1435GU"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931104731",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931104731"
+    }
+   ]
+  },
+  "finish": {
+   "value": "cromo o gungrey",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "cromo o gungrey"
+    }
+   ]
+  },
+  "water": {
+   "value": "26 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Cartuccia",
+     "value": "26 mm"
+    }
+   ]
+  },
+  "series": {
+   "value": "Dynamic",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Dynamic"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 5,
+  "L3": 0,
+  "dropped": 0
+ }
+}

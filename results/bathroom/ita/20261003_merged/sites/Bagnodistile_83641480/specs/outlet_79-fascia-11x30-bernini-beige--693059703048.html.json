@@ -1,0 +1,83 @@
+{
+ "url": "https://www.bagnodistile.com/outlet/79-fascia-11x30-bernini-beige--693059703048.html",
+ "file": "outlet_79-fascia-11x30-bernini-beige--693059703048.html.html",
+ "title": "FASCIA 11X30 Bernini Beige",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3454,
+ "attributes": {
+  "brand": {
+   "value": "ERGON",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "ERGON"
+    }
+   ]
+  },
+  "sku": {
+   "value": "MCFEB37",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "MCFEB37"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059703048",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059703048"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "MCFEB37",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "MCFEB37"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.000000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 23
+ }
+}

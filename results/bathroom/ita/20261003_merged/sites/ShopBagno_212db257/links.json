@@ -1,0 +1,2575 @@
+{
+  "source": "https://www.shopbagno.it/",
+  "generated": "2026-10-02T16:13:16.301283",
+  "total": 344,
+  "internal_count": 331,
+  "external_count": 13,
+  "links": [
+    {
+      "url": "https://www.shopbagno.it/policies/privacy-policy",
+      "fragment": "",
+      "text": "Informativa sulla privacy",
+      "rel": "noopener noreferrer",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/",
+      "fragment": "",
+      "text": "Attiva/disattiva la modalità di accessibilità (a)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/",
+      "fragment": "nav",
+      "text": "Vai alla navigazione (n)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/search",
+      "fragment": "",
+      "text": "Vai alla ricerca (s)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/",
+      "fragment": "content",
+      "text": "Vai al contenuto (c)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/",
+      "fragment": "shopify-section-footer",
+      "text": "Vai al piè di pagina (f)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/recensioni-shopbagno-it",
+      "fragment": "",
+      "text": "Leggi le nostre recensioni!",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://wa.me/3505825811",
+      "fragment": "",
+      "text": "Whatsapp: 3505825811",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/",
+      "fragment": "search",
+      "text": "Ricerca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.feedaty.com/recensioni/shopbagno",
+      "fragment": "",
+      "text": "",
+      "rel": "external noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/customer_authentication/redirect?locale=it&amp;region_country=IT",
+      "fragment": "",
+      "text": "Login",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/customer_authentication/redirect?locale=it&amp;region_country=IT",
+      "fragment": "recover",
+      "text": "Hai dimenticato la password?",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://accounts.shopbagno.it?locale=it&amp;region_country=IT&amp;buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzaG9wYmFnbm8ubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzkxNTU1MTcyLCJuYmYiOjE3OTA5NTAzNzJ9.WbzTN8YpRTpdYqyzbznokETqvyqEbMifm2OUuMxkcAU",
+      "fragment": "",
+      "text": "Crea un account",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/",
+      "fragment": "wishlist",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/cart",
+      "fragment": "",
+      "text": "Carrello 0",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/configuratore-box-doccia",
+      "fragment": "",
+      "text": "Box doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia",
+      "fragment": "",
+      "text": "Configuratore Box Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/pareti-doccia-walk-in",
+      "fragment": "",
+      "text": "Pareti Walk In",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/pareti-doccia-walk-in/Altezza-box-doccia_190cm",
+      "fragment": "",
+      "text": "Altezza 190cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/pareti-doccia-walk-in/Altezza-box-doccia_195cm",
+      "fragment": "",
+      "text": "Altezza 195cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/pareti-doccia-walk-in/Altezza-box-doccia_200cm",
+      "fragment": "",
+      "text": "Altezza 200cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/porte-doccia-per-nicchia",
+      "fragment": "",
+      "text": "Porte Doccia Per Nicchia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/porte-doccia-per-nicchia/anta-a-libro",
+      "fragment": "",
+      "text": "Anta a libro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/porte-doccia-per-nicchia/anta-battente",
+      "fragment": "",
+      "text": "Anta battente",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/porte-doccia-per-nicchia/anta-scorrevole",
+      "fragment": "",
+      "text": "Anta scorrevole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/porte-doccia-per-nicchia/porta-saloon",
+      "fragment": "",
+      "text": "Porta Saloon",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-due-lati",
+      "fragment": "",
+      "text": "Box Doccia Angolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-due-lati/anta-a-libro",
+      "fragment": "",
+      "text": "Anta a libro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-due-lati/anta-battente",
+      "fragment": "",
+      "text": "Anta battente",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-due-lati/anta-scorrevole",
+      "fragment": "",
+      "text": "Anta scorrevole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-due-lati/porta-saloon",
+      "fragment": "",
+      "text": "Porta saloon",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-70x90-angolari",
+      "fragment": "",
+      "text": "70x90 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-80x80-angolari",
+      "fragment": "",
+      "text": "80x80 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-angolari-80x100",
+      "fragment": "",
+      "text": "80x100 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-80x120-angolari",
+      "fragment": "",
+      "text": "80x120 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-angolari-90x90",
+      "fragment": "",
+      "text": "90x90 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-angolari-100x100",
+      "fragment": "",
+      "text": "100x100 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-semicircolari",
+      "fragment": "",
+      "text": "Box Doccia Semicircolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-3-lati",
+      "fragment": "",
+      "text": "Box Doccia Tre Lati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-con-trattamento-anticalcare",
+      "fragment": "",
+      "text": "Box Doccia Anticalcare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia/Finitura-cristallo_Satinato",
+      "fragment": "",
+      "text": "Box Doccia Cristallo Satinato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia/Finitura-cristallo_Fum%C3%A8",
+      "fragment": "",
+      "text": "Box Doccia Fumè",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia/profili-colorati",
+      "fragment": "",
+      "text": "Box doccia Profili Colorati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/forte-srl-box-doccia-made-in-italy",
+      "fragment": "",
+      "text": "Box Doccia Made In Italy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/box-doccia-economici",
+      "fragment": "",
+      "text": "Box Doccia Economici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/blogs/shopbagno-blog",
+      "fragment": "",
+      "text": "Guide Box Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/come-acquistare-il-box-doccia-giusto-per-il-tuo-bagno",
+      "fragment": "",
+      "text": "Come scegliere il box doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/blogs/shopbagno-blog/tipi-di-apertura-di-box-boccia-guida-completa",
+      "fragment": "",
+      "text": "Quale apertura scegliere?",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/blogs/shopbagno-blog/doccia-filo-pavimento-comfort-e-design-per-il-tuo-bagno-moderno",
+      "fragment": "",
+      "text": "Doccia a filo pavimento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/blogs/shopbagno-blog/come-installare-un-box-doccia-frameless-guida-passo-passo",
+      "fragment": "",
+      "text": "Frameless: Guida all'installazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/blogs/shopbagno-blog/box-doccia-a-nicchia-soluzione-elegante-per-bagni-di-piccole-dimensioni",
+      "fragment": "",
+      "text": "Porte doccia a nicchia, il salvaspazio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-moderni",
+      "fragment": "",
+      "text": "Tutti i piatti doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-mineral-marmo",
+      "fragment": "",
+      "text": "Piatti doccia in mineralmarmo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-mineral-marmo/Colore-piatto-doccia_Bianco",
+      "fragment": "",
+      "text": "Bianco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-mineral-marmo/Colore-piatto-doccia_Crema",
+      "fragment": "",
+      "text": "Crema",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-mineral-marmo?sort_by=best-selling&amp;filter.v.m.custom.colore=Tortora",
+      "fragment": "",
+      "text": "Tortora",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-mineral-marmo/Colore-piatto-doccia_Marrone",
+      "fragment": "",
+      "text": "Marrone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-mineral-marmo/Colore-piatto-doccia_Grigio-Chiaro",
+      "fragment": "",
+      "text": "Grigio chiaro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-mineral-marmo/Colore-piatto-doccia_Antracite",
+      "fragment": "",
+      "text": "Antracite",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-mineral-marmo/Colore-piatto-doccia_Grafite",
+      "fragment": "",
+      "text": "Grafite",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-mineral-marmo/Colore-piatto-doccia_Nero",
+      "fragment": "",
+      "text": "Nero",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-in-acrilico",
+      "fragment": "",
+      "text": "Piatti doccia in acrilico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-in-acrilico/Colore-piatto-doccia_Bianco",
+      "fragment": "",
+      "text": "Bianco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-in-acrilico/Colore-piatto-doccia_Beige",
+      "fragment": "",
+      "text": "Beige",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-in-acrilico/Colore-piatto-doccia_Grigio-chiaro",
+      "fragment": "",
+      "text": "Grigio Chiaro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-in-acrilico/Colore-piatto-doccia_Antracite",
+      "fragment": "",
+      "text": "Antracite",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-in-ceramica",
+      "fragment": "",
+      "text": "Piatti doccia in ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-semicircolari",
+      "fragment": "",
+      "text": "Piatti doccia semicircolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/canaline-di-scarico-in-acciaio-inox-per-doccia",
+      "fragment": "",
+      "text": "Canaline di scarico a pavimento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni",
+      "fragment": "",
+      "text": "Tutti i mobili bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/sospeso",
+      "fragment": "",
+      "text": "Mobili Bagno Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_60cm+sospeso",
+      "fragment": "",
+      "text": "Larghezza 60cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_70cm+sospeso",
+      "fragment": "",
+      "text": "Larghezza 70cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_80cm+sospeso",
+      "fragment": "",
+      "text": "Larghezza 80cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_90cm+sospeso",
+      "fragment": "",
+      "text": "Larghezza 90cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_100cm+sospeso",
+      "fragment": "",
+      "text": "Larghezza 100cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_120cm+sospeso",
+      "fragment": "",
+      "text": "Larghezza 120cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Oltre-120cm",
+      "fragment": "",
+      "text": "Oltre 120cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Pensile-colonna+sospeso",
+      "fragment": "",
+      "text": "Pensile Colonna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mensole-porta-lavabo-design-e-funzionalita-per-il-tuo-bagno",
+      "fragment": "",
+      "text": "Mensoloni Porta Lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/a-terra",
+      "fragment": "",
+      "text": "Mobili Bagno A Terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_60cm+a-terra",
+      "fragment": "",
+      "text": "Larghezza 60cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_80cm+a-terra",
+      "fragment": "",
+      "text": "Larghezza 80cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_100cm+a-terra",
+      "fragment": "",
+      "text": "Larghezza 100cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/mobili-bagno-e-composizioni/Larghezza-mobile-bagno_150cm+a-terra",
+      "fragment": "",
+      "text": "Larghezza 150cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/tutti-i-lavabi",
+      "fragment": "",
+      "text": "Lavabi Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/lavabi-in-ceramica",
+      "fragment": "",
+      "text": "Lavabi in ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/lavabi-bagno-in-pietra",
+      "fragment": "",
+      "text": "Lavabi in pietra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/lavabi-in-acciaio-inossidabile",
+      "fragment": "",
+      "text": "Lavabi in acciaio inox",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/specchi-da-bagno",
+      "fragment": "",
+      "text": "Specchi Da Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/sanitari-filo-muro-sospesi-a-terra",
+      "fragment": "",
+      "text": "Sanitari filo muro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/rubinetteria-bagno-e-accessori",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/set-incasso-doccia-completi",
+      "fragment": "",
+      "text": "Set incasso doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/colonne-doccia",
+      "fragment": "",
+      "text": "Colonne doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/soffioni-doccia",
+      "fragment": "",
+      "text": "Soffioni doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/termoarredi-bagno",
+      "fragment": "",
+      "text": "Termoarredi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/accessori-bagno",
+      "fragment": "",
+      "text": "Accessori bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/arredo-bagno-in-finitura-color-oro",
+      "fragment": "",
+      "text": "Arredo Bagno Color Oro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/arredo-bagno-in-stile-industrial",
+      "fragment": "",
+      "text": "Arredo Bagno Stile Industrial",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/complementi-di-arredo-per-interni-ed-esterni-design-e-stile",
+      "fragment": "",
+      "text": "Complementi Di Arredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/vasche-da-bagno-vendita-online",
+      "fragment": "",
+      "text": "Vasche Da Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/minipiscine-idromassaggio",
+      "fragment": "",
+      "text": "Minipiscine Idromassaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/domande-frequenti",
+      "fragment": "",
+      "text": "Supporto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/chi-siamo-e-perche-ci-teniamo",
+      "fragment": "",
+      "text": "Chi Siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/contattaci",
+      "fragment": "",
+      "text": "Contattaci",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/klarna-paga-in-tre-rate-faq",
+      "fragment": "",
+      "text": "Pagamento in 3 rate",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/iva-agevolata-per-acquisto-ristrutturazione-casa",
+      "fragment": "",
+      "text": "Detrazioni e IVA Agevolata",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/shopbagno-per-professionisti-il-partner-ideale-per-larredo-bagno-di-design",
+      "fragment": "",
+      "text": "Shopbagno Per Professionisti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/search?q=cancer",
+      "fragment": "",
+      "text": "Scopri la collezione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/idromassaggio-e-spa",
+      "fragment": "",
+      "text": "Idromassaggio e SPA &nbsp;",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/piatto-doccia-pietra-mineral-marmo-bianco-slim",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/tempi-di-spedizione-e-consegna",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/colacril-ceramic-30-piatto-doccia-in-ceramica-spessore-3cm",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/piatto-doccia-mineralmarmo-pietra-bianco-scarico-centrale",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/piatto-doccia-in-ceramica-h-3cm-con-massaggio-plantare-althea-up",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/colacril-flat-bordo-piatto-doccia-in-marmo-resina-ribassato",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/porte-doccia-per-nicchia/porta-saloon?filter.p.m.custom.marchio=Karag&amp;sort_by=best-selling",
+      "fragment": "",
+      "text": "Vai al prodotto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/lavabo-a-colonna-pietra-naturale-nera-karag-bora-prdg",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/lavabo-a-colonna-pietra-naturale-crema-karag-bora-prdg",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/lavabo-a-colonna-pietra-di-fiume-naturale-grigia-karag-river-pnrb",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/wc-monoblocco-a-terra-senza-brida-cassetta-sedile-karag-venice",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/wc-monoblocco-squadrato-senza-brida-soft-close-karag-natalia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/wc-monoblocco-a-terra-senza-brida-soft-close-karag-amfipolis-round",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/set-sanitari-a-terra-wc-senza-brida-bidet-filo-muro-karag-amfipolis",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/porta-doccia-saloon-60cm-cristallo-8mm-trasparente-nova-2-0",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/parete-walkin-trasparente-8mm-anticalcare-h200-profili-color-oro",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/parete-doccia-walk-in-scorrevole-trasparente-8mm-h195cm",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/parete-doccia-walk-in-h195-cristallo-trasparente-8mm-anticalcare",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/parete-walkin-h200cm-fume-8mm-anticalcare-profili-gun-metal",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/parete-doccia-walk-in-scorrevole-profili-neri-8mm-h195cm",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/parete-walkin-h200cm-cristallo-trasparente-8mm-anticalcare",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/parete-doccia-walk-in-trasparente-8mm-h195cm",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/parete-walkin-h200cm-cristallo-trasparente-8mm-anticalcare-profili-nero-opaco",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/box-doccia-soft-close-h200-8mm-anticalcare-profili-oro-spazzolato",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/box-doccia-soft-close-h200-doppia-scorrevole-8mm-anticalcare-profili-neri",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/box-doccia-soft-close-h200-doppia-scorrevole-8mm-trasparente-anticalcare",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/box-doccia-angolare-e-piatto-doccia-mineralmarmo",
+      "fragment": "",
+      "text": "Acquista ora",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/products/karag-eris-lavabo-da-appoggio-in-pietra-ricomposta-grigio-cemento",
+      "fragment": "",
+      "text": "Acquista ora",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/blogs/shopbagno-blog/box-doccia-perde-acqua-sotto-porta-sistemi-tenuta",
+      "fragment": "",
+      "text": "Leggi tutto &nbsp;",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/blogs/shopbagno-blog/piatto-doccia-semicircolare-quando-conviene",
+      "fragment": "",
+      "text": "Leggi tutto &nbsp;",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/blogs/shopbagno-blog/come-installare-piatto-doccia-guida-passo-passo",
+      "fragment": "",
+      "text": "Leggi tutto &nbsp;",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/blogs/shopbagno-blog/come-pulire-piatto-doccia-mineralmarmo-resina",
+      "fragment": "",
+      "text": "Leggi tutto &nbsp;",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/colacril-qualita-e-design-per-il-tuo-bagno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/arredo-bagno-karag",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/idrom-arredo-bagno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/catalogo-lineadoccia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/arredo-bagno-olimpo-docce",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/piatti-doccia-solidstone",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/collections/rubinetteria-tubico",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.feedaty.com/feedaty/widgetredirect?m=10215719&amp;object=widget-carousel",
+      "fragment": "",
+      "text": "Ottimo 4,7 /5 364 recensioni Le nostre recensioni a 4 e 5 stelle. Clicca qui per leggerle tutte &gt;",
+      "rel": "noopener noreferrer dofollow ",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/condizioni-generali",
+      "fragment": "",
+      "text": "SUPPORTO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/resi-e-rimborsi",
+      "fragment": "",
+      "text": "Resi E Rimborsi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/informativa-sulla-privacy-shopbagno-it",
+      "fragment": "",
+      "text": "Informativa Privacy - Shopbagno.it",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/privacy-gdpr",
+      "fragment": "",
+      "text": "Privacy GDPR",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/diventa-nostro-fornitore",
+      "fragment": "",
+      "text": "Diventa Fornitore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/pages/ristrutturazione-bagno-a-roma",
+      "fragment": "",
+      "text": "Ristrutturazione Bagno a Roma",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/",
+      "fragment": "root",
+      "text": "Torna in cima",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/account",
+      "fragment": "",
+      "text": "Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/files/favico.jpg?crop=center&amp;height=32&amp;v=1782782773&amp;width=32",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/safari-pinned-tab.svg",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/apple-touch-icon.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://widget.feedaty.com/v3.0.0/style/2021,carousel,carosello-1,selettore1.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.shopify.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/polyfills.DsjDEvpF.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/async.css?v=41744671743756711781790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/async-hovers.css?v=11426554574770939381790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/async-menu.css?v=84448108543894490671790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/plugin-outline.js?v=93260491385993944751790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/app.iZwEIta_.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/2c1ab0fe.GMbxnz74.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/6a2fc6d6.Dc5sREK5.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/4c290a1e.2OXqqQwu.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/bb728e1c.D-ELh9cQ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/cf29e63b.B2McWB3h.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/cb38e5c2.Di0VF2ns.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/413b21e2.BR4Ns-ic.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/e477f96c.C25EBhFr.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/2255f8fa.CNix39Jk.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/b8733b27.BFTxZKeR.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/e39bc11c.mSpfzD2E.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/08a3b809.C53JtSED.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/bff2ff9b.dZiLBpKk.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/5fda1420.C7SyMXTh.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/164ad2e3.BmqNdq2P.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/9f047e05.Bp-gLL-x.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/0a7dffce.BIRsKacx.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/60a453ce.fEeMtJEq.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/21cc90a2.BYvnDDaS.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/57c6da58.B66KaLHf.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/f8706cb6.CoirY056.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/dffdfb34.Dpoh_xX8.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/31cc568e.udVq2alB.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/0c0ad074.BYdsTJAo.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/53bbdad9.Z4N3tZKQ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/945a08d6.CQ6Hfz3C.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/2fdb3dd3.DcIdY-nh.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/0e67bd3b.DOcRijTT.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/74835653.BSuX4rG5.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/29034f35.B7Z7JU9E.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/ac5a19ff.DlwW5UC8.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/47b970b2.B-hNfQZG.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/0727407f.C7yJLDwL.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/064f6ac1.DqrP83xw.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/efa0389a.BaeWUwuC.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/f1968089.BT5yIsbK.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/55098bf1.8h6_nu_5.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/cb5cf153.C5Ippw9f.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/e3e348f2.DoE2sBpq.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/ca5e9c49.DpiukyMw.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/ed9f2238.OL0ogUQT.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/ccdf3592.CPmKJLin.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/a422df8c.Dcy8n41E.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/79974aab.Cq6Neu5K.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/7b0c98ea.DbgJLP1v.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/d22d2b80.Ctm_-AEm.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/f49d4216.BpQn4XLS.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/0e9ee714.CmOp6ueK.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/39921a74.CFM70_Q1.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/ec391382.D2dArcp8.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/f3fe2775.ChzXrCys.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/598fef4e.DTBD4kzt.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/e77f7fe0.Cq2mLjfT.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/cc6ff67d.BpIrWxUy.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/87bfafec.Beljf8If.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/dfca5da5.Fvk36gmC.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/6720fa5f.DvQHpC_1.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/01973ac7.CfaArRQd.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/58314944.ZUK41gg1.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/7a8217fd.DRC5-yl-.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/2b89a178.BBNEoYrD.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/b684bff6.9cHCtOaB.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/910cd6e2.B2dUNATe.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/347b440c.BOPV79c3.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/d5d34b3b.KVrpsmYg.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/181d38d3.CU4WuTr-.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/d6447d9e.so38cQCJ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/f51e663e.0jgrFL1L.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/64de7b49.3gNLw9g0.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/8e79be58.DxsDx_ZB.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/90e26f5f.BU9IB2gY.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/f3e117aa.C9fUOXJv.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/a25deb9a.clFimxdI.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/7aefefff.BtXl1-CH.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/a535174a.Yxr5rpZ6.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/5fd968f2.BZrBHkqx.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/73a9b0a0.CQfFMcRa.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/91319467.DppLddIz.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/86720dbb.Ct5aj3SV.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/7114e006.CeS-dcri.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/f692f62f.DHgy7Fzw.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/e0989459.CCPu1541.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/fc21c11a.B6d5Pp4f.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/4ea44c06.CMZnl2AU.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/1ed8f5e3.DkmKdCgD.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/7ee73f43.BrOKc0ZE.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/c10167e6.CsoyrtBa.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/b9c0319a.6uFzHo90.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/3a819064.D5LTh6Qs.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/d2e6a587.UnCj4dqr.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/4b77f49a.B-q5n9N_.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/66338e00.CZg7rFan.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/9c384ce8.CFjjgE6K.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/24fcbaf6.Drtb3SHd.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/49758c58.DaIqBMTK.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/28ac86c0.B3L04Tlv.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/3e6029dd.DwFWUGoq.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/30074413.D9CsKy_H.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/9f57d2aa.DGYsgK89.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/8574876b.DlqSeZRL.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/33d2e4fc.D4zfSoBl.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/27f09e31.BCPS7kNH.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/137622f3.BmZtJbLW.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/54bf0ebb.ieqDwZM0.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/c610ba76.CVEIqZFh.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/2210eadb.DF0gIp_2.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/33682ee7.A5QlWHEa.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/sandbox.DNKTFXG1.worker.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/sandbox-2025-07.BNlrLTFV.worker.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://extensions.shopifycdn.com/shopifycloud/checkout-web/assets/c1/polyfills-entry-modern.70q66_NX.worker.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/app.BuSMBobh.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/previous.Cyrg41An.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/helpers.CWAfD7H_.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/OnePage.B8fMdKm8.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/VatNumberValidationField.DQ_xYwKQ.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/StickyPayButton.pnFPnjHJ.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/hasViolationsIgnoringCodes.CQ_TUsw-.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/Section.CU18S7Ap.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/Rollup.DH9hPBhl.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentIcon.DUuFvlux.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayProgressIntercepts.DIc3vsmn.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/Choice.CIaVEvsx.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentLine.B_vs66ws.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/BillingAddressForm.2HXntA0X.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/Switch.CxvbvO76.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/EmptyState.CZwDb_Yh.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/index.CiYh36Pk.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayButtonClassName.Lp0gX49z.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/PhoneField.-WW1pYgW.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/Middot.kivijyjU.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingLines.DCj76NbH.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/EstimatedDeliveryContent.D-6PyHqX.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/TransitionHeight.CuRoM9zv.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/BelowTheFoldContent.FKWAC7pT.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/Captcha.CJQgLR0i.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/RememberMeSection.Bn_OeoXz.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/PayButtonSection.ClYw8kJs.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentOptionSelector.FapYWhnE.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentMethodProgressionHost.DAMvZY87.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/MobileOrderSummary.DZEwkLmi.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentButtons.DCbwzC5k.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/Popover.Bi1nHaU-.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/floating-layer.DfWUBaTh.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingMethodSelector.D038PkOR.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/SubscriptionPriceBreakdown.vTcdVGq4.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/MissingFields.BbxB_6wt.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/RedirectionNotice.B8v_QGNW.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/RuntimeExtension.DWkDBM73.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/AnnouncementRuntimeExtensions.54OByf3e.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/QRCode.XhNv4hkB.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/Pressable.D9SfDfsb.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/DateField.BkE3n11i.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/NumberField.C0qMELBD.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/checkout-web/assets/c1/assets/Sheet.CVSBHI9d.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0029/4358/2265/files/Transparent01_f02e8721-cbd3-4c29-b183-cfa43ede142d_x320.png?v=1630519210",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0029/4358/2265/files/rinsing-soapy-hands-in-water_2000x.jpg?v=1614283668",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.shopifycdn.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/screen.css?v=52277039135194467261790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/theme-xtra.css?v=93573482502964324901790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/screen-settings.css?v=171102556706235103131790869167",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/custom.css?v=127473613844748582301790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/async-announcement.css?v=7680667111254496201790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/fonts/inter/inter_n8.d15c916037fee1656886aab64725534609d62cc8.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/fonts/inter/inter_n4.b2a3f24c19b4de56e8871f609e73ca7f6d2e2bb9.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/xtra.woff2?v=74598006880499421301790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/.well-known/ucp",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://shop.app",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/async-hotspots.css?v=46766084201081164771790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/async-compare.css?v=55083856100605889271790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.shopify.com/storefront/web-components/chat.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://monorail-edge.shopifysvc.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/async-marquee.css?v=177938807832152080491790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/async-l4ne.css?v=31882253365962548851790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.shopbagno.it/cdn/shop/t/213/assets/custom-async.js?v=85121216940546106401790869153",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/mobile-bagno-sospeso-classic-101-cm-con-2-cassetti-bianco-opaco-e-lavabo-unitop-in-ceramica",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_mobile-bagno-sospeso-classic-101-cm-con-2-cassetti-bianco-opaco-e-lavabo-unitop-in-ceramica.html",
+  "title": "Mobile Bagno Sospeso Classic 101 cm con 2 Cassetti Bianco Opaco e Lavabo Unitop in Ceramica - Iperceramica",
+  "text_chars": 2481,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "MDF",
+      "evidence": "CLASSIC mobile bagno sospeso in MDF cm. 100x46 H55 design classico colore Bianco Opaco con 2 Cassetti a chiusura rallentata",
+      "location": "body"
+    },
+    "finish": {
+      "value": "effetto tessuto",
+      "evidence": "interno effetto tessuto e maniglie cromo lucido.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Bianco Opaco",
+      "evidence": "CLASSIC mobile bagno sospeso in MDF cm. 100x46 H55 design classico colore Bianco Opaco con 2 Cassetti a chiusura rallentata",
+      "location": "body"
+    },
+    "width": {
+      "value": "cm. 100",
+      "evidence": "CLASSIC mobile bagno sospeso in MDF cm. 100x46 H55 design classico colore Bianco Opaco con 2 Cassetti a chiusura rallentata",
+      "location": "body"
+    },
+    "height": {
+      "value": "H55",
+      "evidence": "CLASSIC mobile bagno sospeso in MDF cm. 100x46 H55 design classico colore Bianco Opaco con 2 Cassetti a chiusura rallentata",
+      "location": "body"
+    },
+    "depth": {
+      "value": "cm. 46",
+      "evidence": "CLASSIC mobile bagno sospeso in MDF cm. 100x46 H55 design classico colore Bianco Opaco con 2 Cassetti a chiusura rallentata",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "cm. 101x46",
+      "evidence": "Lavabo unitop in ceramica cm. 101x46 con foro troppopieno e foro miscelatore Bianco lucido.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Mobile Bagno Sospeso Classic",
+      "location": "title"
+    },
+    "opening": {
+      "value": "a chiusura rallentata",
+      "evidence": "con 2 Cassetti a chiusura rallentata,",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "foro troppopieno e foro miscelatore",
+      "evidence": "Lavabo unitop in ceramica cm. 101x46 con foro troppopieno e foro miscelatore Bianco lucido.",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "design classico",
+      "evidence": "CLASSIC mobile bagno sospeso in MDF cm. 100x46 H55 design classico colore Bianco Opaco con 2 Cassetti a chiusura rallentata",
+      "location": "body"
+    },
+    "series": {
+      "value": "Classic",
+      "evidence": "Mobile Bagno Sospeso Classic",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "Mobile Bagno Sospeso Classic 101 cm con 2 Cassetti Bianco Opaco e Lavabo Unitop in Ceramica - Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2286,
+    "output_tokens": 920,
+    "seconds": 79.21
+  }
+}

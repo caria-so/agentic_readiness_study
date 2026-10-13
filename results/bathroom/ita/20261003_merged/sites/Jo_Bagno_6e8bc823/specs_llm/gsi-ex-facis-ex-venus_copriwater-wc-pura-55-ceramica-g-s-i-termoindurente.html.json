@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/gsi-ex-facis-ex-venus/copriwater-wc-pura-55-ceramica-g-s-i-termoindurente.html",
+  "model": "qwen2.5:32b",
+  "html": "gsi-ex-facis-ex-venus_copriwater-wc-pura-55-ceramica-g-s-i-termoindurente.html.html",
+  "title": "Copriwater WC Pura 55 Ceramica G.S.I. Termoindurente",
+  "text_chars": 3706,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "length": {
+      "value": "41.8 – 46.2 cm",
+      "evidence": "Y 41.8 – 46.2 Lunghezza (Cerniere Escluse)",
+      "location": "body"
+    },
+    "installation": {
+      "value": "Top Fixing con Sgancio Rapido",
+      "evidence": "Copriwater WC Pura 55 Ceramica G.S.I. in Termoindurente Top Fixing con Sgancio Rapido",
+      "location": "body"
+    },
+    "brand": {
+      "value": "G.S.I.",
+      "evidence": "Copriwater WC Pura 55 Ceramica G.S.I.",
+      "location": "title"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Il copriwater Wc è un prodotto Made in Italy",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "width": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "35,5 cm",
+        "evidence": "X: 35,5 Larghezza Seduta"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2521,
+    "output_tokens": 744,
+    "seconds": 66.52
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/kit-incasso-doccia-miscelatore-suecia",
+  "model": "qwen2.5:32b",
+  "html": "kit-incasso-doccia-miscelatore-suecia.html",
+  "title": "Kit incasso doccia miscelatore Suecia | Imex Products",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "acciaio inox",
+      "evidence": "Il soffione doccia è realizzato in acciaio inox, quadrato, ultrapiatto, cromato e anticalcare",
+      "location": "body"
+    },
+    "finish": {
+      "value": "cromato",
+      "evidence": "Il soffione doccia è realizzato in acciaio inox, quadrato, ultrapiatto, cromato e anticalcare",
+      "location": "body"
+    },
+    "length": {
+      "value": "1,5 m",
+      "evidence": "Include tubo doccia in PVC flessibile, per una maggiore durata, con una lunghezza di 1,5 m.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "25x25 cm",
+      "evidence": "Il soffione doccia è realizzato in acciaio inox, quadrato, ultrapiatto, cromato e anticalcare e ha dimensioni 25x25 cm.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "da incasso",
+      "evidence": "Corpo da incasso a parete con scatola di derivazione.",
+      "location": "body"
+    },
+    "water": {
+      "value": "20 litri al minuto",
+      "evidence": "La portata media è di 20 litri al minuto.",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "quadrato, ultrapiatto",
+      "evidence": "Il soffione doccia è realizzato in acciaio inox, quadrato, ultrapiatto, cromato e anticalcare",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4738,
+    "output_tokens": 681,
+    "seconds": 71.96
+  }
+}

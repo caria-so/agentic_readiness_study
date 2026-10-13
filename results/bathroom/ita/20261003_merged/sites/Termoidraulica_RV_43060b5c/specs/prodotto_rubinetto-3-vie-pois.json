@@ -1,0 +1,75 @@
+{
+ "url": "https://en.termoidraulicarv.com/prodotto/rubinetto-3-vie-pois/",
+ "file": "prodotto_rubinetto-3-vie-pois.html",
+ "title": "Pois 3 way tap",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1930,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "330214-GA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "330214-GA"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "330214-GA"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "54636",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "54636"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1,000000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Weight",
+     "value": "1,000000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 1,
+  "L3": 1,
+  "dropped": 2
+ }
+}

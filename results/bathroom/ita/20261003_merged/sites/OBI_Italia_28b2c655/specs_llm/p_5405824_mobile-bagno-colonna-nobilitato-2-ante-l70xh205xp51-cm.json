@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5405824/mobile-bagno-colonna-nobilitato-2-ante-l70xh205xp51-cm",
+  "model": "qwen2.5:32b",
+  "html": "p_5405824_mobile-bagno-colonna-nobilitato-2-ante-l70xh205xp51-cm.html",
+  "title": "Mobile bagno colonna nobilitato 2 ante L70xH205xP51 cm",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "series": {
+      "value": "CAREN",
+      "evidence": "Colonna con ripiani nobilitato della serie CAREN 2 ante.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "opening": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "battente",
+        "evidence": "2 ante battenti"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4386,
+    "output_tokens": 645,
+    "seconds": 67.04
+  }
+}

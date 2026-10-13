@@ -1,0 +1,37 @@
+{
+ "url": "https://www.boleco.it/gift-card/2473-gift-card-euro-199.html",
+ "file": "gift-card_2473-gift-card-euro-199.html.html",
+ "title": "Gift Card Euro 199",
+ "excluded_reason": "gift_card",
+ "main_area_method": "candidates",
+ "main_area_chars": 1678,
+ "attributes": {
+  "sku": {
+   "value": "99933",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "99933"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

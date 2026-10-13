@@ -1,0 +1,81 @@
+{
+  "company": "Arredobagno360",
+  "url": "https://www.arredobagno360.it/",
+  "site_dir": "discovery_round_final_e/sites/Arredobagno360_00bce741",
+  "final_url": "https://www.arredobagno360.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.412956",
+  "http_status": 200,
+  "fetch_ms": 28365.0,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.arredobagno360.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Arredobagno360_00bce741/index.html",
+      "count": 1657934,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.arredobagno360.it/sitemap.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Arredobagno360_00bce741/sitemap.json",
+      "count": 2285,
+      "total_available": 2285,
+      "truncated": false,
+      "product_url_count": 2190,
+      "product_total_available": 2190
+    },
+    "jsonld": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no application/ld+json found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Arredobagno360_00bce741/links.json",
+      "count": 212,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": false,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

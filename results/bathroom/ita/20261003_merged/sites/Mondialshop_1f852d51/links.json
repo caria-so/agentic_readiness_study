@@ -1,0 +1,1060 @@
+{
+  "source": "https://www.mondialshop.it/it/",
+  "generated": "2026-10-03T02:33:32.213982",
+  "total": 133,
+  "internal_count": 123,
+  "external_count": 10,
+  "links": [
+    {
+      "url": "https://www.mondialshop.it/it/contattare-mondialshop-telefono-opinioni-esperienza-feedaback",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://wa.me/390331490301",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/people/Mondialshopit/61573461130237/",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/mondialshop_official/",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UChrRpmLgFOm4skpyGnLf4Ow",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/login",
+      "fragment": "",
+      "text": "",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/carrello?action=show",
+      "fragment": "",
+      "text": "0",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/box-doccia-due-lati-25",
+      "fragment": "",
+      "text": "Box doccia angolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/box-doccia-tre-lati-26",
+      "fragment": "",
+      "text": "Box doccia tre lati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/pareti-walk-in-27",
+      "fragment": "",
+      "text": "Pareti walk-in",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/box-doccia-semicircolari-29",
+      "fragment": "",
+      "text": "Box doccia semicircolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/porte-doccia-per-nicchia-28",
+      "fragment": "",
+      "text": "Porte doccia per nicchia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/box-doccia-in-pvc-1594",
+      "fragment": "",
+      "text": "Box doccia In Pvc",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piatti-doccia-in-marmo-resina-339",
+      "fragment": "",
+      "text": "Piatti doccia in marmo resina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piatti-doccia-pronta-consegna-1593",
+      "fragment": "",
+      "text": "Piatti doccia PRONTA CONSEGNA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piatti-doccia-semicircolari-394",
+      "fragment": "",
+      "text": "Piatti doccia SEMICIRCOLARI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/nicchie-doccia-bagno-incasso-parete-1592",
+      "fragment": "",
+      "text": "Nicchie doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/nicchie-doccia-bagno-incasso-parete/50102-nicchia-da-parete-30x30-in-acciaio-spazzolato-profondita-8cm-glamour-7438648944807.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/canalina-doccia-347",
+      "fragment": "",
+      "text": "Canaline di scarico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/accessori-piatti-doccia-396",
+      "fragment": "",
+      "text": "Accessori e Manutenzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/sanitari-sospesi-34",
+      "fragment": "",
+      "text": "Sanitari sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/sanitari-filo-muro-35",
+      "fragment": "",
+      "text": "Sanitari filo muro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/coppie-di-sanitari-1609",
+      "fragment": "",
+      "text": "Coppie di sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/cassette-di-scarico-bagno-1555",
+      "fragment": "",
+      "text": "Cassette di scarico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/tastiere-per-cassetta-incasso-1557",
+      "fragment": "",
+      "text": "Placche per cassetta incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/-1585",
+      "fragment": "",
+      "text": "Wc singoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/lavandini-36",
+      "fragment": "",
+      "text": "Lavabi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/bagno-1621",
+      "fragment": "",
+      "text": "Rubinetteria Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/doccia-1622",
+      "fragment": "",
+      "text": "Rubinetteria Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/cucina-1623",
+      "fragment": "",
+      "text": "Rubinetteria Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/complementi-e-scarichi-1624",
+      "fragment": "",
+      "text": "Complementi e Scarichi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/composizione-mobile-bagno-a-terra-356",
+      "fragment": "",
+      "text": "Mobili bagno a terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/mobili-lavatoio-1561",
+      "fragment": "",
+      "text": "Mobili Lavatoio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/mobili-bagno-sospesi-1603",
+      "fragment": "",
+      "text": "Mobili Bagno sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/mobile-colonna-bagno-prezzi-offerte-31",
+      "fragment": "",
+      "text": "Pensili e Colonne",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/mensola-per-lavabo-1604",
+      "fragment": "",
+      "text": "Mensola per lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/illuminazione-per-interni-prezzi-online-41",
+      "fragment": "",
+      "text": "Illuminazione per interni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/illuminazione-per-esterni-prezzi-online-42",
+      "fragment": "",
+      "text": "Illuminazione per esterni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/incasso-171",
+      "fragment": "",
+      "text": "Illuminazione da incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/rubinetto-vasca-a-pavimento-freestanding-1612",
+      "fragment": "",
+      "text": "Rubinetto vasca Nuova Categoria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/vasche-freestanding-388",
+      "fragment": "",
+      "text": "Vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/radiatori-bagno-72",
+      "fragment": "",
+      "text": "Termoarredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/termoarredi-elettrici-1615",
+      "fragment": "",
+      "text": "Termoarredi Elettrici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/termoarredo-idraulico-1614",
+      "fragment": "",
+      "text": "Termoarredo Idraulici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/specchi-bagno-offerte-prezzi-21",
+      "fragment": "",
+      "text": "Specchi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/specchi-con-lampada-led-esterna-offerte-prezzi-1582",
+      "fragment": "",
+      "text": "Specchi Bagno di Design",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/specchio-bagno-retroilluminato-1581",
+      "fragment": "",
+      "text": "Specchio Bagno Retroilluminato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/accessori-bagno-ricambi-23",
+      "fragment": "",
+      "text": "Accessori Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/appendini-150",
+      "fragment": "",
+      "text": "Appendini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/copriwater-154",
+      "fragment": "",
+      "text": "CopriWater",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/mensole-157",
+      "fragment": "",
+      "text": "Mensole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/porta-rotolo-103",
+      "fragment": "",
+      "text": "Porta Rotolo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/portaspazzolini-163",
+      "fragment": "",
+      "text": "Portaspazzolini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/ricambi-scopino-bagno-wc-spazzola-457",
+      "fragment": "",
+      "text": "Ricambi scopino bagno - wc",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/scopini-bagno-wc-a-pavimento-456",
+      "fragment": "",
+      "text": "Scopini da bagno - wc a pavimento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/scopini-per-bagno-a-parete-terra-455",
+      "fragment": "",
+      "text": "Scopini per bagno a parete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piantana-bagno-porta-rotolo-salvietta-asciugamano-458",
+      "fragment": "",
+      "text": "Piantana Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/porta-salviette-102",
+      "fragment": "",
+      "text": "Porta Salviette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/portasciugamani-161",
+      "fragment": "",
+      "text": "Portasciugamani",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/portasapone-liquido-159",
+      "fragment": "",
+      "text": "Dosasapone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/portasapone-137",
+      "fragment": "",
+      "text": "Portasapone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/portasaponetta-160",
+      "fragment": "",
+      "text": "Portasaponetta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/promozioni-mondialshop-1613",
+      "fragment": "",
+      "text": "OFFERTE",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/7-detrazione-fiscale-e-agevolazioni",
+      "fragment": "",
+      "text": "Agevolazioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/illuminazione-per-esterno-e-interni-15",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piatti-doccia-19",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/ricerca?controller=search&amp;s=cannettato",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/sanitari-filo-muro/50669-coppia-sanitari-squadrati-bianco-lucido-wc-e-bidet-greta.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/ricerca?controller=search&amp;s=sara",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/soffioni-doccia-74",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/sanitari-18",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/nuovi-prodotti",
+      "fragment": "",
+      "text": "Nuovi prodotti link",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/box-doccia-semicircolari/75227-box-doccia-80x100-100x80-semicircolare-scorrevole-h195-6mm-atena-7438648921204.html",
+      "fragment": "",
+      "text": "Nuovo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piatti-doccia-in-marmo-resina/75225-65131-piatto-doccia-80x110-crema-marmoresina-effetto-pietra-cemento-relax-offerta.html",
+      "fragment": "/105-misura-80x110",
+      "text": "Promo! -0,00&nbsp;€ Nuovo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piatti-doccia-in-marmo-resina/75223-64827-piatto-doccia-in-marmoresina-crema-effetto-pietra-cemento-maka.html",
+      "fragment": "/394-misura-70x70",
+      "text": "Nuovo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/colonne-doccia/75220-colonna-doccia-cromata-con-miscelatore-soffione-da-25x25cm-doccetta-inox-flex.html",
+      "fragment": "",
+      "text": "-350,00&nbsp;€ Nuovo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/colonne-doccia/75219-colonna-doccia-quadata-acciaio-spazzolato-soffione-25x25-doccetta-inox-flex.html",
+      "fragment": "",
+      "text": "-350,00&nbsp;€ Nuovo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/colonne-doccia/75218-colonna-doccia-cromata-con-miscelatore-soffione-da-25cm-doccetta-inox-flex.html",
+      "fragment": "",
+      "text": "-350,00&nbsp;€ Nuovo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/colonne-doccia/75217-colonna-doccia-acciaio-spazzolato-con-miscelatore-soffione-da-25cm-doccetta-inox-flex.html",
+      "fragment": "",
+      "text": "-350,00&nbsp;€ Nuovo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/specchio-bagno-retroilluminato/75215-64579-specchio-led-retroilluminato-anti-appannamento-touch-3-colori-mimi.html",
+      "fragment": "/78-misura-80",
+      "text": "Nuovo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/rubinetteria-1559",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/mobili-bagno-online-offerte-prezzi-24",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/colonne-doccia-1554",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/migliori-vendite",
+      "fragment": "",
+      "text": "Migliori vendite link",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/accessori-piatti-doccia/14835-piletta-di-scarico-per-piatto-doccia-da-90mm-ispezionabile-7438643306273.html",
+      "fragment": "",
+      "text": "-10,00&nbsp;€",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piatti-doccia-in-marmo-resina/31955-51984-piatto-doccia-in-marmoresina-bianco-star-vincent.html",
+      "fragment": "/71-misura-70x100",
+      "text": "Promo! -10%",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/accessori-piatti-doccia/15547-anticalcare-specifico-per-piatti-doccia-brilliant-k1.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/box-doccia-angolare-vendita-online-prezzi-lati-ante-scorrevoli/1757-65134-box-doccia-due-lati-scorrevole-trasparente-6mm-h195cm-unico.html",
+      "fragment": "/394-misura-70x70",
+      "text": "-250,00&nbsp;€",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piatti-doccia-in-marmo-resina/14464-10931-piano-doccia-ardesia-griglia-laterale-bianco-mineral-marmo-3cm.html",
+      "fragment": "/71-misura-70x100",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/piatti-doccia-in-marmo-resina/21267-21586-piatto-doccia-in-marmoresina-bianco-effetto-pietra-cemento-maka.html",
+      "fragment": "/394-misura-70x70",
+      "text": "Solo online",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/box-doccia-angolare-vendita-online-prezzi-lati-ante-scorrevoli/10445-55518-box-doccia-angolare-ante-scorrevoli-cristallo-satinato-opaco-6mm-adry.html",
+      "fragment": "/394-misura-70x70",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/box-doccia-angolare-vendita-online-prezzi-lati-ante-scorrevoli/5945-10833-box-doccia-due-lati-in-cristallo-8mm-anticalcare-target.html",
+      "fragment": "/72-misura-80x100",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.feedaty.com/feedaty/widgetredirect?m=10214090&amp;object=widget-carousel",
+      "fragment": "",
+      "text": "Ottimo 4,7 /5 1.627 recensioni Le nostre recensioni a 4 e 5 stelle. Clicca qui per leggerle tutte &gt;",
+      "rel": "noopener noreferrer dofollow ",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.feedaty.com/recensioni/mondialshop",
+      "fragment": "",
+      "text": "Mondialshop feedback",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/box-doccia-vendita-on-line-prezzi-e-offerte-16",
+      "fragment": "",
+      "text": "Box doccia: i migliori box doccia a prezzi scontati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/5-pagamento-sicuro-online-Mondialshop",
+      "fragment": "",
+      "text": "modalità di pagamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/9-come-scegliere-un-docciabox-online-in-offerta",
+      "fragment": "",
+      "text": "Servizi di consegna aggiuntivi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/content/2-note-legali-Be-Easy-Parabiago",
+      "fragment": "",
+      "text": "(Leggi)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/",
+      "fragment": "footer_sub_menu_74426",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/prodotti-in-offerta",
+      "fragment": "",
+      "text": "Prodotti in offerta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/",
+      "fragment": "footer_sub_menu_11450",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/1-politica-di-vendita-Mondialshop",
+      "fragment": "",
+      "text": "Consegna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/2-note-legali-Be-Easy-Parabiago",
+      "fragment": "",
+      "text": "Note Legali e Privacy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/3-termini-e-condizioni-di-uso-Mondialshop",
+      "fragment": "",
+      "text": "Termini e condizioni di vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/4-Commenti-Opinioni-Mondialshop",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/5-modalita-di-pagamento-mondialshop",
+      "fragment": "",
+      "text": "Modalità di pagamento mondialshop",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/8-cookie-policy",
+      "fragment": "",
+      "text": "Cookie Policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/10-Modalita-di-pagamento-Mondialshop",
+      "fragment": "",
+      "text": "Termini per il recesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/23-zone-disagiate",
+      "fragment": "",
+      "text": "Zone Disagiate",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/24-sostenibilita",
+      "fragment": "",
+      "text": "Sostenibilità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/content/25-dichiarazione-di-accessibilita",
+      "fragment": "",
+      "text": "Dichiarazione di Accessibilità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/mappa del sito",
+      "fragment": "",
+      "text": "Mappa del sito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/il-mio-account",
+      "fragment": "",
+      "text": "Il mio account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/",
+      "fragment": "footer_account_list",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/tracciatura-ospite",
+      "fragment": "",
+      "text": "Tracciamento ordine",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/?controller=registration",
+      "fragment": "",
+      "text": "Crea account",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/module/euwithdrawalbutton/request?action=list",
+      "fragment": "",
+      "text": "Richiesta di reso",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/",
+      "fragment": "footer_contact_list",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.feedaty.com/feedaty/widgetredirect?m=10214090&amp;object=widget-merchant",
+      "fragment": "",
+      "text": "1.627 Recensioni",
+      "rel": "noopener noreferrer dofollow ",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.mondialshop.it/fr/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.mondialshop.it/de/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.mondialshop.it/img/favicon.ico?1743961579",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.googletagmanager.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.mondialshop.it/it/manifest.json",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.mondialshop.it/modules/maodevwebmanifest/views/img/apple-touch-icon.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.mondialshop.it/modules/maodevwebmanifest/views/img/apple-touch-icon-120x120.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.mondialshop.it/modules/maodevwebmanifest/views/img/apple-touch-icon-152x152.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.mondialshop.it/modules/maodevwebmanifest/views/img/apple-touch-icon-167x167.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.mondialshop.it/modules/maodevwebmanifest/views/img/apple-touch-icon-180x180.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.mondialshop.it/themes/child_maotheme/assets/cache/theme-86daff1685.css?v=5d79099fcdf499f12b79770834c0164a",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://widget.feedaty.com/v3.0.0/style/2021,carousel,carosello-1,6ab63022da452.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://widget.feedaty.com/v3.0.0/style/2021,merchant,150x100-2,6ab63022da426.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

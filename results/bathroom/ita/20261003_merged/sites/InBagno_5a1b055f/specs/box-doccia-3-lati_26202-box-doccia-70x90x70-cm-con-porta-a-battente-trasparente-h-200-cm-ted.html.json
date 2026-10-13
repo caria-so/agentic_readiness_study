@@ -1,0 +1,121 @@
+{
+ "url": "https://www.inbagno.it/box-doccia-3-lati/26202-box-doccia-70x90x70-cm-con-porta-a-battente-trasparente-h-200-cm-ted.html",
+ "file": "box-doccia-3-lati_26202-box-doccia-70x90x70-cm-con-porta-a-battente-trasparente-h-200-cm-ted.html.html",
+ "title": "Box doccia 70x90x70 cm con porta a battente trasparente H 200 cm Ted",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9843,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Inbagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Inbagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "104736",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "104736"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "104736"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8050391158578",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8050391158578"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "104736",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "104736"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "box doccia 3 lati;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "box doccia 3 lati;"
+    }
+   ]
+  },
+  "series": {
+   "value": "Ted;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Linea",
+     "value": "Ted;"
+    }
+   ]
+  },
+  "material": {
+   "value": "cristallo temperato;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "cristallo temperato;"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L 70x90x70 x H 200 cm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "L 70x90x70 x H 200 cm;"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 4,
+  "dropped": 10
+ }
+}

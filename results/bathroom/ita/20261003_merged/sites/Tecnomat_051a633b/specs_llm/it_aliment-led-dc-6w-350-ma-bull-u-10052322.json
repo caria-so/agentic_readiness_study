@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/aliment-led-dc-6w-350-ma-bull-u-10052322/",
+  "model": "qwen2.5:32b",
+  "html": "it_aliment-led-dc-6w-350-ma-bull-u-10052322.html",
+  "title": "ALIMENTATORE LED DC 6W 350 MA BULL-U",
+  "text_chars": 948,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "brand": {
+      "value": "BULL-U",
+      "evidence": "ALIMENTATORE LED DC 6W 350 MA BULL-U",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "electrical": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "DC 6W 350 mA",
+        "evidence": "L'alimentatore Led DC da 6W con corrente di 350 mA è progettato per garantire un'alimentazione efficiente e sicura"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1140,
+    "output_tokens": 528,
+    "seconds": 43.78
+  }
+}

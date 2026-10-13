@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/mobile-bagno-rio-60-sospeso-bianco-opaco-design-curvo",
+  "model": "qwen2.5:32b",
+  "html": "products_mobile-bagno-rio-60-sospeso-bianco-opaco-design-curvo.html",
+  "title": "Mobile bagno Rio 60 sospeso Bianco opaco design curvo | Arcshop",
+  "text_chars": 3480,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "opaco",
+      "evidence": "Mobile bagno Rio 60 sospeso Bianco opaco design curvo",
+      "location": "title"
+    },
+    "colour": {
+      "value": "Bianco Opaco",
+      "evidence": "Mobile bagno Rio 60 sospeso Bianco opaco design curvo",
+      "location": "title"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Mobile bagno Rio 60 sospeso Bianco opaco design curvo",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "curvo",
+      "evidence": "Mobile bagno Rio 60 sospeso Bianco opaco design curvo",
+      "location": "title"
+    },
+    "series": {
+      "value": "Rio",
+      "evidence": "Mobile bagno Rio 60 sospeso Bianco opaco design curvo",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2013,
+    "output_tokens": 585,
+    "seconds": 49.47
+  }
+}

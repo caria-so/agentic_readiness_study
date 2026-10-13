@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/metod-pensile-per-cappa-con-ripiano-anta-bianco-nickebo-antracite-opaco-s69505267/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_metod-pensile-per-cappa-con-ripiano-anta-bianco-nickebo-antracite-opaco-s69505267.html",
+  "title": "METOD pensile per cappa con ripiano/anta, bianco/Nickebo antracite opaco, 60x60 cm  - IKEA Italia",
+  "text_chars": 5047,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "antracite opaco",
+      "evidence": "bianco/Nickebo antracite opaco, 60x60 cm",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "60x60 cm",
+      "evidence": "METOD Pensile per cappa con ripiano/anta, bianco/Nickebo antracite opaco, 60x60 cm",
+      "location": "title"
+    },
+    "installation": {
+      "value": "da incasso",
+      "evidence": "Pensile per cappa da incasso",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "moderno",
+      "evidence": "L'aspetto generale è moderno e minimalista",
+      "location": "body"
+    },
+    "series": {
+      "value": "METOD",
+      "evidence": "METOD Pensile per cappa con ripiano/anta, bianco/Nickebo antracite opaco, 60x60 cm",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "25 anni di garanzia.",
+      "evidence": "25 anni di garanzia.",
+      "location": "body"
+    },
+    "care": {
+      "value": "Pulisci con un panno inumidito in acqua o in un detersivo senza abrasivi. Asciuga con un panno pulito.",
+      "evidence": "Pulisci con un panno inumidito in acqua o in un detersivo senza abrasivi. Asciuga con un panno pulito.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "opening": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "battente",
+        "evidence": "Anta"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA",
+        "evidence": "IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2635,
+    "output_tokens": 777,
+    "seconds": 69.65
+  }
+}

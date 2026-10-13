@@ -1,0 +1,81 @@
+{
+  "company": "IKEA Italia",
+  "url": "https://www.ikea.com/it/it/",
+  "site_dir": "discovery_round_final_e/sites/IKEA_Italia_a5c28517",
+  "final_url": "https://www.ikea.com/it/it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.414135",
+  "http_status": 200,
+  "fetch_ms": 36061.7,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.ikea.com/it/it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/IKEA_Italia_a5c28517/index.html",
+      "count": 2271056,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.ikea.com/sitemaps/prod-it-IT_2.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/IKEA_Italia_a5c28517/sitemap.json",
+      "count": 20000,
+      "total_available": 38928,
+      "truncated": true,
+      "product_url_count": 15455,
+      "product_total_available": 30081
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/IKEA_Italia_a5c28517/jsonld.json",
+      "count": 1,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/IKEA_Italia_a5c28517/links.json",
+      "count": 431,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

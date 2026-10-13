@@ -1,0 +1,191 @@
+{
+ "url": "https://jysk.it/sala-da-pranzo/tavoli/tavolo-lintrup-90x190-280-color-rovere-selvatico-naturale",
+ "file": "sala-da-pranzo_tavoli_tavolo-lintrup-90x190-280-color-rovere-selvatico-naturale.html",
+ "title": "LINTRUP Tavolo LINTRUP 90x190/280 color rovere selvatico naturale",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 14570,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "3605011",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "3605011"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "3605011"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "90x190/280",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "90x190/280"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni da montato",
+     "value": "Larghezza 90 cm, Lunghezza 190/280 cm, Altezza 77 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni variabili",
+     "value": "190/235/280 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni non montato",
+     "value": "Larghezza 92 cm, Lunghezza 192 cm, Altezza 12 cm"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Tavolo da pranzo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Tavolo da pranzo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Forma",
+     "value": "Rettangolare"
+    }
+   ]
+  },
+  "material": {
+   "value": "Melamina  , Pannello truciolare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Melamina  , Pannello truciolare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Piano Melamina  , Pannello truciolare , Gambe Melamina "
+    }
+   ]
+  },
+  "colour": {
+   "value": "Rovere selvatico naturale",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Rovere selvatico naturale"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Da montare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Assemblaggio",
+     "value": "Da montare"
+    }
+   ]
+  },
+  "weight": {
+   "value": "61 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "61 kg"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di colli",
+     "value": "2"
+    }
+   ]
+  },
+  "certification": {
+   "value": "FSC® Mix ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "FSC® Mix "
+    }
+   ]
+  },
+  "origin": {
+   "value": "Polonia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Polonia"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Tavolo estensibile": "Incl. 2 prolunghe, Le prolunghe possono essere riposte sotto al bancone del tavolo",
+  "Spazio sotto il tavolo vuoto": "65 cm",
+  "Carico massimo": "In alto 40 kg",
+  "Numero di sedute": "Fino a 8 posti",
+  "Melamina": "",
+  "Piano Melamina": "",
+  "Gambe Melamina": "",
+  "FSC® Mix": ""
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 21,
+  "L3": 1,
+  "dropped": 60
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "url": "https://en.termoidraulicarv.com/prodotto/tee-in-ottone-3-8/",
+ "file": "prodotto_tee-in-ottone-3-8.html",
+ "title": "Tee in ottone 3/8″",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1629,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "R000590-02",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "R000590-02"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "R000590-02"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "36209",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "36209"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,100000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Weight",
+     "value": "0,100000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 1,
+  "L3": 1,
+  "dropped": 2
+ }
+}

@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/outlet/79-fascia-11x30-bernini-beige--693059703048.html",
+  "model": "qwen2.5:32b",
+  "html": "outlet_79-fascia-11x30-bernini-beige--693059703048.html.html",
+  "title": "FASCIA 11X30 Bernini Beige | Bagno di Stile",
+  "text_chars": 3454,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Beige",
+      "evidence": "FASCIA 11X30 Bernini Beige",
+      "location": "title"
+    },
+    "width": {
+      "value": "30 cm",
+      "evidence": "Formato 11X30 su rete",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "11X30",
+      "evidence": "Formato 11X30 su rete",
+      "location": "body"
+    },
+    "series": {
+      "value": "Bernini",
+      "evidence": "Serie Bernini",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2445,
+    "output_tokens": 565,
+    "seconds": 49.27
+  }
+}

@@ -1,0 +1,165 @@
+{
+ "url": "https://www.mondialshop.it/it/lampioni-da-esterno/31879-paletto-da-esterno-con-schuko-antracite-8031414879564.html",
+ "file": "it_lampioni-da-esterno_31879-paletto-da-esterno-con-schuko-antracite-8031414879564.html.html",
+ "title": "Paletto da Esterno con Schuko Antracite",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1764,
+ "attributes": {
+  "brand": {
+   "value": "Gt Luce",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gt Luce"
+    }
+   ]
+  },
+  "sku": {
+   "value": "I-STATION-SC2",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "I-STATION-SC2"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8031414879564",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8031414879564"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.080000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.080000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Antracite",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Antracite"
+    }
+   ]
+  },
+  "height": {
+   "value": "30",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "30"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio Policarbonato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Acciaio Policarbonato"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Struttura in acciaio",
+     "value": "Realizzata in metallo resistente con finitura antracite, progettata per garantire lunga durata e stabilità in ambienti esterni."
+    }
+   ]
+  },
+  "electrical": {
+   "value": "IP44",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Protezione Ip",
+     "value": "IP44"
+    }
+   ]
+  },
+  "length": {
+   "value": "12",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza cm",
+     "value": "12"
+    }
+   ]
+  },
+  "width": {
+   "value": "12",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza cm",
+     "value": "12"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Misure pari a 30 cm di altezza, con base di 12 x 12 cm.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "Misure pari a 30 cm di altezza, con base di 12 x 12 cm."
+    }
+   ]
+  },
+  "warranty": {
+   "value": "Prodotto coperto da una garanzia di 3 anni.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia ufficiale",
+     "value": "Prodotto coperto da una garanzia di 3 anni."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Grado di protezione IP44": "Certificata per resistere efficacemente agli agenti atmosferici e agli spruzzi d'acqua."
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 6,
+  "L3": 4,
+  "dropped": 0
+ }
+}

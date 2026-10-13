@@ -1,0 +1,128 @@
+{
+  "source": "https://www.arcshop.it/",
+  "generated": "2026-10-02T16:17:56.099619",
+  "block_count": 5,
+  "types": [
+    "GeoCoordinates",
+    "HomeAndConstructionBusiness",
+    "Organization",
+    "PostalAddress",
+    "SearchAction",
+    "WebSite",
+    "Website"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 247,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Website",
+        "url": "https://www.arcshop.it",
+        "name": "Arcshop",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.arcshop.it/search?q={query}",
+          "query-input": "required name=query"
+        }
+      }
+    },
+    {
+      "index": 1,
+      "chars": 589,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "HomeAndConstructionBusiness",
+        "name": "Arcshop",
+        "url": "https://www.arcshop.it/",
+        "sameAs": [
+          "https://www.facebook.com/Arcshop.it/",
+          "https://www.instagram.com/arcshop.it/"
+        ],
+        "openingHours": [
+          "Mo,We,Fr,Su,Tu,Th,Sa"
+        ],
+        "hasMap": "https://www.google.com/maps/@45.47578,9.216885,16z",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Viale Abruzzi 13/A, 20131, Milano (MI)",
+          "addressLocality": "Milano",
+          "addressRegion": "Italia",
+          "postalCode": "20131"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 45.47578,
+          "longitude": 9.216885
+        }
+      }
+    },
+    {
+      "index": 2,
+      "chars": 878,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Arcshop",
+        "description": "Vendita Arredo Bagno e Mobili Bagno Online. Acquista su Arcshop Rubinetteria, Mobili da Bagno, Box Doccia, Termoarredi, Vasche da Bagno, Sanitari. Scopri anche tutta la gamma di accessori da bagno!",
+        "logo": "https://cdn.shopify.com/s/files/1/0675/7544/7774/files/logo_14b43739-5dc6-42af-9a95-246b962ec59a.png?v=1716556333",
+        "image": "https://cdn.shopify.com/s/files/1/0675/7544/7774/files/logo_14b43739-5dc6-42af-9a95-246b962ec59a.png?v=1716556333",
+        "url": "https://www.arcshop.it/",
+        "sameAs": [
+          "https://www.facebook.com/Arcshop.it/",
+          "https://www.instagram.com/arcshop.it/"
+        ],
+        "telephone": "+39 320 22 44 246",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Viale Abruzzi 13/A, Milano (MI)",
+          "addressLocality": "Milano",
+          "addressRegion": "Italy",
+          "postalCode": "20131"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "chars": 446,
+      "parse_error": "",
+      "data": {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Arcshop",
+        "logo": "https://www.arcshop.it/cdn/shop/files/logo.png?v=1738762834&width=500",
+        "sameAs": [
+          "",
+          "https://www.facebook.com/Arcshop.it/?locale=it_IT",
+          "",
+          "https://www.instagram.com/arcshop.it/",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "https://www.arcshop.it"
+      }
+    },
+    {
+      "index": 4,
+      "chars": 341,
+      "parse_error": "",
+      "data": {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Arcshop",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.arcshop.it/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "url": "https://www.arcshop.it"
+      }
+    }
+  ]
+}

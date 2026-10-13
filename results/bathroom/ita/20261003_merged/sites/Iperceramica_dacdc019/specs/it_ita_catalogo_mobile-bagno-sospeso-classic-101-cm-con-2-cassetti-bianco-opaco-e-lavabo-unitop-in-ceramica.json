@@ -1,0 +1,37 @@
+{
+ "url": "https://www.iperceramica.it/it/ita/catalogo/mobile-bagno-sospeso-classic-101-cm-con-2-cassetti-bianco-opaco-e-lavabo-unitop-in-ceramica",
+ "file": "it_ita_catalogo_mobile-bagno-sospeso-classic-101-cm-con-2-cassetti-bianco-opaco-e-lavabo-unitop-in-ceramica.html",
+ "title": "Mobile Bagno Sospeso Classic 101 cm con 2 Cassetti Bianco Opaco e Lavabo Unitop in Ceramica",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2481,
+ "attributes": {
+  "sku": {
+   "value": "9011478",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "9011478"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,12 @@
+http://eepurl.com/iz1W6k
+https://api-v2.smartarget.online
+https://api.whatsapp.com/send?phone=3892984330
+https://assets.motive.co/motive-x/v2/app.js
+https://cdn-images.mailchimp.com/embedcode/classic-061523.css
+https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&amp;display=swap
+https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,800,900&amp;display=swap
+https://smartarget-sp-cache.fra1.digitaloceanspaces.com
+https://tastocasa.it/
+https://www.facebook.com/ceramikeshop.it
+https://www.instagram.com/ceramikeshop/
+https://www.plumastudio.com/

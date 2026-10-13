@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5807862/porta-battente-reversibile-marika-micro-noce-70x210-cm",
+  "model": "qwen2.5:32b",
+  "html": "p_5807862_porta-battente-reversibile-marika-micro-noce-70x210-cm.html",
+  "title": "Porta battente reversibile Marika micro noce 70x210 cm",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "44 mm",
+      "evidence": "Anta spessore 44 mm",
+      "location": "body"
+    },
+    "opening": {
+      "value": "battente",
+      "evidence": "Porta battente reversibile Marika micro noce 70x210 cm",
+      "location": "title"
+    },
+    "series": {
+      "value": "Marika",
+      "evidence": "Porta battente reversibile Marika micro noce 70x210 cm",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4325,
+    "output_tokens": 634,
+    "seconds": 65.67
+  }
+}

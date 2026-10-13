@@ -1,0 +1,92 @@
+{
+ "url": "https://jo-bagno.it/catalano/copriwater-sfera-54-ceramica-catalano-mdf.html",
+ "file": "catalano_copriwater-sfera-54-ceramica-catalano-mdf.html.html",
+ "title": "Copriwater Sfera 54 Ceramica Catalano MDF",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2805,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Jo-Bagno.it",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jo-Bagno.it"
+    }
+   ]
+  },
+  "sku": {
+   "value": "JEM724AB-SFERA54",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "JEM724AB-SFERA54"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "X: 34,3 Y: 44 Z: 22 (J6)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "X: 34,3 Y: 44 Z: 22 (J6)"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Copriwater Compatibile realizzato sullo stampo dell’originale",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Copriwater Compatibile realizzato sullo stampo dell’originale"
+    }
+   ]
+  },
+  "material": {
+   "value": "MDF",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "MDF"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "3 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 4,
+  "dropped": 10
+ }
+}

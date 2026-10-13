@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/placca-sigma-50-geberit-115-650-jm-1.html",
+  "model": "qwen2.5:32b",
+  "html": "placca-sigma-50-geberit-115-650-jm-1.html.html",
+  "title": "Sigma50 | Placca con 2 pulsanti round per cassetta WC, colore mustang-oro rosso",
+  "text_chars": 1753,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "oro rosso",
+      "evidence": "Finitura Piastra base e anelli design: Oro rosso",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Geberit",
+      "evidence": "Geberit Sigma50 | Placca con 2 pulsanti round per cassetta WC, colore mustang-oro rosso",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1499,
+    "output_tokens": 614,
+    "seconds": 49.3
+  }
+}

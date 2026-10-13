@@ -1,0 +1,165 @@
+{
+ "url": "https://www.obi-italia.it/p/5736970/applique-plafoniera-led-pogliola-e-1900-lm-bianco-neutro-31-x-5-5-cm-cristallo",
+ "file": "p_5736970_applique-plafoniera-led-pogliola-e-1900-lm-bianco-neutro-31-x-5-5-cm-cristallo.html",
+ "title": "Applique/Plafoniera LED Pogliola-E 1900 lm bianco neutro Ø 31 x 5,5 cm cristallo",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2406,
+ "attributes": {
+  "sku": {
+   "value": "5736970",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5736970"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "9002759740351",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "9002759740351"
+    }
+   ]
+  },
+  "width": {
+   "value": "31.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "31.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "5.50 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "5.50 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "31.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "31.00 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.376 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.376 KGM"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Ø 31 x 5,5 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "Ø 31 x 5,5 cm"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Il diffusore in policarbonato con effetto cristallo dona alla plafoniera un aspetto elegante e decorativo, rendendola un elemento distintivo che si adatta perfettamente a qualsiasi tipo di arredamento, sia moderno che classico.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Design Elegante con Effetto Cristallo",
+     "value": "Il diffusore in policarbonato con effetto cristallo dona alla plafoniera un aspetto elegante e decorativo, rendendola un elemento distintivo che si adatta perfettamente a qualsiasi tipo di arredamento"
+    }
+   ]
+  },
+  "installation": {
+   "value": "La Pogliola-E LED può essere utilizzata sia come plafoniera che come applique, adattandosi facilmente a qualsiasi esigenza di spazio e stile di arredamento. La flessibilità nella scelta del montaggio la rende adatta a diversi ambienti.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Installazione Versatile",
+     "value": "La Pogliola-E LED può essere utilizzata sia come plafoniera che come applique, adattandosi facilmente a qualsiasi esigenza di spazio e stile di arredamento. La flessibilità nella scelta del montaggio "
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio bianco di alta qualità, resistente e elegante.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale struttura",
+     "value": "Acciaio bianco di alta qualità, resistente e elegante."
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale diffusore",
+     "value": "Policarbonato con effetto cristallo, per una diffusione della luce morbida e decorativa."
+    }
+   ]
+  },
+  "electrical": {
+   "value": "E, per una soluzione sostenibile e a basso consumo.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Classe di efficienza energetica",
+     "value": "E, per una soluzione sostenibile e a basso consumo."
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Classe di protezione",
+     "value": "Classe 1, garantendo un uso sicuro in ambienti interni."
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Tensione di rete",
+     "value": "220-240 V, 50/60 Hz, compatibile con le reti elettriche standard."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Luminosità": "1900 lumen, ideale per illuminare ampi spazi in modo uniforme e brillante.",
+  "Componenti sostituibili": "LED e driver possono essere sostituiti da un elettricista, per garantire una lunga durata."
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "EGLO Leuchten GmbH Heiligkreuz 22 6136 Pill AT info@eglo.com EAN(s): [ 9002759740351 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 0,
+  "L3": 9,
+  "dropped": 4
+ }
+}

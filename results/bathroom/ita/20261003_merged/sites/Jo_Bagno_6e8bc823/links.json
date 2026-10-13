@@ -1,0 +1,1706 @@
+{
+  "source": "https://jo-bagno.it/",
+  "generated": "2026-10-02T17:11:43.567479",
+  "total": 215,
+  "internal_count": 197,
+  "external_count": 18,
+  "links": [
+    {
+      "url": "https://jo-bagno.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "home",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/preferiti",
+      "fragment": "",
+      "text": "0",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/my-account/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/carrello/",
+      "fragment": "",
+      "text": "0",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/arredo-bagno/",
+      "fragment": "",
+      "text": "Arredo Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/arredo-bagno-moderno/",
+      "fragment": "",
+      "text": "Arredo Bagno Moderno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/arredo-bagno-economico/",
+      "fragment": "",
+      "text": "Arredo Bagno Economico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-bagno/",
+      "fragment": "",
+      "text": "Mobili bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-bagno-sospesi/",
+      "fragment": "",
+      "text": "Mobili Bagno Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/basi-multiuso/",
+      "fragment": "",
+      "text": "Basi Multiuso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-semincasso/",
+      "fragment": "",
+      "text": "Mobili Semincasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-bagno-economici/",
+      "fragment": "",
+      "text": "Mobili Bagno Economici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/pensile-multiuso/",
+      "fragment": "",
+      "text": "Pensile Multiuso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanitari-bagno/",
+      "fragment": "",
+      "text": "Sanitari e Ceramiche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rubinetteria-bagno/",
+      "fragment": "",
+      "text": "Rubinetteria Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/piano-per-lavabo/",
+      "fragment": "",
+      "text": "Piano Per Lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/semicolonne/",
+      "fragment": "",
+      "text": "Semicolonne",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/colonne/",
+      "fragment": "",
+      "text": "Colonne Multiuso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/specchi/",
+      "fragment": "",
+      "text": "Specchi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lampade/",
+      "fragment": "",
+      "text": "Lampade",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-bagno/",
+      "fragment": "",
+      "text": "Lavabi in Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/arredo-lavanderia/",
+      "fragment": "",
+      "text": "Arredo Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/",
+      "fragment": "",
+      "text": "Outlet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanitari-colorati/",
+      "fragment": "",
+      "text": "Sanitari Colorati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanitari-decorati/",
+      "fragment": "",
+      "text": "Sanitari Decorati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanitari-a-terra/",
+      "fragment": "",
+      "text": "Sanitari Bagno Terra / Filomuro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanitari-bagno-sospesi/",
+      "fragment": "",
+      "text": "Sanitari Bagno Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanitari-monoblocco/",
+      "fragment": "",
+      "text": "Sanitari Monoblocco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/disabili-e-terza-eta/",
+      "fragment": "",
+      "text": "Disabili e Terza Età",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/bagno-completo/",
+      "fragment": "",
+      "text": "Bagno Completo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rubinetteria-bidet/",
+      "fragment": "",
+      "text": "Rubinetteria Bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/cassette-per-wc/",
+      "fragment": "",
+      "text": "Cassette per Wc",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/comunita/",
+      "fragment": "",
+      "text": "Comunità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/meccanismi-di-scarico/",
+      "fragment": "",
+      "text": "Meccanismi di scarico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/accessori-di-montaggio/",
+      "fragment": "",
+      "text": "Accessori di Montaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/copriwater-disabili/",
+      "fragment": "",
+      "text": "Copriwater Disabili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/copriwater-di-serie/",
+      "fragment": "",
+      "text": "Copriwater di Serie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/copriwater/",
+      "fragment": "",
+      "text": "Copriwater Tutti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanisplit/",
+      "fragment": "",
+      "text": "Sanisplit",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/bagno-infanzia/",
+      "fragment": "",
+      "text": "Bagno Infanzia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-da-appoggio/",
+      "fragment": "",
+      "text": "Lavabi da Appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-sospesi/",
+      "fragment": "",
+      "text": "Lavabi Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-incasso/",
+      "fragment": "",
+      "text": "Lavabi da Incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-soprapiano/",
+      "fragment": "",
+      "text": "Lavabi Soprapiano",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-sottopiano/",
+      "fragment": "",
+      "text": "Lavabi Sottopiano",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rubinetteria-lavabi/",
+      "fragment": "",
+      "text": "Rubinetteria Lavabi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-colorati/",
+      "fragment": "",
+      "text": "Lavabi Colorati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-decorati/",
+      "fragment": "",
+      "text": "Lavabi Decorati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-freestanding/",
+      "fragment": "",
+      "text": "Lavabi Freestanding",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/consolle-moderne/",
+      "fragment": "",
+      "text": "Consolle Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-in-vetro/",
+      "fragment": "",
+      "text": "Lavabi in vetro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rubinetteria-a-parete/",
+      "fragment": "",
+      "text": "Rubinetteria a Parete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavatoi-in-ceramica/",
+      "fragment": "",
+      "text": "Lavatoi in ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavatoi-plastica-e-resina/",
+      "fragment": "",
+      "text": "Lavatoi Plastica e Resina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavatoi-per-esterno/",
+      "fragment": "",
+      "text": "Lavatoi per esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/staffe-per-lavatoio/",
+      "fragment": "",
+      "text": "Staffe per lavatoio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/tavola-in-legno/",
+      "fragment": "",
+      "text": "Assi Lavaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/vasche-e-pilozze-resina/",
+      "fragment": "",
+      "text": "Vasche e Pilozzi in Resina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-cucina/",
+      "fragment": "",
+      "text": "Mobili Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/composizioni-lavanderia/",
+      "fragment": "",
+      "text": "Composizioni Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-porta-lavatrice/",
+      "fragment": "",
+      "text": "Mobili Porta lavatrice",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/pensili-lavanderia/",
+      "fragment": "",
+      "text": "Pensili lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-base/",
+      "fragment": "",
+      "text": "Mobili Base",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rubinetteria-lavatoi/",
+      "fragment": "",
+      "text": "Rubinetteria lavatoi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-per-lavatoio/",
+      "fragment": "",
+      "text": "Mobili in Legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia/",
+      "fragment": "",
+      "text": "Box Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-angolari/",
+      "fragment": "",
+      "text": "Box Doccia Angolari [2 Lati Scorrevoli]",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-angolari-2-lati-battente/",
+      "fragment": "",
+      "text": "Box Doccia Angolari [2 Lati Battente]",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-angolari-fisso-battente/",
+      "fragment": "",
+      "text": "Box Doccia Angolari [Fisso + Battente]",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-angolari-fisso-scorrevole/",
+      "fragment": "",
+      "text": "Box Doccia Angolari [Fisso + Scorrevole]",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-angolari-fisso-soffietto/",
+      "fragment": "",
+      "text": "Box Doccia Angolari [Fisso + Soffietto]",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-a-nicchia-scorrevoli/",
+      "fragment": "",
+      "text": "Box Doccia a Nicchia [Scorrevoli]",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-a-nicchia-battente/",
+      "fragment": "",
+      "text": "Box Doccia a Nicchia [Battente]",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-a-nicchia-soffietto/",
+      "fragment": "",
+      "text": "Box Doccia a Nicchia [Soffietto]",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/cabine-doccia/",
+      "fragment": "",
+      "text": "Cabine Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-semicircolari/",
+      "fragment": "",
+      "text": "Box Doccia Semicircolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/parete-walk-in/",
+      "fragment": "",
+      "text": "Parete Walk In",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/colonne-doccia/",
+      "fragment": "",
+      "text": "Colonne Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rubinetteria-doccia/",
+      "fragment": "",
+      "text": "Rubinetteria Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/bracci-doccia/",
+      "fragment": "",
+      "text": "Bracci doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/piatti-doccia/",
+      "fragment": "",
+      "text": "Piatti Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rubinetteria-vasca/",
+      "fragment": "",
+      "text": "Trasforma Vasca in Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/canaline-di-scarico/",
+      "fragment": "",
+      "text": "Canaline di Scarico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/saune/",
+      "fragment": "",
+      "text": "Saune",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/vasche-da-bagno/",
+      "fragment": "",
+      "text": "Vasche da bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/vasche-rettangolari/",
+      "fragment": "",
+      "text": "Vasche rettangolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/vasche-angolari/",
+      "fragment": "",
+      "text": "Vasche angolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/vasche-combinate/",
+      "fragment": "",
+      "text": "Vasche Combinate",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/vasche-freestanding-e-design/",
+      "fragment": "",
+      "text": "Vasche freestanding e design",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/grandi-vasche/",
+      "fragment": "",
+      "text": "Grandi vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/pareti-vasca/",
+      "fragment": "",
+      "text": "Pareti Vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rubinetteria-bordo-vasca/",
+      "fragment": "",
+      "text": "Rubinetteria Bordo Vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/brands/",
+      "fragment": "",
+      "text": "Brands",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/gsg-ceramica/",
+      "fragment": "",
+      "text": "Gsg Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/frisone-rubinetteria/",
+      "fragment": "",
+      "text": "Frisone Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/art-ceram/",
+      "fragment": "",
+      "text": "Art Ceram",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/colbam/",
+      "fragment": "",
+      "text": "Colbam",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/savini-arredo-bagno/",
+      "fragment": "",
+      "text": "Savini Arredo Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/krover/",
+      "fragment": "",
+      "text": "Krover",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/sanmarciano/",
+      "fragment": "",
+      "text": "Sanmarciano",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/scarabeo-ceramiche/",
+      "fragment": "",
+      "text": "Scarabeo Ceramiche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/kieko-ceramica/",
+      "fragment": "",
+      "text": "Kieko Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/treesse/",
+      "fragment": "",
+      "text": "Treesse",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/ideal-standard/",
+      "fragment": "",
+      "text": "Ideal Standard",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/xilon/",
+      "fragment": "",
+      "text": "Xilon",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/azzurra-ceramica/",
+      "fragment": "",
+      "text": "Azzurra Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/disegno-ceramica/",
+      "fragment": "",
+      "text": "Disegno Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/tft-home-furniture/",
+      "fragment": "",
+      "text": "TFT Home Furniture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/galassia-ceramica/",
+      "fragment": "",
+      "text": "Galassia Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/sipra-marmi/",
+      "fragment": "",
+      "text": "Sipra Marmi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/ponte-giulio/",
+      "fragment": "",
+      "text": "Ponte Giulio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/tamanaco/",
+      "fragment": "",
+      "text": "Tamanaco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/hidra-ceramica/",
+      "fragment": "",
+      "text": "Hidra Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/amerina/",
+      "fragment": "",
+      "text": "Amerina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/colacril/",
+      "fragment": "",
+      "text": "Colacril",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/jo-bagno/",
+      "fragment": "",
+      "text": "Jo-Bagno.it",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/italian-bath-style/",
+      "fragment": "",
+      "text": "Italian Bath Style",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/pozzi-ginori/",
+      "fragment": "",
+      "text": "Pozzi Ginori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/globo-ceramica/",
+      "fragment": "",
+      "text": "Globo Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/nero-ceramica/",
+      "fragment": "",
+      "text": "Nero Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/marchio/ceramica-tuscia/",
+      "fragment": "",
+      "text": "Ceramica Tuscia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/frisone-rubinetteria-catalogo/",
+      "fragment": "",
+      "text": "Frisone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/ceramica-gsg-cataloghi/",
+      "fragment": "",
+      "text": "Gsg Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanitari-lavabi-e-arredo-bagno-ideal-standard-cataloghi/",
+      "fragment": "",
+      "text": "Sanitari, Lavabi e Mobili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/savini-arredo-bagno-catalogo-prodotti/",
+      "fragment": "",
+      "text": "Savini Arredobagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/alice-ceramica-catalogo-prodotti/",
+      "fragment": "",
+      "text": "Alice Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/cipi-mobili-bagno-lavabi-catalogo-generale-prezzi/",
+      "fragment": "",
+      "text": "CIPÌ Mobili Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/art-ceram-catalogo-2024/",
+      "fragment": "",
+      "text": "ArtCeram",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/pavimenti-spc-catalogo-generale-e-prezzi-labor-legno/",
+      "fragment": "",
+      "text": "Labor Legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-vasche-da-bagno-ideal-standard/",
+      "fragment": "",
+      "text": "Box Doccia e Vasche da Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/ix-box-shower-morini-group-catalogo-prodotti-e-prezzi/",
+      "fragment": "",
+      "text": "IX-Box Shower",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/krover-rubinetteria-catalogo-jo-bagno-it/",
+      "fragment": "",
+      "text": "Krover Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/hidra-ceramica-catalogo-generale-prezzi/",
+      "fragment": "",
+      "text": "HIDRA Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/scarabeo-ceramica-catalogo/",
+      "fragment": "",
+      "text": "Scarabeo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/ideal-standard-catalogo-prodotti-su-jo-bagno-it/",
+      "fragment": "",
+      "text": "Ideal Standard",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rubinetteria-bagno-e-cucina-ideal-standard/",
+      "fragment": "",
+      "text": "Rubinetteria Bagno e Cucina Ideal Standard",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/tamanaco-catalogo-generale-e-prezzi-box-doccia/",
+      "fragment": "",
+      "text": "Tamanaco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/xilon-catalogo-generale-e-prezzi/",
+      "fragment": "",
+      "text": "Xilon",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/treesse-vasche-da-bagno-catalogo/",
+      "fragment": "",
+      "text": "Treesse",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/contatti/",
+      "fragment": "",
+      "text": "Contatti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://wa.me/+393703523524?text=Salve%20sto%20scrivendo%20da%20Jo-Bagno.it%20posso%20chiedere%20un%20informazione?",
+      "fragment": "",
+      "text": "Chatta via Whatsapp",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/news/",
+      "fragment": "",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/agevolazioni-fiscali/",
+      "fragment": "",
+      "text": "Agevolazioni Fiscali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/spedizioni-e-pagamenti/",
+      "fragment": "",
+      "text": "Spedizioni e Pagamenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/condizioni-di-vendita/",
+      "fragment": "",
+      "text": "Condizioni di Vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/resi-e-recesso/",
+      "fragment": "",
+      "text": "Resi / Recessi e Segnalazioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-appoggio",
+      "fragment": "",
+      "text": "ACQUISTA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/arredo-bagno-moderno",
+      "fragment": "",
+      "text": "ARREDO BAGNO MODERNO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-bagno",
+      "fragment": "",
+      "text": "MOBILI BAGNO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/vasche-angolari",
+      "fragment": "",
+      "text": "VASCHE RETTANGOLARI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/vasche-freestanding-e-design",
+      "fragment": "",
+      "text": "VASCHE DI DESIGN",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/mobili-porta-lavatrice/mobile-sopra-lavatrice-alto-con-ripiani-e-armadio-pvc-regina-7718.html",
+      "fragment": "",
+      "text": "SPEDIZIONE GRATUITA Mobile sopra lavatrice con ripiani e armadio PVC Regina H 165 [PROMO] Misure: 63×26,4xh165 cm In offerta! € &nbsp;79,00 € &nbsp;141,73 Sconto € &nbsp;62,73",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavabi-per-disabili/piano-lavabo-disabili-90cm-rovere-montana-led-specchio.html",
+      "fragment": "",
+      "text": "Piano Lavabo Disabili 90 cm Rovere Montana con Specchio EASY BATHROOM [PROMO] Misure: 91X54XH3 cm In offerta! € &nbsp;700,00 € &nbsp;876,64 Sconto € &nbsp;176,64",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/colonna-doccia-con-cascata-h140-in-acciaio-nero-opaco-joy-promo.html",
+      "fragment": "",
+      "text": "SPEDIZIONE GRATUITA Colonna Doccia con cascata h140 in acciaio Nero Opaco JOY [PROMO] Misure: L20 P44 H140 In offerta! € &nbsp;279,00 € &nbsp;690,41 Sconto € &nbsp;411,41",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/arredo-bagno-moderno/mobile-bagno-lavabo-sospeso-80-cassetti-moderno-laura.html",
+      "fragment": "",
+      "text": "Mobile Bagno con lavabo sospeso 80 cm e 2 Cassetti LAURA [PROMO] Misure: 81x45xh53 In offerta! € &nbsp;369,00 € &nbsp;477,04 Sconto € &nbsp;108,04",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/serie-sprint/miscelatore-bidet-sprint-cromato-click-clack.html",
+      "fragment": "",
+      "text": "SPEDIZIONE GRATUITA Miscelatore Bidet Sprint Cromato con Piletta Click Clack Interasse bocca erogazione 103 mm In offerta! € &nbsp;117,00 € &nbsp;149,82 Sconto € &nbsp;32,82",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/lavatoio-in-ceramica-colorato-60x50-incasso-nero-york-promo.html",
+      "fragment": "",
+      "text": "Lavatoio in ceramica colorato 60×50 Incasso NERO YORK [PROMO] Misure: 60×51,5 xh 30 cm [PROMO] In offerta! € &nbsp;299,00 € &nbsp;542,60 Sconto € &nbsp;243,60",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/lavatoio-pilozzo-resina-sospeso-50x35-con-sifone-promo.html",
+      "fragment": "",
+      "text": "SPEDIZIONE GRATUITA Lavatoio Pilozzo Resina Sospeso 50×35 con sifone [PROMO] Misure: 50x35xh24 In offerta! € &nbsp;28,00 € &nbsp;40,09 Sconto € &nbsp;12,09",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/cassettone-bagno-top-sospeso-da-appoggio-80-cm-klara-promo.html",
+      "fragment": "",
+      "text": "Cassettone bagno Top sospeso da appoggio 80 cm KLARA [PROMO] Misure: 80x46xh25 cm In offerta! € &nbsp;199,00 € &nbsp;299,21 Sconto € &nbsp;100,21",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/lavatoio-in-ceramica-colorato-60x50-incasso-york-stone-mix-promo.html",
+      "fragment": "",
+      "text": "Lavatoio in ceramica colorato 60×50 Incasso YORK STONE MIX [PROMO] Misure: 60×51,5 xh 30 cm [PROMO] In offerta! € &nbsp;299,00 € &nbsp;556,91 Sconto € &nbsp;257,91",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/mobile-lavatoio-45x50-con-vasca-in-resina-pp-noce-zara-offerta.html",
+      "fragment": "",
+      "text": "Mobile lavatoio 45×50 con vasca in Resina PP NOCE ZARA [OFFERTA] Misure: 45x50xh82 cm In offerta! € &nbsp;99,00 € &nbsp;170,36 Sconto € &nbsp;71,36",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/lavabo-classic-63-bianco-con-colonna-promo.html",
+      "fragment": "",
+      "text": "SPEDIZIONE GRATUITA Lavabo CLASSIC / YOU 63 Sospeso con Colonna [PROMO] Misure: 63x53xh21 cm In offerta! € &nbsp;99,00 € &nbsp;230,58 Sconto € &nbsp;131,58",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/cassettone-bagno-top-sospeso-da-appoggio-80-cm-klara-promo-9756-10328.html",
+      "fragment": "",
+      "text": "Cassettone bagno Top sospeso da appoggio per lavabo 80 cm KLARA [PROMO] Misure: 80x46xh25 cm [PROMO] In offerta! € &nbsp;249,00 € &nbsp;439,20 Sconto € &nbsp;190,20",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/mobile-lavanderia-50x50-con-vasca-in-plastica-resina-rovere-sbiancato-promo.html",
+      "fragment": "",
+      "text": "Mobile lavanderia 50×50 con vasca in plastica Resina ROVERE SBIANCATO [PROMO] Misure: 50x50xh84 cm In offerta! € &nbsp;109,00 € &nbsp;156,05 Sconto € &nbsp;47,05",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/sanitari-bagno-grigio-opaco-52x36-a-terra-filomuro-leila-promo.html",
+      "fragment": "",
+      "text": "SPEDIZIONE GRATUITA Sanitari Bagno Grigio Opaco 52×36 a Terra Filomuro LEILA [PROMO] Misure: 51x35xh43 cm In offerta! € &nbsp;499,00 € &nbsp;714,38 Sconto € &nbsp;215,38",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/outlet/pensile-contenitore-bagno-a-specchio-60x24xh74-klara-promo.html",
+      "fragment": "",
+      "text": "Pensile Contenitore Bagno a Specchio 60x24xH74 KLARA [PROMO] Misure: 60×24,5xh74 cm In offerta! € &nbsp;139,00 € &nbsp;241,95 Sconto € &nbsp;102,95",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanitari-bagno",
+      "fragment": "",
+      "text": "SANITARI BAGNO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/sanitari-bagno-sospesi",
+      "fragment": "",
+      "text": "Scopri i nuovi modelli sospesi senza Brida",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/arredo-bagno-moderno/mobile-bagno-sospeso-70-con-cassetto-moderno-klara.html",
+      "fragment": "",
+      "text": "MOBILI BAGNO KLARA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rivestimenti-bagno/mosaici-in-vetro",
+      "fragment": "",
+      "text": "RIVESTIMENTI BAGNO Scopri i mosaici in vetro ideali per rivestire bagni e piscine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/box-doccia-angolari",
+      "fragment": "",
+      "text": "BOX DOCCIA IN CRISTALLO La gamma completa di Box Doccia angolari in Cristallo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/arredo-lavanderia",
+      "fragment": "",
+      "text": "ARREDO LAVANDERIA Una lavanderia completa per tutte le esigenze interno ed esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/trova-copriwater/",
+      "fragment": "",
+      "text": "Trova Copriwater",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/my-account/orders/",
+      "fragment": "",
+      "text": "Stato Ordini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/pagamenti/",
+      "fragment": "",
+      "text": "Pagamenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/lavora-con-noi/",
+      "fragment": "",
+      "text": "Lavora con noi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/richiedi-catalogo/",
+      "fragment": "",
+      "text": "Richiedi Catalogo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/chi-e-jo-bagno-it/",
+      "fragment": "",
+      "text": "Leggi tutto …",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://it-it.facebook.com/jobagno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://twitter.com/jobagno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.pinterest.it/arredobagno/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/arredamentobagno/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/feedback/",
+      "fragment": "",
+      "text": "Feedback",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/imballaggio-speciale/",
+      "fragment": "",
+      "text": "Imballaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/rivenditori-autorizzati/",
+      "fragment": "",
+      "text": "Rivenditore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/cookies-policy/",
+      "fragment": "",
+      "text": "Cookies Policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/privacy-policy/",
+      "fragment": "",
+      "text": "Privacy &amp; Policy",
+      "rel": "privacy-policy",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jo-bagno.it/faq/",
+      "fragment": "",
+      "text": "FAQ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/s?ie=UTF8&amp;marketplaceID=APJ6JRA9NG5V4&amp;me=A1GNL3UN7C9N69",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.ebay.it/str/jobagnosanitariearredobagno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/venditore/jo-bagno-arredo-e-sanitari.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.manomano.it/commerciante-21718704",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://gmpg.org/xfn/11",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/xmlrpc.php",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;600;800;900&amp;display=swap",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.iubenda.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://challenges.cloudflare.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/feed/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/comments/feed/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjo-bagno.it%2F",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjo-bagno.it%2F&amp;format=xml",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-11.0.1",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-content/themes/jobagno/style.css?ver=1.0.12",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-content/themes/jobagno/assets/css/base/icons.css?ver=1.0.12",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-content/themes/jobagno/assets/css/woocommerce/woocommerce.css?ver=1.0.12",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-content/themes/jobagno/assets/css/woocommerce/extensions/brands.css?ver=1.0.12",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-json/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/wp-json/wp/v2/pages/13416",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jo-bagno.it/xmlrpc.php?rsd",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.trustindex.io/widgets/cb/cbed4c866141211ddf96a98880f/style.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.trustindex.io/widgets/85/85250d466e37281f7616115e818/style.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://client.relay.crisp.chat",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://client.crisp.chat/static",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://client.crisp.chat/static/stylesheets/client_default_3afc012.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

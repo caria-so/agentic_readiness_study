@@ -1,0 +1,119 @@
+{
+ "url": "https://www.arredobagno360.it/treverkview-wood-look-marazzi.html",
+ "file": "treverkview-wood-look-marazzi.html.html",
+ "title": "Treverkview | Piastrelle in gres porcellanato, varie misure",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3056,
+ "attributes": {
+  "sku": {
+   "value": "treverkview-wood-look-marazzi",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "treverkview-wood-look-marazzi"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "treverkview-wood-look-marazzi",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "treverkview-wood-look-marazzi"
+    }
+   ]
+  },
+  "series": {
+   "value": "Treverkview | Piastrelle in gres porcellanato, varie misure",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Treverkview | Piastrelle in gres porcellanato, varie misure"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Collezione",
+     "value": "Wood Look"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Serie",
+     "value": "Treverkview"
+    }
+   ]
+  },
+  "weight": {
+   "value": "29.0000 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "29.0000 KGM"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Rovere Avorio, Rovere Beige, Rovere Caramello, Rovere Marrone, Rovere Grigio, Scuro, Naturale, Miele, Tortora",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finiture",
+     "value": "Rovere Avorio, Rovere Beige, Rovere Caramello, Rovere Marrone, Rovere Grigio, Scuro, Naturale, Miele, Tortora"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "20x120",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "20x120"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "9,5 mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessore",
+     "value": "9,5 mm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "ambienti esterni": "basse temperature",
+  "Scarica le finiture": "Codici",
+  "Tecnologia": "gres fine porcellanato colorato in massa, according to UNI EN 14411 - G Bla"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 2,
+  "L3": 6,
+  "dropped": 3
+ }
+}

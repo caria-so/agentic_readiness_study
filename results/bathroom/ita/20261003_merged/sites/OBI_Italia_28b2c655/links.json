@@ -1,0 +1,3295 @@
+{
+  "source": "https://www.obi-italia.it/",
+  "generated": "2026-09-30T20:10:19.000016",
+  "total": 449,
+  "internal_count": 410,
+  "external_count": 39,
+  "links": [
+    {
+      "url": "https://www.obi-italia.it/promo/heyobi",
+      "fragment": "",
+      "text": "Scaricala ora",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/",
+      "fragment": "main",
+      "text": "Contenuti Principali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/offerte",
+      "fragment": "",
+      "text": "Offerte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/offerte-web",
+      "fragment": "",
+      "text": "Outlet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://carriera.obi-italia.it/",
+      "fragment": "",
+      "text": "Carriera",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/spaccaprezzo",
+      "fragment": "",
+      "text": "Vai all'offerta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/rinnova_la_tua_casa",
+      "fragment": "",
+      "text": "Vai all'offerta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/raccolta_del_castoro",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/outlet_garden",
+      "fragment": "",
+      "text": "Vai all'offerta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/anniversario",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/la_primavera_di_obi",
+      "fragment": "",
+      "text": "🍀SPECIALISTI DEL VERDE",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/piante/piante-da-appartamento/c/1554",
+      "fragment": "",
+      "text": "piante",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/giardino-e-tempo-libero/mobili-da-giardino/c/863",
+      "fragment": "",
+      "text": "arredi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/irrigazione-pompe-e-articoli-decorativi/sistemi-di-irrigazione/c/1425",
+      "fragment": "",
+      "text": "sistemi di irrigazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/idee-giardino-e-casa/giardino-e-tempo-libero",
+      "fragment": "",
+      "text": "consigli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/posa_pro",
+      "fragment": "",
+      "text": "🛠️ OBI CHIAVI IN MANO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/info/obi-profi",
+      "fragment": "",
+      "text": "👷SERVIZIO PRO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/top_5",
+      "fragment": "",
+      "text": "TOP5",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5842711/scaffale-in-metallo-e-mdf-5-ripiani-180x90x40-cm-175-kg-ripiano",
+      "fragment": "",
+      "text": "Pochi pezzi disponibili online Scaffale in metallo e MDF 5 ripiani 180x90x40 cm 175 kg/ripiano 4.1 (612) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5749759/scaffale-in-metallo-5-ripiani-90x40x180-cm-175-kg-ripiano",
+      "fragment": "",
+      "text": "Scaffale in metallo 5 ripiani 90x40x180 cm 175 kg/ripiano 4.4 (12) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5197223/idropittura-traspirante-boero-traspira-bianco-14-l",
+      "fragment": "",
+      "text": "Prezzo promo Idropittura traspirante Boero Traspira bianco 14 l 5.0 (1) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5197223/idropittura-traspirante-boero-traspira-bianco-14-l",
+      "fragment": "info",
+      "text": "Note",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5982285/armadio-basso-raccolta-differenziata-3-coperchi-1020x370xh-840-mm-grigio",
+      "fragment": "",
+      "text": "Prezzo promo Armadio basso raccolta differenziata 3 coperchi 1020x370xh 840 mm grigio Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/4630349/campana-completa-twico-geberit-cassetta-di-scarico-wc-ad-incasso",
+      "fragment": "",
+      "text": "Pochi pezzi disponibili online Campana completa Twico Geberit cassetta di scarico WC ad incasso 4.3 (3) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5624895/smerigliatrice-angolare-bosch-universalgrind-115-mm-750-w",
+      "fragment": "",
+      "text": "Prezzo promo Smerigliatrice angolare Bosch UniversalGrind Ø 115 mm 750 W Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/6185201/baule-da-esterno-350-l-118-5x52x56-8-cm-grigio-antracite",
+      "fragment": "",
+      "text": "Baule da esterno 350 l 118,5x52x56,8 cm grigio antracite Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5819131/armadio-da-esterno-alto-3-ripiani-e-portascope-in-plastica-66x40xh172-cm",
+      "fragment": "",
+      "text": "Ottimo prezzo Armadio da esterno alto 3 ripiani e portascope in plastica 66x40xH172 cm 4.8 (12) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5071766/batteria-agli-ioni-di-litio-lux-tools-20-v-4-ah",
+      "fragment": "",
+      "text": "Batteria agli ioni di litio LUX-TOOLS 20 V 4 Ah 4.6 (290) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5454855/idropittura-traspirante-v33-renov-mur-bianco-14-l",
+      "fragment": "",
+      "text": "Prezzo promo Idropittura traspirante V33 Renov`Mur bianco 14 l Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5841424/pannello-fonoassorbente-decorativo-rovere-240x57-25-cm-sp-19-mm",
+      "fragment": "",
+      "text": "Ottimo prezzo Pannello fonoassorbente decorativo rovere 240x57,25 cm Sp. 19 mm 5.0 (3) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5828769/cavo-unipolare-in-pvc-fs17-1x1-5-mm-x-100-m-giallo-verde",
+      "fragment": "",
+      "text": "Cavo unipolare in PVC FS17 1x1,5 mm² x 100 m giallo/verde 4.7 (3) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5759055/tagliaerba-elettrico-easyrotak-32-215-bosch-1200w-larghezza-taglio-32-cm",
+      "fragment": "",
+      "text": "Tagliaerba elettrico EasyRotak 32-215 Bosch 1200W larghezza taglio Ø 32 cm 4.4 (25) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5828835/cavo-unipolare-in-pvc-fs17-1x2-5-mm-x-100-m-blu",
+      "fragment": "",
+      "text": "Cavo unipolare in PVC FS17 1x2,5 mm² x 100 m blu 4.7 (3) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/3618832/scarpiera-con-specchio-5-contenitori-max-10-paia-179x50x19-cm-bianco",
+      "fragment": "",
+      "text": "Prezzo promo Scarpiera con specchio 5 contenitori max 10 paia 179x50x19 cm bianco 4.7 (3) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/3223583/semi-prato-inglese-5-kg",
+      "fragment": "",
+      "text": "Semi prato inglese 5 kg 4.6 (9) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/1897719/scaffale-in-metallo-amsterdam-5-ripiani-100x40x188-cm-65-kg-ripiano",
+      "fragment": "",
+      "text": "Scaffale in metallo Amsterdam 5 ripiani 100x40x188 cm 65 kg/ripiano 4.5 (13) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/4826129/carriola-acciaio-zincata-75-l",
+      "fragment": "",
+      "text": "Carriola acciaio zincata 75 l 3.6 (11) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5819115/armadio-da-esterno-basso-in-plastica-66x40xh88-cm",
+      "fragment": "",
+      "text": "Ottimo prezzo Armadio da esterno basso in plastica 66x40xH88 cm 4.6 (7) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5828736/cavo-unipolare-in-pvc-fs17-1x1-5-mm-x-100-m-blu",
+      "fragment": "",
+      "text": "Cavo unipolare in PVC FS17 1x1,5 mm² x 100 m blu 4.7 (3) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5617485/scaffale-in-legno-e-metallo-la-spezia-5-ripiani-120x50x200-cm-250-kg-ripiano",
+      "fragment": "",
+      "text": "Ottimo prezzo Scaffale in legno e metallo La Spezia 5 ripiani 120x50x200 cm 250 kg/ripiano 4.5 (8) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5828850/cavo-unipolare-in-pvc-fs17-1x2-5-mm-x-100-m-giallo-verde",
+      "fragment": "",
+      "text": "Cavo unipolare in PVC FS17 1x2,5 mm² x 100 m giallo/verde 4.7 (3) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/4803532/colla-in-gel-h40-no-limits-kerakoll-bianco-25-kg",
+      "fragment": "",
+      "text": "Colla in gel H40 No limits Kerakoll bianco 25 kg 4.8 (5) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/4803532/colla-in-gel-h40-no-limits-kerakoll-bianco-25-kg",
+      "fragment": "info",
+      "text": "Note",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5828843/cavo-unipolare-in-pvc-fs17-1x2-5-mm-x-100-m-nero",
+      "fragment": "",
+      "text": "Cavo unipolare in PVC FS17 1x2,5 mm² x 100 m nero 4.7 (3) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5709159/pavimento-spc-felica-marrone-grigio-sp-5-mm-121-9x17-8-cm",
+      "fragment": "",
+      "text": "Pavimento SPC Felica marrone grigio sp 5 mm 121,9x17,8 cm Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5641097/wc-filo-muro-in-ceramica-genziana-bianco-lucido",
+      "fragment": "",
+      "text": "Wc Filo muro in ceramica Genziana bianco lucido Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5591847/sgabello-in-acciaio-3-gradini-portata-max-150-kg",
+      "fragment": "",
+      "text": "Sgabello in acciaio 3 gradini portata max 150 kg Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5681598/idropulitrice-cmi-450-l-h-150-bar-2000-w",
+      "fragment": "",
+      "text": "Ottimo prezzo Idropulitrice CMI 450 l/h 150 bar 2000 W 4.3 (4) Venditore: OBI Italia s.r.l. a socio unico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5647839/scaldabagno-elettrico-htm-essential-80-l-78x51-5x50-5-cm",
+      "fragment": "",
+      "text": "Scaldabagno elettrico HTM Essential 80 l 78x51,5x50,5 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/2400083/antimuffa-spray-saratoga-z10-250-ml",
+      "fragment": "",
+      "text": "Antimuffa spray Saratoga Z10 250 ml",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/2400083/antimuffa-spray-saratoga-z10-250-ml",
+      "fragment": "info",
+      "text": "Note",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/5640503/scarpa-antinfortunistica-upower-taylor-tg-40",
+      "fragment": "",
+      "text": "Scarpa antinfortunistica Upower Taylor tg 40",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/p/1493352/set-di-accessori-per-foratura-e-avvitamento-bosch-x-line-34",
+      "fragment": "",
+      "text": "Set di accessori per foratura e avvitamento Bosch X-Line 34",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/ottimo_prezzo",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/ottimo_prezzo",
+      "fragment": "prodotti",
+      "text": "Vai ai prodotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/negozio/noleggio-attrezzature",
+      "fragment": "",
+      "text": "Servizio di noleggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/negozio/servizi/tintometro",
+      "fragment": "",
+      "text": "Servizio tintometria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/negozio/servizi/taglio-del-legno",
+      "fragment": "",
+      "text": "Servizio di taglio legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/negozio/servizi/duplicazione-chiavi",
+      "fragment": "",
+      "text": "Duplicazione chiavi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/info/finanziamento-tasso-0",
+      "fragment": "",
+      "text": "Finanziamento a tasso 0",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/info/servizi/pagamento-online",
+      "fragment": "",
+      "text": "Pagamenti online",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/negozio/servizi/consegna-a-domicilio",
+      "fragment": "",
+      "text": "Consegna a domicilio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/negozio/servizi/prenota-e-ritira",
+      "fragment": "",
+      "text": "Prenota e ritira",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/negozio/servizi/confezionamento-piante",
+      "fragment": "",
+      "text": "Confezionamento piante",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/info/servizi",
+      "fragment": "negozio",
+      "text": "I nostri servizi in negozio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/info/servizi",
+      "fragment": "online",
+      "text": "I nostri servizi online",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/competenza/pavimenti_spc",
+      "fragment": "",
+      "text": "Pavimenti SPC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/assortimento_pet",
+      "fragment": "",
+      "text": "Speciale PET",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/pannelli-fonoassorbenti",
+      "fragment": "",
+      "text": "Pannelli fonoassorbenti e decorativi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/speciale-robot-tagliaerba",
+      "fragment": "",
+      "text": "Robot tagliaerba",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/speciale-teckgard",
+      "fragment": "",
+      "text": "Scopri i prodotti a marchio TECKGARD",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/competenza/smart_home",
+      "fragment": "",
+      "text": "Smart Home",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/competenza/sistemazione",
+      "fragment": "",
+      "text": "Soluzioni salvaspazio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/negozio",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/idee-giardino-e-casa/casa",
+      "fragment": "",
+      "text": "Casa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/idee-giardino-e-casa/edilizia",
+      "fragment": "",
+      "text": "Edilizia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/idee-giardino-e-casa/tecnico",
+      "fragment": "",
+      "text": "Tecnico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/idee-giardino-e-casa/giardino-e-tempo-libero/arredo-giardino/progettare-una-zona-salotto-in-giardino-idee-e-consigli",
+      "fragment": "",
+      "text": "Progettare una zona salotto in giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/idee-giardino-e-casa/casa/crea-con-obi/piante-da-balcone",
+      "fragment": "",
+      "text": "Piante da balcone: come posizionarle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/idee-giardino-e-casa/giardino-e-tempo-libero/piante/come-curare-la-pianta-di-limone-trucchi-e-consigli",
+      "fragment": "",
+      "text": "Come curare la pianta di limone- Trucchi e consigli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/paranco/",
+      "fragment": "",
+      "text": "Paranco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/brasatrici-levigatrici-e-accessori/saldatrici/c/1793",
+      "fragment": "",
+      "text": "Saldatrici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/carta%20vetrata/",
+      "fragment": "",
+      "text": "Carta vetrata",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/lente%20di%20ingrandimento/",
+      "fragment": "",
+      "text": "Lente di ingrandimento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/macchine-edili/compressori-accessori/c/3097",
+      "fragment": "",
+      "text": "Compressori &amp; accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/elettroutensili/trapani-e-avvitatori/c/3111",
+      "fragment": "",
+      "text": "Trapani e avvitatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/rullo%20pittura/",
+      "fragment": "",
+      "text": "Rullo pittura",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/attrezzi/",
+      "fragment": "",
+      "text": "Vai a Attrezzi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/finestre/finestre-in-pvc/c/961",
+      "fragment": "",
+      "text": "Finestre in pvc",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/intonaco-malta-e-cemento/malta-calce-e-cemento/c/828",
+      "fragment": "",
+      "text": "Malta, calce e cemento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/porte/porte-blindate/c/957",
+      "fragment": "",
+      "text": "Porte blindate",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/edilizia/scale-e-ringhiere/c/761",
+      "fragment": "",
+      "text": "Scale e ringhiere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/tegole/",
+      "fragment": "",
+      "text": "Tegole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/edilizia/c/877",
+      "fragment": "",
+      "text": "Edilizia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/drenaggio-e-impermeabilizzazione/guaine-liquide/c/162",
+      "fragment": "",
+      "text": "Guaine liquide",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/edilizia/materiali-da-costruzione/c/175",
+      "fragment": "",
+      "text": "Vai a Costruzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/vernici-per-legno/smalti-per-legno/c/3068",
+      "fragment": "",
+      "text": "Smalti per legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/melaminico/",
+      "fragment": "",
+      "text": "Melaminico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/vernice%20per%20ferro/",
+      "fragment": "",
+      "text": "Vernice per ferro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/edilizia/legno-da-costruzione/c/169",
+      "fragment": "",
+      "text": "Legno da costruzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/bostik/",
+      "fragment": "",
+      "text": "Bostik",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/velcro/",
+      "fragment": "",
+      "text": "Velcro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/colori-e-vernici/vernici-per-legno/c/2991",
+      "fragment": "",
+      "text": "Vernici per legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/rivestimento%20esterno/",
+      "fragment": "",
+      "text": "Vai a Finiture",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/accessori-cucina/ricambi-per-rubinetto-cucina/c/3395",
+      "fragment": "",
+      "text": "Ricambi per rubinetto cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/installazione-di-impianti-sanitari/trattamento-acqua/c/3559",
+      "fragment": "",
+      "text": "Trattamento acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/utensili-sanitari/pulizia-tubi/c/3484",
+      "fragment": "",
+      "text": "Pulizia tubi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/tappi-scarico/tappi-lavandino/c/3557",
+      "fragment": "",
+      "text": "Tappi lavandino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/sistemi-di-aerazione/aerazione-canalizzata/c/1067",
+      "fragment": "",
+      "text": "Aerazione canalizzata",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/pulizia-tubi/spirali-di-pulizia/c/3486",
+      "fragment": "",
+      "text": "Spirali di pulizia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/piletta%20doccia/",
+      "fragment": "",
+      "text": "Piletta doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/accessori-sanitari/accessori-per-idraulica/c/3402",
+      "fragment": "",
+      "text": "Vai a Idraulica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/lampadari%20led/",
+      "fragment": "",
+      "text": "Lampadari led",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/scaffali%20in%20legno/",
+      "fragment": "",
+      "text": "Scaffali in legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/porte/fermaporte/c/970",
+      "fragment": "",
+      "text": "Fermaporte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/forno%20a%20legna/",
+      "fragment": "",
+      "text": "Forno a legna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/ripiani/mensole-e-reggimensole/c/2545",
+      "fragment": "",
+      "text": "Mensole e reggimensole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/lavare-e-asciugare/assi-da-stiro/c/216",
+      "fragment": "",
+      "text": "Assi da stiro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/portaombrelli/",
+      "fragment": "",
+      "text": "Portaombrelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/illuminazione/",
+      "fragment": "",
+      "text": "Vai a Illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/piante-con-fiori/anturium/c/1995",
+      "fragment": "",
+      "text": "Anturium",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/piante-verdi/dracena/c/1986",
+      "fragment": "",
+      "text": "Dracena",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/macchine-da-giardino/tagliasiepi/c/405",
+      "fragment": "",
+      "text": "Tagliasiepi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/strelitzia/",
+      "fragment": "",
+      "text": "Strelitzia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/macchine-da-giardino/trattori-tagliaerba-e-accessori/c/1375",
+      "fragment": "",
+      "text": "Trattori tagliaerba e accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/search/sansevieria/",
+      "fragment": "",
+      "text": "Sansevieria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/piante-esotiche/cactus/c/2002",
+      "fragment": "",
+      "text": "Cactus",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/giardino-e-tempo-libero/piante/c/867",
+      "fragment": "",
+      "text": "Vai a Piante",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/heyobi/customer-center/preference-center/notifications?open=1",
+      "fragment": "",
+      "text": "Iscriviti alla newsletter",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/heyobi/offerte-heyobi",
+      "fragment": "",
+      "text": "negozi aderenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/promo/heyobi/coupon-benvenuto",
+      "fragment": "",
+      "text": "newsletter heyOBI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/servizi/servizi-online/pagamenti-online/",
+      "fragment": "kreditkarte",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/idee-giardino-e-casa",
+      "fragment": "",
+      "text": "Scopri i nostri consigli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://supporto.obi-italia.it/hc/it",
+      "fragment": "",
+      "text": "Domande frequenti &amp; Contatti",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/withdrawal",
+      "fragment": "",
+      "text": "Recesso dal contratto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/info/franchising_partner",
+      "fragment": "",
+      "text": "Franchising",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/info/sviluppo_immobiliare",
+      "fragment": "",
+      "text": "Sviluppo Immobiliare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/info/showroom_milano",
+      "fragment": "",
+      "text": "Showroom",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://supporto.obi-italia.it/hc/it/requests/new?ticket_form_id=13398022472220",
+      "fragment": "",
+      "text": "Segnalazione contenuti illeciti",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://imgix.obi.de/api/disc/cms/public/dam/legal/garan/Legal guarantee_notice ITN.pdf",
+      "fragment": "",
+      "text": "Garanzia legale",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/informazioni-legali/",
+      "fragment": "",
+      "text": "Informazioni legali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/sitemap/",
+      "fragment": "",
+      "text": "Mappa del sito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/manifest.json",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi-italia.it",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://bilder.obi-italia.it",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://static.hotjar.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://script.hotjar.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://vars.hotjar.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://vc.hotjar.io",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://v1.api.service.cmp.usercentrics.eu",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://web.cmp.usercentrics.eu",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn-eu.dynamicyield.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://st-eu.dynamicyield.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://rcom-eu.dynamicyield.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://maps.googleapis.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://maps.gstatic.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://web.cmp.usercentrics.eu/ui/loader.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/favicon.ico",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/favicon-16x16.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/favicon-32x32.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/favicon-48x48.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-57x57.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-60x60.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-72x72.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-76x76.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-114x114.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-120x120.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-144x144.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-152x152.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-167x167.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-180x180.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/head-fragment/public/it_IT/apple-touch-icon-1024x1024.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi-italia.it/css-utilities/public/fonts/obisans_regular-webfont.9c4b32.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi-italia.it/css-utilities/public/fonts/obisans_bold-webfont.c62ae8.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi-italia.it/css-utilities/public/css/fonts.51e18b0c731eed6c3a3e.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi-italia.it/css-utilities/public/css/global.275e9eaff0aad001ba65.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi-italia.it/css-utilities/public/css/global-sm.911e00017e35e054a3aa.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi-italia.it/css-utilities/public/css/global-lg.a8e0f284321429716dc6.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi-italia.it/css-utilities/public/css/global-print.53772015486a89c489ae.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi.de/heyobi/includes/loader/assets/initialize-7fb74ac9.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/regi/auth/assets/rolldown-runtime.hePW80VL.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/regi/auth/assets/regi-chunk-lib.-CGLX1sr.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/regi/auth/assets/regi-chunk-vendors.vti4lvLq.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/regi/auth/assets/HeyObiSidePaneFragment.Dlvi2lTU.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/regi/auth/assets/regi-chunk-lib.Bem3bODh.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/regi/auth/assets/HeyObiSidePaneFragment.PT4pQqiZ.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.obi.de/seller-onboarding/seller-side-panel/resources/index-DA0sq5k1.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/find/fragments/suchleiste/css/suchleiste.Brc0yQ93.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/entry.DE3cQUVm.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DynamicPage.BRWov1m0.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/T3Slot.DqWGPRlV.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/UiAccordionItem.NNP0d4s2.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CMAM9NoP.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/hePW80VL.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Cf3nh2Ar.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/RwWUeqjn.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CN5KjDxl.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CDA_-Ql5.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B5HzrHLV.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CQ94nclc.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DSJ9I3OW.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FJoLnZhO.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/TAk3XSUl.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DAqPGmQR.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Rn54EJHg.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/byCNfF22.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CnNUlm1g.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Cp8PWzUc.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BhDP5aU1.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CN9dFYfG.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/uBIymjUX.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CvDkFDmY.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CcimcqS9.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DFv7pA50.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D0TYGUFc.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BEofslLN.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D_9X9jI9.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/fXr7YnYe.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/4FYDuARO.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CTdv4-7G.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BDNMzG2s.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B14Ib-_O.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BfpCc8jb.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/yz4veQxp.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D5GXR6Oh.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D8sDZ0-G.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DYzQvEml.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B7uxYbTZ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Z5XqNYSf.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CTiHjuN6.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/COtG-Rzz.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CNs_Ozdc.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/iOr24-B5.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/ByBKWA1F.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/By6h5HJe.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BRE6-_Yz.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BcnDHOTh.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CeGQR9dZ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/U-w4Lqdm.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FOtMjWkP.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Ct6yHN0Z.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/b0iw0j3N.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/rDMDpDMD.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/LGdD9xMR.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DM8M-tK8.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Gs9W9iEn.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CQI_BB8P.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BTOhWyvL.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BOpdlYLV.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CY-Li2mx.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/pjJ4VQmX.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DwwXbK49.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BAB-ZjXt.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Bv05ylJ4.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/RecommendationFragment.BT5mKTRJ.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Badge.BRhm799y.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/UiHeadline.CzIeHcO1.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Swiper.BXGmyp3I.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/UiNotification.Cpi4I224.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/UiCartButton.DXnrvZG6.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BAKmFyS_.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CKbXgmVK.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Cr6auAQI.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CTdUIkhJ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CStrs9qO.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/C50LQwTi.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BfQNBecF.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BWcIDluf.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CAw24NI9.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/OkfTNEMb.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/HeaderFragment.B4CMXCS0.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/UiSidepanel.DK6PjknE.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/SkipButtonComponent.DzjyNkus.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Button.ChB05dy4.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/UiLanguageSwitcher.Dn7VvxaB.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/HeaderBar.C3ydO47R.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/MainNavigationItem.BC9MtQBm.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/MainNavigationItemContent.PnYq-bzr.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Image.CRMcAp_e.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/ImageContent.B3lw8e44.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Badges.Dbr-GDo-.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/ImageMaximize.oDTvjmBI.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/ExpandableCaption.DmxpyLaH.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BhsUsWCI.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B0BYCWjn.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/kyKx4if8.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/uwWAudXq.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D_sP3qk_.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BhwpCBFK.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BYje9c3u.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Cox1HcHJ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/T56ZZyId.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DGWFwaX_.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CW1vF9zA.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BdnXm81r.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DE8hz2gC.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/_mN5cLCO.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Ba9rSgRF.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B99sibQb.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Dtpk6p_S.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Be7zEeY0.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CKcx1CLV.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/1cuG5ELE.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Q6grWvCT.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/AvHSoCYD.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D8Xtfxqe.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FooterFragment.DSUm08rl.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CIFyRwjo.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/U1c2XbTh.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DevHighlightComponents.mFSdIsNY.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DevModalComponent.CFfXEB8s.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/C-nqjWNq.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CP48PSlY.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/C6h4nTez.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DY6-pzD7.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CHlIz1eZ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D2udCxEd.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CJXdLAEq.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BCZqinPl.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DyQZX-Z2.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FZC1LU1U.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DP90qXDw.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D7bk8cpv.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DWF-Hew6.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B9SvZAq2.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/s8w4cK09.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi.hu/magazin",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi.cz/magazin",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi.sk/magazin",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi.at/magazin",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi.de/magazin",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D_nr-kf9.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Bk7qWR6R.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BQ1lxj8I.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/AnchorNavigationInner.D3DsC3qM.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CTgXMnLU.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CAQk1H9O.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BreadcrumbSubmenu.CF6CZ9EX.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Breadcrumb.BmppMBSD.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BINbSCOF.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Cf7eXgM-.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/HomePage.BlrhHrFw.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/AaIjtvwj.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Slider.DKkBH2Vm.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DyYwYk_l.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BshxGTBe.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DlqTEq7B.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/IoSqxyFs.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/NsEqIdb5.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DisclaimerText.n9K4GHXi.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/C-2XE-Ti.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Section.D0C2bmam.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D8JQyqQM.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FooterSection.IHyTpgQZ.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/COK2lLMM.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/ac3OcYdm.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D1YH8U1r.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/WakNqdCG.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CopyText.BRVQvwky.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/List.SkmMW-dw.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FooterRegisterTeaserElement.Xq1qeVxe.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FooterRegisterTeaser.DQFe4Z9Q.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/yGieIlkJ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FooterLogoGrid.CRz8XKLy.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DzVOw2aX.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CzK2IiTW.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FooterServiceContact.CCcmaKXr.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/ClcSG4Vv.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FooterList.1vtsE48J.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/C0cJ8Zgy.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CL8cWTyg.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/ModalComponent.ByEHLoHW.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BUKTuOo8.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/d5zkhEOi.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BtzwEr5u.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/70E37Uwh.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/OneProductDocuments.aKvr6c67.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DGG6TxiL.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BKzVcyEE.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CrxHZr9Q.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/OneProductTileMinimalWrapper.Dn_cHbGz.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/MqoExn_a.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/OverlappingComponent.DzJpObED.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D9pL7SfK.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/D4800ktq.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Youtube.DSFdlU4D.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Stage.Bd5aPXwO.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BuaJlLvE.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DlZPb03F.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Grid.CT6ufLVk.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BJQtCIDm.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CQR3k7CL.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/TeaserImageText.BqVxtwgO.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/AnWidpMg.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Dg6SBF5H.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CsWYjvN3.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B9DcdO08.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BannerComponent.BqvyWSjC.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DhZdirTJ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BcNeqraX.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/SmallEntry.V1TvPQtX.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BXtwHBRF.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/TagCloud.RA-vQg9k.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BbY4XiHx.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CME2ZBAv.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Expandable.BnqF4aMI.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/9vkq9VUZ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Accordion.Dqct-jfT.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BeTl0AXX.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CklnD-4U.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/QuickEntryItem.DWsnW_zy.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CategoryEntryTeaser.DE96F-to.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CategoryEntry.aWEcDccQ.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B7DrrCYM.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/FooterHighlightTeaser.D-Li9nut.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Y-fO2R0m.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CLnUvkE9.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BCpeV2jI.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/ClJ5VUFj.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/OneProductImage.DqEdFZf0.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B9O4WWa_.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/RElsZHJ5.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/vfcB4yFi.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/B5cdpWWi.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/TooltipComponent.C6wZudfA.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/OneProductSponsored.zf6t-D9E.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Dsdoo0N0.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/OneProductTitle.DVcHahB1.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/iG9s3qgl.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Bd4HgGTP.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/DI22yJl7.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/C11RbRA_.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/CtVJg7uR.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/BLyWIbHA.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/OneProductSlider.D0r3W6wX.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/twPOb2UU.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Banner.DBby3zfj.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Dt6XY76q.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/SmartPill.CFszLMQv.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://web.cmp.usercentrics.eu/ui/v/4.20.0/WebSdk.lib.8e67814b.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/Bgj4DfdZ.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.obi-italia.it/assets/discover/frontend-vue/assets/ActivationBar.BEbR5vct.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://web.cmp.usercentrics.eu/ui/v/4.20.0/GdprCmpController.f1f19c11.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.f7414e25.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://web.cmp.usercentrics.eu/ui/v/4.20.0/UcGdprCmpView.b7da566a.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://web.cmp.usercentrics.eu/ui/v/4.20.0/sections.5a153160.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://web.cmp.usercentrics.eu/ui/v/4.20.0/secondLayer.03af4dcd.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://web.cmp.usercentrics.eu/ui/v/4.20.0/getToastifyStyle.4f0a73d7.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

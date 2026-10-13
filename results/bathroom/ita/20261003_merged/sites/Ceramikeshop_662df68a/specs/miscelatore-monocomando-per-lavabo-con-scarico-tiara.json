@@ -1,0 +1,192 @@
+{
+ "url": "https://ceramikeshop.it/miscelatore-monocomando-per-lavabo-con-scarico-tiara",
+ "file": "miscelatore-monocomando-per-lavabo-con-scarico-tiara.html",
+ "title": "Miscelatore monocomando lavabo con scarico Tiara | Daniel Rubinetterie",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9724,
+ "attributes": {
+  "brand": {
+   "value": "Daniel Rubinetterie",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Daniel Rubinetterie"
+    }
+   ]
+  },
+  "sku": {
+   "value": "DNL/TA605CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "DNL/TA605CR"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605CR",
+     "value": "Cromo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA60515",
+     "value": "Nero Opaco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA60514",
+     "value": "Bianco Opaco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605NP",
+     "value": "Nichel spazzolato"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605XV",
+     "value": "Visual Inox"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA60563",
+     "value": "Vecchio Ottone"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605OM",
+     "value": "Vecchio Ottone Opaco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605SM",
+     "value": "Ottone S.Marco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA60564",
+     "value": "Vecchio Rame"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605OIL",
+     "value": "Oil bronze"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605DO",
+     "value": "Oro lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605DP",
+     "value": "Oro spazzolato"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605CF",
+     "value": "Cromo nero lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605FZ",
+     "value": "Cromo nero spazzolato lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. TA605RP",
+     "value": "Rame spazzolato lucido"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8057681612642",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8057681612642"
+    },
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8057681612642"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "DNL/TA605CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "DNL/TA605CR"
+    }
+   ]
+  },
+  "series": {
+   "value": "Tiara",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Tiara"
+    }
+   ]
+  },
+  "water": {
+   "value": "A821",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Cartuccia",
+     "value": "A821"
+    }
+   ]
+  },
+  "care": {
+   "value": "Pulire con acqua e detergente delicato. Utilizzare un panno morbido in cotone. Evitare prodotti abrasivi e spugne ruvide. Per maggiori info visita la sezione PULIZIA E MANUTENZIONE.",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Manutenzione",
+     "value": "Pulire con acqua e detergente delicato. Utilizzare un panno morbido in cotone. Evitare prodotti abrasivi e spugne ruvide. Per maggiori info visita la sezione PULIZIA E MANUTENZIONE."
+    },
+    {
+     "layer": "L2_block",
+     "label": "Manutenzione Prodotti In Finitura",
+     "value": "Asciugare dopo ogni utilizzo per evitare la formazione del calcare e ridurre al minimo l’utilizzo di detergenti. Lavare con un panno in cotone e acqua. Se necessario utilizzare sapone a PH neutro. No "
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Aeratore": "A803NE"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 6,
+  "L3": 15,
+  "dropped": 1
+ }
+}

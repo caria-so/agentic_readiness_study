@@ -1,0 +1,132 @@
+{
+ "url": "https://www.mondialshop.it/it/plafoniere-moderne-lampada-parete-soffitto/51918-plafoniera-cri-bianca-4xe27-50x50x106cm.html",
+ "file": "it_plafoniere-moderne-lampada-parete-soffitto_51918-plafoniera-cri-bianca-4xe27-50x50x106cm.html.html",
+ "title": "PLAFONIERA CRI BIANCA 4XE27 50X50X10,6CM",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 3038,
+ "attributes": {
+  "sku": {
+   "value": "I-CRI-PL50",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "I-CRI-PL50"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "I-CRI-PL50",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "I-CRI-PL50"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "3.000000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "height": {
+   "value": "50",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "50"
+    }
+   ]
+  },
+  "series": {
+   "value": "-",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "-"
+    }
+   ]
+  },
+  "material": {
+   "value": "Vetro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Vetro"
+    }
+   ]
+  },
+  "installation": {
+   "value": "E27",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "E27"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "N/A",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "N/A"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "N/A"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 7,
+  "L3": 0,
+  "dropped": 0
+ }
+}

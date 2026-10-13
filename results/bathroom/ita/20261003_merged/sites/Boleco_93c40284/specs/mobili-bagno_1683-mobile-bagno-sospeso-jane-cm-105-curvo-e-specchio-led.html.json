@@ -1,0 +1,217 @@
+{
+ "url": "https://www.boleco.it/mobili-bagno/1683-mobile-bagno-sospeso-jane-cm-105-curvo-e-specchio-led.html",
+ "file": "mobili-bagno_1683-mobile-bagno-sospeso-jane-cm-105-curvo-e-specchio-led.html.html",
+ "title": "Mobile bagno sospeso Jane cm 105 bianco lucido curvo e specchio led",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 7184,
+ "attributes": {
+  "sku": {
+   "value": "D0123",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D0123"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "D0123"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "D0123"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "81-110cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Mobili",
+     "value": "81-110cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "109x98 cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "BIANCO LUCIDO",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "BIANCO LUCIDO"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore luce",
+     "value": "6500K (luce fredda)"
+    }
+   ]
+  },
+  "series": {
+   "value": "Jane",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Nome Collezione",
+     "value": "Jane"
+    }
+   ]
+  },
+  "material": {
+   "value": "Mdf",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Mdf"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Vetro bianco"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "16mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessori fianchi",
+     "value": "16mm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Spessori frontali",
+     "value": "19mm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "bianco lucido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura esterna",
+     "value": "bianco lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Finitura interna",
+     "value": "grigio"
+    }
+   ]
+  },
+  "opening": {
+   "value": "rallentata (soft-close)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "rallentata (soft-close)"
+    }
+   ]
+  },
+  "installation": {
+   "value": "SI",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "SI"
+    }
+   ]
+  },
+  "certification": {
+   "value": "CATAS , PEFC , E1, EU 995/2010",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CATAS , PEFC , E1, EU 995/2010"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE - P.R.C"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "IP44 classe 2, ROHS,CE,EMC."
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Integrale",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Integrale"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Tipo illuminazione",
+     "value": "LED cat. F"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "21",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Watt",
+     "value": "21"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lumen",
+     "value": "1.680"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Rubinetto": "Non incluso (acquistabile separatamente)",
+  "Reversibile": "NO",
+  "Alimentazione": "220v"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 4,
+  "L3": 21,
+  "dropped": 2
+ }
+}

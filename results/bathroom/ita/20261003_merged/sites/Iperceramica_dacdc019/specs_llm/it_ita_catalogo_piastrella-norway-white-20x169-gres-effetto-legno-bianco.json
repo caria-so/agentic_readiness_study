@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/piastrella-norway-white-20x169-gres-effetto-legno-bianco",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_piastrella-norway-white-20x169-gres-effetto-legno-bianco.html",
+  "title": "Piastrella Norway White 20X169 Gres Effetto Legno Bianco - Iperceramica",
+  "text_chars": 1712,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Gres",
+      "evidence": "Piastrella Norway White 20X169 Gres Effetto Legno Bianco - Iperceramica",
+      "location": "title"
+    },
+    "finish": {
+      "value": "Effetto Legno Bianco",
+      "evidence": "Piastrella Norway White 20X169 Gres Effetto Legno Bianco - Iperceramica",
+      "location": "title"
+    },
+    "colour": {
+      "value": "Bianco",
+      "evidence": "Piastrella Norway White 20X169 Gres Effetto Legno Bianco - Iperceramica",
+      "location": "title"
+    },
+    "width": {
+      "value": "20 cm",
+      "evidence": "Piastrella Norway White 20X169 Gres Effetto Legno Bianco - Iperceramica",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "20X169",
+      "evidence": "Piastrella Norway White 20X169 Gres Effetto Legno Bianco - Iperceramica",
+      "location": "title"
+    },
+    "series": {
+      "value": "Norway White",
+      "evidence": "Piastrella Norway White 20X169 Gres Effetto Legno Bianco - Iperceramica",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "Piastrella Norway White 20X169 Gres Effetto Legno Bianco - Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1764,
+    "output_tokens": 658,
+    "seconds": 56.55
+  }
+}

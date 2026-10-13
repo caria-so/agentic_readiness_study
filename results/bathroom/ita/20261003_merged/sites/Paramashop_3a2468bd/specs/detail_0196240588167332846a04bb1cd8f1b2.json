@@ -1,0 +1,93 @@
+{
+ "url": "https://www.paramashop.it/detail/0196240588167332846a04bb1cd8f1b2",
+ "file": "detail_0196240588167332846a04bb1cd8f1b2.html",
+ "title": "Casetta da giardino in legno 330x222 cm 1 porta 2 finestre deposito attrezzi - 5,72 metri quadri",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1880,
+ "attributes": {
+  "mpn": {
+   "value": "302.006",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "302.006"
+    }
+   ]
+  },
+  "height": {
+   "value": "2,45m",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza massima",
+     "value": "2,45m"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza minima",
+     "value": "1,90m"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "2,91x1,90m",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni interne",
+     "value": "2,91x1,90m"
+    }
+   ]
+  },
+  "material": {
+   "value": "Abete naturale massello",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Legno",
+     "value": "Abete naturale massello"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Legno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "302.006",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "302.006"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Area interna": "5,72m²"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 6,
+  "L3": 1,
+  "dropped": 8
+ }
+}

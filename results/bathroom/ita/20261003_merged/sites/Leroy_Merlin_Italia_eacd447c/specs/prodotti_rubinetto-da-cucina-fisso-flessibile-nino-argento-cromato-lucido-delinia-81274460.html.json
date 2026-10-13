@@ -1,0 +1,225 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/rubinetto-da-cucina-fisso-flessibile-nino-argento-cromato-lucido-delinia-81274460.html",
+ "file": "prodotti_rubinetto-da-cucina-fisso-flessibile-nino-argento-cromato-lucido-delinia-81274460.html.html",
+ "title": "Rubinetto da cucina fisso flessibile Nino argento cromato lucido DELINIA",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8881,
+ "attributes": {
+  "brand": {
+   "value": "DELINIA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "DELINIA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "81274460",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "81274460"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "3276000592372",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "3276000592372"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Fisso",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di canna",
+     "value": "Fisso"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo di risparmio idrico",
+     "value": "Rompigetto"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo di risparmio energia",
+     "value": "Prodotto senza funzione di risparmio energetico"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ottone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale del manico",
+     "value": "Zama"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Cromato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura del prodotto",
+     "value": "Cromato"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Argentato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Argentato"
+    }
+   ]
+  },
+  "height": {
+   "value": "12.4",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza bocca di erogazione (in cm)",
+     "value": "12.4"
+    }
+   ]
+  },
+  "water": {
+   "value": "10",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Pressione massima (in bar)",
+     "value": "10"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Portata massima a 3 bar di pressione senza accessori (in l/min)",
+     "value": "12.8"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "10",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "10"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Paese di fabbricazione",
+     "value": "Cina"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "28.8",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "28.8"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "7.8"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "14.8"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "1.55",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "1.55"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "ADEO Services",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "ADEO Services"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Aspetto": "Lucido",
+  "Flusso (in l/min)": "13,5",
+  "Filtro incluso": "Sì",
+  "Beccuccio rimovibile": "No",
+  "Prodotto riparabile": "Sì",
+  "Etichetta ecologica del prodotto": "Prodotto non certificato",
+  "descriptions off": ", selected",
+  "subtitles off": ", selected",
+  "Current Time 0": "00",
+  "Duration 2": "36",
+  "Loaded": "3.75%",
+  "Remaining Time - 2": "36",
+  "Destinazione del supporto": "Lavello",
+  "Home Index": "C"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 24,
+  "L3": 8,
+  "dropped": 0
+ }
+}

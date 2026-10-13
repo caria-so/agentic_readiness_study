@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/vardagen-padella-ghisa-70554515/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_vardagen-padella-ghisa-70554515.html",
+  "title": "VARDAGEN padella, ghisa, 28 cm  - IKEA Italia",
+  "text_chars": 5126,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "30 cm",
+      "evidence": "Larghezza: 30 cm",
+      "location": "body"
+    },
+    "weight": {
+      "value": "3.47 kg",
+      "evidence": "Peso: 3.47 kg",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "15 anni di garanzia",
+      "evidence": "Caratteristiche del prodotto\n15 15 anni di garanzia",
+      "location": "body"
+    },
+    "care": {
+      "value": "Lavare a mano.",
+      "evidence": "Cura\nLavare a mano.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "VARDAGEN",
+        "evidence": "Padella, ghisa, 28 cm"
+      }
+    },
+    "brand": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "IKEA",
+        "evidence": "PRODUCT TITLE: VARDAGEN padella, ghisa, 28 cm - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2456,
+    "output_tokens": 641,
+    "seconds": 58.01
+  }
+}

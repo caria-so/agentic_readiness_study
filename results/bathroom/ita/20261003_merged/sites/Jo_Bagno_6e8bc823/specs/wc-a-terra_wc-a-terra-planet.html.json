@@ -1,0 +1,127 @@
+{
+ "url": "https://jo-bagno.it/wc-a-terra/wc-a-terra-planet.html",
+ "file": "wc-a-terra_wc-a-terra-planet.html.html",
+ "title": "WC PLANET a terra 50×45 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1962,
+ "attributes": {
+  "brand": {
+   "value": "Scarabeo Ceramiche",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Scarabeo Ceramiche"
+    }
+   ]
+  },
+  "sku": {
+   "value": "8401",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "8401"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "8401"
+    }
+   ]
+  },
+  "series": {
+   "value": "PLANET",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Collezione",
+     "value": "PLANET"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "WC",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "WC"
+    }
+   ]
+  },
+  "installation": {
+   "value": "A terra",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "A terra"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "50 × 45 × H44,5 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure",
+     "value": "50 × 45 × H44,5 cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "23 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso tecnico",
+     "value": "23 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Trattamento Bioker",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori e finiture su richiesta",
+     "value": "Trattamento Bioker"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colori e finiture",
+     "value": "per ordinare una colorazione o finitura diversa dalla versione base è necessario contattarci prima dell’acquisto."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Colorazione base": "White / bianco",
+  "Fonte": "Listino Scarabeo Ceramiche 2026, pagina 153"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 9,
+  "L3": 1,
+  "dropped": 5
+ }
+}

@@ -1,0 +1,631 @@
+{
+ "Arcshop_0500465b": {
+  "platform": "shopify",
+  "pages": [
+   {
+    "url": "https://www.arcshop.it/products/lampada-led-a-basso-consumo-56-cm",
+    "endpoint": "https://www.arcshop.it/products/lampada-led-a-basso-consumo-56-cm.json",
+    "status": "ok",
+    "feed": {
+     "sku": "40381",
+     "gtin": "8003964403810",
+     "weight": "1.19 kg",
+     "brand": "LOGI",
+     "product_type": "Lampade e Applique"
+    },
+    "page_any_layer": [
+     "brand",
+     "gtin",
+     "mpn",
+     "weight"
+    ],
+    "page_l1": [
+     "brand",
+     "gtin",
+     "mpn",
+     "weight"
+    ],
+    "feed_not_in_page_l1": [
+     "product_type",
+     "sku"
+    ],
+    "feed_not_on_page_at_all": [
+     "product_type",
+     "sku"
+    ]
+   },
+   {
+    "url": "https://www.arcshop.it/products/coppia-rubinetti-serie-tosca-lavabo-e-bidet-jacuzzi-rubinetteria-nero-opaco-per-piletta-click-clack",
+    "endpoint": "https://www.arcshop.it/products/coppia-rubinetti-serie-tosca-lavabo-e-bidet-jacuzzi-rubinetteria-nero-opaco-per-piletta-click-clack.json",
+    "status": "ok",
+    "feed": {
+     "sku": "TOYO012JASET",
+     "gtin": "0630606709030",
+     "weight": "2.24 kg",
+     "brand": "Jacuzzi | Rubinetteria",
+     "product_type": "Set Rubinetteria Lavabo - Bidet"
+    },
+    "page_any_layer": [
+     "brand",
+     "gtin",
+     "mpn",
+     "warranty",
+     "weight"
+    ],
+    "page_l1": [
+     "brand",
+     "gtin",
+     "mpn",
+     "weight"
+    ],
+    "feed_not_in_page_l1": [
+     "product_type",
+     "sku"
+    ],
+    "feed_not_on_page_at_all": [
+     "product_type",
+     "sku"
+    ]
+   },
+   {
+    "url": "https://www.arcshop.it/products/miscelatore-cucina-per-lavello-color-terra-di-francia-con-doccia-estraibile-piralla",
+    "endpoint": "https://www.arcshop.it/products/miscelatore-cucina-per-lavello-color-terra-di-francia-con-doccia-estraibile-piralla.json",
+    "status": "ok",
+    "feed": {
+     "sku": "0NUTD568A16",
+     "gtin": "8056304006608",
+     "weight": "1.5 kg",
+     "brand": "Piralla",
+     "product_type": "Rubinetteria Cucina"
+    },
+    "page_any_layer": [
+     "brand",
+     "gtin",
+     "mpn",
+     "weight"
+    ],
+    "page_l1": [
+     "brand",
+     "gtin",
+     "mpn",
+     "weight"
+    ],
+    "feed_not_in_page_l1": [
+     "product_type",
+     "sku"
+    ],
+    "feed_not_on_page_at_all": [
+     "product_type",
+     "sku"
+    ]
+   },
+   {
+    "url": "https://www.arcshop.it/products/set-miscelatori-mamoli-acquachiara-doccia-esterno-lavabo-e-bidet-piletta-inclusa",
+    "endpoint": "https://www.arcshop.it/products/set-miscelatori-mamoli-acquachiara-doccia-esterno-lavabo-e-bidet-piletta-inclusa.json",
+    "status": "ok",
+    "feed": {
+     "sku": "AQ129JASET",
+     "gtin": "0630606714591",
+     "weight": "6.0 kg",
+     "brand": "Mamoli",
+     "product_type": "Set Rubinetteria Lavabo - Bidet - Vasca"
+    },
+    "page_any_layer": [
+     "brand",
+     "gtin",
+     "mpn",
+     "weight"
+    ],
+    "page_l1": [
+     "brand",
+     "gtin",
+     "mpn",
+     "weight"
+    ],
+    "feed_not_in_page_l1": [
+     "product_type",
+     "sku"
+    ],
+    "feed_not_on_page_at_all": [
+     "product_type",
+     "sku"
+    ]
+   },
+   {
+    "url": "https://www.arcshop.it/products/appendini-acciaio-inox-tondo-metaform-class-fissaggio-adesivo-o-con-viti",
+    "endpoint": "https://www.arcshop.it/products/appendini-acciaio-inox-tondo-metaform-class-fissaggio-adesivo-o-con-viti.json",
+    "status": "ok",
+    "feed": {
+     "sku": "105S71100",
+     "gtin": "8003062865268",
+     "weight": "0.14 kg",
+     "brand": "Metaform",
+     "product_type": "Appendini"
+    },
+    "page_any_layer": [
+     "brand",
+     "gtin",
+     "mpn",
+     "warranty",
+     "weight"
+    ],
+    "page_l1": [
+     "brand",
+     "gtin",
+     "mpn",
+     "weight"
+    ],
+    "feed_not_in_page_l1": [
+     "product_type",
+     "sku"
+    ],
+    "feed_not_on_page_at_all": [
+     "product_type",
+     "sku"
+    ]
+   }
+  ]
+ },
+ "Bertani_a7c880a2": {
+  "platform": "shopify",
+  "pages": [
+   {
+    "url": "https://www.bertani.it/it_IT/products/ever-buck-mensola-con-specchio",
+    "endpoint": "https://www.bertani.it/products/ever-buck-mensola-con-specchio.json",
+    "status": "not_exposed",
+    "http": 404
+   },
+   {
+    "url": "https://www.bertani.it/it_IT/products/cea-milo-gruppo-lavabo",
+    "endpoint": "https://www.bertani.it/products/cea-milo-gruppo-lavabo.json",
+    "status": "not_exposed",
+    "http": 404
+   },
+   {
+    "url": "https://www.bertani.it/it_IT/products/fantini-lame-miscelatore-lavabo-2-",
+    "endpoint": "https://www.bertani.it/products/fantini-lame-miscelatore-lavabo-2-.json",
+    "status": "not_exposed",
+    "http": 404
+   },
+   {
+    "url": "https://www.bertani.it/it_IT/products/nic-design-mod-mobile-portalavabo-diametro-42-cm",
+    "endpoint": "https://www.bertani.it/products/nic-design-mod-mobile-portalavabo-diametro-42-cm.json",
+    "status": "not_exposed",
+    "http": 404
+   },
+   {
+    "url": "https://www.bertani.it/it_IT/products/antoniolupi-servoretto-lavabo-50x38cm",
+    "endpoint": "https://www.bertani.it/products/antoniolupi-servoretto-lavabo-50x38cm.json",
+    "status": "not_exposed",
+    "http": 404
+   }
+  ]
+ },
+ "Jo_Bagno_6e8bc823": {
+  "platform": "woocommerce",
+  "pages": [
+   {
+    "url": "https://jo-bagno.it/galassia/copriwater-wc-eden-monoblocco-ceramica-galassia-termoindurente.html",
+    "endpoint": "https://jo-bagno.it/wp-json/wc/store/v1/products?slug=copriwater-wc-eden-monoblocco-ceramica-galassia-termoindurente",
+    "status": "ok",
+    "feed": {
+     "sku": "JEU702M-EDENM",
+     "weight": "2",
+     "dimensions": "36x41.5x0",
+     "brand": "Jo-Bagno.it"
+    },
+    "page_any_layer": [
+     "brand_is_retailer_name",
+     "dimensions",
+     "material",
+     "opening",
+     "shape_style",
+     "sku",
+     "weight"
+    ],
+    "page_l1": [
+     "brand_is_retailer_name",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "brand",
+     "dimensions",
+     "weight"
+    ],
+    "feed_not_on_page_at_all": [
+     "brand"
+    ]
+   },
+   {
+    "url": "https://jo-bagno.it/colonne-doccia/colonna-doccia-150-20-acciaio-inox-con-cascata-athos.html",
+    "endpoint": "https://jo-bagno.it/wp-json/wc/store/v1/products?slug=colonna-doccia-150-20-acciaio-inox-con-cascata-athos",
+    "status": "ok",
+    "feed": {
+     "sku": "ATHOS_S070WCH",
+     "weight": "0",
+     "dimensions": "44x20x150",
+     "brand": "Jo-Bagno.it"
+    },
+    "page_any_layer": [
+     "brand_is_retailer_name",
+     "dimensions",
+     "installation",
+     "material",
+     "shape_style",
+     "sku",
+     "weight"
+    ],
+    "page_l1": [
+     "brand_is_retailer_name",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "brand",
+     "dimensions",
+     "weight"
+    ],
+    "feed_not_on_page_at_all": [
+     "brand"
+    ]
+   },
+   {
+    "url": "https://jo-bagno.it/gsi-ex-facis-ex-venus/copriwater-wc-pura-55-ceramica-g-s-i-termoindurente.html",
+    "endpoint": "https://jo-bagno.it/wp-json/wc/store/v1/products?slug=copriwater-wc-pura-55-ceramica-g-s-i-termoindurente",
+    "status": "ok",
+    "feed": {
+     "sku": "JEU700-PURA55",
+     "weight": "2",
+     "dimensions": "35.5x41.8x0",
+     "brand": "Jo-Bagno.it"
+    },
+    "page_any_layer": [
+     "brand_is_retailer_name",
+     "dimensions",
+     "gtin",
+     "material",
+     "opening",
+     "shape_style",
+     "sku",
+     "weight"
+    ],
+    "page_l1": [
+     "brand_is_retailer_name",
+     "gtin",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "brand",
+     "dimensions",
+     "weight"
+    ],
+    "feed_not_on_page_at_all": [
+     "brand"
+    ]
+   },
+   {
+    "url": "https://jo-bagno.it/sanitari-bagno-sospesi/sanitari-bagno-sospesi-hi-line.html",
+    "endpoint": "https://jo-bagno.it/wp-json/wc/store/v1/products?slug=sanitari-bagno-sospesi-hi-line",
+    "status": "ok",
+    "feed": {
+     "sku": "HIW10+HIW14",
+     "weight": "0",
+     "dimensions": "54.5x38x42",
+     "brand": "Hidra"
+    },
+    "page_any_layer": [
+     "brand",
+     "colour",
+     "dimensions",
+     "installation",
+     "material",
+     "plumbing",
+     "shape_style",
+     "sku"
+    ],
+    "page_l1": [
+     "brand",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "dimensions",
+     "weight"
+    ],
+    "feed_not_on_page_at_all": [
+     "weight"
+    ]
+   },
+   {
+    "url": "https://jo-bagno.it/box-doccia-angolari-fisso-scorrevole/box-doccia-angolare-porta-scorrevole-e-lato-fisso-fpsc50.html",
+    "endpoint": "https://jo-bagno.it/wp-json/wc/store/v1/products?slug=box-doccia-angolare-porta-scorrevole-e-lato-fisso-fpsc50",
+    "status": "ok",
+    "feed": {
+     "sku": "FPSC50+LF",
+     "weight": "25",
+     "dimensions": "100x70x200",
+     "brand": "Tamanaco"
+    },
+    "page_any_layer": [
+     "brand",
+     "dimensions",
+     "installation",
+     "opening",
+     "sku",
+     "weight"
+    ],
+    "page_l1": [
+     "brand",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "dimensions",
+     "weight"
+    ],
+    "feed_not_on_page_at_all": []
+   }
+  ]
+ },
+ "ShopBagno_212db257": {
+  "platform": "shopify",
+  "pages": [
+   {
+    "url": "https://www.shopbagno.it/products/lavabo-a-colonna-pietra-naturale-nera-karag-bora-prdg",
+    "endpoint": "https://www.shopbagno.it/products/lavabo-a-colonna-pietra-naturale-nera-karag-bora-prdg.json",
+    "status": "ok",
+    "feed": {
+     "sku": "WKG-BORA-PRDG-NR",
+     "gtin": "0609003972958",
+     "weight": "100.0 kg",
+     "brand": "Karag",
+     "product_type": "Lavabi in pietra naturale Karag"
+    },
+    "page_any_layer": [
+     "gtin",
+     "sku",
+     "weight"
+    ],
+    "page_l1": [
+     "gtin",
+     "sku",
+     "weight"
+    ],
+    "feed_not_in_page_l1": [
+     "brand",
+     "product_type"
+    ],
+    "feed_not_on_page_at_all": [
+     "brand",
+     "product_type"
+    ]
+   },
+   {
+    "url": "https://www.shopbagno.it/products/box-doccia-semicircolare-trasparente-6mm-doppia-scorrevole",
+    "endpoint": "https://www.shopbagno.it/products/box-doccia-semicircolare-trasparente-6mm-doppia-scorrevole.json",
+    "status": "ok",
+    "feed": {
+     "sku": "WLD79",
+     "gtin": "6014345382305",
+     "brand": "Linea Doccia",
+     "dimensions": "70x90 raggio 38cm, 75x75 raggio 38cm, 80x80 raggio 55cm, 90x90 raggio 55cm",
+     "product_type": "Box Doccia Lineadoccia"
+    },
+    "page_any_layer": [
+     "dimensions",
+     "gtin",
+     "height",
+     "material",
+     "opening",
+     "shape_style",
+     "sku"
+    ],
+    "page_l1": [
+     "dimensions",
+     "gtin",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "brand",
+     "product_type"
+    ],
+    "feed_not_on_page_at_all": [
+     "brand",
+     "product_type"
+    ]
+   },
+   {
+    "url": "https://www.shopbagno.it/products/mobile-bagno-70cm-in-teak-feel-color-consolle",
+    "endpoint": "https://www.shopbagno.it/products/mobile-bagno-70cm-in-teak-feel-color-consolle.json",
+    "status": "ok",
+    "feed": {
+     "sku": "WCP-FEELGOOD70-EB",
+     "gtin": "0609003998835",
+     "weight": "5.0 kg",
+     "brand": "Cipì",
+     "finish": "Emerald Buddah, Nero, Bianco, Blue Sardinia, Mustard Yellow, Smoke Grey",
+     "product_type": "Mobile Bagno Cipì"
+    },
+    "page_any_layer": [
+     "finish",
+     "gtin",
+     "sku"
+    ],
+    "page_l1": [
+     "finish",
+     "gtin",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "brand",
+     "product_type",
+     "weight"
+    ],
+    "feed_not_on_page_at_all": [
+     "brand",
+     "product_type",
+     "weight"
+    ]
+   },
+   {
+    "url": "https://www.shopbagno.it/products/scaffale-da-terra-stile-provenzale-ferro-bianco-intagliato-3-ripiani",
+    "endpoint": "https://www.shopbagno.it/products/scaffale-da-terra-stile-provenzale-ferro-bianco-intagliato-3-ripiani.json",
+    "status": "ok",
+    "feed": {
+     "sku": "WCS-SELENE-W-1",
+     "gtin": "0609003999245",
+     "weight": "5.0 kg",
+     "brand": "Cosma",
+     "finish": "Bianco Opaco, Bianco Ossido",
+     "product_type": "Set Accessori Bagno Cosma"
+    },
+    "page_any_layer": [
+     "finish",
+     "gtin",
+     "sku"
+    ],
+    "page_l1": [
+     "finish",
+     "gtin",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "brand",
+     "product_type",
+     "weight"
+    ],
+    "feed_not_on_page_at_all": [
+     "brand",
+     "product_type",
+     "weight"
+    ]
+   },
+   {
+    "url": "https://www.shopbagno.it/products/box-doccia-h190-cristallo-anticalcare-6mm-satine",
+    "endpoint": "https://www.shopbagno.it/products/box-doccia-h190-cristallo-anticalcare-6mm-satine.json",
+    "status": "ok",
+    "feed": {
+     "sku": "WKG-FLORA100-77S",
+     "gtin": "7433906476489",
+     "weight": "5.0 kg",
+     "brand": "Karag",
+     "dimensions": "69x69, 69x79, 69x89, 69x99, 69x109, 69x119, 69x129, 69x139, 69x149, 79x79, 79x89",
+     "product_type": "Box Doccia Karag"
+    },
+    "page_any_layer": [
+     "dimensions",
+     "gtin",
+     "height",
+     "material",
+     "opening",
+     "shape_style",
+     "sku"
+    ],
+    "page_l1": [
+     "dimensions",
+     "gtin",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "brand",
+     "product_type",
+     "weight"
+    ],
+    "feed_not_on_page_at_all": [
+     "brand",
+     "product_type",
+     "weight"
+    ]
+   }
+  ]
+ },
+ "Termoidraulica_RV_43060b5c": {
+  "platform": "woocommerce",
+  "pages": [
+   {
+    "url": "https://en.termoidraulicarv.com/prodotto/raccordo-portagomma-dm-fit-con-codolo-5-16-portagomma-3-8/",
+    "endpoint": "https://termoidraulicarv.com/wp-json/wc/store/v1/products?slug=raccordo-portagomma-dm-fit-con-codolo-5-16-portagomma-3-8",
+    "status": "ok",
+    "feed": {
+     "sku": "D021-ATBC0506",
+     "weight": "0.200000"
+    },
+    "page_any_layer": [
+     "brand",
+     "brand_is_retailer_name",
+     "colour",
+     "mpn",
+     "sku",
+     "weight"
+    ],
+    "page_l1": [
+     "brand_is_retailer_name",
+     "mpn",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "weight"
+    ],
+    "feed_not_on_page_at_all": []
+   },
+   {
+    "url": "https://fr.termoidraulicarv.com/prodotto/54322/",
+    "endpoint": "https://termoidraulicarv.com/wp-json/wc/store/v1/products?slug=54322",
+    "status": "not_found"
+   },
+   {
+    "url": "https://en.termoidraulicarv.com/prodotto/rubinetto-3-vie-pois/",
+    "endpoint": "https://termoidraulicarv.com/wp-json/wc/store/v1/products?slug=rubinetto-3-vie-pois",
+    "status": "ok",
+    "feed": {
+     "sku": "330214-GA",
+     "weight": "1.000000"
+    },
+    "page_any_layer": [
+     "brand_is_retailer_name",
+     "mpn",
+     "sku",
+     "weight"
+    ],
+    "page_l1": [
+     "brand_is_retailer_name",
+     "mpn",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "weight"
+    ],
+    "feed_not_on_page_at_all": []
+   },
+   {
+    "url": "https://termoidraulicarv.com/sanificazione-e-tester-per-acqua/manutenzione-e-sanificazione/filtro-wcf-sanic-125-e-250/",
+    "endpoint": "https://termoidraulicarv.com/wp-json/wc/store/v1/products?slug=filtro-wcf-sanic-125-e-250",
+    "status": "not_found"
+   },
+   {
+    "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/raccordi-serie-grigia-in-resina-acetalica/terminale-dritto-dm-fit-filetto-nptf-38-m-innesto-rapido-516-8mm/",
+    "endpoint": "https://termoidraulicarv.com/wp-json/wc/store/v1/products?slug=terminale-dritto-dm-fit-filetto-nptf-38-m-innesto-rapido-516-8mm",
+    "status": "ok",
+    "feed": {
+     "sku": "D001-AMC0506",
+     "weight": "0.200000"
+    },
+    "page_any_layer": [
+     "brand",
+     "brand_is_retailer_name",
+     "colour",
+     "gtin",
+     "mpn",
+     "sku",
+     "weight"
+    ],
+    "page_l1": [
+     "brand_is_retailer_name",
+     "mpn",
+     "sku"
+    ],
+    "feed_not_in_page_l1": [
+     "weight"
+    ],
+    "feed_not_on_page_at_all": []
+   }
+  ]
+ }
+}

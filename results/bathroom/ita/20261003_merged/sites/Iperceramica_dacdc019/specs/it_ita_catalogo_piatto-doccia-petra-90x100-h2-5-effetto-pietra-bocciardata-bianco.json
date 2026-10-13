@@ -1,0 +1,50 @@
+{
+ "url": "https://www.iperceramica.it/it/ita/catalogo/piatto-doccia-petra-90x100-h2-5-effetto-pietra-bocciardata-bianco",
+ "file": "it_ita_catalogo_piatto-doccia-petra-90x100-h2-5-effetto-pietra-bocciardata-bianco.html",
+ "title": "Piatto Doccia Petra 90x100 H2,5 Effetto Pietra Bocciardata Bianco",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1235,
+ "attributes": {
+  "sku": {
+   "value": "64752",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "64752"
+    }
+   ]
+  },
+  "certification": {
+   "value": "C",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Classe di resistenza allo scivolamento",
+     "value": "C"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Informativa piatto doccia": "leggere prima di acquistare"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 0,
+  "L3": 2,
+  "dropped": 0
+ }
+}

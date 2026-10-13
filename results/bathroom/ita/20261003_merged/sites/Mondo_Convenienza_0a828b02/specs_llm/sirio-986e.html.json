@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/sirio-986e.html",
+  "model": "qwen2.5:32b",
+  "html": "sirio-986e.html.html",
+  "title": "Armadio 10 ante battenti con specchio effetto quercia bianca: Sirio | Mondo Convenienza",
+  "text_chars": 1396,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "effetto quercia bianca",
+      "evidence": "Armadio 10 ante battenti con specchio effetto quercia bianca",
+      "location": "title"
+    },
+    "colour": {
+      "value": "quercia bianco",
+      "evidence": "SIRIO ARMADIO 10 ANTE BATTENTI CON SPECCHIO L.456 P.55 H.247 COLORE QUERCIA BIANCO",
+      "location": "body"
+    },
+    "width": {
+      "value": "L.456",
+      "evidence": "SIRIO ARMADIO 10 ANTE BATTENTI CON SPECCHIO L.456 P.55 H.247 COLORE QUERCIA BIANCO",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.247",
+      "evidence": "SIRIO ARMADIO 10 ANTE BATTENTI CON SPECCHIO L.456 P.55 H.247 COLORE QUERCIA BIANCO",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.55",
+      "evidence": "SIRIO ARMADIO 10 ANTE BATTENTI CON SPECCHIO L.456 P.55 H.247 COLORE QUERCIA BIANCO",
+      "location": "body"
+    },
+    "opening": {
+      "value": "battenti",
+      "evidence": "Armadio 10 ante battenti con specchio",
+      "location": "title"
+    },
+    "series": {
+      "value": "Sirio",
+      "evidence": "La collezione Sirio propone un armadio 10 ante battenti con specchio",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondo Convenienza",
+        "evidence": "Armadio 10 ante battenti con specchio effetto quercia bianca: Sirio | Mondo Convenienza"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1273,
+    "output_tokens": 723,
+    "seconds": 59.06
+  }
+}

@@ -1,0 +1,70 @@
+{
+ "url": "https://www.idrobric.it/it/colonne-doccia/1092-571-colonna-doccia-neptune.html",
+ "file": "it_colonne-doccia_1092-571-colonna-doccia-neptune.html.html",
+ "title": "Colonna doccia Neptune",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1308,
+ "attributes": {
+  "sku": {
+   "value": "SCACOL0204CR",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SCACOL0204CR"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931113849",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931113849"
+    }
+   ]
+  },
+  "finish": {
+   "value": "cromo, nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "cromo, nero"
+    }
+   ]
+  },
+  "water": {
+   "value": "guarnizione risparmio acqua (portata limitata a 9l/min)",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Risparmio acqua",
+     "value": "guarnizione risparmio acqua (portata limitata a 9l/min)"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 4,
+  "L3": 0,
+  "dropped": 0
+ }
+}

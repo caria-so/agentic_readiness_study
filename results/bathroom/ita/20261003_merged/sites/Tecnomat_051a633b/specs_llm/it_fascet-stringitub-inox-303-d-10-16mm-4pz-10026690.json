@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/fascet-stringitub-inox-303-d-10-16mm-4pz-10026690/",
+  "model": "qwen2.5:32b",
+  "html": "it_fascet-stringitub-inox-303-d-10-16mm-4pz-10026690.html",
+  "title": "FASCETTE STRINGITUBO FRIULSIDER ACCIAIO INOX 203 EZ SAE Ø 10-16 mm 4 PEZZI",
+  "text_chars": 1391,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "acciaio inox",
+      "evidence": "Le fascette stringitubo Friulsider in acciaio inox 203 EZ SAE sono progettate per garantire un fissaggio sicuro e duraturo",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "origin": {
+      "reason": "origin_not_stated",
+      "raw": {
+        "value": "Italia",
+        "evidence": "FRIULSIDER SPA VIA TRIESTE VILLANOVA DEL JUDRIO 1 33048, SAN GIOVANNI AL NATISONE Italia",
+        "location": "body"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1342,
+    "output_tokens": 578,
+    "seconds": 48.65
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/mensola-doccia-angolare-filo-in-acciaio-verde-grigio-opaco-50034-95.html",
+  "model": "qwen2.5:32b",
+  "html": "it_mensola-doccia-angolare-filo-in-acciaio-verde-grigio-opaco-50034-95.html.html",
+  "title": "Mensola doccia L.28,4 H.4 cm angolare Filo in acciaio verde grigio opaco",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4152,
+    "output_tokens": 568,
+    "seconds": 56.76
+  }
+}

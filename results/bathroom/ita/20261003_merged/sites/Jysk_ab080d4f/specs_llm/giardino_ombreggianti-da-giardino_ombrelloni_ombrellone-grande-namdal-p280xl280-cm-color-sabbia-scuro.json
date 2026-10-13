@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/giardino/ombreggianti-da-giardino/ombrelloni/ombrellone-grande-namdal-p280xl280-cm-color-sabbia-scuro",
+  "model": "qwen2.5:32b",
+  "html": "giardino_ombreggianti-da-giardino_ombrelloni_ombrellone-grande-namdal-p280xl280-cm-color-sabbia-scuro.html",
+  "title": "Ombrellone grande NAMDAL P280xL280 cm color sabbia scuro | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "100% poliestere",
+      "evidence": "Tettoia\n100% poliestere",
+      "location": "body"
+    },
+    "width": {
+      "value": "280 cm",
+      "evidence": "Larghezza 280 cm, Lunghezza 280 cm, Altezza 253 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "NAMDAL",
+      "evidence": "Ombrellone grande NAMDAL P280xL280 cm color sabbia scuro | JYSK",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore\nJYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4665,
+    "output_tokens": 742,
+    "seconds": 76.54
+  }
+}

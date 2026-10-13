@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/aurora-rosa.html",
+  "model": "qwen2.5:32b",
+  "html": "aurora-rosa.html.html",
+  "title": "Camera componibile per bimbi:Aurora | Mondo Convenienza",
+  "text_chars": 1914,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "canapa",
+      "evidence": "canapa, bianco neve, rosa",
+      "location": "body"
+    },
+    "colour": {
+      "value": "bianco neve, rosa",
+      "evidence": "canapa, bianco neve, rosa",
+      "location": "body"
+    },
+    "height": {
+      "value": "245 cm",
+      "evidence": "grazie all'altezza fino a 245 cm.",
+      "location": "body"
+    },
+    "opening": {
+      "value": "cerniere ammortizzate",
+      "evidence": "Cerniere ammortizzate",
+      "location": "body"
+    },
+    "series": {
+      "value": "Aurora",
+      "evidence": "AURORA CAMERETTA COMPONIBILE COLORE GRIGIO / BIANCO NEVE / BLU DENIM",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Prodotta in Italia",
+      "evidence": "Prodotta in Italia",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1435,
+    "output_tokens": 544,
+    "seconds": 46.24
+  }
+}

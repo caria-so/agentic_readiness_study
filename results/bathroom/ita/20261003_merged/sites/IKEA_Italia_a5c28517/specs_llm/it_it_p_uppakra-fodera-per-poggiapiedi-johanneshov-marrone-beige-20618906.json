@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/uppakra-fodera-per-poggiapiedi-johanneshov-marrone-beige-20618906/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_uppakra-fodera-per-poggiapiedi-johanneshov-marrone-beige-20618906.html",
+  "title": "UPPÅKRA fodera per poggiapiedi, Johanneshov marrone-beige  - IKEA Italia",
+  "text_chars": 2722,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "marrone-beige",
+      "evidence": "Fodera per poggiapiedi, Johanneshov marrone-beige",
+      "location": "title"
+    },
+    "width": {
+      "value": "38 cm",
+      "evidence": "Larghezza: 38 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "8 cm",
+      "evidence": "Altezza: 8 cm",
+      "location": "body"
+    },
+    "length": {
+      "value": "57 cm",
+      "evidence": "Lunghezza: 57 cm",
+      "location": "body"
+    },
+    "weight": {
+      "value": "1.88 kg",
+      "evidence": "Peso: 1.88 kg",
+      "location": "body"
+    },
+    "series": {
+      "value": "UPPÅKRA",
+      "evidence": "UPPÅKRA Fodera per poggiapiedi",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA Italia",
+        "evidence": "UPPÅKRA fodera per poggiapiedi, Johanneshov marrone-beige - IKEA Italia"
+      }
+    },
+    "care": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Sfoderabile, Lavabile in lavatrice, max 40°C, azione meccanica ridotta. Da lavare separatamente. Non candeggiare. Si può mettere nell'asciugatrice a bassa temperatura (max 60°C). Da asciugare a parte nell'asciugatrice. Stirare a max 150°C. Stirare a rovescio. Stirare con il ferro a vapore. Lavaggio a secco con tetracloroetilene e idrocarburi, azione meccanica normale.",
+        "evidence": "Cura Sfoderabile Lavabile in lavatrice, max 40°C, azione meccanica ridotta. Da lavare separatamente. Non candeggiare. Si può mettere nell'asciugatrice a bassa temperatura (max 60°C). Da asciugare a parte nell'asciugatrice. Stirare a max 150°C. Stirare a rovescio. Stirare con il ferro a vapore. Lavaggio a secco con tetracloroetilene e idrocarburi, azione meccanica normale."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1910,
+    "output_tokens": 886,
+    "seconds": 74.77
+  }
+}

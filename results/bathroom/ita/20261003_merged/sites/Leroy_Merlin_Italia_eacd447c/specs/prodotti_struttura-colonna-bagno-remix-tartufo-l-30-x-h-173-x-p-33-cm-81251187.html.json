@@ -1,0 +1,251 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/struttura-colonna-bagno-remix-tartufo-l-30-x-h-173-x-p-33-cm-81251187.html",
+ "file": "prodotti_struttura-colonna-bagno-remix-tartufo-l-30-x-h-173-x-p-33-cm-81251187.html.html",
+ "title": "Struttura colonna bagno Remix tartufo L 30 x H 173 x P 33 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6049,
+ "attributes": {
+  "brand": {
+   "value": "SENSEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "SENSEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "81251187",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "81251187"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "3276006220873",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "3276006220873"
+    }
+   ]
+  },
+  "material": {
+   "value": "Truciolare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Truciolare"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Marrone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Famiglia colore",
+     "value": "Marrone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore della base del mobile",
+     "value": "Effetto quercia havana"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore Marrone",
+     "value": "+ 1 Opzione"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Marrone"
+    }
+   ]
+  },
+  "width": {
+   "value": "30",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm)",
+     "value": "30"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza del corpo del mobile (in cm)",
+     "value": "30"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm) 30",
+     "value": "+ 1 Opzione"
+    }
+   ]
+  },
+  "height": {
+   "value": "173",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm)",
+     "value": "173"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza del corpo del mobile (in cm)",
+     "value": "172.9"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm) 173",
+     "value": "+ 1 Opzione"
+    }
+   ]
+  },
+  "depth": {
+   "value": "33",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Profondità (in cm)",
+     "value": "33"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Profondità del corpo del mobile (in cm)",
+     "value": "33"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Da appendere",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di installazione",
+     "value": "Da appendere"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Numero di pezzi",
+     "value": "1"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Sì",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Chiusura rallentata",
+     "value": "Sì"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "10",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "10"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Italia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Paese di fabbricazione",
+     "value": "Italia"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "34.1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "34.1"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "186.8"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "7.4"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "22",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "22"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "ADEO Services",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "ADEO Services"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero di cassetti": "0",
+  "Ferramenta inclusa": "Sì",
+  "Certificato di conformità": "Sì",
+  "Home Index": "B"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 25,
+  "L3": 2,
+  "dropped": 9
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "url": "https://www.boleco.it/tutto-per-le-docce/4024-box-doccia-70x70-cm-e-1-lato-fisso-cm-70-vetro-temperato-bianco-opaco.html",
+ "file": "tutto-per-le-docce_4024-box-doccia-70x70-cm-e-1-lato-fisso-cm-70-vetro-temperato-bianco-opaco.html.html",
+ "title": "Box doccia 70x70 cm e 1 fissa cm 70 vetro temperato - bianco opaco",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4607,
+ "attributes": {
+  "sku": {
+   "value": "D0871",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D0871"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "D0871"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "D0871"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Quadrato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Box Doccia",
+     "value": "Quadrato"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Vetro Box Doccia",
+     "value": "Trasparente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Apertura",
+     "value": "Scorrevole"
+    }
+   ]
+  },
+  "colour": {
+   "value": "BIANCO OPACO",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "BIANCO OPACO"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "70x70 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Box Doccia",
+     "value": "70x70 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione",
+     "value": "cm 70x70x200 + 70 cm lato fisso"
+    }
+   ]
+  },
+  "material": {
+   "value": "Pvc",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Pvc"
+    }
+   ]
+  },
+  "finish": {
+   "value": "bianco opaco",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "bianco opaco"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Con sistema a calamita",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "Con sistema a calamita"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Apertura",
+     "value": "con maniglia"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Si",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "Si"
+    }
+   ]
+  },
+  "certification": {
+   "value": "CE",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Riducibile in fase di montaggio": "- 5 cm per lato",
+  "Reversibile": "Si"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 6,
+  "L3": 10,
+  "dropped": 0
+ }
+}

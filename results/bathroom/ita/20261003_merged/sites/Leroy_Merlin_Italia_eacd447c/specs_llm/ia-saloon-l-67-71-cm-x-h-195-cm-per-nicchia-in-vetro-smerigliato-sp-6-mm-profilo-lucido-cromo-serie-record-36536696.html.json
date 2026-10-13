@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/porta-doccia-saloon-l-67-71-cm-x-h-195-cm-per-nicchia-in-vetro-smerigliato-sp-6-mm-profilo-lucido-cromo-serie-record-36536696.html",
+  "model": "qwen2.5:32b",
+  "html": "ia-saloon-l-67-71-cm-x-h-195-cm-per-nicchia-in-vetro-smerigliato-sp-6-mm-profilo-lucido-cromo-serie-record-36536696.html.html",
+  "title": "Porta doccia saloon L 67-71 cm x H 195 cm per nicchia in vetro smerigliato SP. 6 mm, profilo lucido cromo, serie Record | Leroy Merlin",
+  "text_chars": 6277,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "series": {
+      "value": "Record",
+      "evidence": "serie Record",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "weight": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "24 kg",
+        "evidence": "Prodotto imballato: peso (in kg): 24"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3476,
+    "output_tokens": 578,
+    "seconds": 54.29
+  }
+}

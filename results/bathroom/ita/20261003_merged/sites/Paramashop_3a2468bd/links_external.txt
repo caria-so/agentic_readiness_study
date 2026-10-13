@@ -1,0 +1,13 @@
+http://schema.org/InStock
+http://schema.org/LimitedAvailability
+https://assistenza.paramashop.it/hc/it
+https://assistenza.paramashop.it/hc/it/requests/new
+https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css
+https://it.indeed.com/cmp/Parama-S.r.l./jobs
+https://it.linkedin.com/company/paramasrl
+https://resi.paramashop.it
+https://static.paramacdn.net/media/b3/03/fa/1678362982/favicon-32x32.png?ts=1678362982
+https://trstd-protocol.trustedshops.com/v1/entities/int-326682f3-78d7-4764-b0e3-eb37e9785feb/trust-signals
+https://widgets.trustedshops.com/assets/trustbadge.C-7vvAwk.js
+https://www.facebook.com/paramashop.it
+https://www.instagram.com/paramashop.it

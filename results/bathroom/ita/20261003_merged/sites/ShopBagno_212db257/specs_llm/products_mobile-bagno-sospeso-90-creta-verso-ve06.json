@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/mobile-bagno-sospeso-90-creta-verso-ve06",
+  "model": "qwen2.5:32b",
+  "html": "products_mobile-bagno-sospeso-90-creta-verso-ve06.html",
+  "title": "Mobile Bagno Sospeso 90 cm Creta con Lavabo Effetto Marmo – Verso",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "effetto marmo",
+      "evidence": "Lavabo da appoggio “Rigato Ovale” effetto marmo Calacatta",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Creta",
+      "evidence": "Mobile Bagno Sospeso 90 cm Creta con Lavabo Effetto Marmo – Verso",
+      "location": "title"
+    },
+    "width": {
+      "value": "L.90",
+      "evidence": "Dimensioni base: L.90 × P.46 × H.45 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.45 cm",
+      "evidence": "Dimensioni base: L.90 × P.46 × H.45 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.46 cm",
+      "evidence": "Dimensioni base: L.90 × P.46 × H.45 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Mobile Bagno Sospeso 90 cm Creta con Lavabo Effetto Marmo – Verso",
+      "location": "title"
+    },
+    "series": {
+      "value": "Verso",
+      "evidence": "Mobile Bagno Sospeso 90 cm Creta con Lavabo Effetto Marmo – Verso",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4032,
+    "output_tokens": 656,
+    "seconds": 66.69
+  }
+}

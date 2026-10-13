@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/bidet-monoforo-filomuro-a-terra-cm45x35-m2",
+  "model": "qwen2.5:32b",
+  "html": "bidet-monoforo-filomuro-a-terra-cm45x35-m2.html",
+  "title": "Bidet monoforo filomuro a terra cm.45x35 M2 | Galassia | Ceramikeshop",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "ceramica",
+      "evidence": "Bidet monoforo a terra filoparete della serie M2 di Ceramica Galassia. Il bidet è in ceramica bianco lucido, cm. 45x35xh42 con fissaggio incluso.",
+      "location": "body"
+    },
+    "finish": {
+      "value": "lucido",
+      "evidence": "Bidet monoforo a terra filoparete della serie M2 di Ceramica Galassia. Il bidet è in ceramica bianco lucido, cm. 45x35xh42 con fissaggio incluso.",
+      "location": "body"
+    },
+    "width": {
+      "value": "cm. 45",
+      "evidence": "Bidet monoforo a terra filoparete della serie M2 di Ceramica Galassia. Il bidet è in ceramica bianco lucido, cm. 45x35xh42 con fissaggio incluso.",
+      "location": "body"
+    },
+    "height": {
+      "value": "cm. 42",
+      "evidence": "Bidet monoforo a terra filoparete della serie M2 di Ceramica Galassia. Il bidet è in ceramica bianco lucido, cm. 45x35xh42 con fissaggio incluso.",
+      "location": "body"
+    },
+    "depth": {
+      "value": "cm. 35",
+      "evidence": "Bidet monoforo a terra filoparete della serie M2 di Ceramica Galassia. Il bidet è in ceramica bianco lucido, cm. 45x35xh42 con fissaggio incluso.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "cm. 45x35xh42",
+      "evidence": "Bidet monoforo a terra filoparete della serie M2 di Ceramica Galassia. Il bidet è in ceramica bianco lucido, cm. 45x35xh42 con fissaggio incluso.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Bidet monoforo a terra filoparete della serie M2 di Ceramica Galassia.",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "con foro per rubinetteria",
+      "evidence": "Bidet sanitario a terra filomuro rialzato con foro per rubinetteria, in ceramica, colore bianco lucido",
+      "location": "body"
+    },
+    "series": {
+      "value": "M2",
+      "evidence": "Bidet monoforo a terra filoparete della serie M2 di Ceramica Galassia.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4744,
+    "output_tokens": 909,
+    "seconds": 90.18
+  }
+}

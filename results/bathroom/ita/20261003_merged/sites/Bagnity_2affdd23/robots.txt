@@ -1,0 +1,10 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://www.bagnity.com/sitemap_it/sitemap_it_category.xml
+Sitemap: https://www.bagnity.com/sitemap_it/sitemap_it_product.xml
+Sitemap: https://www.bagnity.com/sitemap_it/sitemap_it_cms.xml
+
+Sitemap: https://www.bagnity.com/magazine/post-sitemap.xml
+Sitemap: https://www.bagnity.com/magazine/page-sitemap.xml
+Sitemap: https://www.bagnity.com/magazine/category-sitemap.xml

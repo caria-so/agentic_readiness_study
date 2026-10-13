@@ -1,0 +1,61 @@
+{
+ "url": "https://www.tecnomat.it/it/platorello-diamantato-180-mm-workdiamond-10058837/",
+ "file": "it_platorello-diamantato-180-mm-workdiamond-10058837.html",
+ "title": "Platorello diamantato pwi Ø180 mm per laterizi cemento e pietre",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1009,
+ "attributes": {
+  "brand": {
+   "value": "pwi",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "pwi"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10058837",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10058837"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10058837",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10058837"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": true,
+  "manufacturer_text": "WORKDIAMOND SRL VIA DEL COMMERCIO 9 29012, CAORSO Italia Persona responsabile nell'UE : Questa informazione non è attualmente disponibile sul nostro sito. Ti consigliamo di contattare direttamente il venditore. Chiudi Scan the barcode to se"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 3
+ }
+}

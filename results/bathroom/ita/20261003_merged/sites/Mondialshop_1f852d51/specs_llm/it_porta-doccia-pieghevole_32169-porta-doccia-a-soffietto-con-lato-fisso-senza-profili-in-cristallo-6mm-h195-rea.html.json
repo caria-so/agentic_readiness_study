@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/porta-doccia-pieghevole/32169-porta-doccia-a-soffietto-con-lato-fisso-senza-profili-in-cristallo-6mm-h195-rea.html",
+  "model": "qwen2.5:32b",
+  "html": "it_porta-doccia-pieghevole_32169-porta-doccia-a-soffietto-con-lato-fisso-senza-profili-in-cristallo-6mm-h195-rea.html.html",
+  "title": "Porta doccia pieghevole soffietto con una parete fissa H195 REA",
+  "text_chars": 6411,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "Cromato",
+      "evidence": "Colore Struttura Cromato",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "5 anni di garanzia",
+      "evidence": "5 anni di garanzia.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3029,
+    "output_tokens": 614,
+    "seconds": 58.55
+  }
+}

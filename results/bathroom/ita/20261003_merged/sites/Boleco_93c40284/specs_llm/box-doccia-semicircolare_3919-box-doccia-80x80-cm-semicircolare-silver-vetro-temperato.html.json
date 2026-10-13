@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/box-doccia-semicircolare/3919-box-doccia-80x80-cm-semicircolare-silver-vetro-temperato.html",
+  "model": "qwen2.5:32b",
+  "html": "box-doccia-semicircolare_3919-box-doccia-80x80-cm-semicircolare-silver-vetro-temperato.html.html",
+  "title": "Box doccia 80x80 cm semicircolare silver - vetro temperato | Boleco",
+  "text_chars": 4529,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "6 mm",
+      "evidence": "Vetro Temperato 6 mm trasparente",
+      "location": "body"
+    },
+    "opening": {
+      "value": "Scorrevole",
+      "evidence": "Tipologia Apertura Scorrevole",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Prodotto garantito 2 anni",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Italia",
+      "evidence": "Box doccia prodotti in Italia",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Boleco",
+        "evidence": "Box doccia 80x80 cm semicircolare silver - vetro temperato | Boleco"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2534,
+    "output_tokens": 609,
+    "seconds": 56.79
+  }
+}

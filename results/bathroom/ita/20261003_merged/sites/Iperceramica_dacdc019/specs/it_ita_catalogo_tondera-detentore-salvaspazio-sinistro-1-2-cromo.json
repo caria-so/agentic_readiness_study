@@ -1,0 +1,81 @@
+{
+ "url": "https://www.iperceramica.it/it/ita/catalogo/tondera-detentore-salvaspazio-sinistro-1-2-cromo",
+ "file": "it_ita_catalogo_tondera-detentore-salvaspazio-sinistro-1-2-cromo.html",
+ "title": "Tondera Detentore Salvaspazio Sinistro 1/2 Cromo",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 4951,
+ "attributes": {
+  "sku": {
+   "value": "64372",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "64372"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Detentore",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "TIPOLOGIA",
+     "value": "Detentore"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "COLORE",
+     "value": "Cromo"
+    }
+   ]
+  },
+  "brand_is_retailer_name": {
+   "value": "IPERCERAMICA",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "BRAND",
+     "value": "IPERCERAMICA"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,36 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "0,36 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 3,
+  "L3": 1,
+  "dropped": 0
+ }
+}

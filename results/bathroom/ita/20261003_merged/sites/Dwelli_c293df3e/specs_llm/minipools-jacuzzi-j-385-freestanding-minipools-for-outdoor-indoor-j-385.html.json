@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.com/minipools-jacuzzi-j-385-freestanding-minipools-for-outdoor-indoor-j-385.html",
+  "model": "qwen2.5:32b",
+  "html": "minipools-jacuzzi-j-385-freestanding-minipools-for-outdoor-indoor-j-385.html.html",
+  "title": "Jacuzzi J-385 Freestanding hot tub for outdoor / indoor J-385 | Dwellistore",
+  "text_chars": 1647,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "PORCELAIN, SANDSTONE, CARRIBEAN SURF, SAHARA, PLATINUM, DESERT SAND, SILVER PEARL, OPAL, MONACO, MIDNIGHT",
+      "evidence": "The article is available with shell in the colors: PORCELAIN, SANDSTONE, CARRIBEAN SURF, SAHARA, PLATINUM, DESERT SAND, SILVER PEARL, OPAL, MONACO, MIDNIGHT.",
+      "location": "body"
+    },
+    "width": {
+      "value": "231 cm",
+      "evidence": "Dimensions 231 X 231 X 96 cm.",
+      "location": "body"
+    },
+    "height": {
+      "value": "96 cm",
+      "evidence": "Dimensions 231 X 231 X 96 cm.",
+      "location": "body"
+    },
+    "depth": {
+      "value": "231 cm",
+      "evidence": "Dimensions 231 X 231 X 96 cm.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "231 X 231 X 96 cm",
+      "evidence": "Dimensions 231 X 231 X 96 cm.",
+      "location": "body"
+    },
+    "water": {
+      "value": "51 PowerPro nozzles, Waterfall with lights",
+      "evidence": "The article has 6/7 seats available, 51 PowerPro nozzles, Waterfall with lights",
+      "location": "body"
+    },
+    "series": {
+      "value": "J-385",
+      "evidence": "Jacuzzi J-385 Freestanding hot tub for outdoor / indoor J-385",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "electrical": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "LED control panel, Multicolour lights, Angular external lighting, Remote control",
+        "evidence": "Multicolour lights, LED control panel, Angular external lighting, Remote control"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1342,
+    "output_tokens": 724,
+    "seconds": 59.99
+  }
+}

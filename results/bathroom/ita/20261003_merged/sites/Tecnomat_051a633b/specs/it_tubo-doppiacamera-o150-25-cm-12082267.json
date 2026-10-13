@@ -1,0 +1,109 @@
+{
+ "url": "https://www.tecnomat.it/it/tubo-doppiacamera-o150-25-cm-12082267/",
+ "file": "it_tubo-doppiacamera-o150-25-cm-12082267.html",
+ "title": "Tubo doppia parete Ø 15 cm lunghezza 25 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1338,
+ "attributes": {
+  "brand": {
+   "value": "FIBROTUBI",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "FIBROTUBI"
+    }
+   ]
+  },
+  "sku": {
+   "value": "12082267",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "12082267"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "12082267",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "12082267"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Liscio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura del prodotto",
+     "value": "Liscio"
+    }
+   ]
+  },
+  "length": {
+   "value": "25",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza (in cm)",
+     "value": "25"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "0,5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore (in mm)",
+     "value": "0,5"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Grigio / argento",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Grigio / argento"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Diametro interno (in mm)": "150",
+  "Tubo destinato a": "Canna fumaria",
+  "Uso del prodotto": "Posa canna fumaria in muratura dritta"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": true,
+  "manufacturer_text": "FIBROTUBI SRL VIA PROVINCIALE SUD 5 42011, BAGNOLO IN PIANO Italia Persona responsabile nell'UE : Questa informazione non è attualmente disponibile sul nostro sito. Ti consigliamo di contattare direttamente il venditore. Chiudi Scan the bar"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 7,
+  "L3": 0,
+  "dropped": 4
+ }
+}

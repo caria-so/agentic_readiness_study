@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/porta-pieghevole-easy-60xh210-cm-acero-neve-apertura-a-destra",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_porta-pieghevole-easy-60xh210-cm-acero-neve-apertura-a-destra.html",
+  "title": "Porta Pieghevole Easy 60xh210 cm Acero Neve Apertura a Destra - Iperceramica",
+  "text_chars": 5300,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "60 cm",
+      "evidence": "DIMENSIONI: 60x210",
+      "location": "body"
+    },
+    "height": {
+      "value": "210 cm",
+      "evidence": "DIMENSIONI: 60x210",
+      "location": "body"
+    },
+    "opening": {
+      "value": "Apertura a Destra",
+      "evidence": "Porta Pieghevole Easy 60xh210 cm Acero Neve Apertura a Destra",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IPERCERAMICA",
+        "evidence": "BRAND: IPERCERAMICA"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2772,
+    "output_tokens": 595,
+    "seconds": 56.0
+  }
+}

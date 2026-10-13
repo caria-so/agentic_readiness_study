@@ -1,0 +1,86 @@
+{
+ "url": "https://en.termoidraulicarv.com/prodotto/terminale-dritto-dm-fit-filetto-nptf-1-4-m-innesto-rapido-5-32/",
+ "file": "prodotto_terminale-dritto-dm-fit-filetto-nptf-1-4-m-innesto-rapido-5-32.html",
+ "title": "Terminale dritto DM fit filetto NPTF 1/4″ M – innesto rapido 5/32″",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3866,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "D001-AMC0104",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D001-AMC0104"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "D001-AMC0104"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "35176",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "35176"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,200000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Weight",
+     "value": "0,200000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Copolimero acetalico grigio.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Copolimero acetalico grigio."
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 1,
+  "L3": 2,
+  "dropped": 5
+ }
+}

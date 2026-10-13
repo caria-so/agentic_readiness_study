@@ -1,0 +1,5 @@
+Disallow: /checkout/
+Disallow: /checkout/cart/
+Disallow: /catalogsearch/
+Disallow: /catalogsearch/advanced/
+Disallow: /catalogsearch/result/

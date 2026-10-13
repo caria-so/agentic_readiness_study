@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.it/boffi-uni-rubinetto-monocomando-bidet-refu02.html",
+  "model": "qwen2.5:32b",
+  "html": "boffi-uni-rubinetto-monocomando-bidet-refu02.html.html",
+  "title": "Boffi Uni Rubinetto Monocomando Bidet REFU02 | Dwellistore",
+  "text_chars": 3398,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "acciaio inox AISI 304",
+      "evidence": "Rubinetteria in acciaio inox AISI 304",
+      "location": "body"
+    },
+    "width": {
+      "value": "15,5 cm",
+      "evidence": "Dimensioni: 15,5x13 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "13 cm",
+      "evidence": "Dimensioni: 15,5x13 cm",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2060,
+    "output_tokens": 558,
+    "seconds": 49.65
+  }
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://dwellistore.com/devon-devon-new-york-accessories-tilting-mirror-ny123cr.html",
+ "file": "devon-devon-new-york-accessories-tilting-mirror-ny123cr.html.html",
+ "title": "Devon&Devon New York Accessories tilting mirror NY123CR",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 646,
+ "attributes": {
+  "brand": {
+   "value": "Devon&Devon",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Devon&Devon"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Devon&Devon"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "Devon&Devon"
+    }
+   ]
+  },
+  "sku": {
+   "value": "NY123CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "NY123CR"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "NY123CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "NY123CR"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 0,
+  "dropped": 1
+ }
+}

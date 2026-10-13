@@ -1,0 +1,17 @@
+{
+  "company": "Deghi",
+  "base_url": "https://www.deghi.it/",
+  "platform": "custom",
+  "pool_source": "sitemap",
+  "pool_total": 43285,
+  "pool_stored": 20000,
+  "locale_dropped": 0,
+  "priority_pool": 0,
+  "fallback_pool": 0,
+  "attempts": 0,
+  "stop_reason": "pool_exhausted",
+  "access": "no_candidates",
+  "block_signal": "",
+  "generated": "2026-10-03T08:38:17.859833",
+  "products": []
+}

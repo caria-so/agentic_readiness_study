@@ -1,0 +1,72 @@
+{
+ "url": "https://ceramikeshop.it/lavabo-da-appoggio-cm65x38-music",
+ "file": "lavabo-da-appoggio-cm65x38-music.html",
+ "title": "Lavabo da appoggio cm.65x38 Music | Opera Sanitari | Ceramikeshop",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8632,
+ "attributes": {
+  "brand": {
+   "value": "Opera Sanitari",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Opera Sanitari"
+    }
+   ]
+  },
+  "sku": {
+   "value": "OPR/LA2839",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "OPR/LA2839"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "OPR/LA2839",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "OPR/LA2839"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Lavabi",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Lavabi"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 1,
+  "L3": 0,
+  "dropped": 1
+ }
+}

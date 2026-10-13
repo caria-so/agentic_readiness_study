@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/kinedo-one-piatto-doccia-140x75-cm",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_kinedo-one-piatto-doccia-140x75-cm.html",
+  "title": "Kinedo, One Piatto doccia 140x75 cm | Bertani",
+  "text_chars": 568,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "Urban Grip",
+      "evidence": "Piatto doccia composito di minerali naturali e resina (2 cm), finitura Urban Grip",
+      "location": "body"
+    },
+    "colour": {
+      "value": "bianco matt",
+      "evidence": "colore bianco matt.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "140x75 cm",
+      "evidence": "dimensione 140x75 cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "2 cm",
+      "evidence": "(2 cm)",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Piatto doccia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1076,
+    "output_tokens": 595,
+    "seconds": 48.58
+  }
+}

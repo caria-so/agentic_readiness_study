@@ -1,0 +1,168 @@
+{
+ "url": "https://www.tecnomat.it/it/raccord-ghisa-130r-tee-3-4-x3-4-x1-2-10062982/",
+ "file": "it_raccord-ghisa-130r-tee-3-4-x3-4-x1-2-10062982.html",
+ "title": "Raccordo ghisa 130r tee 3/4'' x 3/4'' x 1/2''",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1303,
+ "attributes": {
+  "brand": {
+   "value": "EE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "EE"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10062982",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10062982"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10062982",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10062982"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Non applicabile",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di profilo",
+     "value": "Non applicabile"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Femmina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di attacco",
+     "value": "Femmina"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Numero di pezzi",
+     "value": "1"
+    }
+   ]
+  },
+  "water": {
+   "value": "25",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Pressione massima di utilizzo (in bar)",
+     "value": "25"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ghisa",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale del tubo di destinazione",
+     "value": "Ghisa"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Prodotto senza finitura",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura del prodotto",
+     "value": "Prodotto senza finitura"
+    }
+   ]
+  },
+  "length": {
+   "value": "64",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza totale (in mm)",
+     "value": "64"
+    }
+   ]
+  },
+  "height": {
+   "value": "44",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza totale (in mm)",
+     "value": "44"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "3/4\"",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione della connessione 1",
+     "value": "3/4\""
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensione della connessione 2",
+     "value": "3/4\""
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensione della connessione 3",
+     "value": "3/4\""
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Temperatura massima (in °C)": "300",
+  "Dado girevole": "No",
+  "Diametro di ingresso (in mm)": "26,4"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 14,
+  "L3": 0,
+  "dropped": 5
+ }
+}

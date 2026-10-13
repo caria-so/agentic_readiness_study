@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/plafoniere-moderne-lampada-parete-soffitto/52739-plafoniera-led-nurax-quadrata-bianca-45w-6160lm-cct-495x495x96cm.html",
+  "model": "qwen2.5:32b",
+  "html": "t_plafoniere-moderne-lampada-parete-soffitto_52739-plafoniera-led-nurax-quadrata-bianca-45w-6160lm-cct-495x495x96cm.html.html",
+  "title": "PLAFONIERA LED NURAX QUADRATA BIANCA 45W 6160LM CCT 49,5X49,5x9,6CM",
+  "text_chars": 3016,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "49,5 cm",
+      "evidence": "PLAFONIERA LED NURAX QUADRATA BIANCA 45W 6160LM CCT 49,5X49,5x9,6CM",
+      "location": "title"
+    },
+    "height": {
+      "value": "49,5 cm",
+      "evidence": "PLAFONIERA LED NURAX QUADRATA BIANCA 45W 6160LM CCT 49,5X49,5x9,6CM",
+      "location": "title"
+    },
+    "depth": {
+      "value": "9,6 cm",
+      "evidence": "PLAFONIERA LED NURAX QUADRATA BIANCA 45W 6160LM CCT 49,5X49,5x9,6CM",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "49,5X49,5x9,6CM",
+      "evidence": "PLAFONIERA LED NURAX QUADRATA BIANCA 45W 6160LM CCT 49,5X49,5x9,6CM",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "QUADRATA",
+      "evidence": "PLAFONIERA LED NURAX QUADRATA BIANCA 45W 6160LM CCT 49,5X49,5x9,6CM",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2195,
+    "output_tokens": 758,
+    "seconds": 66.01
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/unita-interna-climatizzatore-hisense-adt52ux4rcl4-18084-btu-bianco-84377076.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_unita-interna-climatizzatore-hisense-adt52ux4rcl4-18084-btu-bianco-84377076.html.html",
+  "title": "Unità interna climatizzatore HISENSE ADT52UX4RCL4 18084 BTU, bianco | Leroy Merlin",
+  "text_chars": 5006,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2534,
+    "output_tokens": 605,
+    "seconds": 55.79
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/mittplan-scrivania-bianco-10549428/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_mittplan-scrivania-bianco-10549428.html",
+  "title": "MITTPLAN scrivania, bianco, 80x60 cm  - IKEA Italia",
+  "text_chars": 3756,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "bianco",
+      "evidence": "MITTPLAN scrivania, bianco, 80x60 cm",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "80x60 cm",
+      "evidence": "MITTPLAN scrivania, bianco, 80x60 cm",
+      "location": "title"
+    },
+    "weight": {
+      "value": "20.35 kg",
+      "evidence": "Peso: 20.35 kg",
+      "location": "body"
+    },
+    "series": {
+      "value": "MITTPLAN",
+      "evidence": "MITTPLAN scrivania, bianco, 80x60 cm",
+      "location": "title"
+    },
+    "care": {
+      "value": "Pulisci con un panno umido.",
+      "evidence": "Cura Pulisci con un panno umido.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA Italia",
+        "evidence": "MITTPLAN scrivania, bianco, 80x60 cm - IKEA Italia"
+      }
+    },
+    "certification": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "EN 527-2, ANSI/BIFMA X6.5",
+        "evidence": "Questa scrivania è stata sviluppata e testata per l'uso in ufficio ed è conforme ai requisiti di sicurezza, durabilità e stabilità specificati nella seguente norma: EN 527-2. Questa scrivania è stata sviluppata e testata per l'uso domestico e occasionale ed è conforme ai requisiti di sicurezza, durabilità e stabilità specificati nelle seguenti norme: ANSI/BIFMA X6.5."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2199,
+    "output_tokens": 772,
+    "seconds": 67.15
+  }
+}

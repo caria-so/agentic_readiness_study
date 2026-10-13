@@ -1,0 +1,82 @@
+{
+ "url": "https://dwellistore.de/alape-fb-me-eingebautes-waschbecken-fb-me750-wei.html",
+ "file": "alape-fb-me-eingebautes-waschbecken-fb-me750-wei.html.html",
+ "title": "Alape FB.ME Einbauwaschbecken FB.ME750-Weiße Waschbecken",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 583,
+ "attributes": {
+  "brand": {
+   "value": "Alape",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Alape"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Alape"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marke",
+     "value": "Alape"
+    }
+   ]
+  },
+  "sku": {
+   "value": "FB.ME750-Bianco",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "FB.ME750-Bianco"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "FB.ME750-Bianco",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "FB.ME750-Bianco"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Weiß",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Ausführung",
+     "value": "Weiß"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 1
+ }
+}

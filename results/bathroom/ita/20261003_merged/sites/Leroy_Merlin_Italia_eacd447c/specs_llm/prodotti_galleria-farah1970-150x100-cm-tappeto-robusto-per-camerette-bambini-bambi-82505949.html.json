@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/galleria-farah1970-150x100-cm-tappeto-robusto-per-camerette-bambini-bambi-82505949.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_galleria-farah1970-150x100-cm-tappeto-robusto-per-camerette-bambini-bambi-82505949.html.html",
+  "title": "Galleria farah1970 - 150x100 CM Tappeto Robusto Per camerette Bambini / Bambi | Leroy Merlin",
+  "text_chars": 4612,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "100",
+      "evidence": "Larghezza\n100",
+      "location": "body"
+    },
+    "length": {
+      "value": "150",
+      "evidence": "Lunghezza\n150",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "150x100 CM",
+      "evidence": "Galleria farah1970 - 150x100 CM Tappeto Robusto Per camerette Bambini / Bambi",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2778,
+    "output_tokens": 548,
+    "seconds": 49.37
+  }
+}

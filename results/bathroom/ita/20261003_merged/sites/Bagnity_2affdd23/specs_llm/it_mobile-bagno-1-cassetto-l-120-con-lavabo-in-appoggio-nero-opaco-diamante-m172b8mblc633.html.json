@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/mobile-bagno-1-cassetto-l-120-con-lavabo-in-appoggio-nero-opaco-diamante-m172b8mblc633.html",
+  "model": "qwen2.5:32b",
+  "html": "it_mobile-bagno-1-cassetto-l-120-con-lavabo-in-appoggio-nero-opaco-diamante-m172b8mblc633.html.html",
+  "title": "Mobile bagno 120 cm Nero opaco con 1 cassetto e lavabo in appoggio - Diamante",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4035,
+    "output_tokens": 549,
+    "seconds": 55.36
+  }
+}

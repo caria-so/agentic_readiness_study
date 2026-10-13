@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/appendini-acciaio-inox-tondo-metaform-class-fissaggio-adesivo-o-con-viti",
+  "model": "qwen2.5:32b",
+  "html": "products_appendini-acciaio-inox-tondo-metaform-class-fissaggio-adesivo-o-con-viti.html",
+  "title": "Appendini acciaio Inox tondo Metaform Class fissaggio adesivo o con viti | Arcshop",
+  "text_chars": 3067,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "acciaio inox AISI 304",
+      "evidence": "Coppia di appendini curvi in acciaio inox AISI 304",
+      "location": "body"
+    },
+    "finish": {
+      "value": "cromo",
+      "evidence": "finitura cromo",
+      "location": "body"
+    },
+    "installation": {
+      "value": "fissaggio adesivo o con viti",
+      "evidence": "Appendini acciaio Inox tondo Metaform Class fissaggio adesivo o con viti",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "tondo",
+      "evidence": "Appendini acciaio Inox tondo Metaform Class",
+      "location": "title"
+    },
+    "series": {
+      "value": "Class",
+      "evidence": "Metaform Class",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1878,
+    "output_tokens": 565,
+    "seconds": 41.58
+  }
+}

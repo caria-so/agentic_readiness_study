@@ -1,0 +1,93 @@
+{
+ "url": "https://dwellistore.fr/gessi-serie-rettangolo-batterie-sur-gorge-mitigeur-bain-20191-20047.html",
+ "file": "gessi-serie-rettangolo-batterie-sur-gorge-mitigeur-bain-20191-20047.html.html",
+ "title": "Gessi Rettangolo Batterie sur gorge mitigeur bain en cascade 20191 + 20047",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 820,
+ "attributes": {
+  "brand": {
+   "value": "Gessi",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gessi"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Gessi"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marque",
+     "value": "Gessi"
+    }
+   ]
+  },
+  "sku": {
+   "value": "20191_031_CR + 20047_031_CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "20191_031_CR + 20047_031_CR"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "20191_031_CR + 20047_031_CR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "20191_031_CR + 20047_031_CR"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Chrome",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finition",
+     "value": "Chrome"
+    }
+   ]
+  },
+  "series": {
+   "value": "Gessi Rettangolo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Collection",
+     "value": "Gessi Rettangolo"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 3,
+  "L3": 0,
+  "dropped": 1
+ }
+}

@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/6f6c8bdb177442d2af4d611572b681e2",
+  "model": "qwen2.5:32b",
+  "html": "detail_6f6c8bdb177442d2af4d611572b681e2.html",
+  "title": "Set doccia cromato - Miscelatore incasso Katharine con braccio e soffione slim 20 cm",
+  "text_chars": 3730,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "water": {
+      "value": "cartuccia in ceramica",
+      "evidence": "al suo interno è presente una cartuccia in ceramica per una qualità costante nella regolazione del flusso d'acqua",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Miscelatore incasso Katharine"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2127,
+    "output_tokens": 552,
+    "seconds": 48.44
+  }
+}

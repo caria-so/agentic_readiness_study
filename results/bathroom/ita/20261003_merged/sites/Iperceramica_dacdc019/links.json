@@ -1,0 +1,1524 @@
+{
+  "source": "https://www.iperceramica.it/",
+  "generated": "2026-10-02T17:12:35.209742",
+  "total": 191,
+  "internal_count": 163,
+  "external_count": 28,
+  "links": [
+    {
+      "url": "https://www.iperceramica.it/RESTOrderCalculate?calculationUsageId=-1&amp;catalogId=10051&amp;doConfigurationValidation=Y&amp;updatePrices=1&amp;orderId=.&amp;langId=-4&amp;storeId=10151&amp;errorViewName=AjaxOrderItemDisplayView&amp;URL=https%3A%2F%2Fwww.iperceramica.it%2FAjaxOrderItemDisplayView",
+      "fragment": "",
+      "text": "Vai al carrello",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "JavaScript:MessageHelper.hideMessageArea();",
+      "fragment": "",
+      "text": "Chiudi",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/ristrutturazioni-chiavi-in-mano",
+      "fragment": "",
+      "text": "DEVI RISTRUTTURARE? Sfrutta il&nbsp; FINANZIAMENTO TASSO ZERO e le DETRAZIONI FISCALI del 50% SCOPRI DI PIÙ ❯",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/ordini-telefonici",
+      "fragment": "",
+      "text": "ORDINI TELEFONICI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://wa.me/+393450342258",
+      "fragment": "",
+      "text": "Ordina con WhatsApp",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://customerservice.iperceramica.it/hc/it/requests/new",
+      "fragment": "",
+      "text": "Ordina per email",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/prezzi-sconti-artigiani-imprese-progettisti",
+      "fragment": "",
+      "text": "ARTIGIANI E P.IVA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.ristrutturasmart.it?utm_source=iperceramica.it&amp;utm_medium=referral&amp;utm_campaign=topband%20wide%20iperceramica",
+      "fragment": "",
+      "text": "DEVI RISTRUTTURARE? Sfrutta lo&nbsp; SCONTO IN FATTURA del 75% con il Bonus Barriere Architettoniche SCOPRI DI PIÙ ❯",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/",
+      "fragment": "",
+      "text": "Cerca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/offerte-del-mese",
+      "fragment": "",
+      "text": "Offerte del mese",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/negozi",
+      "fragment": "",
+      "text": "Negozi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/gres-porcellanato",
+      "fragment": "",
+      "text": "Gres porcellanato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/box-doccia",
+      "fragment": "",
+      "text": "Box doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/mobili-arredo-bagno",
+      "fragment": "",
+      "text": "Mobili bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/parquet",
+      "fragment": "",
+      "text": "Parquet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/sanitari-bagno",
+      "fragment": "",
+      "text": "Sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/laminati",
+      "fragment": "",
+      "text": "Laminato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/piatti-doccia",
+      "fragment": "",
+      "text": "Piatto doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-bagno",
+      "fragment": "",
+      "text": "Lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rivestimenti-bagno",
+      "fragment": "",
+      "text": "Rivestimenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/render-automatico",
+      "fragment": "",
+      "text": "RENDER 3D GRATUITO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/configuratore-3d",
+      "fragment": "",
+      "text": "CONFIGURATORE 3D",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/pavimenti",
+      "fragment": "",
+      "text": "Pavimenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/gres-porcellanato-grandi-formati",
+      "fragment": "",
+      "text": "Gres porcellanato grandi formati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/gres-porcellanato-sottile-3mm",
+      "fragment": "",
+      "text": "Gres porcellanato sottile Slim",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/pavimenti-in-pvc",
+      "fragment": "",
+      "text": "Pavimenti in PVC e SPC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/pavimenti-spc",
+      "fragment": "",
+      "text": "Pavimenti SPC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/pvc-autoadesivo",
+      "fragment": "",
+      "text": "Pavimenti PVC Adesivi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/pavimenti-per-esterni",
+      "fragment": "",
+      "text": "Pavimenti per Esterni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/gres-porcellanato-per-esterni",
+      "fragment": "",
+      "text": "Gres porcellanato per esterni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/gres-porcellanato-spessore-20mm",
+      "fragment": "",
+      "text": "Gres Porcellanato Spessore 20mm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rivestimenti",
+      "fragment": "",
+      "text": "Rivestimenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rivestimenti-cucina",
+      "fragment": "",
+      "text": "Rivestimenti cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rivestimenti-effetto-carta-da-parati",
+      "fragment": "",
+      "text": "Rivestimenti effetto carta da parati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rivestimenti-muretto-e-mattoncini",
+      "fragment": "",
+      "text": "Rivestimenti Muretto e Mattoncini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rivestimenti-in-pietra-naturale",
+      "fragment": "",
+      "text": "Rivestimenti in pietra naturale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/mosaici",
+      "fragment": "",
+      "text": "Mosaici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/vetromattone",
+      "fragment": "",
+      "text": "Vetromattone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/battiscopa",
+      "fragment": "",
+      "text": "Battiscopa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/battiscopa-in-pvc",
+      "fragment": "",
+      "text": "Battiscopa in PVC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/battiscopa-in-ceramica-per-gres-porcellanato",
+      "fragment": "",
+      "text": "Battiscopa in ceramica per gres porcellanato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/battiscopa-in-legno-per-parquet",
+      "fragment": "",
+      "text": "Battiscopa in legno per parquet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/battiscopa-in-mdf-per-laminati-e-pvc",
+      "fragment": "",
+      "text": "Battiscopa in mdf per laminati e pvc",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/posa-e-pulizia",
+      "fragment": "",
+      "text": "Colle, Accessori e Posa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/colle-accessori-piastrelle",
+      "fragment": "",
+      "text": "Colle, Stucchi, Profili e accessori per piastrelle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/colle-accessori-mosaici",
+      "fragment": "",
+      "text": "Colle, Stucchi, Profili e accessori per mosaici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/colle-accessori-parquet",
+      "fragment": "",
+      "text": "Colle, materassini e accessori per parquet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/colle-accessori-rivestimenti-pietra",
+      "fragment": "",
+      "text": "Colle e Accessori per Rivestimenti in Pietra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/colle-accessori-vetromattone",
+      "fragment": "",
+      "text": "Colle, Stucchi e Accessori per Vetromattone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/colle-e-materiali-di-posa-per-serramenti",
+      "fragment": "",
+      "text": "Colle e Materiali di Posa per Serramenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/accessori-per-laminati",
+      "fragment": "",
+      "text": "Materassini, profili e accessori per laminati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/accessori-per-pvc",
+      "fragment": "",
+      "text": "Materassini, profili e accessori per PVC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/preparazione-fondi-di-posa",
+      "fragment": "",
+      "text": "Preparazione Fondi di Posa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/porte-blindate",
+      "fragment": "",
+      "text": "Porte Blindate",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/porte-per-interni",
+      "fragment": "",
+      "text": "Porte per Interni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/infissi",
+      "fragment": "",
+      "text": "Infissi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/pitture-iperceramica-paint",
+      "fragment": "",
+      "text": "Pitture per interni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/carta-da-parati-su-misura",
+      "fragment": "",
+      "text": "Carta da parati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/pannelli-decorativi-per-pareti",
+      "fragment": "",
+      "text": "Pannelli decorativi per pareti e Boiserie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/mobili-bagno",
+      "fragment": "",
+      "text": "Arredo Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/mobili-lavanderia",
+      "fragment": "",
+      "text": "Mobili lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/accessori-bagno",
+      "fragment": "",
+      "text": "Accessori bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/specchi",
+      "fragment": "",
+      "text": "Specchi Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lampade",
+      "fragment": "",
+      "text": "Lampade Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/complementi-per-mobili-bagno",
+      "fragment": "",
+      "text": "Complementi per mobili bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/sanitari",
+      "fragment": "",
+      "text": "Sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/sanitari-sospesi",
+      "fragment": "",
+      "text": "Sanitari sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/sanitari-a-terra",
+      "fragment": "",
+      "text": "Sanitari a terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/sanitari-monoblocco",
+      "fragment": "",
+      "text": "Sanitari monoblocco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/sanitari-per-disabili",
+      "fragment": "",
+      "text": "Sanitari per disabili e terza età",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-in-ceramica",
+      "fragment": "",
+      "text": "Lavabi in ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-decorati-colorati-ceramica",
+      "fragment": "",
+      "text": "Lavabi colorati e decorati in ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-in-cristallo",
+      "fragment": "",
+      "text": "Lavabi in cristallo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-in-resina-e-cemento",
+      "fragment": "",
+      "text": "Lavabi in resina e cemento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-in-resina-e-pietra",
+      "fragment": "",
+      "text": "Lavabi in resina e pietra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-in-pietra-naturale",
+      "fragment": "",
+      "text": "Lavabi in pietra naturale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-in-solid-surface",
+      "fragment": "",
+      "text": "Lavabi in solid surface",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-in-polipropilene",
+      "fragment": "",
+      "text": "Lavabi in polipropilene",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-in-acciaio",
+      "fragment": "",
+      "text": "Lavabi in acciaio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavabi-in-ocritech",
+      "fragment": "",
+      "text": "Lavabi in Ocritech",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/vasche-da-bagno",
+      "fragment": "",
+      "text": "Vasche da bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/vasche-incasso",
+      "fragment": "",
+      "text": "Vasche incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/vasche-idromassaggio",
+      "fragment": "",
+      "text": "Vasche idromassaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/freestanding",
+      "fragment": "",
+      "text": "Freestanding",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/vasche-terza-et%C3%A0-",
+      "fragment": "",
+      "text": "Vasche terza età",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/pareti-sopravasca-in-cristallo",
+      "fragment": "",
+      "text": "Pareti sopravasca in cristallo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/complementi-per-vasche",
+      "fragment": "",
+      "text": "Complementi per vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/complementi-sanitari",
+      "fragment": "",
+      "text": "Complementi sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/placche-per-cassette-incasso",
+      "fragment": "",
+      "text": "Placche per cassette incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/cassette-esterne",
+      "fragment": "",
+      "text": "Cassette esterne",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/cassette-incasso",
+      "fragment": "",
+      "text": "Cassette incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/sedili-wc",
+      "fragment": "",
+      "text": "Sedili WC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/accessori-e-fissaggi",
+      "fragment": "",
+      "text": "Accessori e fissaggi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/docce",
+      "fragment": "",
+      "text": "Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/box-doccia-2-lati",
+      "fragment": "",
+      "text": "Box Doccia Angolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/box-doccia-3-lati",
+      "fragment": "",
+      "text": "Box doccia 3 lati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/box-doccia-walk-in",
+      "fragment": "",
+      "text": "Docce Walk In",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/porte-doccia",
+      "fragment": "",
+      "text": "Porte doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/complementi-box-doccia",
+      "fragment": "",
+      "text": "Complementi Box Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/cabine-doccia",
+      "fragment": "",
+      "text": "Cabine Doccia Idromassaggio e Multifunzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/piatti-doccia-rettangolari",
+      "fragment": "",
+      "text": "Piatti doccia rettangolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/piatti-doccia-quadrati",
+      "fragment": "",
+      "text": "Piatti doccia quadrati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/piatti-doccia-semicircolari",
+      "fragment": "",
+      "text": "Piatti doccia semicircolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/complementi-piatti-doccia",
+      "fragment": "",
+      "text": "Complementi piatti doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/cromoterapia-idroterapia",
+      "fragment": "",
+      "text": "Idroterapia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/colonne-doccia",
+      "fragment": "",
+      "text": "Colonne doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/pannelli-doccia",
+      "fragment": "",
+      "text": "Pannelli doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/saliscendi-e-doccette",
+      "fragment": "",
+      "text": "Saliscendi e doccette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/soffioni-e-bracci-doccia",
+      "fragment": "",
+      "text": "Soffioni e bracci doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/complementi-doccia",
+      "fragment": "",
+      "text": "Complementi doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rubinetteria",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rubinetti-bagno",
+      "fragment": "",
+      "text": "Rubinetti bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rubinetti-cucina",
+      "fragment": "",
+      "text": "Rubinetti cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/idroscopini",
+      "fragment": "",
+      "text": "Idroscopini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/miscelatori-termostatici",
+      "fragment": "",
+      "text": "Miscelatori termostatici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/complementi-rubinetteria",
+      "fragment": "",
+      "text": "Complementi rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/riscaldamento",
+      "fragment": "",
+      "text": "Riscaldamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/termoarredo",
+      "fragment": "",
+      "text": "Termoarredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/radiatori",
+      "fragment": "",
+      "text": "Radiatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/radiatori-in-acciaio",
+      "fragment": "",
+      "text": "Radiatori in acciaio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/radiatori-in-alluminio",
+      "fragment": "",
+      "text": "Radiatori in alluminio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/complementi-riscaldamento",
+      "fragment": "",
+      "text": "Complementi riscaldamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/ambienti",
+      "fragment": "",
+      "text": "Ambienti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/novita",
+      "fragment": "",
+      "text": "SCOPRI I NUOVI PRODOTTI Nel catalogo IPERCERAMICA puoi trovare prodotti sempre nuovi e di tendenza. SCOPRI LE NOVITÀ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/il-nostro-outlet",
+      "fragment": "",
+      "text": "Il nostro OUTLET Una selezione di prodotti a prezzi imbattibili, senza rinunciare alla qualità! SCOPRI DI PIÙ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/finestre",
+      "fragment": "",
+      "text": "FINESTRE Il 31/12 scade la detrazione -50% sulle finestre. Non c'è tempo da perdere, chiedici un preventivo! SCOPRI DI PIÙ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/ordina-con-noi",
+      "fragment": "",
+      "text": "ORDINA CON NOI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/ordina-campione",
+      "fragment": "",
+      "text": "ORDINA UN CAMPIONE",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/finanziamento-tasso-zero",
+      "fragment": "",
+      "text": "TASSO ZERO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/piastrella-decorativa-in-gres-sottile-effetto-carta-da-parati-50x100-wallart",
+      "fragment": "",
+      "text": "Rivestimenti Wallart",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/gres-porcellanato",
+      "fragment": "facet:1006476101103110111&amp;productBeginIndex:0&amp;facetLimit:&amp;orderBy:3&amp;pageView:grid&amp;minPrice:&amp;maxPrice:&amp;pageSize:&amp;",
+      "text": "Gres effetto legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.ristrutturasmart.it?utm_source=iperceramica.it&amp;utm_medium=referral&amp;utm_campaign=banner home iperceramica",
+      "fragment": "",
+      "text": "Devi ristrutturare? Sfrutta lo SCONTO IN FATTURA del 75% con il Bonus Barriere Architettoniche SCOPRI DI PIÙ",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/rubinetteria-accessori-spring",
+      "fragment": "",
+      "text": "RUBINETTERIA SPRING Una collezione che unisce design e durabilità nel tempo.",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/tendenze",
+      "fragment": "",
+      "text": "Scopri i nostri consigli e le tendenze di arredamento per la tua casa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/faq-domande-frequenti",
+      "fragment": "",
+      "text": "DOMANDE FREQUENTI ❯ -->",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavora-con-noi-progettisti",
+      "fragment": "",
+      "text": "Candidati come progettista per ristrutturazioni di valore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.ristrutturasmart.it/lavora-con-noi/imprese-artigiani?utm_source=iperceramica.it&amp;utm_medium=referral&amp;utm_campaign=box%20home%20iperceramica",
+      "fragment": "",
+      "text": "Candidati come impresa o artigiano per lavori edili",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavora-con-noi-addetto-vendite-showroom",
+      "fragment": "",
+      "text": "Consulente alle vendite",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/lavora-con-noi",
+      "fragment": "",
+      "text": "&gt;&gt; Scopri tutte le posizioni aperte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/tempi-e-costi-di-consegna",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/UserRegistrationForm?myAcctMain=1&amp;catalogId=10051&amp;langId=-4&amp;storeId=10151&amp;registerNew=Y",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/configuratore-3d?projectId=2d17f4c1-bf5c-462e-ad27-ae73d94d68e2",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/guide",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/come-acquistare-online",
+      "fragment": "",
+      "text": "Come acquistare online",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/diritto-di-recesso",
+      "fragment": "",
+      "text": "Diritto di recesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/guide/guida-alle-detrazioni-fiscali-e-alle-agevolazioni-iva",
+      "fragment": "",
+      "text": "Guida alle detrazioni fiscali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5_O_Bxg68fQ",
+      "fragment": "",
+      "text": "Video tour",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/chi-siamo",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/customer-care-iperceramica",
+      "fragment": "",
+      "text": "Contattaci",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/modello-di-organizzazione-gestione-e-controllo-ex-dlgs-231-2001-e-codice-etico",
+      "fragment": "",
+      "text": "Modello 231",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/manuali/modello-organizzazione/ISO_45001.pdf",
+      "fragment": "",
+      "text": "Certificazione ISO 45001",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/bilancio-di-sostenibilita",
+      "fragment": "",
+      "text": "Bilancio di sostenibilità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/politica-parita-di-genere",
+      "fragment": "",
+      "text": "Politica per la parità di genere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/manuali/modello-organizzazione/certificazione-parita-di-genere-v2.pdf",
+      "fragment": "",
+      "text": "Certificazione parità di genere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/a/sitemap",
+      "fragment": "",
+      "text": "Scopri altre categorie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/iperceramicait",
+      "fragment": "",
+      "text": "",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/iperceramica",
+      "fragment": "",
+      "text": "",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.pinterest.com/iperceramica/",
+      "fragment": "",
+      "text": "",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.youtube.com/user/iperceramica",
+      "fragment": "",
+      "text": "",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.de",
+      "fragment": "",
+      "text": "Deutschland",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.at",
+      "fragment": "",
+      "text": "Österreich",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.fr",
+      "fragment": "",
+      "text": "France",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.be",
+      "fragment": "",
+      "text": "Belgique",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.mt",
+      "fragment": "",
+      "text": "Malta",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/condizioni-di-vendita",
+      "fragment": "",
+      "text": "&nbsp;Condizioni&nbsp;generali&nbsp;di&nbsp;vendita&nbsp;Online",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/condizioni-di-vendita-punti-fisici",
+      "fragment": "",
+      "text": "&nbsp;Condizioni&nbsp;generali&nbsp;di&nbsp;vendita&nbsp;Punti&nbsp;Fisici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/info-privacy-policy",
+      "fragment": "",
+      "text": "&nbsp;Privacy&nbsp;Policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/cookie-policy",
+      "fragment": "",
+      "text": "&nbsp;Cookie&nbsp;Policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://iperceramica.wallbreakers.it/",
+      "fragment": "",
+      "text": "&nbsp;Whistleblowing e parità di genere",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/informative-privacy",
+      "fragment": "",
+      "text": "&nbsp;Informative",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/dop/",
+      "fragment": "",
+      "text": "&nbsp;DoP",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/smaltimento-imballaggi/",
+      "fragment": "",
+      "text": "&nbsp;Smaltimento imballaggi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/manuali/modello-organizzazione/politica-aziendale-SSL.pdf",
+      "fragment": "",
+      "text": "&nbsp;Politica&nbsp;aziendale&nbsp;SSL",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/garanzia",
+      "fragment": "",
+      "text": "Garanzia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/conciliazione",
+      "fragment": "",
+      "text": "Conciliazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/asset/moduli/accessibilita.pdf",
+      "fragment": "",
+      "text": "Accessibilità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/sitemap",
+      "fragment": "",
+      "text": "&nbsp;Mappa&nbsp;del&nbsp;sito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it/it/ita/promo-sconto-iva-ottobre-2026",
+      "fragment": "",
+      "text": "Scopri i dettagli della promo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iperceramica.it",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/fontawesome.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/solid.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.iperceramica.it/wcsstore/bayker/css/common-style.css?etag=20260929.0932",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.iperceramica.it/wcsstore/bayker/css/print.css?etag=20260929.0932",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.iperceramica.it/wcsstore/bayker/css/Custom/common-custom.css?etag=20260929.0932",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.iperceramica.it/wcsstore/bayker/css/Custom/print.css?etag=20260929.0932",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.iperceramica.it/images/favicon.ico",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.iperceramica.it/wcsstore/bayker/images/touch-icon-iphone.png?v2",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.doofinder.com/livelayer/1.8.202/css/2/common.css?v=1.8.202",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.doofinder.com/livelayer/1.8.202/css/2/fullscreen.css?v=1.8.202",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.iperceramica.it/wcsstore/bayker/css/SocialIntegration.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.iperceramica.it/asset/images/menu/custom-iper-v50.css?v=8",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

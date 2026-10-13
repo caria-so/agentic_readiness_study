@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/barbecue-a-gas-campingaz-lbs-dual-3-bruciatori-con-fornello-laterale-extra-82113259.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_barbecue-a-gas-campingaz-lbs-dual-3-bruciatori-con-fornello-laterale-extra-82113259.html.html",
+  "title": "Barbecue a gas CAMPINGAZ LBS dual 3 bruciatori con fornello laterale extra | Leroy Merlin",
+  "text_chars": 4488,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2370,
+    "output_tokens": 580,
+    "seconds": 50.18
+  }
+}

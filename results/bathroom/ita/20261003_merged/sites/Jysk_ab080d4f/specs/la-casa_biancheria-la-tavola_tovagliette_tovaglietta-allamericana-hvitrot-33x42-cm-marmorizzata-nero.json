@@ -1,0 +1,167 @@
+{
+ "url": "https://jysk.it/la-casa/biancheria-la-tavola/tovagliette/tovaglietta-allamericana-hvitrot-33x42-cm-marmorizzata-nero",
+ "file": "la-casa_biancheria-la-tavola_tovagliette_tovaglietta-allamericana-hvitrot-33x42-cm-marmorizzata-nero.html",
+ "title": "HVITROT Tovaglietta all'americana HVITROT 33x42 cm marmorizzata nero",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 9265,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "1764740",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "1764740"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "1764740"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Nero, Marmo",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Nero, Marmo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Marmo, Bianco Colore : Nero, Marmo"
+    }
+   ]
+  },
+  "material": {
+   "value": "Polipropilene",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Polipropilene"
+    }
+   ]
+  },
+  "care": {
+   "value": "No",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lavare",
+     "value": "No"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Candeggio",
+     "value": "Non candeggiare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Asciugatrice",
+     "value": "Non asciugare in asciugatrice"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Stiratura",
+     "value": "Non stirare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio a secco e a umido",
+     "value": "Non lavare a secco"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Istruzioni",
+     "value": "Lavare con un panno umido"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Larghezza 33 cm, Lunghezza 42 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Larghezza 33 cm, Lunghezza 42 cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "380 g/m².",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "380 g/m²."
+    }
+   ]
+  },
+  "finish": {
+   "value": "Stampato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Metodo di colorazione",
+     "value": "Stampato"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Caratteristica": "Retro antiscivolo"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 12,
+  "L3": 2,
+  "dropped": 23
+ }
+}

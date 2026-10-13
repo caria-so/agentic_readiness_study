@@ -1,0 +1,194 @@
+{
+ "url": "https://www.mondialshop.it/it/applique-esterno-moderne/15880-applique-per-esterno-led-10w-nera-8031414862290.html",
+ "file": "it_applique-esterno-moderne_15880-applique-per-esterno-led-10w-nera-8031414862290.html.html",
+ "title": "Applique per Esterno LED 10W Nera",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2755,
+ "attributes": {
+  "brand": {
+   "value": "Gt Luce",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gt Luce"
+    }
+   ]
+  },
+  "sku": {
+   "value": "LED-W-DETROIT-AP",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "LED-W-DETROIT-AP"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8031414862290",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8031414862290"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.792000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.792000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "nero"
+    }
+   ]
+  },
+  "height": {
+   "value": "12,6",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "12,6"
+    }
+   ]
+  },
+  "material": {
+   "value": "Alluminio Policarbonato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Alluminio Policarbonato"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale struttura",
+     "value": "alluminio resistente con finitura antracite/nera."
+    }
+   ]
+  },
+  "installation": {
+   "value": "LED",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "LED"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "1320",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "1320"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Kelvin",
+     "value": "3000/4000"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "10"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Classe",
+     "value": "E"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Protezione Ip",
+     "value": "IP54"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Potenza",
+     "value": "10 Watt con alimentazione 220-240V."
+    }
+   ]
+  },
+  "length": {
+   "value": "24",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza cm",
+     "value": "24"
+    }
+   ]
+  },
+  "width": {
+   "value": "12",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza cm",
+     "value": "12"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "24 x 12,6 x 12 cm.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "24 x 12,6 x 12 cm."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Flusso luminoso": "1320 lumen complessivi.",
+  "Temperatura colore": "selezionabile tra 3000K e 4000K.",
+  "Fascio luminoso": "apertura a 120° per un'ampia diffusione della luce.",
+  "Diffusore": "policarbonato bianco per una distribuzione omogenea.",
+  "Grado di protezione": "IP54 contro polvere e spruzzi d'acqua."
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 11,
+  "L3": 8,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/varvial-lenzuolo-con-angoli-grigio-20621777/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_varvial-lenzuolo-con-angoli-grigio-20621777.html",
+  "title": "VÅRVIAL lenzuolo con angoli, grigio, 180x200 cm  - IKEA Italia",
+  "text_chars": 2162,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "180x200 cm",
+      "evidence": "Lenzuolo con angoli, grigio, 180x200 cm",
+      "location": "title"
+    },
+    "care": {
+      "value": "Lavabile in lavatrice, max 60°C, azione meccanica normale. Non candeggiare. Si può mettere nell'asciugatrice a bassa temperatura (max 60°C). Stirare a max 200°C. Non lavare a secco.",
+      "evidence": "Cura\nLavabile in lavatrice, max 60°C, azione meccanica normale.\nNon candeggiare.\nSi può mettere nell'asciugatrice a bassa temperatura (max 60°C).\nStirare a max 200°C.\nNon lavare a secco.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "series": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "VÅRVIAL",
+        "evidence": "PRODUCT TITLE: VÅRVIAL lenzuolo con angoli, grigio, 180x200 cm"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA of Sweden",
+        "evidence": "Designer\nIKEA of Sweden"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1739,
+    "output_tokens": 765,
+    "seconds": 65.31
+  }
+}

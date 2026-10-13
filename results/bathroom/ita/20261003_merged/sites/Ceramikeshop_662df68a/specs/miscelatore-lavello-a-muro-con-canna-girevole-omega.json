@@ -1,0 +1,192 @@
+{
+ "url": "https://ceramikeshop.it/miscelatore-lavello-a-muro-con-canna-girevole-omega",
+ "file": "miscelatore-lavello-a-muro-con-canna-girevole-omega.html",
+ "title": "Miscelatore lavello a muro canna girevole Omega | Daniel Rubinetterie",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9813,
+ "attributes": {
+  "brand": {
+   "value": "Daniel Rubinetterie",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Daniel Rubinetterie"
+    }
+   ]
+  },
+  "sku": {
+   "value": "DNL/OM609TCR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "DNL/OM609TCR"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TCR",
+     "value": "Cromo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609T15",
+     "value": "Nero Opaco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609T14",
+     "value": "Bianco Opaco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TNP",
+     "value": "Nichel spazzolato"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TXV",
+     "value": "Visual Inox"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609T63",
+     "value": "Vecchio Ottone"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TOM",
+     "value": "Vecchio Ottone Opaco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TSM",
+     "value": "Ottone S.Marco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609T64",
+     "value": "Vecchio Rame"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TOIL",
+     "value": "Oil bronze"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TDO",
+     "value": "Oro lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TDP",
+     "value": "Oro spazzolato"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TCF",
+     "value": "Cromo nero lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TFZ",
+     "value": "Cromo nero spazzolato lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Cod. OM609TRP",
+     "value": "Rame spazzolato lucido"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8057681611102",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8057681611102"
+    },
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8057681611102"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "DNL/OM609TCR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "DNL/OM609TCR"
+    }
+   ]
+  },
+  "series": {
+   "value": "Omega",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Omega"
+    }
+   ]
+  },
+  "water": {
+   "value": "A820",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Cartuccia",
+     "value": "A820"
+    }
+   ]
+  },
+  "care": {
+   "value": "Pulire con acqua e detergente delicato. Utilizzare un panno morbido in cotone. Evitare prodotti abrasivi e spugne ruvide. Per maggiori info visita la sezione PULIZIA E MANUTENZIONE.",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Manutenzione",
+     "value": "Pulire con acqua e detergente delicato. Utilizzare un panno morbido in cotone. Evitare prodotti abrasivi e spugne ruvide. Per maggiori info visita la sezione PULIZIA E MANUTENZIONE."
+    },
+    {
+     "layer": "L2_block",
+     "label": "Manutenzione Prodotti In Finitura",
+     "value": "Asciugare dopo ogni utilizzo per evitare la formazione del calcare e ridurre al minimo l’utilizzo di detergenti. Lavare con un panno in cotone e acqua. Se necessario utilizzare sapone a PH neutro. No "
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Aeratore": "A803"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 6,
+  "L3": 15,
+  "dropped": 1
+ }
+}

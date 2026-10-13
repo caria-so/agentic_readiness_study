@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/colavene-brava-colonne-biancheria-lavanderia.html",
+  "model": "qwen2.5:32b",
+  "html": "colavene-brava-colonne-biancheria-lavanderia.html.html",
+  "title": "Brava 1 | Colonna con 2 ante, cestello e vano lavatrice, L64 H210 cm, varie finiture",
+  "text_chars": 1451,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "truciolare nobilitato",
+      "evidence": "Colonna Brava 1 in truciolare nobilitato 18mm",
+      "location": "body"
+    },
+    "finish": {
+      "value": "lucido",
+      "evidence": "Caratteristiche: Idrofugo a norme EN , frontale laminato lucido",
+      "location": "body"
+    },
+    "width": {
+      "value": "64 cm",
+      "evidence": "Dimensioni: 64x34xh210 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "210 cm",
+      "evidence": "Dimensioni: 64x34xh210 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "34 cm",
+      "evidence": "Dimensioni: 64x34xh210 cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "18mm",
+      "evidence": "Colonna Brava 1 in truciolare nobilitato 18mm",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Colavene",
+      "evidence": "Mobile per la lavanderia della collezione Brava 1 con 2 ante, 1 cesto portabiancheria e vano inserimento lavatrice di Colavene",
+      "location": "body"
+    },
+    "certification": {
+      "value": "EN",
+      "evidence": "Caratteristiche: Idrofugo a norme EN , frontale laminato lucido",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1424,
+    "output_tokens": 822,
+    "seconds": 64.12
+  }
+}

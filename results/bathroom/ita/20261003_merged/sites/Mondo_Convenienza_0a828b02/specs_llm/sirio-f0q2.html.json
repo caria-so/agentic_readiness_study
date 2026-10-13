@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/sirio-f0q2.html",
+  "model": "qwen2.5:32b",
+  "html": "sirio-f0q2.html.html",
+  "title": "Camera 6 ante battenti chiusura rallentata con specchio centrale senza letto effetto noce oro, bianco laccato: Sirio | Mondo Convenienza",
+  "text_chars": 1265,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "effetto noce oro, bianco laccato",
+      "evidence": "Sirio effetto noce oro, bianco laccato",
+      "location": "body"
+    },
+    "width": {
+      "value": "274 cm",
+      "evidence": "L.274 P.55 H.247",
+      "location": "body"
+    },
+    "height": {
+      "value": "247 cm",
+      "evidence": "L.274 P.55 H.247",
+      "location": "body"
+    },
+    "depth": {
+      "value": "55 cm",
+      "evidence": "L.274 P.55 H.247",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "274 x 55 x 247",
+      "evidence": "Scheda tecnica Sirio effetto quercia bianca 274 x 55 x 247",
+      "location": "body"
+    },
+    "opening": {
+      "value": "battenti",
+      "evidence": "Camera 6 ante battenti chiusura rallentata con specchio centrale senza letto",
+      "location": "title"
+    },
+    "series": {
+      "value": "Sirio",
+      "evidence": "Scheda tecnica Sirio",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondo Convenienza",
+        "evidence": "Camera 6 ante battenti chiusura rallentata con specchio centrale senza letto effetto noce oro, bianco laccato: Sirio | Mondo Convenienza"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1287,
+    "output_tokens": 639,
+    "seconds": 52.66
+  }
+}

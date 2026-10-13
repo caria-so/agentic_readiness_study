@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/mobile-bagno-salvaspazio-compact-39-l80-cm-2-cassetti-larice-bianco-e-lavabo-unitop-in-mineralmarmo-bianco-lucido",
+  "model": "qwen2.5:32b",
+  "html": "talogo_mobile-bagno-salvaspazio-compact-39-l80-cm-2-cassetti-larice-bianco-e-lavabo-unitop-in-mineralmarmo-bianco-lucido.html",
+  "title": "Mobile Bagno Salvaspazio COMPACT-39 L80 cm 2 Cassetti Larice Bianco e Lavabo Unitop in Mineralmarmo Bianco Lucido - Iperceramica",
+  "text_chars": 1878,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "pannelli di nobilitato sp. 16mm effetto legno Larice Bianco",
+      "evidence": "Base portalavabo realizzata con pannelli di nobilitato sp. 16mm effetto legno Larice Bianco cm. L80xP39xH54,5",
+      "location": "body"
+    },
+    "finish": {
+      "value": "effetto legno",
+      "evidence": "Base portalavabo realizzata con pannelli di nobilitato sp. 16mm effetto legno Larice Bianco cm. L80xP39xH54,5",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Bianco",
+      "evidence": "Base portalavabo realizzata con pannelli di nobilitato sp. 16mm effetto legno Larice Bianco cm. L80xP39xH54,5",
+      "location": "body"
+    },
+    "width": {
+      "value": "L80",
+      "evidence": "Base portalavabo realizzata con pannelli di nobilitato sp. 16mm effetto legno Larice Bianco cm. L80xP39xH54,5",
+      "location": "body"
+    },
+    "height": {
+      "value": "H54,5",
+      "evidence": "Base portalavabo realizzata con pannelli di nobilitato sp. 16mm effetto legno Larice Bianco cm. L80xP39xH54,5",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P39",
+      "evidence": "Base portalavabo realizzata con pannelli di nobilitato sp. 16mm effetto legno Larice Bianco cm. L80xP39xH54,5",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L80xP39",
+      "evidence": "Lavabo unitop con vasca integrata cm. L80xP39",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "16mm",
+      "evidence": "Base portalavabo realizzata con pannelli di nobilitato sp. 16mm effetto legno Larice Bianco cm. L80xP39xH54,5",
+      "location": "body"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "COMPACT-39 mobile bagno salvaspazio (P39 cm) sospeso cm.",
+      "location": "body"
+    },
+    "opening": {
+      "value": "a chiusura rallentata",
+      "evidence": "con 2 Cassetti a chiusura rallentata e impugnatura a gola",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "foro miscelatore e foro troppopieno decentrato",
+      "evidence": "Lavabo unitop con vasca integrata cm. L80xP39 con foro miscelatore e foro troppopieno decentrato in mineralmarmo Bianco Lucido",
+      "location": "body"
+    },
+    "series": {
+      "value": "COMPACT-39",
+      "evidence": "COMPACT-39 mobile bagno salvaspazio (P39 cm) sospeso cm.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1924,
+    "output_tokens": 964,
+    "seconds": 80.94
+  }
+}

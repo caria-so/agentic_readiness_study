@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/box-doccia-90x90-semicircolare-profili-oro-scorrevole-h190-trasparente",
+  "model": "qwen2.5:32b",
+  "html": "products_box-doccia-90x90-semicircolare-profili-oro-scorrevole-h190-trasparente.html",
+  "title": "Box Doccia 90x90 Semicircolare Profili Oro Scorrevole H190 Trasparente",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "oro",
+      "evidence": "Profili: Alluminio oro",
+      "location": "body"
+    },
+    "width": {
+      "value": "90cm",
+      "evidence": "Adattabilità: cm 88-90 x 88-90",
+      "location": "body"
+    },
+    "depth": {
+      "value": "90cm",
+      "evidence": "Adattabilità: cm 88-90 x 88-90",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "90x90cm",
+      "evidence": "Adattabilità: cm 88-90 x 88-90",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "6mm",
+      "evidence": "Cristallo: 6mm trasparente",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4074,
+    "output_tokens": 612,
+    "seconds": 62.98
+  }
+}

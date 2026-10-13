@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/mobili-bagno/1742-mobile-bagno-bequia-120-cm-mobile-lavabo-centrale-a-2-fori-lavabo-in-ceramica-nero-opaco-120x45x66-cm-8421194995330.html",
+  "model": "qwen2.5:32b",
+  "html": "mobile-bagno-bequia-120-cm-mobile-lavabo-centrale-a-2-fori-lavabo-in-ceramica-nero-opaco-120x45x66-cm-8421194995330.html.html",
+  "title": "Mobile bagno Bequia 120 cm + mobile lavabo centrale a 2 fori + lava...",
+  "text_chars": 6521,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "pannello di particelle laminato da 1,6 cm (classe E-1) con bordi in PVC",
+      "evidence": "- Frontale e fianchi realizzati in pannello di particelle laminato da 1,6 cm (classe E-1) con bordi in PVC (con colla PUR)",
+      "location": "body"
+    },
+    "finish": {
+      "value": "Grigio Onice",
+      "evidence": "- Interno: finitura Grigio Onice facile da pulire.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Nero opaco",
+      "evidence": "Mobile bagno Bequia 120 cm + mobile lavabo centrale a 2 fori + lavabo in ceramica Nero opaco 120x45x66 cm",
+      "location": "body"
+    },
+    "width": {
+      "value": "120 cm",
+      "evidence": "Mobile bagno Bequia 120 cm + mobile lavabo centrale a 2 fori + lavabo in ceramica Nero opaco 120x45x66 cm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "120x45x66 cm",
+      "evidence": "Mobile bagno Bequia 120 cm + mobile lavabo centrale a 2 fori + lavabo in ceramica Nero opaco 120x45x66 cm",
+      "location": "body"
+    },
+    "opening": {
+      "value": "freni a chiusura ammortizzata",
+      "evidence": "- Due cassetti con freni a chiusura ammortizzata per una chiusura fluida.",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "rettangolare",
+      "evidence": "- Realizzato in porcellana bianca, forma rettangolare, maggiore capacità.",
+      "location": "body"
+    },
+    "series": {
+      "value": "BEQUIA",
+      "evidence": "La serie BEQUIA ha un design funzionale e minimalista.",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "5 anni contro danni e pezzi di ricambio",
+      "evidence": "- Garanzia di 5 anni contro danni e pezzi di ricambio.",
+      "location": "body"
+    },
+    "certification": {
+      "value": "PEFC",
+      "evidence": "- Certificato PEFC, che garantisce lo sfruttamento sostenibile delle risorse forestali. Imballaggio senza plastica.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Spagna",
+      "evidence": "- Progettati e realizzati in Spagna",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "depth": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "45 cm",
+        "evidence": "- Mobile sospeso: BEQUIA, profondità 45 cm:"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3351,
+    "output_tokens": 899,
+    "seconds": 78.11
+  }
+}

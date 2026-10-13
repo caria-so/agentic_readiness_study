@@ -1,0 +1,106 @@
+{
+ "url": "https://www.arredobagno360.it/lineabeta-skoati-50056-09.html",
+ "file": "lineabeta-skoati-50056-09.html.html",
+ "title": "Skoati 50056.09",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 833,
+ "attributes": {
+  "sku": {
+   "value": "lineabeta-skoati-50056.09",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "lineabeta-skoati-50056.09"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "50056.09"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "lineabeta-skoati-50056.09",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "lineabeta-skoati-50056.09"
+    }
+   ]
+  },
+  "series": {
+   "value": "Skoati 50056.09",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Skoati 50056.09"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Collezione",
+     "value": "Skoati"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Lineabeta",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Lineabeta"
+    }
+   ]
+  },
+  "installation": {
+   "value": "a muro",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggio",
+     "value": "a muro"
+    }
+   ]
+  },
+  "finish": {
+   "value": "bianco",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "bianco"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Dotazioni": "Sistema autocentrante e scopino sostituibile"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 6,
+  "dropped": 2
+ }
+}

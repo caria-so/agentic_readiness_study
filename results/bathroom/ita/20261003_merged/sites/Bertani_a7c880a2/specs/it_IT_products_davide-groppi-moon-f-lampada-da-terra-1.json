@@ -1,0 +1,75 @@
+{
+ "url": "https://www.bertani.it/it_IT/products/davide-groppi-moon-f-lampada-da-terra-1",
+ "file": "it_IT_products_davide-groppi-moon-f-lampada-da-terra-1.html",
+ "title": "Davide Groppi, Moon F Lampada da terra",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 809,
+ "attributes": {
+  "brand": {
+   "value": "Davide Groppi",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Davide Groppi"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "Davide Groppi"
+    }
+   ]
+  },
+  "sku": {
+   "value": "15095",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "15095"
+    }
+   ]
+  },
+  "series": {
+   "value": "Moon F",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Collezione",
+     "value": "Moon F"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia (anni)",
+     "value": "2"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 3,
+  "L3": 0,
+  "dropped": 3
+ }
+}

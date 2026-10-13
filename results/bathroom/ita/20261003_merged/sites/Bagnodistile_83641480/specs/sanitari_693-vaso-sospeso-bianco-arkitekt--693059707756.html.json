@@ -1,0 +1,72 @@
+{
+ "url": "https://www.bagnodistile.com/sanitari/693-vaso-sospeso-bianco-arkitekt--693059707756.html",
+ "file": "sanitari_693-vaso-sospeso-bianco-arkitekt--693059707756.html.html",
+ "title": "VASO Sospeso BIANCO ARKITEKT",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3525,
+ "attributes": {
+  "brand": {
+   "value": "VITRA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "VITRA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "93038691",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "93038691"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059707756",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059707756"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "93038691",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "93038691"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 11
+ }
+}

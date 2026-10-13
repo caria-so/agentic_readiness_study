@@ -1,0 +1,130 @@
+{
+ "url": "https://www.tecnomat.it/it/viti-truc-pozi-bronzata-5x50-200pz-10009643/",
+ "file": "it_viti-truc-pozi-bronzata-5x50-200pz-10009643.html",
+ "title": "Viti truciolari pozidriv friulsider 5x50 mm 200 pezzi acciaio bronzato",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2244,
+ "attributes": {
+  "brand": {
+   "value": "FRIULSIDER",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "FRIULSIDER"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10009643",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10009643"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10009643",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10009643"
+    }
+   ]
+  },
+  "material": {
+   "value": "Truciolare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale base di applicazione",
+     "value": "Truciolare"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Testa svasata piana",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Forma della testa",
+     "value": "Testa svasata piana"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Bronzato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura del prodotto",
+     "value": "Bronzato"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bronzo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bronzo"
+    }
+   ]
+  },
+  "length": {
+   "value": "50",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza (in mm)",
+     "value": "50"
+    }
+   ]
+  },
+  "installation": {
+   "value": "200",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di pezzi",
+     "value": "200"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Impronta della testa della vite": "Pozidriv",
+  "Diametro (in mm)": "5"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": true,
+  "manufacturer_text": "FRIULSIDER SPA VIA TRIESTE VILLANOVA DEL JUDRIO 1 33048, SAN GIOVANNI AL NATISONE Italia Persona responsabile nell'UE : Questa informazione non è attualmente disponibile sul nostro sito. Ti consigliamo di contattare direttamente il venditor"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 8,
+  "L3": 0,
+  "dropped": 3
+ }
+}

@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/multiuso-samr.html",
+  "model": "qwen2.5:32b",
+  "html": "multiuso-samr.html.html",
+  "title": "Portabiancheria effetto olmo: Multiuso | Mondo Convenienza",
+  "text_chars": 459,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "olmo",
+      "evidence": "MULTIUSO PORTABIANCHERIA L.77 P.34 H.80 COLORE OLMO",
+      "location": "body"
+    },
+    "width": {
+      "value": "77 cm",
+      "evidence": "MULTIUSO PORTABIANCHERIA L.77 P.34 H.80 COLORE OLMO",
+      "location": "body"
+    },
+    "height": {
+      "value": "80 cm",
+      "evidence": "MULTIUSO PORTABIANCHERIA L.77 P.34 H.80 COLORE OLMO",
+      "location": "body"
+    },
+    "depth": {
+      "value": "34 cm",
+      "evidence": "MULTIUSO PORTABIANCHERIA L.77 P.34 H.80 COLORE OLMO",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "77 x 34 x 80",
+      "evidence": "MULTIUSO PORTABIANCHERIA L.77 P.34 H.80 COLORE OLMO",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "effetto olmo",
+        "evidence": "MULTIUSO PORTABIANCHERIA L.77 P.34 H.80 COLORE OLMO"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondo Convenienza",
+        "evidence": "Portabiancheria effetto olmo: Multiuso | Mondo Convenienza"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1020,
+    "output_tokens": 658,
+    "seconds": 53.33
+  }
+}

@@ -1,0 +1,113 @@
+{
+ "url": "https://jysk.it/bagno/accessori-bagno/portaspazzolino/portaspazzolino-torup-gres-porcellanato-beige",
+ "file": "bagno_accessori-bagno_portaspazzolino_portaspazzolino-torup-gres-porcellanato-beige.html",
+ "title": "TORUP Portaspazzolino TORUP gres porcellanato beige",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 9417,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "2777512",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "2777512"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "2777512"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Portaspazzolini",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Portaspazzolini"
+    }
+   ]
+  },
+  "material": {
+   "value": "Polietilene (51% riciclato), Poliresina, Sabbia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Polietilene (51% riciclato), Poliresina, Sabbia"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Diametro 7 cm, Altezza 11 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Diametro 7 cm, Altezza 11 cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Beige",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Beige"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 5,
+  "L3": 1,
+  "dropped": 22
+ }
+}

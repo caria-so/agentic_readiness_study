@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/minipiscina-idromassaggio-con-audio-bluetooth-colacril-sense",
+  "model": "qwen2.5:32b",
+  "html": "products_minipiscina-idromassaggio-con-audio-bluetooth-colacril-sense.html",
+  "title": "Minipiscina Idromassaggio Con Audio Bluetooth Colacril Sense",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "series": {
+      "value": "Sense",
+      "evidence": "Minipiscina Idromassaggio Con Audio Bluetooth Colacril Sense",
+      "location": "title"
+    },
+    "brand": {
+      "value": "Colacril",
+      "evidence": "Minipiscina Idromassaggio Con Audio Bluetooth Colacril Sense",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3972,
+    "output_tokens": 482,
+    "seconds": 52.36
+  }
+}

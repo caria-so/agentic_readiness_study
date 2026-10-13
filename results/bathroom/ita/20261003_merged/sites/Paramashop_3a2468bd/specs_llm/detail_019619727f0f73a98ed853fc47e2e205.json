@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/019619727f0f73a98ed853fc47e2e205",
+  "model": "qwen2.5:32b",
+  "html": "detail_019619727f0f73a98ed853fc47e2e205.html",
+  "title": "Casetta da giardino in legno massello 329x221cm deposito per attrezzi - 5,72 metri quadri | 302.003",
+  "text_chars": 4837,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "2,91m",
+      "evidence": "L’interno misura 2,91x1,90 m",
+      "location": "body"
+    },
+    "depth": {
+      "value": "1,90m",
+      "evidence": "L’interno misura 2,91x1,90 m",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2466,
+    "output_tokens": 618,
+    "seconds": 54.43
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/bagno/accessori-bagno/portasciugamani/appendini-da-muro-ekedalen-acciaio-2-pezzi-beige",
+  "model": "qwen2.5:32b",
+  "html": "bagno_accessori-bagno_portasciugamani_appendini-da-muro-ekedalen-acciaio-2-pezzi-beige.html",
+  "title": "Appendini da muro EKEDALEN acciaio 2 pezzi beige | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "depth": {
+      "value": "3 cm",
+      "evidence": "Dimensioni Diametro 5 cm, Profondità 3 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "EKEDALEN",
+      "evidence": "Appendini da muro EKEDALEN acciaio 2 pezzi beige",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5421,
+    "output_tokens": 561,
+    "seconds": 65.51
+  }
+}

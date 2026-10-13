@@ -1,0 +1,61 @@
+{
+ "url": "https://www.tecnomat.it/it/punta-hss-rettific-12mm-bosch-x-metallo-10003554/",
+ "file": "it_punta-hss-rettific-12mm-bosch-x-metallo-10003554.html",
+ "title": "Punta bosch hss rettificata Ø12 mm per metallo",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 807,
+ "attributes": {
+  "brand": {
+   "value": "BOSCH",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "BOSCH"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10003554",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10003554"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10003554",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10003554"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 3
+ }
+}

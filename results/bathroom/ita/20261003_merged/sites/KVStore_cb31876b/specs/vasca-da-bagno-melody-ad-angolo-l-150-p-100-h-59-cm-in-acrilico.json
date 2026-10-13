@@ -1,0 +1,117 @@
+{
+ "url": "https://www.kvstore.it/vasca-da-bagno-melody-ad-angolo-l-150-p-100-h-59-cm-in-acrilico/",
+ "file": "vasca-da-bagno-melody-ad-angolo-l-150-p-100-h-59-cm-in-acrilico.html",
+ "title": "Vasca da bagno freestanding angolare in acrilico bianco lucido 150x100 cm | Melany",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3616,
+ "attributes": {
+  "care": {
+   "value": "l’acrilico termoformato da un singolo pezzo, senza giunture, rende la superficie liscia e facile da pulire, limitando la formazione di residui.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Manutenzione semplice",
+     "value": "l’acrilico termoformato da un singolo pezzo, senza giunture, rende la superficie liscia e facile da pulire, limitando la formazione di residui."
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "vasca da bagno freestanding angolare",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "vasca da bagno freestanding angolare"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Forma",
+     "value": "irregolare a trapezio"
+    }
+   ]
+  },
+  "material": {
+   "value": "acrilico termoformato da un singolo pezzo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "acrilico termoformato da un singolo pezzo"
+    }
+   ]
+  },
+  "colour": {
+   "value": "bianco lucido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore/Finitura",
+     "value": "bianco lucido"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "larghezza 150 cm, profondità 100 cm, altezza 59 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "larghezza 150 cm, profondità 100 cm, altezza 59 cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "33 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "33 kg"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "incluso",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Sifone con troppopieno",
+     "value": "incluso"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Rubinetteria",
+     "value": "non compresa"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Piedini": "regolabili",
+  "Capacità": "200 litri",
+  "Foro scarico/troppopieno": "lato corto opposto alla parete"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 0,
+  "L3": 12,
+  "dropped": 4
+ }
+}

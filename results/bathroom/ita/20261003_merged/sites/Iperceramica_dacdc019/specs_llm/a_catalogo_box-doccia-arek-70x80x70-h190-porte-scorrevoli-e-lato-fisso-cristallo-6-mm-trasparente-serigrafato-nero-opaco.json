@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/box-doccia-arek-70x80x70-h190-porte-scorrevoli-e-lato-fisso-cristallo-6-mm-trasparente-serigrafato-nero-opaco",
+  "model": "qwen2.5:32b",
+  "html": "a_catalogo_box-doccia-arek-70x80x70-h190-porte-scorrevoli-e-lato-fisso-cristallo-6-mm-trasparente-serigrafato-nero-opaco.html",
+  "title": "Box Doccia Arek 70x80x70 H190 Est 68/69,5-79,2/80,7 Porte Scorrevoli Lato Fisso Crist. 6 mm Trasp Serigrafato Nero - Iperceramica",
+  "text_chars": 976,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Cristallo",
+      "evidence": "Cristallo spessore 6mm. trasparente con serigrafia a bande nere opache orizzontali esterne al box doccia",
+      "location": "body"
+    },
+    "finish": {
+      "value": "NERO OPACO",
+      "evidence": "Profili in alluminio anodizzato finitura NERO OPACO",
+      "location": "body"
+    },
+    "colour": {
+      "value": "trasparente con serigrafia a bande nere opache orizzontali esterne al box doccia",
+      "evidence": "Cristallo spessore 6mm. trasparente con serigrafia a bande nere opache orizzontali esterne al box doccia",
+      "location": "body"
+    },
+    "width": {
+      "value": "70 cm",
+      "evidence": "AREK box doccia centrostanza a 3 Lati con ante scorrevoli cm. 70x80x70 H190 reversibile",
+      "location": "body"
+    },
+    "height": {
+      "value": "H190 cm",
+      "evidence": "AREK box doccia centrostanza a 3 Lati con ante scorrevoli cm. 70x80x70 H190 reversibile",
+      "location": "body"
+    },
+    "depth": {
+      "value": "70 cm",
+      "evidence": "AREK box doccia centrostanza a 3 Lati con ante scorrevoli cm. 70x80x70 H190 reversibile",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "cm. 70x80x70",
+      "evidence": "AREK box doccia centrostanza a 3 Lati con ante scorrevoli cm. 70x80x70 H190 reversibile",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "6mm.",
+      "evidence": "Cristallo spessore 6mm. trasparente con serigrafia a bande nere opache orizzontali esterne al box doccia",
+      "location": "body"
+    },
+    "opening": {
+      "value": "scorrevoli",
+      "evidence": "AREK box doccia centrostanza a 3 Lati con ante scorrevoli cm. 70x80x70 H190 reversibile",
+      "location": "body"
+    },
+    "series": {
+      "value": "AREK",
+      "evidence": "Box Doccia Arek",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "- Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1396,
+    "output_tokens": 819,
+    "seconds": 67.33
+  }
+}

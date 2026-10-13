@@ -1,0 +1,37 @@
+{
+ "url": "https://www.iperceramica.it/it/ita/catalogo/box-doccia-angolare-mantra-120x70-h200-est-113-2-122-2-69-70-5-cm-porta-battente-cristalli-8-mm-e-profili-cromo",
+ "file": "catalogo_box-doccia-angolare-mantra-120x70-h200-est-113-2-122-2-69-70-5-cm-porta-battente-cristalli-8-mm-e-profili-cromo.html",
+ "title": "Box Doccia Angolare Mantra 120x70 H200 cm Porta Battente Cristalli 8 mm Trasparenti e Corrugati e Profili Cromo",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1360,
+ "attributes": {
+  "sku": {
+   "value": "9027599",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "9027599"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

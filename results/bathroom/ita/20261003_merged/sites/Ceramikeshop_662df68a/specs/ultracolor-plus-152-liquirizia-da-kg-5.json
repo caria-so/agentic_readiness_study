@@ -1,0 +1,92 @@
+{
+ "url": "https://ceramikeshop.it/ultracolor-plus-152-liquirizia-da-kg-5",
+ "file": "ultracolor-plus-152-liquirizia-da-kg-5.html",
+ "title": "Ultracolor Plus 152 Liquirizia da Kg. 5 | Mapei | Ceramikeshop",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8414,
+ "attributes": {
+  "brand": {
+   "value": "Mapei",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Mapei"
+    }
+   ]
+  },
+  "sku": {
+   "value": "MP/6015245A",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "MP/6015245A"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8022452101380",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8022452101380"
+    },
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8022452101380"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "MP/6015245A",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "MP/6015245A"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.000000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Contiene Legno": "NO",
+  "Spray": "NO",
+  "Contatto con Alimenti": "NO"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 4,
+  "L3": 0,
+  "dropped": 1
+ }
+}

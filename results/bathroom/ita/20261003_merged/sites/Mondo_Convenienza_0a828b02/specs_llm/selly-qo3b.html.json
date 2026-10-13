@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/selly-qo3b.html",
+  "model": "qwen2.5:32b",
+  "html": "selly-qo3b.html.html",
+  "title": "Cucina lineare",
+  "text_chars": 1442,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "opaco",
+      "evidence": "bianco opaco",
+      "location": "body"
+    },
+    "colour": {
+      "value": "verde",
+      "evidence": "SELLY CUCINA BLOCCATA SINISTRA PREDISPOSTA PER LAVASTOVIGLIE SENZA FRIGO L.270 P.60 H.240 COLORE VERDE",
+      "location": "body"
+    },
+    "width": {
+      "value": "270 cm",
+      "evidence": "SELLY CUCINA BLOCCATA SINISTRA PREDISPOSTA PER LAVASTOVIGLIE SENZA FRIGO L.270 P.60 H.240",
+      "location": "body"
+    },
+    "height": {
+      "value": "240 cm",
+      "evidence": "SELLY CUCINA BLOCCATA SINISTRA PREDISPOSTA PER LAVASTOVIGLIE SENZA FRIGO L.270 P.60 H.240",
+      "location": "body"
+    },
+    "depth": {
+      "value": "60 cm",
+      "evidence": "SELLY CUCINA BLOCCATA SINISTRA PREDISPOSTA PER LAVASTOVIGLIE SENZA FRIGO L.270 P.60 H.240",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "cm. 270 x 60 x 240",
+      "evidence": "Perché sceglierla cm. 270 x 60 x 240",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "moderna",
+      "evidence": "Moderna e di tendenza",
+      "location": "body"
+    },
+    "series": {
+      "value": "Selly",
+      "evidence": "La collezione Selly propone una cucina da 270 cm completa con base (2 cassetti e 1 cesto)da 90 cm, semicolonna forno con cesto da 60 cm",
+      "location": "body"
+    },
+    "certification": {
+      "value": "Certificata Made in Italy",
+      "evidence": "Certificata Made in Italy",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Italy",
+      "evidence": "Certificata Made in Italy",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1371,
+    "output_tokens": 753,
+    "seconds": 62.15
+  }
+}

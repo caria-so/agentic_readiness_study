@@ -1,0 +1,83 @@
+{
+ "url": "https://www.bagnodistile.com/mobili-bagno/1704-mobile-bagno-bequia-70-cm-piano-d-appoggio-senza-lavabo-bianco-opaco-70x45x56-8421194994920.html",
+ "file": "mobili-bagno_1704-mobile-bagno-bequia-70-cm-piano-d-appoggio-senza-lavabo-bianco-opaco-70x45x56-8421194994920.html.html",
+ "title": "Mobile bagno Bequia 70 cm + piano d'appoggio (senza lavabo) Bianco opaco 70x45x56",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6106,
+ "attributes": {
+  "brand": {
+   "value": "SALGAR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "SALGAR"
+    }
+   ]
+  },
+  "sku": {
+   "value": "110456",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "110456"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8421194994920",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8421194994920"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "110456",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "110456"
+    }
+   ]
+  },
+  "installation": {
+   "value": "BEQUIA profondità 45 cm:",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Mobile sospeso",
+     "value": "BEQUIA profondità 45 cm:"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 5
+ }
+}

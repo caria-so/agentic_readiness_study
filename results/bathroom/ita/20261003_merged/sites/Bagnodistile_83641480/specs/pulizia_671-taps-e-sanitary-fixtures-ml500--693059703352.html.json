@@ -1,0 +1,83 @@
+{
+ "url": "https://www.bagnodistile.com/pulizia/671-taps-e-sanitary-fixtures-ml500--693059703352.html",
+ "file": "pulizia_671-taps-e-sanitary-fixtures-ml500--693059703352.html.html",
+ "title": "TAPS E SANITARY Fixtures ML.500",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3042,
+ "attributes": {
+  "brand": {
+   "value": "FABER",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "FABER"
+    }
+   ]
+  },
+  "sku": {
+   "value": "TAPS E SANIT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "TAPS E SANIT"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059703352",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059703352"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "TAPS E SANIT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "TAPS E SANIT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.500000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.500000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 11
+ }
+}

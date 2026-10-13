@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/soggiorno/poltrone/poggiapiedi-uldum-tessuto-grigio-nero",
+  "model": "qwen2.5:32b",
+  "html": "soggiorno_poltrone_poggiapiedi-uldum-tessuto-grigio-nero.html",
+  "title": "Poggiapiedi ULDUM tessuto grigio/nero | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "Verniciato a polvere",
+      "evidence": "Trattamento Verniciato a polvere",
+      "location": "body"
+    },
+    "width": {
+      "value": "39 cm",
+      "evidence": "Larghezza 39 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "59 cm",
+      "evidence": "Profondità 59 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "ULDUM",
+      "evidence": "Poggiapiedi ULDUM tessuto grigio/nero",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5473,
+    "output_tokens": 666,
+    "seconds": 73.81
+  }
+}

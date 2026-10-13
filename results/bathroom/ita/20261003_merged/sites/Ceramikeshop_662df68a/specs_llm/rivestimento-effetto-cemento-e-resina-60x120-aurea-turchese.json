@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/rivestimento-effetto-cemento-e-resina-60x120-aurea-turchese",
+  "model": "qwen2.5:32b",
+  "html": "rivestimento-effetto-cemento-e-resina-60x120-aurea-turchese.html",
+  "title": "Rivestimento Cemento e Resina 60x120 Aurea Turchese | Ceramica Rondine",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "cemento e resina",
+      "evidence": "Rivestimento Cemento e Resina 60x120 Aurea Turchese",
+      "location": "title"
+    },
+    "colour": {
+      "value": "Turchese",
+      "evidence": "Rivestimento Cemento e Resina 60x120 Aurea Turchese",
+      "location": "title"
+    },
+    "width": {
+      "value": "60 cm",
+      "evidence": "Rivestimento Cemento e Resina 60x120 Aurea Turchese",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "60x120 cm",
+      "evidence": "Rivestimento Cemento e Resina 60x120 Aurea Turchese",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "rettificato",
+      "evidence": "Proposte nel formato 60x120 rettificato",
+      "location": "body"
+    },
+    "series": {
+      "value": "Aurea",
+      "evidence": "Aurea sviluppa sei decorazioni che giocano con le sfumature e gli abbinamenti tra tonalità calde e fredde.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4749,
+    "output_tokens": 618,
+    "seconds": 66.77
+  }
+}

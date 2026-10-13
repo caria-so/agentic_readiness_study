@@ -1,0 +1,81 @@
+{
+  "company": "Bertani",
+  "url": "https://www.bertani.it/it_IT/",
+  "site_dir": "discovery_round_final_e/sites/Bertani_a7c880a2",
+  "final_url": "https://www.bertani.it/it_IT/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.414479",
+  "http_status": 200,
+  "fetch_ms": 19101.4,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.bertani.it/it_IT/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bertani_a7c880a2/index.html",
+      "count": 454076,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.bertani.it/sitemap/products.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bertani_a7c880a2/sitemap.json",
+      "count": 6589,
+      "total_available": 6589,
+      "truncated": false,
+      "product_url_count": 6115,
+      "product_total_available": 6115
+    },
+    "jsonld": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no application/ld+json found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bertani_a7c880a2/links.json",
+      "count": 233,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": false,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

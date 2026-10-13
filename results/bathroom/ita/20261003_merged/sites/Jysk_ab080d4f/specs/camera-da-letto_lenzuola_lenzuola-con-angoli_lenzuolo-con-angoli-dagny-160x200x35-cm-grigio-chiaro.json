@@ -1,0 +1,198 @@
+{
+ "url": "https://jysk.it/camera-da-letto/lenzuola/lenzuola-con-angoli/lenzuolo-con-angoli-dagny-160x200x35-cm-grigio-chiaro",
+ "file": "camera-da-letto_lenzuola_lenzuola-con-angoli_lenzuolo-con-angoli-dagny-160x200x35-cm-grigio-chiaro.html",
+ "title": "DAGNY Plus Lenzuolo con angoli DAGNY 160x200x35 cm grigio chiaro",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 12856,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "1639658",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "1639658"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "1639658"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Grigio chiaro",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Grigio chiaro"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Bianco Colore : Grigio chiaro"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "160x200x35",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "160x200x35"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni del lenzuolo",
+     "value": "160x200x35 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "100% cotone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "100% cotone"
+    }
+   ]
+  },
+  "care": {
+   "value": "60°C",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lavare",
+     "value": "60°C"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Candeggio",
+     "value": "Non candeggiare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Asciugatrice",
+     "value": "** Asciugabile in asciugatrice a temperature medie (max. 80ºC)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Stiratura",
+     "value": "** Stirabile, a temperature normali (max. 150ºC)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio a secco e a umido",
+     "value": "Non lavare a secco"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Istruzioni",
+     "value": "Lavare prima dell'uso, Lavare con colori simili, per i primi lavaggi lavare separatamente"
+    }
+   ]
+  },
+  "weight": {
+   "value": "110 g/m².",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "110 g/m²."
+    }
+   ]
+  },
+  "certification": {
+   "value": "OEKO-TEX® STANDARD 100 ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "OEKO-TEX® STANDARD 100 "
+    }
+   ]
+  },
+  "origin": {
+   "value": "PK",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "PK"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Tinto",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Metodo di colorazione",
+     "value": "Tinto"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Lenzuolo con Angoli",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Lenzuolo con Angoli"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Thread count": "144 ",
+  "Imballato": "Contiene 1 lenzuolo",
+  "Elastico": "Angoli elasticizzati",
+  "Indice di qualità": "PLUS",
+  "OEKO-TEX® STANDARD 100": ""
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 18,
+  "L3": 2,
+  "dropped": 36
+ }
+}

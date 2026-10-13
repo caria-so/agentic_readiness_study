@@ -1,0 +1,115 @@
+{
+ "url": "https://www.mondialshop.it/it/materasso-matrimoniale-offerte-alto-comfort-prezzo-interessante/15352-materasso-doroty-160x190-in-poliuretano-alto-20cm.html",
+ "file": "rasso-matrimoniale-offerte-alto-comfort-prezzo-interessante_15352-materasso-doroty-160x190-in-poliuretano-alto-20cm.html.html",
+ "title": "Materasso Doroty 160x190 in poliuretano alto 20cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1838,
+ "attributes": {
+  "brand": {
+   "value": "Gt Materassi",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gt Materassi"
+    }
+   ]
+  },
+  "sku": {
+   "value": "Doroty-1916",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "Doroty-1916"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "Doroty-1916",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "Doroty-1916"
+    }
+   ]
+  },
+  "weight": {
+   "value": "20.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "20.000000 kg"
+    }
+   ]
+  },
+  "height": {
+   "value": "20",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "20"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Matrimoniale",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Materasso",
+     "value": "Matrimoniale"
+    }
+   ]
+  },
+  "material": {
+   "value": "Poliuretano espanso",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Composizione",
+     "value": "Poliuretano espanso"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tessuto",
+     "value": "60%poliestere-40%polipropilene 100 gr/mq"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Antiacaro": "Si",
+  "Antibatterico": "Si",
+  "Anallergico": "Si",
+  "Colli": "n. 1"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 7,
+  "L3": 1,
+  "dropped": 1
+ }
+}

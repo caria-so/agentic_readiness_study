@@ -1,0 +1,83 @@
+{
+ "url": "https://www.bagnodistile.com/pavimenti-interni/676-timeline-60x120-white-htl10--693059702232.html",
+ "file": "pavimenti-interni_676-timeline-60x120-white-htl10--693059702232.html.html",
+ "title": "TIMELINE 60X120 White HTL10",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4072,
+ "attributes": {
+  "brand": {
+   "value": "CERAMICA DEL CONCA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "CERAMICA DEL CONCA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "GCTL10RJ",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "GCTL10RJ"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059702232",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059702232"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "GCTL10RJ",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "GCTL10RJ"
+    }
+   ]
+  },
+  "weight": {
+   "value": "20.140000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "20.140000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 33
+ }
+}

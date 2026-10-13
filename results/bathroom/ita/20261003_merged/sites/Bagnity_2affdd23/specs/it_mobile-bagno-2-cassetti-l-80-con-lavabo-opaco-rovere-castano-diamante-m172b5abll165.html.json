@@ -1,0 +1,236 @@
+{
+ "url": "https://www.bagnity.com/it/mobile-bagno-2-cassetti-l-80-con-lavabo-opaco-rovere-castano-diamante-m172b5abll165.html",
+ "file": "it_mobile-bagno-2-cassetti-l-80-con-lavabo-opaco-rovere-castano-diamante-m172b5abll165.html.html",
+ "title": "Mobile bagno 80 cm Rovere castano con 2 cassetti e lavabo opaco - Diamante",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 10698,
+ "attributes": {
+  "brand": {
+   "value": "Inda",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Inda"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "Inda"
+    }
+   ]
+  },
+  "material": {
+   "value": "Fibra di legno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Fibra di legno"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Fibra di legno"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Struttura",
+     "value": "2 cassetti"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale Lavabo",
+     "value": "Mineralguss"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Legno scuro",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Legno scuro"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Rovere castano"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore Lavabo",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "series": {
+   "value": "Diamante",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Collezione",
+     "value": "Diamante"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Designer",
+     "value": "Inda design"
+    }
+   ]
+  },
+  "width": {
+   "value": "80 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "80 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza Lavabo",
+     "value": "80 cm"
+    }
+   ]
+  },
+  "depth": {
+   "value": "45 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Profondità",
+     "value": "45 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Profondità Lavabo",
+     "value": "14 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "60 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "60 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza Lavabo",
+     "value": "2 cm"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Gola centrale",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Sistema di apertura",
+     "value": "Gola centrale"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Chiusura",
+     "value": "Chiusura rallentata"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Si",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Assemblato",
+     "value": "Si"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Kit fissaggio a muro",
+     "value": "Incluso"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Integrato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Lavabo",
+     "value": "Integrato"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Opaco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura Lavabo",
+     "value": "Opaco"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Centrale",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Posizione Lavabo",
+     "value": "Centrale"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Foro Troppopieno",
+     "value": "Si"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Rubinetteria",
+     "value": "Non incluso"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Kit Scarico",
+     "value": "Non incluso"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Lavabo": "Incluso",
+  "Specchio": "Non incluso"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 26,
+  "L3": 0,
+  "dropped": 26
+ }
+}

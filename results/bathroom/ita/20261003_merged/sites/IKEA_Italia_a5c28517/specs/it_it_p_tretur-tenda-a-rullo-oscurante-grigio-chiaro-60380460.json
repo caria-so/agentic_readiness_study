@@ -1,0 +1,178 @@
+{
+ "url": "https://www.ikea.com/it/it/p/tretur-tenda-a-rullo-oscurante-grigio-chiaro-60380460/",
+ "file": "it_it_p_tretur-tenda-a-rullo-oscurante-grigio-chiaro-60380460.html",
+ "title": "TRETUR Tenda a rullo oscurante, grigio chiaro, 100x195 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4359,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "603.804.60",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "603.804.60"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "603.804.60",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "603.804.60"
+    }
+   ]
+  },
+  "material": {
+   "value": "Poliestere",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Poliestere"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tessuto",
+     "value": "100% poliestere (min 90% riciclato)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tessuto interno",
+     "value": "Polietilene"
+    }
+   ]
+  },
+  "colour": {
+   "value": "grigio",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "grigio"
+    }
+   ]
+  },
+  "depth": {
+   "value": "195 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "195 cm"
+    }
+   ]
+  },
+  "width": {
+   "value": "100 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza del tessuto",
+     "value": "100 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza tenda a rullo",
+     "value": "103.4 cm"
+    }
+   ]
+  },
+  "length": {
+   "value": "195 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza",
+     "value": "195 cm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "1.95 m²",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Superficie",
+     "value": "1.95 m²"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "8 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "8 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "7 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lunghezza",
+     "value": "109 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "1.82 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "1.82 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Binario superiore/ Binario inferiore": "Alluminio, Anodizzato",
+  "Rivestimento laterale": "Plastica ABS",
+  "Staffa": "Policarbonato/plastica ABS., Vernice acrilica trasparente, tinta"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 6,
+  "L2": 9,
+  "L3": 4,
+  "dropped": 0
+ }
+}

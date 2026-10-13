@@ -1,0 +1,102 @@
+{
+ "url": "https://www.bertani.it/it_IT/products/galassia-meg11-coppia-sanitari-bianco-opaco",
+ "file": "it_IT_products_galassia-meg11-coppia-sanitari-bianco-opaco.html",
+ "title": "Galassia, Meg11 Coppia sanitari Bianco Opaco",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 789,
+ "attributes": {
+  "brand": {
+   "value": "Galassia",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Galassia"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "Galassia"
+    }
+   ]
+  },
+  "sku": {
+   "value": "7696",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "7696"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice prodotto",
+     "value": "5481V2MT 5480V2MT 5478MT"
+    }
+   ]
+  },
+  "series": {
+   "value": "Meg11",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Collezione",
+     "value": "Meg11"
+    }
+   ]
+  },
+  "installation": {
+   "value": "a terra",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Fissaggio",
+     "value": "a terra"
+    }
+   ]
+  },
+  "colour": {
+   "value": "bianco opaco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore Sanitario",
+     "value": "bianco opaco"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia (anni)",
+     "value": "1"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 6,
+  "L3": 0,
+  "dropped": 4
+ }
+}

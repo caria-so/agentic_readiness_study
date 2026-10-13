@@ -1,0 +1,1212 @@
+{
+  "source": "https://jysk.it/",
+  "generated": "2026-10-03T03:30:58.001022",
+  "total": 154,
+  "internal_count": 119,
+  "external_count": 35,
+  "links": [
+    {
+      "url": "https://jysk.it/jysk-business-business",
+      "fragment": "",
+      "text": "Una grande offerta per la tua azienda | Scopri JYSK B2B ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/novita",
+      "fragment": "",
+      "text": "Ultimi arrivi - molti già in offerta! ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/scegli-il-tuo-finanziamento",
+      "fragment": "",
+      "text": "Finanziamenti - Scegli il piano di rimborso più adatto a te ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/favourites",
+      "fragment": "",
+      "text": " Preferiti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/checkout",
+      "fragment": "",
+      "text": " Carrello",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/inspiration",
+      "fragment": "",
+      "text": "Ispirazioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/offerte",
+      "fragment": "",
+      "text": "Offerte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/negozi",
+      "fragment": "",
+      "text": "Dove siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/customer-service",
+      "fragment": "",
+      "text": "Servizio clienti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://lavoro.jysk.it/?utm_source=jysk.it&amp;utm_medium=referral&amp;utm_campaign=job-button-top-navigation",
+      "fragment": "",
+      "text": "Lavoro",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/grandi-offerte-la-camera",
+      "fragment": "",
+      "text": "Scopri ora",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/natale",
+      "fragment": "",
+      "text": "Scopri ora",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/inspiration/come-scegliere-un-divano-con-chaise-longue",
+      "fragment": "",
+      "text": "Scopri ora",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/b2b",
+      "fragment": "",
+      "text": " B2B Una grande offerta per la tua azienda",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo/sedie/sedia-ejsing-tessuto-beige-color-rovere-naturale",
+      "fragment": "DyProductRecommendations",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/organizzazione/cassettiere/cassettiera-33-cassetti-limfjorden-colrovere-selvnaturale",
+      "fragment": "DyProductRecommendations",
+      "text": "Prezzo basso sempre",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo/tavoli/tavolo-da-pranzo-kliplev-o120-cm-color-travertino-beige",
+      "fragment": "DyProductRecommendations",
+      "text": "-12% Fino a esaurimento scorte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/organizzazione/librerie-scaffali-e-divisori/libreria-mosbjerg-6-ripiani-color-rovere-selvatico-naturale",
+      "fragment": "DyProductRecommendations",
+      "text": "Prezzo basso sempre",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/soggiorno/divani-letto/divano-letto-con-chaise-longue-teglhuse-tessuto-beige-0",
+      "fragment": "DyProductRecommendations",
+      "text": "-32%",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo/sedie/sedia-nederby-bianco-color-rovere-naturale",
+      "fragment": "DyProductRecommendations",
+      "text": "Prezzo basso sempre",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/organizzazione/armadi/armadio-jenslev-144x176cm-3ante-3cassetti-rovere-selvatico",
+      "fragment": "DyProductRecommendations",
+      "text": "Prezzo basso sempre",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/soggiorno/divani/divano-gedved-3-posti-grigio",
+      "fragment": "DyProductRecommendations",
+      "text": "-50%",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo/sedie/sedia-jonstrup-tessuto-grigio-color-rovere-naturale",
+      "fragment": "DyProductRecommendations",
+      "text": "-55% Una grande offerta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/organizzazione/librerie-scaffali-e-divisori/scaffale-lindved-6-ripiani-2-ante-bianco",
+      "fragment": "DyProductRecommendations",
+      "text": "Prezzo basso sempre",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/letti/strutture-letto-e-reti-letto/strutture-letto/struttura-letto-vemmelev-160x190-cm-con-contenitore-beige",
+      "fragment": "DyProductRecommendations",
+      "text": "Prezzo basso sempre",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/organizzazione/armadi/armadio-limfjorden-180x200-cm-3-ante-3-cassetti-beige",
+      "fragment": "DyProductRecommendations",
+      "text": "Prezzo basso sempre",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto",
+      "fragment": "",
+      "text": "Camera da letto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/bagno",
+      "fragment": "",
+      "text": "Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/ufficio",
+      "fragment": "",
+      "text": "Ufficio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/soggiorno",
+      "fragment": "",
+      "text": "Soggiorno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo",
+      "fragment": "",
+      "text": "Sala da pranzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/organizzazione",
+      "fragment": "",
+      "text": "Organizzazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/tende-e-accessori",
+      "fragment": "",
+      "text": "Tende e accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/giardino",
+      "fragment": "",
+      "text": "Giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/la-casa",
+      "fragment": "",
+      "text": "Per la casa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/ingresso",
+      "fragment": "",
+      "text": "Ingresso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/prezzo-basso-sempre",
+      "fragment": "",
+      "text": "Prezzo basso sempre",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo/credenze/credenza-lintrup-2-ante-3-cassetti-color-rovere-selv-nat",
+      "fragment": "DyProductRecommendations",
+      "text": "-24% Una grande offerta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo/tavoli/tavolo-sandby-100x210-cm-color-rovere-scuro",
+      "fragment": "DyProductRecommendations",
+      "text": "-40%",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/tende-e-accessori/tende/tende-pesanti/tenda-austra-1-x-140x300-cm-velluto-color-tortora",
+      "fragment": "DyProductRecommendations",
+      "text": "-50%",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/soggiorno/divani-letto/divano-letto-con-chaise-longue-hampen-tessgrigio-colrovere",
+      "fragment": "DyProductRecommendations",
+      "text": "-24%",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/la-casa/decorazione/cornici/cornice-oscar-50x70-cm-nero",
+      "fragment": "DyProductRecommendations",
+      "text": "-52%",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/tende-e-accessori/tende-rullo/tende-duo/tenda-rullo-duo-femris-45x180-cm-color-tortora",
+      "fragment": "DyProductRecommendations",
+      "text": "-50%",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo/sedie/sedia-ejsing-tessuto-marrone-scuro-color-rovere-naturale",
+      "fragment": "DyProductRecommendations",
+      "text": "-29% Novità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/copripiumini/copripiumini-raso/completo-copripiumino-raso-nell-240x220-cm-color-uva-polvere",
+      "fragment": "DyProductRecommendations",
+      "text": "-44%",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo/sedie/sedia-thorup-tessuto-beige-color-rovere-naturale",
+      "fragment": "DyProductRecommendations",
+      "text": "-60% Una grande offerta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/bagno/asciugamani/asciugamano-karlstad-50x100-cm-verde-militare",
+      "fragment": "DyProductRecommendations",
+      "text": "-32% Una grande offerta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sala-da-pranzo/tavoli/tavolo-lintrup-80x140-cm-color-rovere-selvatico-naturale",
+      "fragment": "DyProductRecommendations",
+      "text": "-50% Una grande offerta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/brands/kronborg",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/brands/wellpur",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/brands/dreamzone",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/brands/royal-oak",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/brands/jutlandia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/brands/fossflakes",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/brands/leifheit",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/brands/otto-keller",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/proposito-di-jysk",
+      "fragment": "",
+      "text": " 47 anni di grandi offerte Più di 3600 negozi in 49 paesi del mondo.",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/qualita-e-sicurezza-prodotti",
+      "fragment": "",
+      "text": " Garanzia sui materassi 25 anni di garanzia sui nostri materassi GOLD.",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/volantini-e-cataloghi",
+      "fragment": "",
+      "text": "Volantini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/termini-e-condizioni",
+      "fragment": "",
+      "text": "Termini e Condizioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/termini-e-condizioni",
+      "fragment": "freight",
+      "text": "Servizi di spedizione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/termini-e-condizioni",
+      "fragment": "return",
+      "text": "Diritto di recesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/Termini-e-Condizioni",
+      "fragment": "claims",
+      "text": "Reclami",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/termini-e-condizioni",
+      "fragment": "privacy",
+      "text": "Politica sulla privacy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/modulo-di-recesso",
+      "fragment": "",
+      "text": "Recedere dal contratto qui",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.jysk.com/",
+      "fragment": "",
+      "text": "Corporate",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/stampa",
+      "fragment": "",
+      "text": "Press room",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://lavoro.jysk.it/",
+      "fragment": "",
+      "text": "Lavora con noi",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/newsletter-di-jysk",
+      "fragment": "",
+      "text": "Newsletter",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/vantaggi-i-clienti",
+      "fragment": "",
+      "text": "Vantaggi per i clienti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sostenibilita",
+      "fragment": "",
+      "text": "Sostenibilità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/accessibilita",
+      "fragment": "",
+      "text": "Accessibilità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/note-legali",
+      "fragment": "",
+      "text": "Note legali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/sicurezza",
+      "fragment": "",
+      "text": "Sicurezza",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/garanzia-legale",
+      "fragment": "",
+      "text": "Garanzia legale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/JYSKItalia/",
+      "fragment": "",
+      "text": "",
+      "rel": "noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/jyskitalia/",
+      "fragment": "",
+      "text": "",
+      "rel": "noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.linkedin.com/company/jysk/",
+      "fragment": "",
+      "text": "",
+      "rel": "noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.youtube.com/@jyskyoutubeitalia/videos/",
+      "fragment": "",
+      "text": "",
+      "rel": "noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.pinterest.com/jyskit/",
+      "fragment": "",
+      "text": "",
+      "rel": "noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/contattaci",
+      "fragment": "",
+      "text": "Contattaci",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/letti",
+      "fragment": "",
+      "text": "Letti e materassi ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/outlet",
+      "fragment": "",
+      "text": "Outlet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/materassi",
+      "fragment": "",
+      "text": "Materassi ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/piumini-e-trapunte",
+      "fragment": "",
+      "text": "Piumini e trapunte ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/cuscini",
+      "fragment": "",
+      "text": "Guanciali ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/copripiumini",
+      "fragment": "",
+      "text": "Biancheria da letto ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/lenzuola",
+      "fragment": "",
+      "text": "Lenzuola ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/materassi/materassi-schiuma",
+      "fragment": "",
+      "text": "Materassi in schiuma ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/materassi/materassi-molle",
+      "fragment": "",
+      "text": "Materassi a molle ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/letti/letti-sommier",
+      "fragment": "",
+      "text": "Letti sommier ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/materassi/topper",
+      "fragment": "",
+      "text": "Topper ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/materassi/sovramaterasso",
+      "fragment": "",
+      "text": "Sovramaterassi ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/letti/strutture-letto-e-reti-letto/strutture-letto",
+      "fragment": "",
+      "text": "Strutture letto ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/letti/strutture-letto-e-reti-letto/letti-con-contenitore",
+      "fragment": "",
+      "text": "Letti con contenitore ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/letti/strutture-letto-e-reti-letto/reti-doghe",
+      "fragment": "",
+      "text": "Reti a doghe ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/camera-da-letto/materassi/materassi-bambini",
+      "fragment": "",
+      "text": "Materassi per bambini ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/bagno/asciugamani",
+      "fragment": "",
+      "text": "Asciugamani ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/bagno/accessori-bagno",
+      "fragment": "",
+      "text": "Accessori bagno ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/la-casa/lavanderia",
+      "fragment": "",
+      "text": "Lavanderia ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/soggiorno/tavolini-salotto",
+      "fragment": "",
+      "text": "Tavolini salotto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/soggiorno/mobili-tv",
+      "fragment": "",
+      "text": "Mobili TV",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/soggiorno/prodotti-la-cura-di-mobili",
+      "fragment": "",
+      "text": "Prodotti per la cura dei mobili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/ingresso/mobili-guardaroba",
+      "fragment": "",
+      "text": "Mobili per il corridoio ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/tende-e-accessori/tende",
+      "fragment": "",
+      "text": "Tende ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/tende-e-accessori/tende-rullo",
+      "fragment": "",
+      "text": "Tende a rullo ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/tende-e-accessori/veneziane",
+      "fragment": "",
+      "text": "Veneziane ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/tende-e-accessori/zanzariere",
+      "fragment": "",
+      "text": "Zanzariere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/tende-e-accessori/pellicola-vetri",
+      "fragment": "",
+      "text": "Pellicola per vetri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/giardino/mobili-da-giardino",
+      "fragment": "",
+      "text": "Mobili da giardino ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/giardino/cuscini-da-esterno",
+      "fragment": "",
+      "text": "Cuscini da esterno ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/giardino/contenitori-da-esterno",
+      "fragment": "",
+      "text": "Contenitori da esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/giardino/ombreggianti-da-giardino",
+      "fragment": "",
+      "text": "Ombreggianti da giardino ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/giardino/accessori-da-giardino",
+      "fragment": "",
+      "text": "Accessori da giardino ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/giardino/illuminazioni-da-esterno",
+      "fragment": "",
+      "text": "Illuminazioni da esterno ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/giardino/camping",
+      "fragment": "",
+      "text": "Campeggio ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/la-casa/decorazione",
+      "fragment": "",
+      "text": "Decorazioni ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/la-casa/cucina",
+      "fragment": "",
+      "text": "Cucina ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/la-casa/illuminazione",
+      "fragment": "",
+      "text": "Illuminazione ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/la-casa/articoli-la-casa",
+      "fragment": "",
+      "text": "Casalinghi ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/natale/tessile-natalizio",
+      "fragment": "",
+      "text": "Tessili natalizi ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/Termini-e-Condizioni",
+      "fragment": "8",
+      "text": "raccolta e trattamento dei dati personali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://jysk.it/cookies",
+      "fragment": "",
+      "text": "cookie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.onetrust.com/solutions/consent-and-preferences/",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://assets.jysk.io/_next/static/chunks/16d9esgjv2xk7.css?dpl=40d9a2e4cf2c086ef1ff4ae1dc4009f266ea9630",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.jysk.io/_next/static/chunks/12o3-i52ihxk0.css?dpl=40d9a2e4cf2c086ef1ff4ae1dc4009f266ea9630",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.jysk.io/_next/static/chunks/0_ymz1wbb5qpi.js?dpl=40d9a2e4cf2c086ef1ff4ae1dc4009f266ea9630",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.jysk.io/_next/static/chunks/30arf8epmt615.css?dpl=40d9a2e4cf2c086ef1ff4ae1dc4009f266ea9630",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.it/favicon.ico",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.it/favicon-96x96.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.it/apple-touch-icon.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn-eu.dynamicyield.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://st-eu.dynamicyield.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://rcom-eu.dynamicyield.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.jysk.io/_next/static/media/jysk_icons-s.p.0ebtuwegdnzyn.woff2?dpl=40d9a2e4cf2c086ef1ff4ae1dc4009f266ea9630",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.jysk.io/_next/static/media/open_sans_latin_variable_wghtOnly_normal-s.p.3pfr6o3titotq.woff2?dpl=40d9a2e4cf2c086ef1ff4ae1dc4009f266ea9630",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.my.site.com/ESWChatChannelIT1780391100746/assets/styles/bootstrap.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://widgets.trustedshops.com/assets/trustbadge.C-7vvAwk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://trstd-protocol.trustedshops.com/v1/entities/int-2617ea0d-4c7e-46e5-9a16-47306c5dfa6d/trust-signals",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.pt/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.fr/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.es/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.dk/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.at/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.fi/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.no/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.se/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn-eu.dynamicyield.com/api/9881218/api_dynamic.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn-eu.dynamicyield.com/api/9881218/api_static.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KM45937F",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://widgets.trustedshops.com/js/X26B9D81F66F303DBC37858303CBD79C9.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://jysk.my.site.com/ESWChatChannelIT1780391100746/assets/js/bootstrap.min.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+ "url": "https://www.ikea.com/it/it/p/saltsjoebaden-fodera-divano-3-posti-chaise-longue-vittangi-beige-chiaro-bianco-20637679/",
+ "file": "it_it_p_saltsjoebaden-fodera-divano-3-posti-chaise-longue-vittangi-beige-chiaro-bianco-20637679.html",
+ "title": "SALTSJÖBADEN Fodera divano 3 posti/chaise-longue, Vittangi beige chiaro/bianco",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1342,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "206.376.79",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "206.376.79"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "206.376.79",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "206.376.79"
+    }
+   ]
+  },
+  "material": {
+   "value": "Tessuto",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Tessuto"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tessuto",
+     "value": "100% cotone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tessuto posteriore",
+     "value": "100% poliestere (100% riciclato)"
+    }
+   ]
+  },
+  "colour": {
+   "value": "beige, fantasia",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "beige, fantasia"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "38 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "38 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "9 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lunghezza",
+     "value": "57 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "4.73 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "4.73 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 2,
+  "L3": 4,
+  "dropped": 0
+ }
+}

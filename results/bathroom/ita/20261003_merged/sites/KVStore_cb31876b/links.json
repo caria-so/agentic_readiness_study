@@ -1,0 +1,1569 @@
+{
+  "source": "https://www.kvstore.it/",
+  "generated": "2026-10-03T01:13:04.344706",
+  "total": 204,
+  "internal_count": 184,
+  "external_count": 20,
+  "links": [
+    {
+      "url": "https://www.kvstore.it/chi-siamo",
+      "fragment": "",
+      "text": "chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/imballaggi",
+      "fragment": "",
+      "text": "imballaggi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/consegna",
+      "fragment": "",
+      "text": "spedizioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/garanzia",
+      "fragment": "",
+      "text": "garanzia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://kiamamivalentina.zendesk.com/hc/it/requests/new?ticket_form_id=40452547362449",
+      "fragment": "",
+      "text": "scrivici",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/professionisti",
+      "fragment": "",
+      "text": "partita iva",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/",
+      "fragment": "contentarea",
+      "text": "Salta al contenuto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://kiamamivalentina.zendesk.com/hc/it/",
+      "fragment": "",
+      "text": "Contattaci",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/customer/account/login/referer/aHR0cHM6Ly93d3cua3ZzdG9yZS5pdC8~/",
+      "fragment": "",
+      "text": "Accedi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/customer/account/",
+      "fragment": "",
+      "text": "Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/checkout/cart/",
+      "fragment": "",
+      "text": "Carrello",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/",
+      "fragment": "store.menu",
+      "text": "Menu",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno",
+      "fragment": "",
+      "text": "Mobili bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno/mobili-bagno-sospesi-prezzi",
+      "fragment": "",
+      "text": "Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno/mobili-bagno-a-terra",
+      "fragment": "",
+      "text": "A terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno/top-e-mensole-lavabo",
+      "fragment": "",
+      "text": "Mensole per lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno/mobili-bagno-lavabo-da-appoggio",
+      "fragment": "",
+      "text": "Con lavabo d'appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno/scarpiere-salvaspazio-vendita-online",
+      "fragment": "",
+      "text": "Multiuso e scarpiere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno/pensili-colonne-bagno-vendita-online",
+      "fragment": "",
+      "text": "Pensili e colonne bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno/lavatoio-per-lavanderia-vendita-online",
+      "fragment": "",
+      "text": "Con lavatoio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno/mobili-bagno-componibili",
+      "fragment": "",
+      "text": "Componibili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno",
+      "fragment": "",
+      "text": "Accessori bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/piantane",
+      "fragment": "",
+      "text": "Piantane",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/cestini",
+      "fragment": "",
+      "text": "Cestini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/complemento-arredo-bagno",
+      "fragment": "",
+      "text": "Complementi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/tessili-bagno/",
+      "fragment": "",
+      "text": "Tessili bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/accessori-bagno-anziani-e-disabili/",
+      "fragment": "",
+      "text": "Ausili bagno per anziani e disabili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/porta-salviette/",
+      "fragment": "",
+      "text": "Porta salviette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/dispenser-sapone/",
+      "fragment": "",
+      "text": "Dispenser e porta sapone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/porta-carta-igienica/",
+      "fragment": "",
+      "text": "Porta carta igienica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/porta-spazzolini/",
+      "fragment": "",
+      "text": "Porta spazzolini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/porta-scopini/",
+      "fragment": "",
+      "text": "Porta scopini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/appendini/",
+      "fragment": "",
+      "text": "Appendini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/tappeti-per-bagno/",
+      "fragment": "",
+      "text": "Tappeti per bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/accessori-bagno/hotellerie-e-ambienti-pubblici/",
+      "fragment": "",
+      "text": "Hotellerie e ambienti pubblici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi",
+      "fragment": "",
+      "text": "Box doccia e cabine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/box-doccia-rettangolare-quadrato/",
+      "fragment": "",
+      "text": "Rettangolari e quadrati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/box-doccia-semicircolare-vendita-online",
+      "fragment": "",
+      "text": "Angolari semicircolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/walk-in-doccia-vendita-online",
+      "fragment": "",
+      "text": "Walk in",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/box-doccia-3-lati",
+      "fragment": "",
+      "text": "3 lati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/cabine-doccia-idromassaggio-multifunzione/",
+      "fragment": "",
+      "text": "Idromassaggio e multifunzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/porte-pareti-e-vetri-doccia",
+      "fragment": "",
+      "text": "Porte, pareti e vetri doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/colonne-doccia-con-rubinetto/",
+      "fragment": "",
+      "text": "Colonne doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/soffioni-e-accessori-doccia-vendita-online/",
+      "fragment": "",
+      "text": "Soffioni e bracci doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/saliscendi-doccia/",
+      "fragment": "",
+      "text": "Saliscendi doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/accessori-e-ricambi-per-doccia",
+      "fragment": "",
+      "text": "Accessori doccia e ricambi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/box-doccia-online-prezzi/rubinetti-e-miscelatori-doccia/",
+      "fragment": "",
+      "text": "Rubinetti e miscelatori doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/piatti-doccia",
+      "fragment": "",
+      "text": "Piatti doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/piatti-doccia/piatti-doccia-quadrati-e-rettangolari",
+      "fragment": "",
+      "text": "Quadrati e rettangolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/piatti-doccia/piatti-doccia-angolari-semicircolari",
+      "fragment": "",
+      "text": "Angolari semicircolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/cadite-de-dus/piatti-doccia-in-resina-marmo/",
+      "fragment": "",
+      "text": "In resina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/piatti-doccia/piatti-doccia-in-ceramica",
+      "fragment": "",
+      "text": "In ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/piatti-doccia/piatti-doccia-in-abs-e-acrilico",
+      "fragment": "",
+      "text": "In acrilico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/vasche-da-bagno-vendita-online",
+      "fragment": "",
+      "text": "Vasche da bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/rubinetti-bagno-e-cucina",
+      "fragment": "",
+      "text": "Rubinetti bagno e cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/baterii-baie-si-bucatarie/rubinetti-lavabo/",
+      "fragment": "",
+      "text": "Rubinetti lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/baterii-baie-si-bucatarie/rubinetti-bidet/",
+      "fragment": "",
+      "text": "Rubinetti bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/baterii-baie-si-bucatarie/rubinetti-vasca/",
+      "fragment": "",
+      "text": "Rubinetti vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/rubinetti-bagno-e-cucina/rubinetti-cucina-vendita-online",
+      "fragment": "",
+      "text": "Rubinetti cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/sanitari-prezzi-convenienti",
+      "fragment": "",
+      "text": "Sanitari bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/sanitari-prezzi-convenienti/sanitari-bagno-sospesi",
+      "fragment": "",
+      "text": "Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/sanitari-prezzi-convenienti/sanitari-bagno-a-terra",
+      "fragment": "",
+      "text": "A terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/sanitari-prezzi-convenienti/copriwater",
+      "fragment": "",
+      "text": "Copriwater",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/sanitari-prezzi-convenienti/materiale-idraulico/",
+      "fragment": "",
+      "text": "Materiale idraulico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/lavandini-bagno-vendita-online",
+      "fragment": "",
+      "text": "Lavandini bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/lavandini-bagno-vendita-online/lavabi-bagno-da-appoggio",
+      "fragment": "",
+      "text": "Da appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/lavandini-bagno-vendita-online/lavabi-bagno-sospesi/",
+      "fragment": "",
+      "text": "Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/lavandini-bagno-vendita-online/doppio-lavabo",
+      "fragment": "",
+      "text": "Doppio lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/termoarredi/",
+      "fragment": "",
+      "text": "Termoarredi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/specchiere",
+      "fragment": "",
+      "text": "Specchi e specchiere bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/specchiere/specchi-a-led-bagno",
+      "fragment": "",
+      "text": "Specchi a led",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/specchiere/specchi-contenitore-bagno",
+      "fragment": "",
+      "text": "Specchi contenitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/specchiere/illuminazione-lampade-bagno-led-vendita-online",
+      "fragment": "",
+      "text": "Lampade, applique led e faretti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/oglinzi-baie/specchi-bagno-semplici/",
+      "fragment": "",
+      "text": "Specchi semplici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/",
+      "fragment": "store.links",
+      "text": "Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/promozioni",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno?collezione=387",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.feedaty.com/feedaty/widgetredirect?m=10215423&amp;object=widget-merchant",
+      "fragment": "",
+      "text": "Ottimo 1.881 Recensioni",
+      "rel": "noopener noreferrer dofollow ",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/porta-nicchia-doccia-120-cm-modello-dream-anta-fissa-a-destra-cristallo-trasparente/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/vasca-da-bagno-ovale-in-acrilico-150cm-allegra-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/mobile-bagno-sospeso-80cm-bianco-con-lavabo-e-specchio-bilbao/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/box-doccia-economico-cristallo-trasparente-4-mm-70x90-profilo-cromato-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/piatto-doccia-70x90-in-resina-antracite-effetto-pietra-muse-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/piatto-doccia-70x90-in-ceramica-h6-antiscivolo-malta-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/mensola-rovere-naturale-100cm-completa-con-lavabo-da-appoggio-a-goccia-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/specchio-con-cornice-in-vetro-fuso-con-graniglia-dorato-reversibile-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/specchio-contenitore-bianco-ad-un-anta-30cm-con-luce-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/specchio-rotondo-a-led-80cm-colorato-pulsante-touch-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/lavabo-in-ceramica-da-appoggio-ovale-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/piatto-doccia-riducibile-90x70-bianco-effetto-pietra-muse-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/specchio-bagno-design-rotondo-e-cornice-ecopelle-nera-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/lavabo-da-appoggio-rotondo-grigio-bluastro-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/specchio-bagno-60x80-cm-con-illuminazione-perimetrale-a-led-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/specchio-bagno-contenitore-77cm-2-pensili-rovere-fumo-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/specchio-bagno-reversibile-80x60-con-lampada-cromata-30cm-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/set-asciugamani-in-spugna-di-cotone-colore-gerbera-teddy-vedita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/piatto-doccia-in-ceramica-70x90-sottile-3cm-nero-opaco-delfino-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/box-doccia-walk-in-110cm-cristallo-trasparente-telaio-nero-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/parete-sopravasca-doppia-120cm-elemento-orientabile-giada-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/porta-doccia-nicchia-scorrevole-nero-opaco-120-cm-city/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/doccia-nicchia-porta-scorrevole-100-cm-linea-new-giada-cristallo-6mm-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/box-doccia-90x90-profilo-nero-opaco-cristallo-trasparente-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/mobili-bagno?collezione=491",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/progetta-il-tuo-bagno",
+      "fragment": "",
+      "text": "ottieni il tuo progetto in 2D/3D!",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/outlet-fuori-tutto-arredo-bagno-vendita-online",
+      "fragment": "",
+      "text": "Outlet del bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/lavabo-arredo-da-appoggio-modello-oval/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/vaso-wc-sospeso-tuckett-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/specchio-rettangolare-cm-70x50-cornice-ecopelle-nera-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/piatto-doccia-70x100-resina-grigio-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/colonna-doccia-con-doccetta-e-soffione-fisso-rotondo-vendita-online/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/blog/",
+      "fragment": "",
+      "text": "vai al blog!",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/magazine-kv",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.feedaty.com/feedaty/widgetredirect?m=10215423&amp;gui=it-IT&amp;l=it-IT&amp;object=widget-carousel",
+      "fragment": "",
+      "text": "Ottimo 4,6 /5 1.881 recensioni Le nostre recensioni a 4 e 5 stelle. Clicca qui per leggerle tutte &gt;",
+      "rel": "noopener noreferrer dofollow ",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/prodotti/pavimenti",
+      "fragment": "",
+      "text": "pavimenti in pvc",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iubenda.com/privacy-policy/69442734",
+      "fragment": "",
+      "text": "privacy policy",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/recensioni-clienti",
+      "fragment": "",
+      "text": "Recensioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/checkout/cart",
+      "fragment": "",
+      "text": "Carrello",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/sales/order/history",
+      "fragment": "",
+      "text": "Storico ordini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/withdrawal/guest/search",
+      "fragment": "",
+      "text": "Richiedi il recesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/wishlist",
+      "fragment": "",
+      "text": "Preferiti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/pagamento",
+      "fragment": "",
+      "text": "Pagamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/download",
+      "fragment": "",
+      "text": "Istruzioni di montaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/condizioni",
+      "fragment": "",
+      "text": "Condizioni di vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/agevolazioni-fiscali",
+      "fragment": "",
+      "text": "Agevolazioni fiscali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iubenda.com/privacy-policy/69442734/cookie-policy",
+      "fragment": "",
+      "text": "Cookie policy",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/mappa-del-sito",
+      "fragment": "",
+      "text": "Mappa del sito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://it-it.facebook.com/Kvstore/",
+      "fragment": "",
+      "text": "",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/kvstore_kiamamivalentina/",
+      "fragment": "",
+      "text": "",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://vimeo.com/user3086771/videos",
+      "fragment": "",
+      "text": "",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/customer/account/create/",
+      "fragment": "",
+      "text": "Create Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/customer/account/forgotpassword/",
+      "fragment": "",
+      "text": "Hai dimenticato la password?",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_CustomHeader/css/weltpixel_custom_header_it_4.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_CustomFooter/css/weltpixel_custom_footer_it_4.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_ProductPage/css/weltpixel_product_store_it_4.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_CategoryPage/css/weltpixel_category_store_it_4.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/css/styles-m.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/jquery/uppy/dist/uppy-custom.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/Clerk_Clerk/css/powerstep.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/StripeIntegration_Payments/css/wallets.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_OwlCarouselSlider/css/owl.carousel.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/js/overlayscrollbars.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/bootstrap_grid.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/font-icons-core.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/social-icons.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/styled-icons.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/font-icons-extended.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/bootstrap_table.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/utilities.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/tabs.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/toggles-accordions.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/pricing.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/headings.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/blockquotes.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/dividers.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/clients.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/brands.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/responsive.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/pagetitle.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/columns_grids.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/feature-box-core.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/feature-box-extended.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/alerts.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/testimonials.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/flex.slider.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/bootstrap_buttons.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/imports/shortcodes/buttons.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/sections.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/parallax.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/animate-core.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/animate-extended.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/aos.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/css/btt_button.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_FullPageScroll/css/jquery.fullPage.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_FullPageScroll/css/custom.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/css/styles-l.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_NavigationLinks/css/navigation_mobile.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_NavigationLinks/css/navigation_desktop.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@400,0&amp;display=swap",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/fonts/opensans/light/opensans-300.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/fonts/opensans/regular/opensans-400.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/fonts/opensans/semibold/opensans-600.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/fonts/opensans/bold/opensans-700.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/fonts/Luma-Icons.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/fonts/Simple-Line-Icons.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/fonts/lined-icons.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/WeltPixel_DesignElements/fonts/font-icons.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/media/favicon/default/favicon_kiamamivalentina_1.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.clerk.io",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/media/favicon/default/apple-touch-icon.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/media/favicon/default/favicon-32x32.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/media/favicon/default/favicon-16x16.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/media/favicon/default/site.webmanifest",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/media/favicon/default/safari-pinned-tab.svg",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.it/media/favicon/default/favicon.ico",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.ro/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.sk/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.de/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.kvstore.fr/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://widget.feedaty.com/v3.0.0/style/2021,merchant,Striscia-3wrap,sottobannerwidgetfeedaty.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://widget.feedaty.com/v3.0.0/style/2021,carousel,carosello-1,69661231c29a2.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.1.6/swiper-bundle.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

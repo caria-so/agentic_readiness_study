@@ -1,0 +1,81 @@
+{
+  "company": "Arcshop",
+  "url": "https://www.arcshop.it/",
+  "site_dir": "discovery_round_final_e/sites/Arcshop_0500465b",
+  "final_url": "https://www.arcshop.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.413429",
+  "http_status": 200,
+  "fetch_ms": 29781.0,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.arcshop.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Arcshop_0500465b/index.html",
+      "count": 516366,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.arcshop.it/sitemap_products_1.xml?from=8295297908958&to=15303160562049",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Arcshop_0500465b/sitemap.json",
+      "count": 1456,
+      "total_available": 1456,
+      "truncated": false,
+      "product_url_count": 1196,
+      "product_total_available": 1196
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Arcshop_0500465b/jsonld.json",
+      "count": 5,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": true,
+      "url": "https://www.arcshop.it/llms.txt",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Arcshop_0500465b/llms_txt.json",
+      "count": 2,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Arcshop_0500465b/links.json",
+      "count": 266,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": true,
+    "links": true
+  },
+  "error_details": ""
+}

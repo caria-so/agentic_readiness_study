@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/forno-wi8o.html",
+  "model": "qwen2.5:32b",
+  "html": "forno-wi8o.html.html",
+  "title": "Candy lt 70 classe a statico : Forno | Mondo Convenienza",
+  "text_chars": 956,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Inox",
+      "evidence": "CANDY FORNO LT 70 L.60 P.57 H.60 CLASSE A STATICO COLORE INOX",
+      "location": "body"
+    },
+    "width": {
+      "value": "L.60",
+      "evidence": "CANDY FORNO LT 70 L.60 P.57 H.60 CLASSE A STATICO COLORE INOX",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.60",
+      "evidence": "CANDY FORNO LT 70 L.60 P.57 H.60 CLASSE A STATICO COLORE INOX",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.57",
+      "evidence": "CANDY FORNO LT 70 L.60 P.57 H.60 CLASSE A STATICO COLORE INOX",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L.60 P.57 H.60",
+      "evidence": "CANDY FORNO LT 70 L.60 P.57 H.60 CLASSE A STATICO COLORE INOX",
+      "location": "body"
+    },
+    "installation": {
+      "value": "statico",
+      "evidence": "CANDY FORNO LT 70 L.60 P.57 H.60 CLASSE A STATICO COLORE INOX",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Candy",
+      "evidence": "CANDY FORNO LT 70 L.60 P.57 H.60 CLASSE A STATICO COLORE INOX",
+      "location": "body"
+    },
+    "certification": {
+      "value": "Classe d'efficienza A",
+      "evidence": "Scheda tecnica\nClasse d'efficienza A",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1160,
+    "output_tokens": 724,
+    "seconds": 59.13
+  }
+}

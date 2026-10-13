@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5403134/mobile-bagno-base-sospesa-lavabo-caren-2-cassetti-50x60x45-8-cm-bianco",
+  "model": "qwen2.5:32b",
+  "html": "p_5403134_mobile-bagno-base-sospesa-lavabo-caren-2-cassetti-50x60x45-8-cm-bianco.html",
+  "title": "Mobile bagno base sospesa lavabo Caren 2 cassetti 50x60x45,8 cm bianco",
+  "text_chars": 573,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "laccata",
+      "evidence": "La struttura con finitura laccata assicura una superficie uniforme, durevole e facile da pulire.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "sospesa",
+      "evidence": "Base sospesa della serie Caren per lavabo con 2 cassetti",
+      "location": "body"
+    },
+    "series": {
+      "value": "Caren",
+      "evidence": "Base sospesa della serie Caren per lavabo con 2 cassetti",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "opening": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Push Pull, profilo gola",
+        "evidence": "Possibilità di apertura con maniglia, Push Pull o profilo gola per una completa personalizzazione."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1085,
+    "output_tokens": 708,
+    "seconds": 57.47
+  }
+}

@@ -1,0 +1,179 @@
+{
+ "url": "https://www.boleco.it/tutto-per-le-docce/3980-box-doccia-cm-80x110-cristallo-temperato-silver.html",
+ "file": "tutto-per-le-docce_3980-box-doccia-cm-80x110-cristallo-temperato-silver.html.html",
+ "title": "Box doccia cm 80x110 cristallo temperato – silver",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4462,
+ "attributes": {
+  "sku": {
+   "value": "D0827",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D0827"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "D0827"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "D0827"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Rettangolare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Box Doccia",
+     "value": "Rettangolare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Vetro Box Doccia",
+     "value": "Trasparente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Apertura",
+     "value": "Scorrevole"
+    }
+   ]
+  },
+  "colour": {
+   "value": "SILVER",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "SILVER"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "80x110 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Box Doccia",
+     "value": "80x110 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione",
+     "value": "cm 80x110x200"
+    }
+   ]
+  },
+  "material": {
+   "value": "Pvc",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale profili",
+     "value": "Pvc"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Vetro",
+     "value": "Temperato 6 mm trasparente"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Vetro Temperato",
+     "value": "Manovrare con cautela le parti vetrate poiché l’urto con una superficie dura o con spigoli potrebbe causare la frantumazione del cristallo"
+    }
+   ]
+  },
+  "finish": {
+   "value": "silver",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "silver"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Con sistema a calamita",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "Con sistema a calamita"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Maniglia",
+     "value": "Si"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Apertura",
+     "value": "Reversibile"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Si",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "Si"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Installazione",
+     "value": "riducibile -5 cm per lato"
+    }
+   ]
+  },
+  "certification": {
+   "value": "CE",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Box Doccia angolare": "espressione di comfort e praticità",
+  "Riducibile in fase di montaggio": "- 5 cm per lato",
+  "Ingresso max": "58 cm"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 6,
+  "L3": 15,
+  "dropped": 0
+ }
+}

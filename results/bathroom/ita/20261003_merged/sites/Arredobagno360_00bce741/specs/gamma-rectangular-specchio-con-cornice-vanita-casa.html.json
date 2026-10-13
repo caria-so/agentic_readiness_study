@@ -1,0 +1,113 @@
+{
+ "url": "https://www.arredobagno360.it/gamma-rectangular-specchio-con-cornice-vanita-casa.html",
+ "file": "gamma-rectangular-specchio-con-cornice-vanita-casa.html.html",
+ "title": "Gamma Rectangular | Specchio rettangolare con cornice, varie misure",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2997,
+ "attributes": {
+  "sku": {
+   "value": "gamma-rectangular-specchio-con-cornice-vanita-casa",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "gamma-rectangular-specchio-con-cornice-vanita-casa"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "gamma-rectangular-specchio-con-cornice-vanita-casa",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "gamma-rectangular-specchio-con-cornice-vanita-casa"
+    }
+   ]
+  },
+  "series": {
+   "value": "Gamma Rectangular | Specchio rettangolare con cornice, varie misure",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Gamma Rectangular | Specchio rettangolare con cornice, varie misure"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Modello",
+     "value": "Gamma Rectangular"
+    }
+   ]
+  },
+  "weight": {
+   "value": "39.0000 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "39.0000 KGM"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Vanità&Casa",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Produttore",
+     "value": "Vanità&Casa"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Specchio rettangolare",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Specchio rettangolare"
+    }
+   ]
+  },
+  "certification": {
+   "value": "Ogni prodotto è a Marchio CE (Fascicolo Tecnico e Dichiarazione di Conformità adeguati alle Direttive LVD e EMC) e testato come apparecchio separato. Tutti i prodotti distribuiti in Australia e Nuova Zelanda e in Giappone sono certificati rispettivamente SAA e PSE.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "Ogni prodotto è a Marchio CE (Fascicolo Tecnico e Dichiarazione di Conformità adeguati alle Direttive LVD e EMC) e testato come apparecchio separato. Tutti i prodotti distribuiti in Australia e Nuova "
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Caratteristiche": "Cornice in metallo nero opaco, spessore specchio 5mm, pellicola di sicurezza, fissaggio orizzontale o verticale",
+  "Plus": "Sicurezza, Certificazioni, Facile da appendere (Leggi di più nella sezione Approfondimento tecnico )"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 6,
+  "dropped": 4
+ }
+}

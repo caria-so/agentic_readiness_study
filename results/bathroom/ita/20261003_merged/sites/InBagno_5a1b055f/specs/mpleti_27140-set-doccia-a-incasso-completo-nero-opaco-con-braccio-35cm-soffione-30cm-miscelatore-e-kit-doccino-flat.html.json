@@ -1,0 +1,141 @@
+{
+ "url": "https://www.inbagno.it/set-doccia-completi/27140-set-doccia-a-incasso-completo-nero-opaco-con-braccio-35cm-soffione-30cm-miscelatore-e-kit-doccino-flat.html",
+ "file": "mpleti_27140-set-doccia-a-incasso-completo-nero-opaco-con-braccio-35cm-soffione-30cm-miscelatore-e-kit-doccino-flat.html.html",
+ "title": "Set doccia a incasso completo nero opaco con braccio 35cm, soffione 30cm, miscelatore e kit doccino Flat",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 10015,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Inbagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Inbagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "106219",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "106219"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "106219"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8054346071219",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8054346071219"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "106219",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "106219"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "set doccia con braccio, soffione e doccino;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "set doccia con braccio, soffione e doccino;"
+    }
+   ]
+  },
+  "material": {
+   "value": "acciaio, acciaio inox, ABS e PVC;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "acciaio, acciaio inox, ABS e PVC;"
+    }
+   ]
+  },
+  "finish": {
+   "value": "nero opaco;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "nero opaco;"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L 35 cm, spessore Ø 1,8 cm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni braccio",
+     "value": "L 35 cm, spessore Ø 1,8 cm;"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni soffione",
+     "value": "diametro 30 x H 4 cm;"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni miscelatore",
+     "value": "diametro 18 cm a due vie;"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni doccino",
+     "value": "diametro 2,9 x h 22 cm;"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni supporto",
+     "value": "p 7.4 x rosone ø 5.5 cm;"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 8,
+  "dropped": 10
+ }
+}

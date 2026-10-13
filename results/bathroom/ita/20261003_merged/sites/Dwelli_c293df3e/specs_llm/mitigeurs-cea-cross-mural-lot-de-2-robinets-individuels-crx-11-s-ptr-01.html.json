@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.fr/mitigeurs-cea-cross-mural-lot-de-2-robinets-individuels-crx-11-s-ptr-01.html",
+  "model": "qwen2.5:32b",
+  "html": "mitigeurs-cea-cross-mural-lot-de-2-robinets-individuels-crx-11-s-ptr-01.html.html",
+  "title": "Mitigeurs Cea Cross mural lot de 2 robinets individuels CRX 11 S + PTR 01 | Dwellistore",
+  "text_chars": 1136,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "satinato",
+      "evidence": "L'articolo è disponible anche nella finitura lucida, black diamond, bronzo, rame e light gold. L'inserzione si riferisce all'articolo CRX 11 S + PTR 01 satinato",
+      "location": "body"
+    },
+    "width": {
+      "value": "23 cm",
+      "evidence": "Dimensioni: 23 x 12,5 x ∅3 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "12,5 cm",
+      "evidence": "Dimensioni: 23 x 12,5 x ∅3 cm",
+      "location": "body"
+    },
+    "water": {
+      "value": "5 l/min",
+      "evidence": "Limitatore di portata 5 l/min.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "De Mur",
+        "evidence": "Type d'installation: De Mur"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1289,
+    "output_tokens": 635,
+    "seconds": 52.69
+  }
+}

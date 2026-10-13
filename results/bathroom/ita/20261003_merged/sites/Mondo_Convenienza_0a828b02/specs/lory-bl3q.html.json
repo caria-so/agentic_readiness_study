@@ -1,0 +1,61 @@
+{
+ "url": "https://www.mondoconv.it/lory-bl3q.html",
+ "file": "lory-bl3q.html.html",
+ "title": "CONFIGURA IL TUO DIVANO",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 500,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Mondo Convenienza",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Mondo Convenienza"
+    }
+   ]
+  },
+  "sku": {
+   "value": "BL3Q",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "BL3Q"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "BL3Q",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "BL3Q"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

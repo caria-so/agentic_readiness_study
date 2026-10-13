@@ -1,0 +1,64 @@
+{
+ "url": "https://www.tecnomat.it/it/interruttore-1p-10a-nea-bianco-opaco-10045434/",
+ "file": "it_interruttore-1p-10a-nea-bianco-opaco-10045434.html",
+ "title": "Interruttore 1p 10a nea bianco opaco",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1372,
+ "attributes": {
+  "brand": {
+   "value": "SIMON URMET",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "SIMON URMET"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10045434",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10045434"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10045434",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10045434"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Nome della serie": "Nea",
+  "Intensità di corrente nominale (in A)": "10"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": true,
+  "manufacturer_text": "URMET S.P.A. VIA BOLOGNA 188/C 10154, TORINO Italia Persona responsabile nell'UE : Questa informazione non è attualmente disponibile sul nostro sito. Ti consigliamo di contattare direttamente il venditore. Chiudi Scan the barcode to see all"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 4
+ }
+}

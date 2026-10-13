@@ -1,0 +1,154 @@
+{
+ "url": "https://www.boleco.it/box-doccia-semicircolare/3919-box-doccia-80x80-cm-semicircolare-silver-vetro-temperato.html",
+ "file": "box-doccia-semicircolare_3919-box-doccia-80x80-cm-semicircolare-silver-vetro-temperato.html.html",
+ "title": "Box doccia 80x80 cm semicircolare silver - vetro temperato",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4554,
+ "attributes": {
+  "sku": {
+   "value": "89448",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "89448"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "89448"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "89448"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Circolare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Box Doccia",
+     "value": "Circolare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Vetro Box Doccia",
+     "value": "Trasparente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Apertura",
+     "value": "Scorrevole"
+    }
+   ]
+  },
+  "colour": {
+   "value": "SILVER",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "SILVER"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "80x80 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Box Doccia",
+     "value": "80x80 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione",
+     "value": "80x80x200 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "PVC",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale Profili",
+     "value": "PVC"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Vetro Temperato",
+     "value": "Manovrare con cautela le parti vetrate poiché l’urto con una superficie dura o con spigoli potrebbe causare la frantumazione del cristallo."
+    }
+   ]
+  },
+  "finish": {
+   "value": "Silver",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "Silver"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Si",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "Si"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Installazione",
+     "value": "tolleranza 2 cm (78-80 cm x 78-80 cm)"
+    }
+   ]
+  },
+  "certification": {
+   "value": "CE",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Regolabile in fase di montaggio": "-2 cm",
+  "Raggio": "55 cm",
+  "Reversibile": "SI",
+  "Ingresso": "42 cm"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 6,
+  "L3": 12,
+  "dropped": 0
+ }
+}

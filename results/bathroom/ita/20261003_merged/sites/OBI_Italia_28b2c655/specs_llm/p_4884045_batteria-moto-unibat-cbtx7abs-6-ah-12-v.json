@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/4884045/batteria-moto-unibat-cbtx7abs-6-ah-12-v",
+  "model": "qwen2.5:32b",
+  "html": "p_4884045_batteria-moto-unibat-cbtx7abs-6-ah-12-v.html",
+  "title": "Batteria moto Unibat CBTX7ABS 6 Ah 12 V",
+  "text_chars": 924,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "lega di piombo e calcio",
+      "evidence": "La batteria per moto Unibat CBTX7ABS da 6 Ah e 12 V è costruita con una lega di piombo e calcio",
+      "location": "body"
+    },
+    "electrical": {
+      "value": "12 V",
+      "evidence": "Batteria moto Unibat CBTX7ABS 6 Ah 12 V",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1158,
+    "output_tokens": 601,
+    "seconds": 49.49
+  }
+}

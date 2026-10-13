@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/ullvide-federa-grigio-50337028/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_ullvide-federa-grigio-50337028.html",
+  "title": "ULLVIDE federa, grigio, 50x80 cm  - IKEA Italia",
+  "text_chars": 1941,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "50x80 cm",
+      "evidence": "ULLVIDE federa, grigio, 50x80 cm",
+      "location": "title"
+    },
+    "weight": {
+      "value": "0.15 kg",
+      "evidence": "Peso: 0.15 kg",
+      "location": "body"
+    },
+    "series": {
+      "value": "ULLVIDE",
+      "evidence": "ULLVIDE federa, grigio, 50x80 cm",
+      "location": "title"
+    },
+    "care": {
+      "value": "Lavabile in lavatrice, max 60°C, azione meccanica normale. Non candeggiare. Si può mettere nell'asciugatrice, a temperatura normale (max 80°C). Stirare a max 200°C. Non lavare a secco.",
+      "evidence": "Cura\nLavabile in lavatrice, max 60°C, azione meccanica normale.\nNon candeggiare.\nSi può mettere nell'asciugatrice, a temperatura normale (max 80°C).\nStirare a max 200°C.\nNon lavare a secco.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA of Sweden",
+        "evidence": "Designer\nIKEA of Sweden"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1617,
+    "output_tokens": 745,
+    "seconds": 62.66
+  }
+}

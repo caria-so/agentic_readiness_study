@@ -1,0 +1,188 @@
+{
+ "url": "https://www.mondialshop.it/it/applique-moderne/50832-applique-moderna-in-3-varianti-led.html",
+ "file": "it_applique-moderne_50832-applique-moderna-in-3-varianti-led.html.html",
+ "title": "Applique Moderna In 3 varianti LED",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3621,
+ "attributes": {
+  "brand": {
+   "value": "Gt Luce",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gt Luce"
+    }
+   ]
+  },
+  "sku": {
+   "value": "EIDOS",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "EIDOS"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "EIDOS",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "EIDOS"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.250000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.250000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco nero Oro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco nero Oro"
+    }
+   ]
+  },
+  "height": {
+   "value": "3,5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "3,5"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acrilico Metallo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Acrilico Metallo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiali",
+     "value": "Struttura portante in metallo e diffusore in ACRILICO ad alta resistenza."
+    }
+   ]
+  },
+  "installation": {
+   "value": "LED",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "LED"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "4440",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "4440"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Kelvin",
+     "value": "3000/4000/6500"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "20-30-40"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Classe",
+     "value": "E"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Protezione Ip",
+     "value": "IP20"
+    }
+   ]
+  },
+  "length": {
+   "value": "24",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza cm",
+     "value": "24"
+    }
+   ]
+  },
+  "width": {
+   "value": "15",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza cm",
+     "value": "15"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "24X15X3,5CM",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "24X15X3,5CM"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Controllo Luce": "Sistema dimmerabile per la gestione della luminosità.",
+  "CCT": "Regolazione della temperatura colore tramite interruttore interno (3000K, 4000K, 6000K)."
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 11,
+  "L3": 4,
+  "dropped": 1
+ }
+}

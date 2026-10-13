@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5507710/presa-tedesca-universale-4box-p40-compatibile-matix-kit-3x2-alimentatore-u",
+  "model": "qwen2.5:32b",
+  "html": "p_5507710_presa-tedesca-universale-4box-p40-compatibile-matix-kit-3x2-alimentatore-u.html",
+  "title": "Presa tedesca universale 4BOX P40 compatibile Matix Kit 3x2 alimentatore U",
+  "text_chars": 817,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "electrical": {
+      "value": "alimentatore Usb da 3 A",
+      "evidence": "L`alimentatore Usb da 3 A fornisce una potenza di ricarica rapida, consentendo di ricaricare i dispositivi in modo efficiente e veloce.",
+      "location": "body"
+    },
+    "series": {
+      "value": "P40",
+      "evidence": "La presa tedesca universale P40, compatibile Matix Kit 3x2 e dotata di alimentatore Usb da 3 A",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1135,
+    "output_tokens": 624,
+    "seconds": 51.05
+  }
+}

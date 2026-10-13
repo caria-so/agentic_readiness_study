@@ -1,0 +1,91 @@
+{
+  "source": "https://www.ikea.com/it/it/",
+  "generated": "2026-10-02T18:12:40.781362",
+  "block_count": 1,
+  "types": [
+    "ContactPoint",
+    "Country",
+    "FurnitureStore",
+    "ImageObject",
+    "OnlineStore",
+    "Person",
+    "Place",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 1547,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://www.ikea.com/it/it/#website",
+            "url": "https://www.ikea.com/it/it/",
+            "name": "IKEA Italy",
+            "description": "Ti diamo il benvenuto in IKEA. Scopri i nostri mobili dal prezzo accessibile e tante idee per arredare la casa, piccola o grande che sia, senza spendere una fortuna. Acquista online o trova un negozio vicino a te.",
+            "inLanguage": "it-IT",
+            "publisher": {
+              "@id": "https://www.ikea.com/it/it/#organization"
+            }
+          },
+          {
+            "@type": [
+              "OnlineStore",
+              "FurnitureStore"
+            ],
+            "@id": "https://www.ikea.com/it/it/#organization",
+            "url": "https://www.ikea.com/it/it/",
+            "name": "IKEA",
+            "alternateName": "IKEA Italy",
+            "legalName": "IKEA Italia S.r.l.",
+            "brand": "IKEA",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://www.ikea.com/it/it/#logo",
+              "url": "https://www.ikea.com/global/assets/logos/brand/ikea.svg"
+            },
+            "areaServed": {
+              "@type": "Country",
+              "name": "Italy"
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "customer service",
+              "areaServed": {
+                "@type": "Country",
+                "name": "Italy"
+              },
+              "availableLanguage": [
+                "Italian"
+              ],
+              "telephone": "+39 278 629 900",
+              "contactOption": null
+            },
+            "founder": {
+              "@type": "Person",
+              "name": "Ingvar Kamprad"
+            },
+            "foundingDate": "1943-07-28",
+            "foundingLocation": {
+              "@type": "Place",
+              "name": "Älmhult, Sweden"
+            },
+            "sameAs": [
+              "https://www.facebook.com/IKEAItalia/",
+              "https://instagram.com/ikeaitalia/",
+              "https://it.pinterest.com/explore/ikea/",
+              "https://x.com/ikeaitalia",
+              "https://www.youtube.com/user/IKEAitalia",
+              "https://en.wikipedia.org/wiki/IKEA",
+              "https://www.wikidata.org/wiki/Q54078",
+              "https://www.google.com/search?kgmid=/m/03tb1"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

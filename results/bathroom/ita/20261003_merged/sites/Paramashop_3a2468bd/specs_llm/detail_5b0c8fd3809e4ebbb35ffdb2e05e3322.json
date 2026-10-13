@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/5b0c8fd3809e4ebbb35ffdb2e05e3322",
+  "model": "qwen2.5:32b",
+  "html": "detail_5b0c8fd3809e4ebbb35ffdb2e05e3322.html",
+  "title": "Braccio doccia tondo in ottone nero opaco lunghezza 40cm | Parama",
+  "text_chars": 3664,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "ottone",
+      "evidence": "Braccio doccia a gomito quadrato lunghezza 40 cm in ottone nero opaco universale",
+      "location": "body"
+    },
+    "length": {
+      "value": "40 cm",
+      "evidence": "Braccio doccia a gomito quadrato lunghezza 40 cm in ottone nero opaco universale",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a muro",
+      "evidence": "Il corpo del braccio doccia è realizzato interamente in ottone nero opaco ed è strutturato con una flangia filettata ed un attacco da ½“ che permettono un’ installazione a muro universale",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "tondo",
+      "evidence": "Braccio doccia tondo in ottone nero opaco lunghezza 40cm",
+      "location": "title"
+    },
+    "brand": {
+      "value": "Parama",
+      "evidence": "Braccio doccia tondo in ottone nero opaco lunghezza 40cm | Parama",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "plumbing": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Attacco standard da ½\"",
+        "evidence": "Attacco standard da ½“"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2097,
+    "output_tokens": 650,
+    "seconds": 54.01
+  }
+}

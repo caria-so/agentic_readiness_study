@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/mobile-lavanderia-bonk-140-cm-coprilavatrice-e-copriasciugatrice-2-ante-e-lavatoio-a-destra-bianco-matrix-rovere-nodato",
+  "model": "qwen2.5:32b",
+  "html": "_mobile-lavanderia-bonk-140-cm-coprilavatrice-e-copriasciugatrice-2-ante-e-lavatoio-a-destra-bianco-matrix-rovere-nodato.html",
+  "title": "Mobile Lavanderia BONK 140 cm Coprilavatrice e Copriasciugatrice 2 Ante e Lavatoio a Destra Bianco Matrix/Rovere Nodato - Iperceramica",
+  "text_chars": 1495,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "nobilitato",
+      "evidence": "-Base portalavabo cm. L70xP63xH88 con 2 Ante in nobilitato finitura Bianco Matrix",
+      "location": "body"
+    },
+    "width": {
+      "value": "L140",
+      "evidence": "Mobile Lavanderia BONK 140 cm Coprilavatrice e Copriasciugatrice 2 Ante e Lavatoio a Destra Bianco Matrix/Rovere Nodato",
+      "location": "title"
+    },
+    "height": {
+      "value": "H88",
+      "evidence": "-Base portalavabo cm. L70xP63xH88 con 2 Ante in nobilitato finitura Bianco Matrix e maniglia in Metallo finitura Cromo lucido",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P63",
+      "evidence": "-Base portalavabo cm. L70xP63xH88 con 2 Ante in nobilitato finitura Bianco Matrix e maniglia in Metallo finitura Cromo lucido",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L140",
+      "evidence": "Mobile Lavanderia BONK 140 cm Coprilavatrice e Copriasciugatrice 2 Ante e Lavatoio a Destra Bianco Matrix/Rovere Nodato",
+      "location": "title"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "-Base portalavabo cm. L70xP63xH88 con 2 Ante in nobilitato finitura Bianco Matrix e maniglia in Metallo finitura Cromo lucido con appoggio a terra su 4 scivoli (piedini) in nylon",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "con ampia vasca profonda 33 cm. in ceramica senza foro miscelatore (predisposizione per 1 foro)",
+      "evidence": "- Lavabo lavatoio DOLOMITE® REVINE 61x50 cm. da incasso con ampia vasca profonda 33 cm. in ceramica senza foro miscelatore (predisposizione per 1 foro) Bianco Lucido",
+      "location": "body"
+    },
+    "series": {
+      "value": "Matrix/Rovere Nodato",
+      "evidence": "Mobile Lavanderia BONK 140 cm Coprilavatrice e Copriasciugatrice 2 Ante e Lavatoio a Destra Bianco Matrix/Rovere Nodato",
+      "location": "title"
+    },
+    "brand": {
+      "value": "BONK",
+      "evidence": "Mobile Lavanderia BONK 140 cm Coprilavatrice e Copriasciugatrice 2 Ante e Lavatoio a Destra Bianco Matrix/Rovere Nodato",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Bianco Matrix, Rovere Nodato, Metallo finitura Cromo lucido",
+        "evidence": "-Base portalavabo cm. L70xP63xH88 con 2 Ante in nobilitato finitura Bianco Matrix e maniglia in Metallo finitura Cromo lucido -Top verso Destro in nobilitato finitura Rovere Nodato"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1634,
+    "output_tokens": 993,
+    "seconds": 81.86
+  }
+}

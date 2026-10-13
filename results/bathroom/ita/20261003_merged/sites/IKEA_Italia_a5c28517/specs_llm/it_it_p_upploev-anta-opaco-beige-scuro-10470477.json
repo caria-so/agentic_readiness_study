@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/upploev-anta-opaco-beige-scuro-10470477/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_upploev-anta-opaco-beige-scuro-10470477.html",
+  "title": "UPPLÖV anta, opaco beige scuro, 40x40 cm  - IKEA Italia",
+  "text_chars": 4922,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "opaco",
+      "evidence": "UPPLÖV Anta, opaco beige scuro, 40x40 cm",
+      "location": "title"
+    },
+    "weight": {
+      "value": "2.51 kg",
+      "evidence": "Peso: 2.51 kg",
+      "location": "body"
+    },
+    "series": {
+      "value": "UPPLÖV",
+      "evidence": "UPPLÖV Anta, opaco beige scuro, 40x40 cm",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "25 anni di garanzia",
+      "evidence": "25 anni di garanzia",
+      "location": "body"
+    },
+    "care": {
+      "value": "Asciuga con un panno pulito. Pulisci con un panno in microfibra inumidito con acqua. Per le macchie più difficili, usa un detergente poco concentrato e strofina delicatamente con movimenti circolari.",
+      "evidence": "Cura Asciuga con un panno pulito. Pulisci con un panno in microfibra inumidito con acqua. Per le macchie più difficili, usa un detergente poco concentrato e strofina delicatamente con movimenti circolari.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "shape_style": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "rettangolare",
+        "evidence": "UPPLÖV Anta, opaco beige scuro, 40x40 cm"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA Italia",
+        "evidence": "UPPLÖV anta, opaco beige scuro, 40x40 cm - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2584,
+    "output_tokens": 861,
+    "seconds": 75.79
+  }
+}

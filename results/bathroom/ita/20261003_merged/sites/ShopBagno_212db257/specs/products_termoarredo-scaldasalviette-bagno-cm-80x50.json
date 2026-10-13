@@ -1,0 +1,58 @@
+{
+ "url": "https://www.shopbagno.it/products/termoarredo-scaldasalviette-bagno-cm-80x50",
+ "file": "products_termoarredo-scaldasalviette-bagno-cm-80x50.html",
+ "title": "Termoarredo Scaldasalviette Bagno cm 80x50",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 6042,
+ "attributes": {
+  "sku": {
+   "value": "w01bta800x500",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "w01bta800x500"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "productID",
+     "value": "2352148971577"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "W01BTA800X500"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "7445636359345",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "7445636359345"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 17
+ }
+}

@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/ae284c1f772e4b349730f90104e6130b",
+  "model": "qwen2.5:32b",
+  "html": "detail_ae284c1f772e4b349730f90104e6130b.html",
+  "title": "Box doccia 80x80 cm apertura battente da 80cm trasparente profili neri | Apulia",
+  "text_chars": 6208,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "vetro temperato",
+      "evidence": "Il vetro temperato certificato EN12150-1 , con uno spessore di 6 mm",
+      "location": "body"
+    },
+    "width": {
+      "value": "80cm",
+      "evidence": "Dimensione: 80x90cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "6mm",
+      "evidence": "Il vetro temperato certificato EN12150-1 , con uno spessore di 6 mm",
+      "location": "body"
+    },
+    "series": {
+      "value": "Apulia",
+      "evidence": "Box doccia Apulia 80x90 cm incarna un design contemporaneo e si distingue per la sua estetica affascinante con profili in alluminio nero opaco.",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    },
+    "certification": {
+      "value": "EN12150-1",
+      "evidence": "Il vetro temperato certificato EN12150-1 , con uno spessore di 6 mm",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3058,
+    "output_tokens": 684,
+    "seconds": 63.81
+  }
+}

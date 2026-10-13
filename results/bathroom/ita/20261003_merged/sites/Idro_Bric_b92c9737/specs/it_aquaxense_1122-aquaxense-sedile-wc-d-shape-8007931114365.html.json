@@ -1,0 +1,48 @@
+{
+ "url": "https://www.idrobric.it/it/aquaxense/1122-aquaxense-sedile-wc-d-shape-8007931114365.html",
+ "file": "it_aquaxense_1122-aquaxense-sedile-wc-d-shape-8007931114365.html.html",
+ "title": "Aquaxense Sedile Wc D-Shape",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 568,
+ "attributes": {
+  "sku": {
+   "value": "SCACER1127SE",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SCACER1127SE"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931114365",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931114365"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 0
+ }
+}

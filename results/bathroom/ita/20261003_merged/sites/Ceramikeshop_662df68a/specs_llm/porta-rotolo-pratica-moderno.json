@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/porta-rotolo-pratica-moderno",
+  "model": "qwen2.5:32b",
+  "html": "porta-rotolo-pratica-moderno.html",
+  "title": "Porta rotolo Pratica | Moderno | Capannoli | Ceramikeshop",
+  "text_chars": 8720,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromato",
+      "evidence": "Colore Principale\nCromato",
+      "location": "body"
+    },
+    "depth": {
+      "value": "cm.8",
+      "evidence": "cm.17,3x4,5 profondità cm.8",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "cm.17,3x4,5",
+      "evidence": "cm.17,3x4,5 profondità cm.8",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "Moderno",
+      "evidence": "Porta rotolo linea Pratica Moderno",
+      "location": "body"
+    },
+    "series": {
+      "value": "Pratica",
+      "evidence": "Porta rotolo linea Pratica Moderno",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4745,
+    "output_tokens": 546,
+    "seconds": 60.99
+  }
+}

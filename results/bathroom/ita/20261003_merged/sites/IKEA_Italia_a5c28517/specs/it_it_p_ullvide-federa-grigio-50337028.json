@@ -1,0 +1,156 @@
+{
+ "url": "https://www.ikea.com/it/it/p/ullvide-federa-grigio-50337028/",
+ "file": "it_it_p_ullvide-federa-grigio-50337028.html",
+ "title": "ULLVIDE Federa, grigio, 50x80 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1941,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "503.370.28",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "503.370.28"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "503.370.28",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "503.370.28"
+    }
+   ]
+  },
+  "material": {
+   "value": "Cotone/lyocell",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Cotone/lyocell"
+    }
+   ]
+  },
+  "colour": {
+   "value": "grigio",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "grigio"
+    }
+   ]
+  },
+  "width": {
+   "value": "80 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "80 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "80 cm"
+    }
+   ]
+  },
+  "depth": {
+   "value": "50 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "50 cm"
+    }
+   ]
+  },
+  "length": {
+   "value": "50 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza",
+     "value": "50 cm"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "13 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "13 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "3 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lunghezza",
+     "value": "18 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.15 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "0.15 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero di fili": "200 Pollice²",
+  "Quantità federe": "1 pz."
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 4,
+  "L3": 5,
+  "dropped": 0
+ }
+}

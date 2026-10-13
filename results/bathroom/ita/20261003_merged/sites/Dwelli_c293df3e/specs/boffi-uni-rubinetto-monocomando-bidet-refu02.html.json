@@ -1,0 +1,109 @@
+{
+ "url": "https://dwellistore.it/boffi-uni-rubinetto-monocomando-bidet-refu02.html",
+ "file": "boffi-uni-rubinetto-monocomando-bidet-refu02.html.html",
+ "title": "Boffi Uni Rubinetto Monocomando Bidet REFU02",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 3398,
+ "attributes": {
+  "brand": {
+   "value": "Boffi",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Boffi"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Boffi"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marca",
+     "value": "Boffi"
+    }
+   ]
+  },
+  "sku": {
+   "value": "REFU02",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "REFU02"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "REFU02"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "REFU02",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "REFU02"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Acciaio Satinato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "Acciaio Satinato"
+    }
+   ]
+  },
+  "series": {
+   "value": "Boffi Uni",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Boffi Uni"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "15,5x13 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "15,5x13 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 3,
+  "L3": 2,
+  "dropped": 2
+ }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/termoarredo-idraulico/50653-termoarredo-scaldasalviette-1500x600-bianco-interasse-550-mm-7438648960135.html",
+  "model": "qwen2.5:32b",
+  "html": "it_termoarredo-idraulico_50653-termoarredo-scaldasalviette-1500x600-bianco-interasse-550-mm-7438648960135.html.html",
+  "title": "Radiatore Termoarredo scaldasalviette 800x600 bianco interasse 550 mm",
+  "text_chars": 2811,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1845,
+    "output_tokens": 576,
+    "seconds": 50.67
+  }
+}

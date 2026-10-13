@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.de/alape-fb-me-eingebautes-waschbecken-fb-me750-wei.html",
+  "model": "qwen2.5:32b",
+  "html": "alape-fb-me-eingebautes-waschbecken-fb-me750-wei.html.html",
+  "title": "Alape FB.ME Einbauwaschbecken FB.ME750-Weiße Waschbecken  | Dwellistore",
+  "text_chars": 583,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "weiß",
+      "evidence": "Alape FB.ME Einbauwaschbecken FB.ME750-Weiße Waschbecken",
+      "location": "title"
+    },
+    "width": {
+      "value": "750 mm",
+      "evidence": "rechteckig, 750 x 375 mm, Tiefe 111 mm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "111 mm",
+      "evidence": "rechteckig, 750 x 375 mm, Tiefe 111 mm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "750 x 375 mm",
+      "evidence": "rechteckig, 750 x 375 mm, Tiefe 111 mm",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "rechteckig",
+      "evidence": "rechteckig, 750 x 375 mm, Tiefe 111 mm",
+      "location": "body"
+    },
+    "series": {
+      "value": "FB.ME",
+      "evidence": "Alape FB.ME Einbauwaschbecken FB.ME750-Weiße Waschbecken",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Waschbecken zur Unterputzmontage in 30 mm dicken Regalen"
+      }
+    },
+    "plumbing": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "ohne Loch für den Waschtischmischer und Waschtischmischer, inkl. Ablauf mit verchromter Kappe",
+        "evidence": "ohne Loch für den Waschtischmischer und Waschtischmischer , inkl. Ablauf mit verchromter Kappe"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1072,
+    "output_tokens": 704,
+    "seconds": 53.98
+  }
+}

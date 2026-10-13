@@ -1,0 +1,81 @@
+{
+  "company": "Paramashop",
+  "url": "https://www.paramashop.it/",
+  "site_dir": "discovery_round_final_e/sites/Paramashop_3a2468bd",
+  "final_url": "https://www.paramashop.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.414532",
+  "http_status": 200,
+  "fetch_ms": 30846.4,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.paramashop.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Paramashop_3a2468bd/index.html",
+      "count": 371658,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.paramashop.it/sitemap/salesChannel-e8f14c79850a45c790308d02cae90c2c-2fbb5fe2e29a4d70aa5854ce7ce3e20b/e8f14c79850a45c790308d02cae90c2c-df122e8821a542578678dd59a4f1f3d0-sitemap-www-paramashop-it-1.xml.gz",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Paramashop_3a2468bd/sitemap.json",
+      "count": 20000,
+      "total_available": 21125,
+      "truncated": true,
+      "product_url_count": 19598,
+      "product_total_available": 20676
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Paramashop_3a2468bd/jsonld.json",
+      "count": 1,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Paramashop_3a2468bd/links.json",
+      "count": 186,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

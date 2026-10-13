@@ -1,0 +1,58 @@
+{
+ "url": "https://www.shopbagno.it/products/colonna-doccia-regolabile-cromata-miscelatore-soffione-20x20-dakota",
+ "file": "products_colonna-doccia-regolabile-cromata-miscelatore-soffione-20x20-dakota.html",
+ "title": "Colonna Doccia Regolabile Cromata Con Miscelatore e Soffione 20x20 – Dakota",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 9661,
+ "attributes": {
+  "sku": {
+   "value": "wed-m3160",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "wed-m3160"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "productID",
+     "value": "15415445356867"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "WED-M3160"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "0609003972866",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "0609003972866"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 18
+ }
+}

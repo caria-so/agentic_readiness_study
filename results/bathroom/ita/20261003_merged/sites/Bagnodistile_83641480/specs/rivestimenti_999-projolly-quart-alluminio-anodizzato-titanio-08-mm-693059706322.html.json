@@ -1,0 +1,94 @@
+{
+ "url": "https://www.bagnodistile.com/rivestimenti/999-projolly-quart-alluminio-anodizzato-titanio-08-mm-693059706322.html",
+ "file": "rivestimenti_999-projolly-quart-alluminio-anodizzato-titanio-08-mm-693059706322.html.html",
+ "title": "PROJOLLY QUART ALLUMINIO Anodizzato TITANIO 08 MM.",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4041,
+ "attributes": {
+  "brand": {
+   "value": "PROGRESS PROFILES",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "PROGRESS PROFILES"
+    }
+   ]
+  },
+  "sku": {
+   "value": "PJAT08",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "PJAT08"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059706322",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059706322"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "PJAT08",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "PJAT08"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.000000 kg"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "8mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore",
+     "value": "8mm"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 1,
+  "L3": 0,
+  "dropped": 30
+ }
+}

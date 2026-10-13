@@ -1,0 +1,37 @@
+{
+ "url": "https://www.iperceramica.it/it/ita/catalogo/piastrella-nevada-grey-20-5x41-5-gres-per-esterni-effetto-pietra-grigia",
+ "file": "it_ita_catalogo_piastrella-nevada-grey-20-5x41-5-gres-per-esterni-effetto-pietra-grigia.html",
+ "title": "Piastrella Nevada Grey 20,5X41,5 Gres per Esterni Effetto Pietra Grigia",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2298,
+ "attributes": {
+  "sku": {
+   "value": "71286",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "71286"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

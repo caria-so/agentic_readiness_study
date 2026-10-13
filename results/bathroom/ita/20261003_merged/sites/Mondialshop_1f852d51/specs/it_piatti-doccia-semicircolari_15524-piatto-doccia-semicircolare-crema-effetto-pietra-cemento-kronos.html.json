@@ -1,0 +1,181 @@
+{
+ "url": "https://www.mondialshop.it/it/piatti-doccia-semicircolari/15524-piatto-doccia-semicircolare-crema-effetto-pietra-cemento-kronos.html",
+ "file": "it_piatti-doccia-semicircolari_15524-piatto-doccia-semicircolare-crema-effetto-pietra-cemento-kronos.html.html",
+ "title": "Piatto Doccia Semicircolare Crema effetto pietra cemento KRONOS",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 7547,
+ "attributes": {
+  "brand": {
+   "value": "OLIMPO DOCCE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "OLIMPO DOCCE"
+    }
+   ]
+  },
+  "sku": {
+   "value": "SEC-CREMA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "SEC-CREMA"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "SEC-CREMA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "SEC-CREMA"
+    }
+   ]
+  },
+  "weight": {
+   "value": "15.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "15.000000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Crema",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Crema"
+    }
+   ]
+  },
+  "series": {
+   "value": "Plus",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "Plus"
+    }
+   ]
+  },
+  "material": {
+   "value": "Minerale Marmo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Minerale Marmo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale Struttura",
+     "value": "Corpo solido e durevole stampato in pietra ricostruita marmo resina di alta qualità."
+    }
+   ]
+  },
+  "thickness": {
+   "value": "3",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore Cristallo",
+     "value": "3"
+    }
+   ]
+  },
+  "installation": {
+   "value": "In appoggio su massetto o filo pavimento",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "In appoggio su massetto o filo pavimento"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Piatto doccia geometrico semicircolare con superficie texturizzata effetto pietra.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Design Moderno",
+     "value": "Piatto doccia geometrico semicircolare con superficie texturizzata effetto pietra."
+    }
+   ]
+  },
+  "finish": {
+   "value": "Rivestimento igienico e protettivo eseguito in una ricca palette di colorazioni d'arredo.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura Superficiale",
+     "value": "Rivestimento igienico e protettivo eseguito in una ricca palette di colorazioni d'arredo."
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Configurazione idraulica interna provvista di alloggiamento per piletta con foro centrale.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Scarico Optimizzato",
+     "value": "Configurazione idraulica interna provvista di alloggiamento per piletta con foro centrale."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Diametro Foro": "90 mm",
+  "Pieno": "Sì",
+  "Tagliabile": "Sì",
+  "Anti Scivolo": "Si",
+  "Reversibile": "Sì",
+  "Raggio di curvatura": "55°",
+  "Diritto al recesso": "Articolo prodotto su ordinazione in modo artigianale. Non è possibile annullare l'ordine o rendere l'articolo",
+  "rifinito su quattro lati": "reversibile",
+  "semicircolare": "Crema",
+  "Profilo Ribassato": "Spessore ultrasottile pari a soli 3cm per installazioni standard o a filo pavimento.",
+  "Versatilità di Posa": "Struttura flessibile e totalmente reversibile con bordi lavorati e rifiniti su quattro lati.",
+  "Accessori Inclusi": "Copertura dello scarico geometrica garantita dalla griglia inox inclusa nel confezionamento.",
+  "Sicurezza e Salute": "Superficie tecnica certificata con proprietà antiscivolo e trattamento antibatterico permanente.",
+  "Resistenza Meccanica": "Strato esterno rinforzato con proprietà antigraffio per mantenere inalterata la texture nel tempo.",
+  "Gamma Misure": "Sviluppo dimensionale modulare disponibile nelle varianti standard 80x80, 90x90 e 100x100 cm."
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 14,
+  "L3": 10,
+  "dropped": 2
+ }
+}

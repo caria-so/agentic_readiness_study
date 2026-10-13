@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/rettangolare/25239-box-doccia-angolare-70x110-cm-scorrevole-in-cristallo-temperato-tay.html",
+  "model": "qwen2.5:32b",
+  "html": "rettangolare_25239-box-doccia-angolare-70x110-cm-scorrevole-in-cristallo-temperato-tay.html.html",
+  "title": "Box doccia angolare 70x110 cm scorrevole in cristallo temperato  Tay",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "70 cm",
+      "evidence": "Box doccia angolare 70x110 cm scorrevole in cristallo temperato Tay",
+      "location": "title"
+    },
+    "height": {
+      "value": "195 cm",
+      "evidence": "Dimensioni:L 110 x p 70 x H 195 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "110 cm",
+      "evidence": "Box doccia angolare 70x110 cm scorrevole in cristallo temperato Tay",
+      "location": "title"
+    },
+    "thickness": {
+      "value": "5 mm",
+      "evidence": "Vetro trasparente,spessore 5 mm;",
+      "location": "body"
+    },
+    "installation": {
+      "value": "filo pavimento o su piatto doccia",
+      "evidence": "Installazione filo pavimento o su piatto doccia;",
+      "location": "body"
+    },
+    "opening": {
+      "value": "scorrevole",
+      "evidence": "Box doccia angolare 70x110 cm scorrevole in cristallo temperato Tay",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "cromato lucido",
+        "evidence": "Profilo in alluminio cromato lucido, quest’ultimo con possibilità di regolazione per pareti fuori squadro."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3668,
+    "output_tokens": 700,
+    "seconds": 64.53
+  }
+}

@@ -1,0 +1,110 @@
+{
+ "url": "https://www.inbagno.it/specchi-con-led/25702-specchio-reversibile-110x90-illuminazione-perimetrale-led-e-spessore-4-mm.html",
+ "file": "specchi-con-led_25702-specchio-reversibile-110x90-illuminazione-perimetrale-led-e-spessore-4-mm.html.html",
+ "title": "Specchio reversibile 110x90 illuminazione perimetrale LED e spessore 4 mm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9543,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Inbagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Inbagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "104678",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "104678"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "104678"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8050391157984",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8050391157984"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "104678",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "104678"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "specchiera LED;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "specchiera LED;"
+    }
+   ]
+  },
+  "material": {
+   "value": "vetro (4 mm);",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "vetro (4 mm);"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L 110 x p 2,5 x H 90 cm,installazione reversibile;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "L 110 x p 2,5 x H 90 cm,installazione reversibile;"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 3,
+  "dropped": 9
+ }
+}

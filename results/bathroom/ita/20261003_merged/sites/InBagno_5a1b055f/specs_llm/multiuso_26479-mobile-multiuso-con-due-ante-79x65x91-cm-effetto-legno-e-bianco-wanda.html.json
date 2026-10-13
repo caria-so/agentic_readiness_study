@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/multiuso/26479-mobile-multiuso-con-due-ante-79x65x91-cm-effetto-legno-e-bianco-wanda.html",
+  "model": "qwen2.5:32b",
+  "html": "multiuso_26479-mobile-multiuso-con-due-ante-79x65x91-cm-effetto-legno-e-bianco-wanda.html.html",
+  "title": "Mobile multiuso con due ante 71x65x91 cm effetto legno e bianco Wanda",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "71 cm",
+      "evidence": "Dimensioni: L 71 x p 65 x H 91 cm;",
+      "location": "body"
+    },
+    "height": {
+      "value": "91 cm",
+      "evidence": "Dimensioni: L 71 x p 65 x H 91 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "65 cm",
+      "evidence": "Dimensioni: L 71 x p 65 x H 91 cm;",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Base mobile da terra per lavanderia o arredo bagno",
+      "location": "body"
+    },
+    "opening": {
+      "value": "push-pull",
+      "evidence": "Ante con apertura push-pull e ripiano interno;",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3826,
+    "output_tokens": 628,
+    "seconds": 59.7
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/piatti-doccia-semicircolari/15524-piatto-doccia-semicircolare-crema-effetto-pietra-cemento-kronos.html",
+  "model": "qwen2.5:32b",
+  "html": "it_piatti-doccia-semicircolari_15524-piatto-doccia-semicircolare-crema-effetto-pietra-cemento-kronos.html.html",
+  "title": "Piatto doccia Crema Semi Circolare in marmoresina Kronos",
+  "text_chars": 7547,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "80x80, 90x90, 100x100 cm",
+      "evidence": "Gamma Misure: Sviluppo dimensionale modulare disponibile nelle varianti standard 80x80, 90x90 e 100x100 cm.",
+      "location": "body"
+    },
+    "care": {
+      "value": "Per rimuovere i residui di acqua e sapone, è sufficiente passare sulla superficie una spugna morbida con un detergente liquido neutro diluito, risciacquando poi con acqua fredda. Per mantenere inalterata la bellezza della texture, ti consigliamo di asciugare il piatto dopo l'uso con un panno morbido in microfibra o un lavavetri in gomma.",
+      "evidence": "Per rimuovere i residui di acqua e sapone, è sufficiente passare sulla superficie una spugna morbida con un detergente liquido neutro diluito, risciacquando poi con acqua fredda. Per mantenere inalterata la bellezza della texture, ti consigliamo di asciugare il piatto dopo l'uso con un panno morbido in microfibra o un lavavetri in gomma.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3198,
+    "output_tokens": 1009,
+    "seconds": 90.46
+  }
+}

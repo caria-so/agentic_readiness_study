@@ -1,0 +1,96 @@
+{
+  "source": "https://www.iperceramica.it/",
+  "generated": "2026-10-02T17:12:35.202668",
+  "block_count": 1,
+  "types": [
+    "Organization",
+    "PostalAddress"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 2507,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "IPERCERAMICA",
+        "url": "https://www.iperceramica.it/",
+        "logo": "https://cdn.iperceramica.it/images/header/logo-iper-2025-it.png",
+        "description": "IPERCERAMICA è la prima catena di negozi totalmente italiana per la vendita di pavimenti, rivestimenti, parquet, sanitari, arredo bagno e tantissimi altri prodotti.",
+        "email": "info@iperceramica.it",
+        "telephone": "+3905361846400",
+        "vatID": "IT02732900366",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Via Pedemontana 13",
+          "addressLocality": "Fiorano Modenese",
+          "addressRegion": "Emilia-Romagna",
+          "postalCode": "41042",
+          "addressCountry": "IT"
+        },
+        "sameAs": [
+          "https://it.trustpilot.com/review/iperceramica.it",
+          "https://www.instagram.com/iperceramicait",
+          "https://www.facebook.com/iperceramica",
+          "https://www.pinterest.com/iperceramica/",
+          "https://www.youtube.com/user/iperceramica"
+        ],
+        "subOrganization": [
+          {
+            "@type": "Organization",
+            "name": "IPERCERAMICA France",
+            "url": "https://www.iperceramica.fr/",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "15, rue du Louvre",
+              "addressLocality": "Paris",
+              "addressRegion": "Île-de-France",
+              "postalCode": "75001",
+              "addressCountry": "FR"
+            }
+          },
+          {
+            "@type": "Organization",
+            "name": "IPERCERAMICA Deutschland",
+            "url": "https://www.iperceramica.de/",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Verdistraße 83",
+              "addressLocality": "München",
+              "addressRegion": "Bayern",
+              "postalCode": "81247",
+              "addressCountry": "DE"
+            }
+          },
+          {
+            "@type": "Organization",
+            "name": "IPERCERAMICA Austria",
+            "url": "https://www.iperceramica.at/",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Triester Straße 230",
+              "addressLocality": "Wien",
+              "addressRegion": "Wien",
+              "postalCode": "1010",
+              "addressCountry": "AT"
+            }
+          },
+          {
+            "@type": "Organization",
+            "name": "IPERCERAMICA Malta",
+            "url": "https://www.iperceramica.mt/",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Domestica Complex – Valley Road",
+              "addressLocality": "Msida",
+              "addressRegion": "Central Region",
+              "postalCode": "MSD 9020",
+              "addressCountry": "MT"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

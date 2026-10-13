@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/miscelatore-lavabo-ad-incasso-con-bocca-a-parete-interesse-fisso-senza-scarico-mia",
+  "model": "qwen2.5:32b",
+  "html": "miscelatore-lavabo-ad-incasso-con-bocca-a-parete-interesse-fisso-senza-scarico-mia.html",
+  "title": "Mix lavabo bocca a parete interasse fisso senza scarico Mia | Gaboli",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromo",
+      "evidence": "Miscelatore lavabo ad incasso con bocca a parete interesse fisso senza scarico. Collezione Mia versione cromo.",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "senza scarico",
+      "evidence": "Miscelatore lavabo ad incasso con bocca a parete interesse fisso senza scarico.",
+      "location": "body"
+    },
+    "series": {
+      "value": "Mia",
+      "evidence": "Miscelatore lavabo ad incasso con bocca a parete interesse fisso senza scarico. Collezione Mia versione cromo.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Miscelatore lavabo ad incasso con bocca a parete interesse fisso senza scarico."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4730,
+    "output_tokens": 579,
+    "seconds": 63.89
+  }
+}

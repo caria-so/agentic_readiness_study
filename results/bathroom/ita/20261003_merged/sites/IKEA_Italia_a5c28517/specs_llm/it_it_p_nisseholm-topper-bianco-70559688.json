@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/nisseholm-topper-bianco-70559688/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_nisseholm-topper-bianco-70559688.html",
+  "title": "NISSEHOLM topper, bianco, 80x200 cm  - IKEA Italia",
+  "text_chars": 3069,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "weight": {
+      "value": "4.30 kg",
+      "evidence": "Peso: 4.30 kg",
+      "location": "body"
+    },
+    "series": {
+      "value": "NISSEHOLM",
+      "evidence": "NISSEHOLM topper, bianco, 80x200 cm",
+      "location": "title"
+    },
+    "care": {
+      "value": "Fodera per topper Lavabile in lavatrice, max 60°C, azione meccanica normale. Non candeggiare. Non stirare. Non lavare a secco. Appendi il prodotto ad asciugare.",
+      "evidence": "Cura\nFodera per topper\nLavabile in lavatrice, max 60°C, azione meccanica normale.\nNon candeggiare.\nNon stirare.\nNon lavare a secco.\nAppendi il prodotto ad asciugare.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "material": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Rivestimento del materasso: 100% poliestere (100% riciclato), Imbottitura del piumino: 100% poliestere (min 70% riciclato), Rivestimento del dorso: 100% polipropilene, Imbottitura: Poliuretano espanso ad alta elasticità, kg 30/m3",
+        "evidence": "Materiale\nRivestimento del materasso:\n100% poliestere (100% riciclato)\nImbottitura del piumino:\n100% poliestere (min 70% riciclato)\nRivestimento del dorso:\n100% polipropilene\nImbottitura:\nPoliuretano espanso ad alta elasticità, kg 30/m3"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA Italia",
+        "evidence": "NISSEHOLM topper, bianco, 80x200 cm - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2048,
+    "output_tokens": 880,
+    "seconds": 74.95
+  }
+}

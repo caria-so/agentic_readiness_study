@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/piatto-doccia-petra-90x100-h2-5-effetto-pietra-bocciardata-bianco",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_piatto-doccia-petra-90x100-h2-5-effetto-pietra-bocciardata-bianco.html",
+  "title": "Piatto Doccia Petra 90x100 H2,5 Effetto Pietra Bocciardata Bianco - Iperceramica",
+  "text_chars": 1231,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "resina",
+      "evidence": "PETRA piatto doccia in resina effetto pietra bocciardata cm. 100x90 h2,5 con griglia copripiletta",
+      "location": "body"
+    },
+    "finish": {
+      "value": "effetto pietra",
+      "evidence": "PETRA piatto doccia in resina effetto pietra bocciardata cm. 100x90 h2,5 con griglia copripiletta",
+      "location": "body"
+    },
+    "colour": {
+      "value": "bianco opaco",
+      "evidence": "con griglia copripiletta con disegno a fessure oblique in acciaio inox bianco opaco - finitura bianco",
+      "location": "body"
+    },
+    "width": {
+      "value": "90 cm",
+      "evidence": "PETRA piatto doccia in resina effetto pietra bocciardata cm. 100x90 h2,5 con griglia copripiletta",
+      "location": "body"
+    },
+    "height": {
+      "value": "2,5 cm",
+      "evidence": "PETRA piatto doccia in resina effetto pietra bocciardata cm. 100x90 h2,5 con griglia copripiletta",
+      "location": "body"
+    },
+    "depth": {
+      "value": "100 cm",
+      "evidence": "PETRA piatto doccia in resina effetto pietra bocciardata cm. 100x90 h2,5 con griglia copripiletta",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "cm. 100x90 h2,5",
+      "evidence": "PETRA piatto doccia in resina effetto pietra bocciardata cm. 100x90 h2,5 con griglia copripiletta",
+      "location": "body"
+    },
+    "series": {
+      "value": "PETRA",
+      "evidence": "PETRA piatto doccia in resina effetto pietra bocciardata cm. 100x90 h2,5 con griglia copripiletta",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "Piatto Doccia Petra 90x100 H2,5 Effetto Pietra Bocciardata Bianco - Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1447,
+    "output_tokens": 842,
+    "seconds": 69.34
+  }
+}

@@ -1,0 +1,96 @@
+{
+ "url": "https://www.arredobagno360.it/cesti-portabiancheria-design-moderni-canistro-bianco.html",
+ "file": "cesti-portabiancheria-design-moderni-canistro-bianco.html.html",
+ "title": "Canistro | Gettacarte in cuoio rigenerato 31x24cm H34cm, colore K07",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1068,
+ "attributes": {
+  "sku": {
+   "value": "cesti-portabiancheria-canistro-bianco",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "cesti-portabiancheria-canistro-bianco"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "cesti-portabiancheria-canistro-bianco",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "cesti-portabiancheria-canistro-bianco"
+    }
+   ]
+  },
+  "series": {
+   "value": "Canistro | Gettacarte in cuoio rigenerato 31x24cm H34cm, colore K07",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Canistro | Gettacarte in cuoio rigenerato 31x24cm H34cm, colore K07"
+    }
+   ]
+  },
+  "material": {
+   "value": "Cuoio rigenerato",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Cuoio rigenerato"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "31x24x34 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "31x24x34 cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore cuoio",
+     "value": "Bianco"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Articolo": "Limac Design Adele"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 4,
+  "dropped": 3
+ }
+}

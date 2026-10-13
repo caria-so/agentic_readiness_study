@@ -1,0 +1,120 @@
+{
+ "url": "https://www.shopbagno.it/products/porta-doccia-h200-doppio-scorrevole-ingresso-centrale-8mm-anticalcare",
+ "file": "products_porta-doccia-h200-doppio-scorrevole-ingresso-centrale-8mm-anticalcare.html",
+ "title": "Porta Doccia H200 Doppio Scorrevole Ingresso Centrale 8mm Anticalcare",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 7385,
+ "attributes": {
+  "sku": {
+   "value": "wkg-elysium600-150",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "wkg-elysium600-150"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "WKG-ELYSIUM600-150"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "609003975522",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin12",
+     "value": "609003975522"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "145 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "dimensioni",
+     "value": "145 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "200cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "200cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "8mm trasparente",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Cristallo",
+     "value": "8mm trasparente"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Doppio scorrevole",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Apertura",
+     "value": "Doppio scorrevole"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "Magnetica"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Moderno, Design",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Stile",
+     "value": "Moderno, Design"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Adattabilità": "+4cm",
+  "Anticalcare": "Sì",
+  "Sgancio rapido": "Sì",
+  "Tenuta inferiore": "Profilo",
+  "Profili": "Alluminio cromato",
+  "Su misura": "Richiedi quotazione"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 12,
+  "dropped": 14
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "url": "https://jo-bagno.it/gsi-ex-facis-ex-venus/copriwater-wc-pura-55-ceramica-g-s-i-termoindurente.html",
+ "file": "gsi-ex-facis-ex-venus_copriwater-wc-pura-55-ceramica-g-s-i-termoindurente.html.html",
+ "title": "Copriwater WC Pura 55 Ceramica G.S.I. Termoindurente",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3706,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Jo-Bagno.it",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jo-Bagno.it"
+    }
+   ]
+  },
+  "sku": {
+   "value": "JEU700-PURA55",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "JEU700-PURA55"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8056389942624",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8056389942624"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "X: 35,5 Y: 41,8-46,2 Z: 13,6-22,4 (JZZ45G)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "X: 35,5 Y: 41,8-46,2 Z: 13,6-22,4 (JZZ45G)"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Copriwater Compatibile realizzato sullo stampo dell’originale",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Copriwater Compatibile realizzato sullo stampo dell’originale"
+    }
+   ]
+  },
+  "material": {
+   "value": "Termoindurente",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Termoindurente"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Normal Close o Soft Close a Sgancio Rapido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "Normal Close o Soft Close a Sgancio Rapido"
+    }
+   ]
+  },
+  "weight": {
+   "value": "2 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "2 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 5,
+  "dropped": 5
+ }
+}

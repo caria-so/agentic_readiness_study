@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/camera-da-letto/letti/strutture-letto-e-reti-letto/strutture-letto/struttura-letto-ellinge-140x200-con-contenitore-rovere-caldo",
+  "model": "qwen2.5:32b",
+  "html": "da-letto_letti_strutture-letto-e-reti-letto_strutture-letto_struttura-letto-ellinge-140x200-con-contenitore-rovere-caldo.html",
+  "title": "Struttura letto ELLINGE 140x200 con contenitore rovere caldo | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "144 cm",
+      "evidence": "Larghezza 144 cm, Lunghezza 204 cm, Altezza 35 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "35 cm",
+      "evidence": "Larghezza 144 cm, Lunghezza 204 cm, Altezza 35 cm",
+      "location": "body"
+    },
+    "length": {
+      "value": "204 cm",
+      "evidence": "Larghezza 144 cm, Lunghezza 204 cm, Altezza 35 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "ELLINGE",
+      "evidence": "Struttura letto ELLINGE 140x200 con contenitore rovere caldo",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5035,
+    "output_tokens": 761,
+    "seconds": 79.67
+  }
+}

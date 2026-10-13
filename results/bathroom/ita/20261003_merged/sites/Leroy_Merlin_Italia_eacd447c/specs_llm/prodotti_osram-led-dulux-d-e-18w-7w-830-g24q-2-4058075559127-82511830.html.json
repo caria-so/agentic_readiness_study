@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/osram-led-dulux-d-e-18w-7w-830-g24q-2-4058075559127-82511830.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_osram-led-dulux-d-e-18w-7w-830-g24q-2-4058075559127-82511830.html.html",
+  "title": "OSRAM - LED DULUX D/E (18W) 7W/830 G24Q-2 - 4058075559127 | Leroy Merlin",
+  "text_chars": 4382,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2542,
+    "output_tokens": 537,
+    "seconds": 48.6
+  }
+}

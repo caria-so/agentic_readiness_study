@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/4064309/pasta-polimerica-to-do-you-clay-034-britsh-green-56-g",
+  "model": "qwen2.5:32b",
+  "html": "p_4064309_pasta-polimerica-to-do-you-clay-034-britsh-green-56-g.html",
+  "title": "Pasta polimerica To-Do You Clay 034 Britsh Green 56 g",
+  "text_chars": 682,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "pasta polimerica",
+      "evidence": "La pasta polimerica To-Do You Clay è un prodotto altamente innovativo e versatile",
+      "location": "body"
+    },
+    "series": {
+      "value": "To-Do You Clay",
+      "evidence": "Pasta polimerica To-Do You Clay",
+      "location": "title"
+    },
+    "brand": {
+      "value": "To-Do",
+      "evidence": "Pasta polimerica To-Do You Clay",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1072,
+    "output_tokens": 549,
+    "seconds": 45.17
+  }
+}

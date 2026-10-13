@@ -1,0 +1,61 @@
+{
+ "url": "https://ceramikeshop.it/coppia-vaso-e-bidet-cm55-meg11-pro-coprivaso-incluso",
+ "file": "coppia-vaso-e-bidet-cm55-meg11-pro-coprivaso-incluso.html",
+ "title": "Coppia Vaso e Bidet cm.55 Meg11 Pro coprivaso incluso | Galassia",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8469,
+ "attributes": {
+  "brand": {
+   "value": "Ceramica Galassia",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Ceramica Galassia"
+    }
+   ]
+  },
+  "sku": {
+   "value": "GLSS/5480V2-5481V2-5454",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "GLSS/5480V2-5481V2-5454"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "GLSS/5480V2-5481V2-5454",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "GLSS/5480V2-5481V2-5454"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

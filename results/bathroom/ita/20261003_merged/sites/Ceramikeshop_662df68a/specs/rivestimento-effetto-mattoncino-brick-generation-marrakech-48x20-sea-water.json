@@ -1,0 +1,61 @@
+{
+ "url": "https://ceramikeshop.it/rivestimento-effetto-mattoncino-brick-generation-marrakech-48x20-sea-water",
+ "file": "rivestimento-effetto-mattoncino-brick-generation-marrakech-48x20-sea-water.html",
+ "title": "Rivestimento Brick Generation Marrakech 4.8x20 Sea Water | Rondine",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9418,
+ "attributes": {
+  "brand": {
+   "value": "Ceramica Rondine",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Ceramica Rondine"
+    }
+   ]
+  },
+  "sku": {
+   "value": "RNDN/J92238SEAWATER",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "RNDN/J92238SEAWATER"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "RNDN/J92238SEAWATER",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "RNDN/J92238SEAWATER"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

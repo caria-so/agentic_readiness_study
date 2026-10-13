@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/prodotto/gomito-dm-fit-con-codolo-5-32-innesto-rapido-5-32/",
+  "model": "qwen2.5:32b",
+  "html": "prodotto_gomito-dm-fit-con-codolo-5-32-innesto-rapido-5-32.html",
+  "title": "Gomito Dm fit con codolo 5/32\" innesto rapido 5/32\"",
+  "text_chars": 3845,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "resina acetalica",
+      "evidence": "Questi raccordi DMfit sono in resina acetalica",
+      "location": "body"
+    },
+    "series": {
+      "value": "grey series acetal resin fittings",
+      "evidence": "grey series acetal resin fittings",
+      "location": "body"
+    },
+    "certification": {
+      "value": "US FDA, WRAS, ANSI/NSF-51, 61, ACS, KWT e DVGW-W270",
+      "evidence": "DMfit sono prodotti fabbricati in materiali sicuri e non tossici in accordo con i requisiti della US FDA, WRAS, ANSI/NSF-51, 61, ACS, KWT e DVGW-W270.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2066,
+    "output_tokens": 616,
+    "seconds": 55.92
+  }
+}

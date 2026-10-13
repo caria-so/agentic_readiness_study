@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/box-doccia-megius-more-live-ps0.html",
+  "model": "qwen2.5:32b",
+  "html": "box-doccia-megius-more-live-ps0.html.html",
+  "title": "More Live PS0 | Box doccia Soffietto per nicchia, varie misure e finiture",
+  "text_chars": 4718,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "-- Seleziona -- 67 - 72 cm 72 - 77 cm +23,03 € 77 - 82 cm +53,22 € 82 - 87 cm +81,80 € 87 - 92 cm +116,75 € 97 - 97 cm +139,79 € 97 - 102 cm +173,14 €",
+      "evidence": "Dimensione lato con porta: -- Seleziona -- 67 - 72 cm 72 - 77 cm +23,03 € 77 - 82 cm +53,22 € 82 - 87 cm +81,80 € 87 - 92 cm +116,75 € 97 - 97 cm +139,79 € 97 - 102 cm +173,14 €",
+      "location": "body"
+    },
+    "certification": {
+      "value": "CE",
+      "evidence": "tutte le pareti doccia Megius sono marchiate CE , conformemente al regolamento n° 305/2011CPR relativo all sicurezza e qualità dei prodotti da costruzione.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2600,
+    "output_tokens": 1173,
+    "seconds": 95.31
+  }
+}

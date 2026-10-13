@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /verifica-il-tuo-account
+Disallow: /unsubscribe
+Disallow: /success-payment
+Disallow: /email-confirmation
+Disallow: /aspetta
+Disallow: /preview
+Disallow: /nonexistent-product
+Sitemap: https://www.deghi.it/sitemapindex.xml

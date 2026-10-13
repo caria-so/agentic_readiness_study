@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.it/antonio-lupi-azimut-azimut-wand-oder-decke-duschkopf.html",
+  "model": "qwen2.5:32b",
+  "html": "antonio-lupi-azimut-azimut-wand-oder-decke-duschkopf.html.html",
+  "title": "Antonio Lupi Azimut Soffione a Parete o a Soffitto AZIMUT | Dwellistore",
+  "text_chars": 667,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Acciaio Inox e Delrin Nero",
+      "evidence": "Soffione a Parete o a Soffitto in Acciaio Inox e Delrin Nero, con Regolazione del Getto",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Nero",
+      "evidence": "Soffione a Parete o a Soffitto in Acciaio Inox e Delrin Nero, con Regolazione del Getto",
+      "location": "body"
+    },
+    "height": {
+      "value": "17,5 cm",
+      "evidence": "Dimensioni: Ø 8x17,5x9 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "9 cm",
+      "evidence": "Dimensioni: Ø 8x17,5x9 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a Parete o a Soffitto",
+      "evidence": "Soffione a Parete o a Soffitto in Acciaio Inox e Delrin Nero, con Regolazione del Getto",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1138,
+    "output_tokens": 665,
+    "seconds": 51.52
+  }
+}

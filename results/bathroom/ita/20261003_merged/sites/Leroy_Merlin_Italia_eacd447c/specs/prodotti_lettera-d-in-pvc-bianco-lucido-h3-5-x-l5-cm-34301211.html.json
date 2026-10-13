@@ -1,0 +1,172 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/lettera-d-in-pvc-bianco-lucido-h3-5-x-l5-cm-34301211.html",
+ "file": "prodotti_lettera-d-in-pvc-bianco-lucido-h3-5-x-l5-cm-34301211.html.html",
+ "title": "Lettera D in PVC bianco lucido H3.5 x L5 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2725,
+ "attributes": {
+  "brand": {
+   "value": "AZNAR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "AZNAR"
+    }
+   ]
+  },
+  "sku": {
+   "value": "34301211",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "34301211"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8009984042046",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8009984042046"
+    }
+   ]
+  },
+  "material": {
+   "value": "PVC",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "PVC"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Famiglia colore",
+     "value": "Bianco"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore o decorazione della superficie",
+     "value": "Bianco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "bianco"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Rettangolare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Forma",
+     "value": "Rettangolare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo di segnaletica",
+     "value": "Lettere"
+    }
+   ]
+  },
+  "width": {
+   "value": "5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm)",
+     "value": "5"
+    }
+   ]
+  },
+  "height": {
+   "value": "3.5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm)",
+     "value": "3.5"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "2"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "3.5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "3.5"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "0.1"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "5"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.001",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.001"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 12,
+  "L3": 1,
+  "dropped": 0
+ }
+}

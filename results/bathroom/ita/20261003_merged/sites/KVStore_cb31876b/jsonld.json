@@ -1,0 +1,77 @@
+{
+  "source": "https://www.kvstore.it/",
+  "generated": "2026-10-03T01:13:04.341247",
+  "block_count": 4,
+  "types": [
+    "ContactPoint",
+    "Organization",
+    "SearchAction",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 216,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Kiamami Valentina",
+        "url": "https://www.kvstore.it/",
+        "sameAs": [
+          "https://www.facebook.com/Kvstore/",
+          "https://www.instagram.com/kvstore_kiamamivalentina/"
+        ]
+      }
+    },
+    {
+      "index": 1,
+      "chars": 350,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://www.kvstore.it/",
+        "logo": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/images/logo.svg",
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "telephone": "+3904611560056",
+            "contactType": "customer support",
+            "contactOption": "TollFree",
+            "availableLanguage": "It"
+          }
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "chars": 194,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://www.kvstore.it/",
+        "logo": "https://www.kvstore.it/static/version1790950946/frontend/Pearl/kvstore2026/it_IT/images/logo.svg"
+      }
+    },
+    {
+      "index": 3,
+      "chars": 274,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.kvstore.it/",
+        "name": "Italiano",
+        "potentialAction": [
+          {
+            "@type": "SearchAction",
+            "target": "https://www.kvstore.it/catalogsearch/result/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "company": "Dwelli",
+  "url": "https://dwellistore.it/",
+  "site_dir": "discovery_round_final_b/sites/Dwelli_c293df3e",
+  "final_url": "https://dwellistore.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-01T17:07:21.136259",
+  "http_status": 200,
+  "fetch_ms": 22988.3,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://dwellistore.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_b/sites/Dwelli_c293df3e/index.html",
+      "count": 677056,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://dwellistore.it/media/prodotti_it_products_it_1.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_b/sites/Dwelli_c293df3e/sitemap.json",
+      "count": 20000,
+      "total_available": 56055,
+      "truncated": true,
+      "product_url_count": 20000,
+      "product_total_available": 55490
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_b/sites/Dwelli_c293df3e/jsonld.json",
+      "count": 2,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_b/sites/Dwelli_c293df3e/links.json",
+      "count": 152,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

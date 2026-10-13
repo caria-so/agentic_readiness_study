@@ -1,0 +1,28 @@
+
+===== 2026-10-12T13:47:32  /Users/fedepro/Desktop/deepowl/git/exploration/.venv/bin/python -u /Users/fedepro/Desktop/deepowl/git/exploration/c_spec_extract.py --batch /Users/fedepro/Desktop/deepowl/git/exploration/results/bathroom/ita/20261003_merged
+Arcshop_0500465b               pages= 25 scored= 25 median_attrs=5
+Arredobagno360_00bce741        pages= 25 scored= 25 median_attrs=6
+Bagnity_2affdd23               pages= 25 scored= 25 median_attrs=11
+Bagnodistile_83641480          pages= 25 scored= 25 median_attrs=5
+Bertani_a7c880a2               pages= 25 scored= 25 median_attrs=6
+Boleco_93c40284                pages= 25 scored= 23 median_attrs=9
+Ceramikeshop_662df68a          pages= 25 scored= 25 median_attrs=4
+Deghi_9c5dffdb                 pages= 25 scored= 25 median_attrs=10
+Dwelli_c293df3e                pages= 25 scored= 25 median_attrs=4
+IKEA_Italia_a5c28517           pages= 25 scored= 25 median_attrs=9
+Idro_Bric_b92c9737             pages= 15 scored= 15 median_attrs=3
+InBagno_5a1b055f               pages= 25 scored= 25 median_attrs=8
+Iperceramica_dacdc019          pages= 25 scored= 25 median_attrs=1
+Jo_Bagno_6e8bc823              pages= 25 scored= 25 median_attrs=6
+Jysk_ab080d4f                  pages= 25 scored= 25 median_attrs=10
+KVStore_cb31876b               pages=  3 scored=  3 median_attrs=6
+Leroy_Merlin_Italia_eacd447c   pages= 25 scored= 25 median_attrs=11
+Mondialshop_1f852d51           pages= 25 scored= 25 median_attrs=10
+Mondo_Convenienza_0a828b02     pages= 25 scored= 25 median_attrs=3
+OBI_Italia_28b2c655            pages= 25 scored= 25 median_attrs=7
+Paramashop_3a2468bd            pages= 24 scored= 24 median_attrs=5.0
+ShopBagno_212db257             pages= 25 scored= 25 median_attrs=3
+Tecnomat_051a633b              pages= 25 scored= 25 median_attrs=4
+Termoidraulica_RV_43060b5c     pages= 25 scored= 25 median_attrs=5
+
+Wrote spec_coverage.csv, spec_summary.csv, spec_checks.csv, spec_dropped.jsonl in /Users/fedepro/Desktop/deepowl/git/exploration/results/bathroom/ita/20261003_merged/tables

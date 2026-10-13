@@ -1,0 +1,50 @@
+{
+ "url": "https://www.tecnomat.it/it/angolo-int-gronda-din130-lamiera-t-moro-10046414/",
+ "file": "it_angolo-int-gronda-din130-lamiera-t-moro-10046414.html",
+ "title": "Angolo interno gronda din 130 testa di moro lamiera preverniciata",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1183,
+ "attributes": {
+  "sku": {
+   "value": "10046414",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10046414"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10046414",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10046414"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": true,
+  "manufacturer_text": "ARTEGRONDA SAS DI BELLEGRANDI DANIELE & C. VIA GALILEO GALILEI TRAV III 10/12 25010, SAN ZENO NAVIGLIO Italia Persona responsabile nell'UE : Questa informazione non è attualmente disponibile sul nostro sito. Ti consigliamo di contattare dir"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 4
+ }
+}

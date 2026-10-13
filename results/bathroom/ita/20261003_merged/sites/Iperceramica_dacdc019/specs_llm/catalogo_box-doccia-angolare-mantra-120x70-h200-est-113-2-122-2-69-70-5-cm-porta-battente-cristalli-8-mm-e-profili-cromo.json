@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/box-doccia-angolare-mantra-120x70-h200-est-113-2-122-2-69-70-5-cm-porta-battente-cristalli-8-mm-e-profili-cromo",
+  "model": "qwen2.5:32b",
+  "html": "catalogo_box-doccia-angolare-mantra-120x70-h200-est-113-2-122-2-69-70-5-cm-porta-battente-cristalli-8-mm-e-profili-cromo.html",
+  "title": "Box Doccia Angolare Mantra 120x70 H200 cm Porta Battente Cristalli 8 mm Trasparenti e Corrugati e Profili Cromo - Iperceramica",
+  "text_chars": 1356,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "cristallo temperato",
+      "evidence": "I pannelli sono realizzati in cristallo temperato da 8 mm",
+      "location": "body"
+    },
+    "finish": {
+      "value": "cromo",
+      "evidence": "mentre i profili in alluminio mantengono un elegante colore cromo",
+      "location": "body"
+    },
+    "width": {
+      "value": "120 cm",
+      "evidence": "Con dimensioni definite da 70x120 cm e un'altezza totale di 200 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "200 cm",
+      "evidence": "Con dimensioni definite da 70x120 cm e un'altezza totale di 200 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "70 cm",
+      "evidence": "Con dimensioni definite da 70x120 cm e un'altezza totale di 200 cm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "70x120 H200 cm",
+      "evidence": "Con dimensioni definite da 70x120 cm e un'altezza totale di 200 cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "8 mm",
+      "evidence": "I pannelli sono realizzati in cristallo temperato da 8 mm",
+      "location": "body"
+    },
+    "opening": {
+      "value": "battente",
+      "evidence": "Porta Battente",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "rettangolare",
+      "evidence": "la struttura rettangolare si adatta perfettamente all'installazione in angolo",
+      "location": "body"
+    },
+    "series": {
+      "value": "Mantra",
+      "evidence": "box doccia angolare della serie Mantra",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "- Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1454,
+    "output_tokens": 687,
+    "seconds": 57.23
+  }
+}

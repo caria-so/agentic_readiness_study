@@ -1,0 +1,88 @@
+{
+ "url": "https://www.arredobagno360.it/ideal-standard-fiorile-sospeso-copriwater.html",
+ "file": "ideal-standard-fiorile-sospeso-copriwater.html.html",
+ "title": "Ideal Standard Fiorile Sospeso Sedile completo per WC",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2245,
+ "attributes": {
+  "sku": {
+   "value": "ideal-standard-fiorile-sospeso-copriwater",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "ideal-standard-fiorile-sospeso-copriwater"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "ideal-standard-fiorile-sospeso-copriwater",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "ideal-standard-fiorile-sospeso-copriwater"
+    }
+   ]
+  },
+  "series": {
+   "value": "Ideal Standard Fiorile Sospeso Sedile completo per WC",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Ideal Standard Fiorile Sospeso Sedile completo per WC"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Modello",
+     "value": "Ideal Standard Fiorile Sospeso"
+    }
+   ]
+  },
+  "material": {
+   "value": "resina poliestere colata",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiali",
+     "value": "resina poliestere colata"
+    }
+   ]
+  },
+  "colour": {
+   "value": "disponibile in bianco europeo o in molti altri colori (vedi la scheda \"colori e finiture\" - dopo l'acquisto dovrai specificare il colore scelto)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colori",
+     "value": "disponibile in bianco europeo o in molti altri colori (vedi la scheda \"colori e finiture\" - dopo l'acquisto dovrai specificare il colore scelto)"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 3,
+  "dropped": 3
+ }
+}

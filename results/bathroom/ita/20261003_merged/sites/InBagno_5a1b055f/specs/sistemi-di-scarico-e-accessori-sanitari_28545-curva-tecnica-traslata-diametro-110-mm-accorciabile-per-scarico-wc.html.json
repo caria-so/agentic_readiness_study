@@ -1,0 +1,113 @@
+{
+ "url": "https://www.inbagno.it/sistemi-di-scarico-e-accessori-sanitari/28545-curva-tecnica-traslata-diametro-110-mm-accorciabile-per-scarico-wc.html",
+ "file": "sistemi-di-scarico-e-accessori-sanitari_28545-curva-tecnica-traslata-diametro-110-mm-accorciabile-per-scarico-wc.html.html",
+ "title": "Curva tecnica traslata diametro 110 mm accorciabile per scarico WC",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 10434,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "InBagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "InBagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "107613",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "107613"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "107613"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8052334104796",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8052334104796"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "107613",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "107613"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "curva tecnica traslata per WC;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "curva tecnica traslata per WC;"
+    }
+   ]
+  },
+  "material": {
+   "value": "PVC;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "PVC;"
+    }
+   ]
+  },
+  "colour": {
+   "value": "bianco;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "bianco;"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "isole": "zone difficili",
+  "Diametro": "110 mm;"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 2,
+  "L3": 4,
+  "dropped": 12
+ }
+}

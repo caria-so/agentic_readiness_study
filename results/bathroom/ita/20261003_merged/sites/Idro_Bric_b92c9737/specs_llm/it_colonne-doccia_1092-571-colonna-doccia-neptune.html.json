@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.idrobric.it/it/colonne-doccia/1092-571-colonna-doccia-neptune.html",
+  "model": "qwen2.5:32b",
+  "html": "it_colonne-doccia_1092-571-colonna-doccia-neptune.html.html",
+  "title": "Colonna doccia Neptune",
+  "text_chars": 1308,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "alluminio e abs",
+      "evidence": "Set colonna doccia Neptune, corpo alluminio e abs",
+      "location": "body"
+    },
+    "length": {
+      "value": "150 cm",
+      "evidence": "flessibile in PVC rinforzato silver, lunghezza 150 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "su guida scorrevole",
+      "evidence": "fissaggio su guida scorrevole",
+      "location": "body"
+    },
+    "opening": {
+      "value": "180°",
+      "evidence": "sistema di apertura 180°",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1338,
+    "output_tokens": 567,
+    "seconds": 47.78
+  }
+}

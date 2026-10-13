@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/sottotetto-4000x150x38cm-abete-2-4m-10074482/",
+  "model": "qwen2.5:32b",
+  "html": "it_sottotetto-4000x150x38cm-abete-2-4m-10074482.html",
+  "title": "SOTTOTETTO ABETE 35x150x4000 mm 4 PZ ≃ 2,4 m2",
+  "text_chars": 1246,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "industriale",
+      "evidence": "Questo elemento per sottotetto, con finitura industriale,",
+      "location": "body"
+    },
+    "brand": {
+      "value": "GRUPPO CAMARLINGHI SPA",
+      "evidence": "GRUPPO CAMARLINGHI SPA",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "material": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "abetè",
+        "evidence": "SOTTOTETTO ABETE 35x150x4000 mm 4 PZ ≃ 2,4 m2"
+      }
+    },
+    "origin": {
+      "reason": "origin_not_stated",
+      "raw": {
+        "value": "Italia",
+        "evidence": "GRUPPO CAMARLINGHI SPA VIA DELLA REPUBBLICA 344 56020, ORENTANO Italia",
+        "location": "body"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1285,
+    "output_tokens": 583,
+    "seconds": 48.62
+  }
+}

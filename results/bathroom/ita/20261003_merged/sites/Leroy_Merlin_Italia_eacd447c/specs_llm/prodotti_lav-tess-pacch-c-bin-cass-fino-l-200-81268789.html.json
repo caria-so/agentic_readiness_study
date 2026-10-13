@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/lav-tess-pacch-c-bin-cass-fino-l-200-81268789.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_lav-tess-pacch-c-bin-cass-fino-l-200-81268789.html.html",
+  "title": "lav tess pacch c/bin cass fino l 200 | Leroy Merlin",
+  "text_chars": 2999,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "weight": {
+      "reason": "package_value",
+      "raw": {
+        "value": "0.1 kg",
+        "evidence": "Prodotto imballato: peso (in kg) 0.1"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Leroy Merlin",
+        "evidence": "Venduto e spedito da LEROY MERLIN"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1845,
+    "output_tokens": 511,
+    "seconds": 43.33
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/metod-mobile-base-per-lavello-2-ante-bianco-tistorp-effetto-noce-marrone-s59519217/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_metod-mobile-base-per-lavello-2-ante-bianco-tistorp-effetto-noce-marrone-s59519217.html",
+  "title": "METOD mobile base per lavello + 2 ante, bianco/Tistorp effetto noce marrone, 60x60 cm  - IKEA Italia",
+  "text_chars": 3589,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "effetto noce marrone",
+      "evidence": "bianco/Tistorp effetto noce marrone, 60x60 cm",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "60x60 cm",
+      "evidence": "Mobile base per lavello + 2 ante, bianco/Tistorp effetto noce marrone, 60x60 cm",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "25 anni di garanzia.",
+      "evidence": "25 anni di garanzia. Scopri i termini e le condizioni nell'opuscolo della garanzia.",
+      "location": "body"
+    },
+    "care": {
+      "value": "Pulisci con un panno inumidito in un detersivo poco concentrato. Asciuga con un panno pulito.",
+      "evidence": "Pulisci con un panno inumidito in un detersivo poco concentrato. Asciuga con un panno pulito.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "METOD",
+        "evidence": "Mobile base per lavello + 2 ante, bianco/Tistorp effetto noce marrone, 60x60 cm"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA",
+        "evidence": "IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2244,
+    "output_tokens": 779,
+    "seconds": 68.05
+  }
+}

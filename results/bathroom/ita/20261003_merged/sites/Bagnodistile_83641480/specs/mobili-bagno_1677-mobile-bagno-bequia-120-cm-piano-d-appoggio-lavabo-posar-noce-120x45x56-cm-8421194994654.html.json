@@ -1,0 +1,83 @@
+{
+ "url": "https://www.bagnodistile.com/mobili-bagno/1677-mobile-bagno-bequia-120-cm-piano-d-appoggio-lavabo-posar-noce-120x45x56-cm-8421194994654.html",
+ "file": "mobili-bagno_1677-mobile-bagno-bequia-120-cm-piano-d-appoggio-lavabo-posar-noce-120x45x56-cm-8421194994654.html.html",
+ "title": "Mobile bagno Bequia 120 cm + piano d'appoggio + lavabo Posar Noce 120x45x56 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6572,
+ "attributes": {
+  "brand": {
+   "value": "SALGAR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "SALGAR"
+    }
+   ]
+  },
+  "sku": {
+   "value": "110429",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "110429"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8421194994654",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8421194994654"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "110429",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "110429"
+    }
+   ]
+  },
+  "installation": {
+   "value": "BEQUIA, profondità 45 cm:",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Mobile sospeso",
+     "value": "BEQUIA, profondità 45 cm:"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 6
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "url": "https://www.shopbagno.it/products/set-completo-accessori-bagno-black-elegance",
+ "file": "products_set-completo-accessori-bagno-black-elegance.html",
+ "title": "Set Completo Accessori Bagno Black Elegance",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 11129,
+ "attributes": {
+  "sku": {
+   "value": "wmp01562",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "wmp01562"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "productID",
+     "value": "6807232020578"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "WMP01562"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "609003975683",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin12",
+     "value": "609003975683"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 20
+ }
+}

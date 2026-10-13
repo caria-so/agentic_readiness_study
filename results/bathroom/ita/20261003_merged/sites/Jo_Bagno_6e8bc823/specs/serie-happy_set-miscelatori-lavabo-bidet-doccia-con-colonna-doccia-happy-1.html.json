@@ -1,0 +1,93 @@
+{
+ "url": "https://jo-bagno.it/serie-happy/set-miscelatori-lavabo-bidet-doccia-con-colonna-doccia-happy-1.html",
+ "file": "serie-happy_set-miscelatori-lavabo-bidet-doccia-con-colonna-doccia-happy-1.html.html",
+ "title": "Set Miscelatori lavabo+bidet+doccia con Colonna Doccia HAPPY 1",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3280,
+ "attributes": {
+  "brand": {
+   "value": "Frisone",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Frisone"
+    }
+   ]
+  },
+  "sku": {
+   "value": "HAPPY1",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "HAPPY1"
+    }
+   ]
+  },
+  "height": {
+   "value": "miscelatore 142 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "miscelatore 142 mm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza miscelatore",
+     "value": "142 mm"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Bocca di erogazione 115 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Interasse",
+     "value": "Bocca di erogazione 115 mm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Interasse",
+     "value": "bocca di erogazione 103 mm"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "85/90/100/110/120/130/140xH200 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "85/90/100/110/120/130/140xH200 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Caratteristica": "Doccetta"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 5,
+  "L3": 1,
+  "dropped": 7
+ }
+}

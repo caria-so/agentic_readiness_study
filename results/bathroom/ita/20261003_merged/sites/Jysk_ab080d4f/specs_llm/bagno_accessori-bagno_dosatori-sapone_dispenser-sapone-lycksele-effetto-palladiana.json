@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/bagno/accessori-bagno/dosatori-sapone/dispenser-sapone-lycksele-effetto-palladiana",
+  "model": "qwen2.5:32b",
+  "html": "bagno_accessori-bagno_dosatori-sapone_dispenser-sapone-lycksele-effetto-palladiana.html",
+  "title": "Dispenser sapone LYCKSELE effetto palladiana | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "16 cm",
+      "evidence": "Dimensioni Diametro 9 cm, Altezza 16 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "LYCKSELE effetto palladiana",
+      "evidence": "Dispenser sapone LYCKSELE effetto palladiana",
+      "location": "title"
+    },
+    "care": {
+      "value": "No",
+      "evidence": "Lavabile in lavastoviglie No",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5341,
+    "output_tokens": 662,
+    "seconds": 73.36
+  }
+}

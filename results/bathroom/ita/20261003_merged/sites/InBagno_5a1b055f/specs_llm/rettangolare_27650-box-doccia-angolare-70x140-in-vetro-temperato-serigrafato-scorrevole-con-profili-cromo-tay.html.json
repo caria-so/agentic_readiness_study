@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/rettangolare/27650-box-doccia-angolare-70x140-in-vetro-temperato-serigrafato-scorrevole-con-profili-cromo-tay.html",
+  "model": "qwen2.5:32b",
+  "html": "rettangolare_27650-box-doccia-angolare-70x140-in-vetro-temperato-serigrafato-scorrevole-con-profili-cromo-tay.html.html",
+  "title": "Box doccia angolare 70x140 in vetro temperato serigrafato scorrevole con profili cromo Tay",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "70 cm",
+      "evidence": "Dimensioni: L 142 x P 70 x H 195 cm;",
+      "location": "body"
+    },
+    "height": {
+      "value": "195 cm",
+      "evidence": "Dimensioni: L 142 x P 70 x H 195 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "142 cm",
+      "evidence": "Dimensioni: L 142 x P 70 x H 195 cm;",
+      "location": "body"
+    },
+    "opening": {
+      "value": "scorrevole",
+      "evidence": "Tipologia: box doccia angolare con porta scorrevole e lato fisso;",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "cromato",
+        "evidence": "profili cromati, ante a sgancio rapido e scorrimento fluido con rotelle in teflon."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3839,
+    "output_tokens": 691,
+    "seconds": 64.47
+  }
+}

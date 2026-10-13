@@ -1,0 +1,259 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/lucchetto-con-codice-master-lock-in-acciaio-ansa-h-35-x-l-30-x-3-mm-72616775.html",
+ "file": "prodotti_lucchetto-con-codice-master-lock-in-acciaio-ansa-h-35-x-l-30-x-3-mm-72616775.html.html",
+ "title": "Lucchetto con codice MASTER LOCK in acciaio ansa H 35 x L 30 x Ø 3 mm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8167,
+ "attributes": {
+  "brand": {
+   "value": "MASTER LOCK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "MASTER LOCK"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marca del prodotto",
+     "value": "MASTER LOCK"
+    }
+   ]
+  },
+  "sku": {
+   "value": "72616775",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "72616775"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "3520190943071",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "3520190943071"
+    }
+   ]
+  },
+  "installation": {
+   "value": "1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di pezzi",
+     "value": "1"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Luogo di utilizzo",
+     "value": "Interno"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Con combinazione",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di chiusura",
+     "value": "Con combinazione"
+    }
+   ]
+  },
+  "material": {
+   "value": "Zinco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale del corpo",
+     "value": "Zinco"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale dell'ansa",
+     "value": "Acciaio"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Famiglia colore",
+     "value": "Nero"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Paese di fabbricazione",
+     "value": "Cina"
+    }
+   ]
+  },
+  "height": {
+   "value": "52",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza del corpo del lucchetto (in mm)",
+     "value": "52"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza interna dell'ansa (chiusa) (in mm)",
+     "value": "35"
+    }
+   ]
+  },
+  "width": {
+   "value": "35",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza del corpo del lucchetto (in mm)",
+     "value": "35"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "15",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore minimo del corpo (in mm)",
+     "value": "15"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Lucchetto con codice",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di prodotto",
+     "value": "Lucchetto con codice"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Forma del'arco",
+     "value": "Cilindrico"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Cromato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura del prodotto",
+     "value": "Cromato"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.116",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso netto (in Kg)",
+     "value": "0.116"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.116",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.116"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "8.7",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "8.7"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "16.7"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "2.3"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "MASTERLOCK",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "MASTERLOCK"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero di cifre della combinazione": "4",
+  "Combinazione personalizzabile": "Sì",
+  "Diametro dell'ansa (in mm)": "3",
+  "Resistente alla corrosione": "No",
+  "Utilizzo del lucchetto per": "Bagaglio",
+  "Oggetto connesso": "No",
+  "Ansa rivestita": "No",
+  "Doppia chiusura": "No",
+  "Rinforzato": "No",
+  "Home Index": "D"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 29,
+  "L3": 2,
+  "dropped": 11
+ }
+}

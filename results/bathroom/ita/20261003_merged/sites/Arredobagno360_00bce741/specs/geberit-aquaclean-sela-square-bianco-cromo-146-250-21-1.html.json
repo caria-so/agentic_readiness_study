@@ -1,0 +1,143 @@
+{
+ "url": "https://www.arredobagno360.it/geberit-aquaclean-sela-square-bianco-cromo-146-250-21-1.html",
+ "file": "geberit-aquaclean-sela-square-bianco-cromo-146-250-21-1.html.html",
+ "title": "AquaClean Sela Square | Vaso Bidet elettronico sospeso bianco-cromo",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 5826,
+ "attributes": {
+  "sku": {
+   "value": "geberit-aquaclean-sela-square-bianco-cromo-146.250.21.1",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "geberit-aquaclean-sela-square-bianco-cromo-146.250.21.1"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "geberit-aquaclean-sela-square-bianco-cromo-146.250.21.1",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "geberit-aquaclean-sela-square-bianco-cromo-146.250.21.1"
+    }
+   ]
+  },
+  "series": {
+   "value": "AquaClean Sela Square | Vaso Bidet elettronico sospeso bianco-cromo",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "AquaClean Sela Square | Vaso Bidet elettronico sospeso bianco-cromo"
+    }
+   ]
+  },
+  "weight": {
+   "value": "45.0000 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "45.0000 KGM"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Geberit",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Geberit"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L37,5 H40 P57 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "L37,5 H40 P57 cm"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "1850W",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Potenza assorbita",
+     "value": "1850W"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Tensione nominale",
+     "value": "230 V CA"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Potenza assorbita in standby max",
+     "value": "0,5 W"
+    }
+   ]
+  },
+  "water": {
+   "value": "0,5-10 bar",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Pressione dinamica",
+     "value": "0,5-10 bar"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Pressione dinamica minima",
+     "value": "0,5 bar"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Portata di progetto",
+     "value": "0,02 l/s"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Vaso": "bianco/Kera Tect - Copertura design: cromato lucido - 146.250.21.1",
+  "Grado di protezione": "IPX4",
+  "Frequenza di rete": "50 Hz",
+  "Temperatura d'esercizio": "5-40 °C",
+  "Durata del getto": "50 s",
+  "Carico max sedile del vaso": "150 kg"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 14,
+  "dropped": 4
+ }
+}

@@ -1,0 +1,1951 @@
+{
+  "source": "https://www.deghi.it/",
+  "generated": "2026-10-03T00:57:33.565927",
+  "total": 245,
+  "internal_count": 227,
+  "external_count": 18,
+  "links": [
+    {
+      "url": "https://www.cookiebot.com/it/cosa-significa-powered-by-cookiebot/?utm_source=banner_cb&amp;utm_medium=referral&amp;utm_content=v2",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/",
+      "fragment": "",
+      "text": "Consenso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cookie-policy",
+      "fragment": "",
+      "text": "Cookie Policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/[",
+      "fragment": "DSR_FORM_URL#]",
+      "text": "[#DSR_FORM_URL_TEXT#]",
+      "rel": "noopener noreferrer nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://business.safety.google/privacy/",
+      "fragment": "",
+      "text": "Per saperne di più su questo fornitore",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://policy.pinterest.com/en/privacy-policy",
+      "fragment": "",
+      "text": "Per saperne di più su questo fornitore",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.salesmanago.com/marketing-automation/terms.htm",
+      "fragment": "",
+      "text": "Per saperne di più su questo fornitore",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://privacy.microsoft.com/en-us/privacystatement",
+      "fragment": "",
+      "text": "Per saperne di più su questo fornitore",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/policy.php/",
+      "fragment": "",
+      "text": "Per saperne di più su questo fornitore",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&amp;nodeId=468496",
+      "fragment": "",
+      "text": "Per saperne di più su questo fornitore",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.criteo.com/privacy/corporate-privacy-policy/",
+      "fragment": "",
+      "text": "Per saperne di più su questo fornitore",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://privacy.microsoft.com/en-US/privacystatement",
+      "fragment": "",
+      "text": "Per saperne di più su questo fornitore",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.cookiebot.com",
+      "fragment": "",
+      "text": "Cookiebot",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/preferiti",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/registrati",
+      "fragment": "",
+      "text": "Accedi/Registrati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/noi-siamo-deghi",
+      "fragment": "",
+      "text": "Noi siamo Deghi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/le-nostre-collezioni",
+      "fragment": "",
+      "text": "Le nostre collezioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/politica-dei-prezzi",
+      "fragment": "",
+      "text": "Politica dei prezzi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/paga-a-rate",
+      "fragment": "",
+      "text": "Paga a rate",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/agevolazioni-fiscali",
+      "fragment": "",
+      "text": "Agevolazioni Fiscali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/localita-disagiate",
+      "fragment": "",
+      "text": "Località Disagiate",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/supporto",
+      "fragment": "",
+      "text": "Supporto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/box-doccia/nicchia",
+      "fragment": "",
+      "text": "Nicchia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/box-doccia/pareti-walk-in",
+      "fragment": "",
+      "text": "Pareti Walk In",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/box-doccia/angolare",
+      "fragment": "",
+      "text": "Angolare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/box-doccia/semicircolare",
+      "fragment": "",
+      "text": "Semicircolare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/box-doccia/tre-lati",
+      "fragment": "",
+      "text": "Tre lati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/box-doccia/sopravasca",
+      "fragment": "",
+      "text": "Sopravasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/piatti-doccia/piatti-doccia-quadrati",
+      "fragment": "",
+      "text": "Piatti Doccia Quadrati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/piatti-doccia/piatti-doccia-rettangolari",
+      "fragment": "",
+      "text": "Piatti Doccia Rettangolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/piatti-doccia/piatti-doccia-semicircolari",
+      "fragment": "",
+      "text": "Piatti Doccia Semicircolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/sistemi-di-scarico-piletta-e-canaline",
+      "fragment": "",
+      "text": "Sistemi di Scarico (pilette e canaline)",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/accessori-doccia/pedane-doccia",
+      "fragment": "",
+      "text": "Pedane Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/accessori-doccia/appendini-e-griglie-doccia",
+      "fragment": "",
+      "text": "Appendini e Griglie Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/accessori-doccia/pulizia-e-manutenzione",
+      "fragment": "",
+      "text": "Pulizia e Manutenzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/zona-doccia/accessori-doccia/tende-doccia",
+      "fragment": "",
+      "text": "Tende Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/mobili-da-bagno/mobile-sospeso",
+      "fragment": "",
+      "text": "Mobile Sospeso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/mobili-da-bagno/mobile-a-terra",
+      "fragment": "",
+      "text": "Mobile a Terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/mobili-da-bagno/top-per-lavabi",
+      "fragment": "",
+      "text": "Top per Lavabi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/mobili-da-bagno/mobili-contenitori",
+      "fragment": "",
+      "text": "Mobili Contenitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/coppia-sanitari/sanitari-a-terra",
+      "fragment": "",
+      "text": "Sanitari a Terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/coppia-sanitari/sanitari-sospesi",
+      "fragment": "",
+      "text": "Sanitari Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/sistemi-di-scarico/placche-di-comando",
+      "fragment": "",
+      "text": "Placche di comando",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/sistemi-di-scarico/moduli-di-installazione",
+      "fragment": "",
+      "text": "Moduli di installazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/sistemi-di-scarico/cassette-di-scarico",
+      "fragment": "",
+      "text": "Cassette di Scarico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/sistemi-di-scarico/curve-e-canotti",
+      "fragment": "",
+      "text": "Curve e Canotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/copriwater",
+      "fragment": "",
+      "text": "Copriwater",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/sanitari-singoli",
+      "fragment": "",
+      "text": "Sanitari Singoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/sanitari-bagno-accessibile",
+      "fragment": "",
+      "text": "Sanitari Bagno Accessibile",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/pulizia-e-manutenzione",
+      "fragment": "",
+      "text": "Pulizia e Manutenzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/sanitari/accessori-tecnici",
+      "fragment": "",
+      "text": "Accessori Tecnici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/lavabi/lavabi-appoggio",
+      "fragment": "",
+      "text": "Lavabi Appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/lavabi/lavabi-sospesi",
+      "fragment": "",
+      "text": "Lavabi Sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/lavabi/top-con-lavabo-integrato",
+      "fragment": "",
+      "text": "Top con Lavabo Integrato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/lavabi/lavabi-freestanding",
+      "fragment": "",
+      "text": "Lavabi Freestanding",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/lavabi/lavabi-incasso",
+      "fragment": "",
+      "text": "Lavabi Incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/lavabi/lavabi-con-colonna",
+      "fragment": "",
+      "text": "Lavabi con Colonna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/set-rubinetteria",
+      "fragment": "",
+      "text": "Set Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/lavabo",
+      "fragment": "",
+      "text": "Lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/bidet",
+      "fragment": "",
+      "text": "Bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/doccia/set-doccia",
+      "fragment": "",
+      "text": "Set Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/doccia/miscelatori-doccia",
+      "fragment": "",
+      "text": "Miscelatori Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/doccia/bracci-e-soffioni",
+      "fragment": "",
+      "text": "Bracci e Soffioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/doccia/colonne-doccia",
+      "fragment": "",
+      "text": "Colonne Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/doccia/pannelli-doccia",
+      "fragment": "",
+      "text": "Pannelli Doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/doccia/doccette-e-accessori",
+      "fragment": "",
+      "text": "Doccette e Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/vasca",
+      "fragment": "",
+      "text": "Vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/pilette-e-sifoni",
+      "fragment": "",
+      "text": "Pilette e Sifoni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/rubinetteria/accessori",
+      "fragment": "",
+      "text": "Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/specchiere/specchiere-led",
+      "fragment": "",
+      "text": "Specchiere LED",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/specchiere/specchi-da-bagno",
+      "fragment": "",
+      "text": "Specchi da Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/specchiere/specchi-da-trucco",
+      "fragment": "",
+      "text": "Specchi da Trucco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/termoarredo/termoarredi-idraulici",
+      "fragment": "",
+      "text": "Termoarredi Idraulici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/termoarredo/termoarredi-elettrici",
+      "fragment": "",
+      "text": "Termoarredi Elettrici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/termoarredo/appendini-e-accessori",
+      "fragment": "",
+      "text": "Appendini e Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/termoarredo/accessori-tecnici",
+      "fragment": "",
+      "text": "Accessori Tecnici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/illuminazione",
+      "fragment": "",
+      "text": "Illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/accessori-bagno/set-completi",
+      "fragment": "",
+      "text": "Set Completi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/accessori-bagno/dispenser-e-portasapone",
+      "fragment": "",
+      "text": "Dispenser e Portasapone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/accessori-bagno/porta-salviette",
+      "fragment": "",
+      "text": "Porta Salviette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/accessori-bagno/porta-rotolo",
+      "fragment": "",
+      "text": "Porta Rotolo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/accessori-bagno/porta-spazzolini",
+      "fragment": "",
+      "text": "Porta Spazzolini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/accessori-bagno/scopini-e-piantane",
+      "fragment": "",
+      "text": "Scopini e Piantane",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/accessori-bagno/appendini",
+      "fragment": "",
+      "text": "Appendini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/porta-biancheria",
+      "fragment": "",
+      "text": "Porta Biancheria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/tappeti-bagno",
+      "fragment": "",
+      "text": "Tappeti Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/tessili-bagno",
+      "fragment": "",
+      "text": "Tessili Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/cestini",
+      "fragment": "",
+      "text": "Cestini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/ausili-bagno-accessibile",
+      "fragment": "",
+      "text": "Ausili Bagno Accessibile",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/hotellerie-e-ambienti-pubblici",
+      "fragment": "",
+      "text": "Hotellerie e Ambienti Pubblici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/sistemazione-e-portaoggetti",
+      "fragment": "",
+      "text": "Sistemazione e Portaoggetti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/complementi/sedute-per-il-bagno",
+      "fragment": "",
+      "text": "Sedute per il Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/vasche",
+      "fragment": "",
+      "text": "Vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/ricambi",
+      "fragment": "",
+      "text": "Ricambi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/sedute/sedie",
+      "fragment": "",
+      "text": "Sedie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/sedute/poltrone-e-divani",
+      "fragment": "",
+      "text": "Poltrone e Divani",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/sedute/pouf",
+      "fragment": "",
+      "text": "Pouf e Panche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/sedute/sgabelli",
+      "fragment": "",
+      "text": "Sgabelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/tavoli/tavoli-da-pranzo",
+      "fragment": "",
+      "text": "Tavoli da Pranzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/tavoli/tavolini",
+      "fragment": "",
+      "text": "Tavolini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/tavoli/consolle",
+      "fragment": "",
+      "text": "Consolle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/mobili-porta-tv",
+      "fragment": "",
+      "text": "Mobili Porta TV",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/madie",
+      "fragment": "",
+      "text": "Madie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/credenze-e-mobili-contenitori",
+      "fragment": "",
+      "text": "Credenze e Mobili contenitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/pareti-attrezzate",
+      "fragment": "",
+      "text": "Pareti Attrezzate",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/librerie",
+      "fragment": "",
+      "text": "Librerie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/armadi",
+      "fragment": "",
+      "text": "Armadi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/cassettiere",
+      "fragment": "",
+      "text": "Cassettiere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/comodini",
+      "fragment": "",
+      "text": "Comodini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/scarpiere",
+      "fragment": "",
+      "text": "Scarpiere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/mobili-ingresso-e-cappottiere",
+      "fragment": "",
+      "text": "Mobili Ingresso e Cappottiere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/appendiabiti",
+      "fragment": "",
+      "text": "Appendiabiti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/mensole-e-pensili",
+      "fragment": "",
+      "text": "Mensole e Pensili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/sistemazione",
+      "fragment": "",
+      "text": "Sistemazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/mobili-da-interno/ricambi-e-componenti",
+      "fragment": "",
+      "text": "Ricambi e Componenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/sistema-letto/letti-e-divani-letto",
+      "fragment": "",
+      "text": "Letti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/sistema-letto/materassi",
+      "fragment": "",
+      "text": "Materassi e Topper",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/sistema-letto/complementi-letto",
+      "fragment": "",
+      "text": "Complementi Letto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/specchiere",
+      "fragment": "",
+      "text": "Specchiere Arredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/tessile-arredo/tappeti",
+      "fragment": "",
+      "text": "Tappeti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/tessile-arredo/cuscini",
+      "fragment": "",
+      "text": "Cuscini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/tessile-arredo/tende",
+      "fragment": "",
+      "text": "Tende",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/piante-artificiali-e-fiori-secchi",
+      "fragment": "",
+      "text": "Piante Artificiali e Fiori Secchi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/decorazioni-da-parete/decorazioni-murali",
+      "fragment": "",
+      "text": "Decorazioni Murali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/decorazioni-da-parete/orologi",
+      "fragment": "",
+      "text": "Orologi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/decorazioni-da-parete/quadri-e-tele",
+      "fragment": "",
+      "text": "Quadri e Tele",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/organizer",
+      "fragment": "",
+      "text": "Organizer",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/ceste-portaoggetti",
+      "fragment": "",
+      "text": "Ceste Portaoggetti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/paraventi",
+      "fragment": "",
+      "text": "Paraventi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/portagioie",
+      "fragment": "",
+      "text": "Portagioie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/lanterne",
+      "fragment": "",
+      "text": "Lanterne",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/oggettistica",
+      "fragment": "",
+      "text": "Oggettistica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/vasi-da-interno",
+      "fragment": "",
+      "text": "Vasi da Interno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/ufficio/scrivanie",
+      "fragment": "",
+      "text": "Scrivanie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/ufficio/sedie-girevoli",
+      "fragment": "",
+      "text": "Sedie Girevoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/ufficio/sedie-e-poltrone",
+      "fragment": "",
+      "text": "Sedie e Poltrone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/ufficio/mobili-e-complementi",
+      "fragment": "",
+      "text": "Mobili e Complementi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/lavanderia/lavatoi",
+      "fragment": "",
+      "text": "Lavatoi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/lavanderia/mobili-lavatoio",
+      "fragment": "",
+      "text": "Mobili Lavatoio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/lavanderia/coprilavatrice",
+      "fragment": "",
+      "text": "Coprilavatrice",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/lavanderia/mobili-contenitori",
+      "fragment": "",
+      "text": "Mobili Contenitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/lavanderia/pulizia-e-manutenzione",
+      "fragment": "",
+      "text": "Accessori Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina/cucine-complete",
+      "fragment": "",
+      "text": "Cucine Complete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina/rubinetteria-cucina-e-lavanderia",
+      "fragment": "",
+      "text": "Rubinetteria Cucina e Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina/accessori-cucina",
+      "fragment": "",
+      "text": "Accessori Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina/lavelli",
+      "fragment": "",
+      "text": "Lavelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina/basi-e-pensili-cucina",
+      "fragment": "",
+      "text": "Basi e Pensili Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina/pattumiere",
+      "fragment": "",
+      "text": "Pattumiere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina/sistemazione",
+      "fragment": "",
+      "text": "Sistemazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina/accessori-lavello",
+      "fragment": "",
+      "text": "Accessori Lavello",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina/pulizia-e-manutenzione",
+      "fragment": "",
+      "text": "Pulizia e Manutenzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione/lampade-da-parete",
+      "fragment": "",
+      "text": "Lampade da parete",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione/lampade-da-soffitto",
+      "fragment": "",
+      "text": "Lampade da soffitto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione/lampada-da-appoggio",
+      "fragment": "",
+      "text": "Lampade da appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione/faretti-ad-incasso",
+      "fragment": "",
+      "text": "Faretti ad incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione/illuminazione-a-binario",
+      "fragment": "",
+      "text": "Illuminazione a binario",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione/strisce-e-barre-led",
+      "fragment": "",
+      "text": "Strisce e barre LED",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione/luci-professionali",
+      "fragment": "",
+      "text": "Luci professionali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione/set-illuminazione",
+      "fragment": "",
+      "text": "Set illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione/accessori-e-componentistica",
+      "fragment": "",
+      "text": "Accessori e componentistica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/zona-d-ombra/ombrelloni",
+      "fragment": "",
+      "text": "Ombrelloni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/zona-d-ombra/gazebo-e-pergole",
+      "fragment": "",
+      "text": "Gazebo e Pergole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/zona-d-ombra/vele-ombreggianti",
+      "fragment": "",
+      "text": "Vele Ombreggianti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/zona-d-ombra/basi-per-ombrelloni",
+      "fragment": "",
+      "text": "Basi per Ombrelloni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/zona-d-ombra/teli-di-ricambio",
+      "fragment": "",
+      "text": "Teli di Ricambio e Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/sedute/lettini-prendisole",
+      "fragment": "",
+      "text": "Lettini Prendisole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/sedute/sedie",
+      "fragment": "",
+      "text": "Sedie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/sedute/sdraio-e-spiaggine",
+      "fragment": "",
+      "text": "Sdraio e Spiaggine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/sedute/poltrone-e-divani",
+      "fragment": "",
+      "text": "Poltrone e Divani",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/sedute/panchine",
+      "fragment": "",
+      "text": "Panchine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/sedute/pouf-e-sgabelli",
+      "fragment": "",
+      "text": "Pouf e Sgabelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/tavoli/tavoli-da-pranzo",
+      "fragment": "",
+      "text": "Tavoli da Pranzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/tavoli/tavolini-bassi",
+      "fragment": "",
+      "text": "Tavolini Bassi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/set-completi/set-da-pranzo",
+      "fragment": "",
+      "text": "Set da Pranzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/set-completi/set-relax",
+      "fragment": "",
+      "text": "Set Relax",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/set-completi/set-bistrot",
+      "fragment": "",
+      "text": "Set Bistrot",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/sedute-sospese/dondoli",
+      "fragment": "",
+      "text": "Dondoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/sedute-sospese/poltrone-sospese",
+      "fragment": "",
+      "text": "Poltrone Sospese",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/sedute-sospese/amache",
+      "fragment": "",
+      "text": "Amache",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/complementi-giardino/casette-da-giardino",
+      "fragment": "",
+      "text": "Casette da Giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/complementi-giardino/lavabi-da-esterno",
+      "fragment": "",
+      "text": "Lavabi da esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/complementi-giardino/separe-da-giardino",
+      "fragment": "",
+      "text": "Separé da Giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/complementi-giardino/docce-da-giardino",
+      "fragment": "",
+      "text": "Docce da Esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/complementi-giardino/tappeti-e-zerbini",
+      "fragment": "",
+      "text": "Tappeti e Zerbini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/complementi-giardino/erba-sintetica",
+      "fragment": "",
+      "text": "Erba Sintetica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/complementi-giardino/organizzazione-outdoor",
+      "fragment": "",
+      "text": "Organizzazione Outdoor",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/complementi-giardino/barbecue",
+      "fragment": "",
+      "text": "Cucine e Barbecue",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/complementi-giardino/manutenzione-e-cura",
+      "fragment": "",
+      "text": "Manutenzione e cura",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/cuscineria",
+      "fragment": "",
+      "text": "Cuscineria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/tende-da-sole-e-pensiline/tende-da-sole-per-esterni",
+      "fragment": "",
+      "text": "Tende da sole per esterni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/tende-da-sole-e-pensiline/pensiline",
+      "fragment": "",
+      "text": "Pensiline",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/coperture-protettive",
+      "fragment": "",
+      "text": "Coperture Protettive",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/vasi-e-fioriere",
+      "fragment": "",
+      "text": "Vasi e Fioriere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino/ricambi",
+      "fragment": "",
+      "text": "Ricambi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/deghiversario",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno/complementi-casa/decorazioni-da-parete",
+      "fragment": "",
+      "text": "Decorazioni da parete La tua casa è più bella che mai",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno",
+      "fragment": "",
+      "text": "Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/interno",
+      "fragment": "",
+      "text": "Interno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/ufficio",
+      "fragment": "",
+      "text": "Ufficio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/lavanderia",
+      "fragment": "",
+      "text": "Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/cucina",
+      "fragment": "",
+      "text": "Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/illuminazione",
+      "fragment": "",
+      "text": "Illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/giardino",
+      "fragment": "",
+      "text": "Giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/",
+      "fragment": "tab4-0",
+      "text": "Lavabi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/",
+      "fragment": "tab4-1",
+      "text": "Sedie Girevoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/",
+      "fragment": "tab4-2",
+      "text": "Scrivanie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/",
+      "fragment": "tab4-3",
+      "text": "Librerie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/bagno/lavabi",
+      "fragment": "",
+      "text": "Vedi Tutti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/Deghishop/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/deghi.it",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.linkedin.com/company/deghi/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.youtube.com/user/DEGHISHOPpuntoIT",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://jobs.deghi.it/",
+      "fragment": "",
+      "text": "Lavora con noi",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/diventa-fornitore",
+      "fragment": "",
+      "text": "Diventa fornitore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/modello-organizzativo-e-codice-etico",
+      "fragment": "",
+      "text": "Modello organizzativo e codice etico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/promozioni",
+      "fragment": "",
+      "text": "Promozioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/termini-e-condizioni",
+      "fragment": "",
+      "text": "Termini e condizioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/privacy-policy",
+      "fragment": "",
+      "text": "Privacy policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/mappa-del-sito",
+      "fragment": "",
+      "text": "Mappa del sito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/i-nostri-luoghi",
+      "fragment": "",
+      "text": "I nostri luoghi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/deghi-4-planet",
+      "fragment": "",
+      "text": "DEGHI 4 Planet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/mft-la-produzione",
+      "fragment": "",
+      "text": "MFT - La produzione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/partner-di-successo",
+      "fragment": "",
+      "text": "Partner di successo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/deghi-solidale",
+      "fragment": "",
+      "text": "Deghi solidale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/deghi-academy",
+      "fragment": "",
+      "text": "Deghi Academy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/carrello",
+      "fragment": "",
+      "text": "0 Carrello",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.deghi.it/account",
+      "fragment": "",
+      "text": "Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://fonts.googleapis.com/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.scalapay.com/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/favicon/apple-touch-icon.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/favicon/favicon-32x32.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/favicon/favicon-16x16.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/favicon/site.webmanifest",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/favicon/favicon.ico",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/favicon/safari-pinned-tab.svg",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/_nuxt/277d4e0.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/_nuxt/46c058f.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/_nuxt/css/54a8726.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/_nuxt/3e4e4b0.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/_nuxt/css/7d36e4f.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/_nuxt/84a18a1.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/_nuxt/4ca49a7.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/_nuxt/51cf5df.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.deghi.it/_nuxt/css/7db7d9e.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.deghi.it/_p/cms/1790843102186homebanner.jpg",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

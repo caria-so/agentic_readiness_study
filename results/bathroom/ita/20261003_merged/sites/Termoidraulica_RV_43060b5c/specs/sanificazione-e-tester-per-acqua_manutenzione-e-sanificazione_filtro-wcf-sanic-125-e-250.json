@@ -1,0 +1,88 @@
+{
+ "url": "https://termoidraulicarv.com/sanificazione-e-tester-per-acqua/manutenzione-e-sanificazione/filtro-wcf-sanic-125-e-250/",
+ "file": "sanificazione-e-tester-per-acqua_manutenzione-e-sanificazione_filtro-wcf-sanic-125-e-250.html",
+ "title": "Filtro WCF Sanic 250 per sanificazione impianti",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 5997,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "R11699",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "R11699"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD",
+     "value": "R11699"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "9762",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "9762"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,5 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "0,5 kg"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8059693388577",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "EAN",
+     "value": "8059693388577"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Filtri WCF": "SANIC 125 , SANIC 250"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 3,
+  "L3": 1,
+  "dropped": 16
+ }
+}

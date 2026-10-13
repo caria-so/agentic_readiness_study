@@ -1,0 +1,81 @@
+{
+  "company": "Deghi",
+  "url": "https://www.deghi.it/",
+  "site_dir": "discovery_round_final_e/sites/Deghi_9c5dffdb",
+  "final_url": "https://www.deghi.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.414372",
+  "http_status": 200,
+  "fetch_ms": 20923.3,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.deghi.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Deghi_9c5dffdb/index.html",
+      "count": 750370,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.deghi.it/sitemap-bagno.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Deghi_9c5dffdb/sitemap.json",
+      "count": 20000,
+      "total_available": 43285,
+      "truncated": true,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "jsonld": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no application/ld+json found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Deghi_9c5dffdb/links.json",
+      "count": 245,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": false,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

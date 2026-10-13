@@ -1,0 +1,204 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/asta-rettangolare-in-faggio-scolpito-decoro-treccia-1000-x-26-spessore-6-mm-82053406.html",
+ "file": "prodotti_asta-rettangolare-in-faggio-scolpito-decoro-treccia-1000-x-26-spessore-6-mm-82053406.html.html",
+ "title": "Asta rettangolare in faggio scolpito decoro treccia 1000 x 26 spessore 6 mm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4886,
+ "attributes": {
+  "sku": {
+   "value": "82053406",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "82053406"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8057968110403",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8057968110403"
+    }
+   ]
+  },
+  "material": {
+   "value": "Legno",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Legno"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Scolpito",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura del prodotto",
+     "value": "Scolpito"
+    }
+   ]
+  },
+  "installation": {
+   "value": "1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di pezzi",
+     "value": "1"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Rettangolare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Forma",
+     "value": "Rettangolare"
+    }
+   ]
+  },
+  "length": {
+   "value": "1000",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza (in mm)",
+     "value": "1000"
+    }
+   ]
+  },
+  "width": {
+   "value": "26",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in mm)",
+     "value": "26"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "6",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore (in mm)",
+     "value": "6"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.097",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso netto (in Kg)",
+     "value": "0.097"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "2"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Italia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Paese di fabbricazione",
+     "value": "Italia"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "0.6",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "0.6"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "100"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "2.6"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.097",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.097"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "EBANISTERIA MARELLI SRL",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "EBANISTERIA MARELLI SRL"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Essenza del legno": "Faggio",
+  "Home Index": "B"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 15,
+  "L3": 2,
+  "dropped": 4
+ }
+}

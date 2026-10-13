@@ -1,0 +1,174 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/corda-in-poliestere-standers-l-100-m-x-1-5-mm-bianco-carico-max-0-5-kg-35862414.html",
+ "file": "prodotti_corda-in-poliestere-standers-l-100-m-x-1-5-mm-bianco-carico-max-0-5-kg-35862414.html.html",
+ "title": "Corda in poliestere STANDERS L 100 m x Ø 1.5 mm bianco carico max 0.5 Kg",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2972,
+ "attributes": {
+  "brand": {
+   "value": "STANDERS",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "STANDERS"
+    }
+   ]
+  },
+  "sku": {
+   "value": "35862414",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "35862414"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "3276009973943",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "3276009973943"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Al pezzo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di vendita",
+     "value": "Al pezzo"
+    }
+   ]
+  },
+  "length": {
+   "value": "100",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza (in m)",
+     "value": "100"
+    }
+   ]
+  },
+  "material": {
+   "value": "Poliestere",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Poliestere"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "5"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Egitto",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Paese di fabbricazione",
+     "value": "Egitto"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "6.5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "6.5"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "6.5"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "5.5"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.192",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.192"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "ADEO Services",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "ADEO Services"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Uso del prodotto": "Per cucinare",
+  "Diametro (in mm)": "1.5",
+  "Carico utile (in kg)": "0.5",
+  "Carico di rottura (in kg)": "1",
+  "Specifiche del prodotto": "Resistente all'acqua"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 15,
+  "L3": 1,
+  "dropped": 0
+ }
+}

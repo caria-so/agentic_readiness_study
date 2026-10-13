@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/applique-esterno-moderne/51876-applique-rosen-antracite-in-alluminiovetro-1xe27-ip44-119x83x222mm.html",
+  "model": "qwen2.5:32b",
+  "html": "it_applique-esterno-moderne_51876-applique-rosen-antracite-in-alluminiovetro-1xe27-ip44-119x83x222mm.html.html",
+  "title": "APPLIQUE ROSEN ANTRACITE IN ALLUMINIO+VETRO 1XE27 IP44 119X83X222MM",
+  "text_chars": 2979,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "119 mm",
+      "evidence": "APPLIQUE ROSEN ANTRACITE IN ALLUMINIO+VETRO 1XE27 IP44 119X83X222MM",
+      "location": "title"
+    },
+    "height": {
+      "value": "222 mm",
+      "evidence": "APPLIQUE ROSEN ANTRACITE IN ALLUMINIO+VETRO 1XE27 IP44 119X83X222MM",
+      "location": "title"
+    },
+    "depth": {
+      "value": "83 mm",
+      "evidence": "APPLIQUE ROSEN ANTRACITE IN ALLUMINIO+VETRO 1XE27 IP44 119X83X222MM",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "119x83x222 mm",
+      "evidence": "APPLIQUE ROSEN ANTRACITE IN ALLUMINIO+VETRO 1XE27 IP44 119X83X222MM",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2169,
+    "output_tokens": 715,
+    "seconds": 62.66
+  }
+}

@@ -1,0 +1,58 @@
+{
+ "url": "https://www.shopbagno.it/products/colonna-doccia-termostatica-nero-opaco-con-soffione-e-doccino",
+ "file": "products_colonna-doccia-termostatica-nero-opaco-con-soffione-e-doccino.html",
+ "title": "Colonna Doccia Termostatica Nero Opaco Con Soffione e Doccino",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 5335,
+ "attributes": {
+  "sku": {
+   "value": "wed-m3147",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "wed-m3147"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "productID",
+     "value": "6582353002594"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "WED-M3147"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "7433902560526",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "7433902560526"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 9
+ }
+}

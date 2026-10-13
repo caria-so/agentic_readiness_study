@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/box-doccia-tre-lati-70x70x70-acril-con-due-scorrevoli-ed-uno-fisso",
+  "model": "qwen2.5:32b",
+  "html": "products_box-doccia-tre-lati-70x70x70-acril-con-due-scorrevoli-ed-uno-fisso.html",
+  "title": "Box doccia tre lati 70x70x70 Acril con due scorrevoli ed uno fisso | Arcshop",
+  "text_chars": 3066,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "70 cm",
+      "evidence": "Box doccia tre lati 70x70x70 Acril con due scorrevoli ed uno fisso",
+      "location": "title"
+    },
+    "height": {
+      "value": "190 cm",
+      "evidence": "angolare scorrevole 70x70 con apertura reversibile e parete fissa da 70 cm con lastra in acrilico e profili PVC anticorrosione h 190 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "70 cm",
+      "evidence": "Box doccia tre lati 70x70x70 Acril con due scorrevoli ed uno fisso",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "70x70x70",
+      "evidence": "Box doccia tre lati 70x70x70 Acril con due scorrevoli ed uno fisso",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Esaurito Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "material": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "acrilico",
+        "evidence": "Box doccia tre lati 70x70x70 Acril con due scorrevoli ed uno fisso"
+      }
+    },
+    "opening": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "scorrevole",
+        "evidence": "Box doccia tre lati 70x70x70 Acril con due scorrevoli ed uno fisso"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1918,
+    "output_tokens": 721,
+    "seconds": 58.81
+  }
+}

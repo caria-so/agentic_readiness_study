@@ -1,0 +1,42 @@
+{
+  "company": "ManoMano Italia",
+  "url": "https://www.manomano.it/",
+  "site_dir": "discovery_round_final/sites/ManoMano_Italia_ce5ffb77",
+  "final_url": "",
+  "status": "blocked",
+  "timestamp": "2026-09-30T17:03:04.747294",
+  "http_status": 403,
+  "fetch_ms": 32573.3,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": false,
+      "url": "https://www.manomano.it/",
+      "status": 403,
+      "error": "HTTP 403",
+      "path": "discovery_round_final/sites/ManoMano_Italia_ce5ffb77/index.html",
+      "count": 28669,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no sitemap found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": false,
+    "sitemap": false
+  },
+  "error_details": "HTTP 403"
+}

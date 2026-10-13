@@ -1,0 +1,86 @@
+{
+ "url": "https://jo-bagno.it/copriwater-di-serie/copriwater-castellana-scarabeo-ceramiche.html",
+ "file": "copriwater-di-serie_copriwater-castellana-scarabeo-ceramiche.html.html",
+ "title": "Copriwater CASTELLANA in legno",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1330,
+ "attributes": {
+  "brand": {
+   "value": "Scarabeo Ceramiche",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Scarabeo Ceramiche"
+    }
+   ]
+  },
+  "sku": {
+   "value": "5310/A",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5310/A"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "5310/A"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "copriwater",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "copriwater"
+    }
+   ]
+  },
+  "series": {
+   "value": "CASTELLANA",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Serie",
+     "value": "CASTELLANA"
+    }
+   ]
+  },
+  "material": {
+   "value": "legno",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "legno"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 4,
+  "dropped": 0
+ }
+}

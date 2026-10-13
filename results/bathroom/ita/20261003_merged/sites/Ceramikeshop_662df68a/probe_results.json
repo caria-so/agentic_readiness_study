@@ -1,0 +1,81 @@
+{
+  "company": "Ceramikeshop",
+  "url": "https://ceramikeshop.it/",
+  "site_dir": "discovery_round_final_e/sites/Ceramikeshop_662df68a",
+  "final_url": "https://ceramikeshop.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.414306",
+  "http_status": 200,
+  "fetch_ms": 27775.7,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://ceramikeshop.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Ceramikeshop_662df68a/index.html",
+      "count": 285594,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://ceramikeshop.it/1_it_0_sitemap.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Ceramikeshop_662df68a/sitemap.json",
+      "count": 2769,
+      "total_available": 2769,
+      "truncated": false,
+      "product_url_count": 1953,
+      "product_total_available": 1953
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Ceramikeshop_662df68a/jsonld.json",
+      "count": 3,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Ceramikeshop_662df68a/links.json",
+      "count": 232,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

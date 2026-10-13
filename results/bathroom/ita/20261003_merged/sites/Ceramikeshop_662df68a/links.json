@@ -1,0 +1,1841 @@
+{
+  "source": "https://ceramikeshop.it/",
+  "generated": "2026-10-02T21:39:14.461110",
+  "total": 232,
+  "internal_count": 220,
+  "external_count": 12,
+  "links": [
+    {
+      "url": "https://ceramikeshop.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/module/addifyrequestaquote/addifyrequestaquote",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/account",
+      "fragment": "",
+      "text": "Accedi",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/registrazione",
+      "fragment": "",
+      "text": "Register",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/module/stfeature/mywishlist",
+      "fragment": "",
+      "text": " Lista dei desideri ( 0 )",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; AMBIENTE BAGNO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/ambiente-doccia/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; AMBIENTE DOCCIA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/ambiente-doccia/soffioni-e-doccette/",
+      "fragment": "",
+      "text": "Soffioni e doccette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/ambiente-doccia/composizioni-docce/",
+      "fragment": "",
+      "text": "Composizioni docce",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/ambiente-doccia/colonne-docce/",
+      "fragment": "",
+      "text": "Colonne docce",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/ambiente-doccia/piatti-doccia/",
+      "fragment": "",
+      "text": "Piatti doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/ambiente-doccia/rubinetteria-doccia/",
+      "fragment": "",
+      "text": "Rubinetteria doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/ambiente-doccia/docce-a-pavimento/",
+      "fragment": "",
+      "text": "Docce a pavimento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/arredo-bagno/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; ARREDO BAGNO",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/arredo-bagno/mobili-da-bagno/",
+      "fragment": "",
+      "text": "Mobili da bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/arredo-bagno/mobili-lavanderia/",
+      "fragment": "",
+      "text": "Mobili lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/arredo-bagno/mensole/",
+      "fragment": "",
+      "text": "Mensole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/arredo-bagno/consolle-e-pensili/",
+      "fragment": "",
+      "text": "Consolle e pensili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/accessori/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; ACCESSORI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/accessori/sedili/",
+      "fragment": "",
+      "text": "Sedili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/accessori/accessori-bagno/",
+      "fragment": "",
+      "text": "Accessori bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/accessori/specchi/",
+      "fragment": "",
+      "text": "Specchi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/accessori/consolle-e-credenze/",
+      "fragment": "",
+      "text": "Consolle e credenze",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/accessori/orologi/",
+      "fragment": "",
+      "text": "Orologi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/sanitari/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; SANITARI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/sanitari/wc-e-bidet/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; WC e bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/sanitari/wc-e-bidet/wcbidet-sospesi/",
+      "fragment": "",
+      "text": "WC/Bidet sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/sanitari/wc-e-bidet/wcbidet-a-terra/",
+      "fragment": "",
+      "text": "WC/Bidet a terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/vasche/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; VASCHE",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/vasche/vasche-da-bagno/",
+      "fragment": "",
+      "text": "Vasche da bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/wellness/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; WELLNESS",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ambiente-bagno/wellness/mini-piscine/",
+      "fragment": "",
+      "text": "Mini piscine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; PAVIMENTI E RIVESTIMENTI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/effetto-legno/",
+      "fragment": "",
+      "text": "Effetto legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/effetto-cemento/",
+      "fragment": "",
+      "text": "Effetto cemento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/effetto-pietra/",
+      "fragment": "",
+      "text": "Effetto pietra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/parquet/",
+      "fragment": "",
+      "text": "Parquet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/spc/",
+      "fragment": "",
+      "text": "Spc",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/laminati/",
+      "fragment": "",
+      "text": "Laminati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/effetto-mattoncino/",
+      "fragment": "",
+      "text": "Effetto Mattoncino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/effetto-cotto/",
+      "fragment": "",
+      "text": "Effetto Cotto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/effetto-3d/",
+      "fragment": "",
+      "text": "Effetto 3D",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/effetto-metallo/",
+      "fragment": "",
+      "text": "Effetto metallo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/effetto-resina/",
+      "fragment": "",
+      "text": "Effetto resina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/pavimenti-e-rivestimenti/effetto-lucido/",
+      "fragment": "",
+      "text": "Effetto Lucido",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/rubinetteria-e-idraulica/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; RUBINETTERIA E IDRAULICA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/rubinetteria-e-idraulica/rubinetteria/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; RUBINETTERIA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/rubinetteria-e-idraulica/rubinetteria/rubinetteria-lavabo/",
+      "fragment": "",
+      "text": "Rubinetteria lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/rubinetteria-e-idraulica/rubinetteria/rubinetteria-bidet/",
+      "fragment": "",
+      "text": "Rubinetteria bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/rubinetteria-e-idraulica/rubinetteria/rubinetteria-vasca/",
+      "fragment": "",
+      "text": "Rubinetteria vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/rubinetteria-e-idraulica/rubinetteria/rubinetteria-cucina/",
+      "fragment": "",
+      "text": "Rubinetteria cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/rubinetteria-e-idraulica/termoarredo-idraulica/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; TERMOARREDO | IDRAULICA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/rubinetteria-e-idraulica/termoarredo-idraulica/termosifoni-e-termoarredi/",
+      "fragment": "",
+      "text": "Termosifoni e termoarredi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/rubinetteria-e-idraulica/termoarredo-idraulica/raccorderia-e-sifoname/",
+      "fragment": "",
+      "text": "Raccorderia e sifoname",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lavanderiacucina/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; LAVANDERIA/CUCINA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lavanderiacucina/lavabi/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; Lavabi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lavanderiacucina/lavabi/lavabi-sospesi/",
+      "fragment": "",
+      "text": "Lavabi sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lavanderiacucina/lavabi/lavabi-a-terra/",
+      "fragment": "",
+      "text": "Lavabi a terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lavanderiacucina/lavabi/lavabi-da-appoggio/",
+      "fragment": "",
+      "text": "Lavabi da appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lavanderiacucina/lavabi/lavelli-e-lavatoi/",
+      "fragment": "",
+      "text": "Lavelli e lavatoi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lavanderiacucina/accessori-forni-e-barbecue/",
+      "fragment": "",
+      "text": "Accessori forni e barbecue",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/posa-e-pulizia/",
+      "fragment": "",
+      "text": "&nbsp; &nbsp; POSA E PULIZIA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/posa-e-pulizia/prodotti-per-la-pulizia-la-manutenzione-e-la-protezione-delle-superfici/",
+      "fragment": "",
+      "text": "Prodotti per la pulizia, la manutenzione e la protezione delle superfici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/posa-e-pulizia/sigillanti-e-adesivi-elastici/",
+      "fragment": "",
+      "text": "Sigillanti e adesivi elastici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/posa-e-pulizia/impermeabilizzanti/",
+      "fragment": "",
+      "text": "Impermeabilizzanti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/offerte",
+      "fragment": "",
+      "text": "OFFERTE",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/special-offers/",
+      "fragment": "",
+      "text": "SPECIAL OFFERS",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/opera-sanitari",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?phone=3892984330",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-bidet-con-scarico-automatico-vicky",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/gaboli-fratelli-rubinetteria",
+      "fragment": "",
+      "text": "Gaboli Fratelli Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-vasca-incasso-con-supporto-duplex-e-doccia-new-space",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-doccia-o-vasca-ad-incasso-con-deviatore-open-space",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-doccia-incasso-con-leva-deviatore-a-2-uscite-yuppy",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-bidet-oro-rosa-spazzolato-olimpo",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/imex-products",
+      "fragment": "",
+      "text": "Imex Products",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-doccia-nero-opaco-olimpo",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/colonna-doccia-miscelatore-black-gun-metal-line",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-lavabo-a-comando-remoto-d-appoggio-e-bocca-a-soffitto-heos",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-incasso-bidet-nero-opaco-oro-rosa-lucido-suecia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-doccia-o-vasca-ad-incasso-con-deviatore-h2q",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-cucina-lyon-nero-opaco",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/gruppo-lavello-parete-retro-con-canna-alta-girevole-old-line",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-vascadoccia-a-pavimento-oro-rosa-spazzolato-corcega",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-cucina-oro-spazzolato-kenia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-doccia-o-vasca-incasso-con-deviatore-3-uscite-storm",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-doccia-incasso-open-space",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-lavabo-da-incasso-non-ispezionabile-bocca-a-parete-senza-scarico-sophie",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-doccia-o-vasca-ad-incasso-con-deviatore-storm",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-lavabo-con-scarico-mia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/miscelatore-per-lavabo-da-terra-con-canna-alta-girevole-heos",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/81-ambiente-bagno",
+      "fragment": "",
+      "text": "Scopri ora",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/45-pavimenti-e-rivestimenti",
+      "fragment": "",
+      "text": "Scopri ora",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-multifunzione-moon-215x260x93-6-1-posti",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/novellini",
+      "fragment": "",
+      "text": "Novellini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-vasca-idromassaggio-da-esterno-6-posti-divina-xxl-spa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-vasca-idromassaggio-da-esterno-4-posti-divina-xl-spa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-multifunzione-divina-r-spa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-multifunzione-215x215x85-6-1-posti-vita",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-multifunzione-200x200x85-5-posti-vita",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-vasca-idromassaggio-da-esterno-3-posti-divina-l-spa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-vasca-idromassaggio-da-esterno-2-posti-divina-m-spa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-multifunzione-180x140x85-580-litri-vita",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/minipiscina-multifunzione-divina-m-basic-spa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/vasca-in-vetroresina-esterno-nero-ethos",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ceramica-galassia",
+      "fragment": "",
+      "text": "Ceramica Galassia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/vasca-in-vetroresina-bianca-ethos",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/aeffe-service",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/althea",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/antrax",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/aquaelite",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ares",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/arpa-ceramiche",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/art-ceram",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/atlas-concorde",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/bmt",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/bongio",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/bonomini",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/brunoplast",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/bugatti-valvosanitaria",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/cerme",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/capannoli",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/catis",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ceramica-catalano",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ceramica-euro",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ceramica-rondine",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ceramiche-supergres",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ceramikeshop",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/cerasa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/cosmic",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/daniel-rubinetterie",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/de-longhi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/deco",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/del-conca",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/dibi-tec",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/dune-unique-matters",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/fondital-be-innovative",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/formaacque",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/gaboli-luigi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/geal",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/geal-soluzioni-chimiche-innovative",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/ghidini",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/giulini-rubinetterie",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/gme",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/gsi-ceramiche",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/guru",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/hardkoll",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/hatria",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/impercot",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/imso",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/k-design",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/keradom",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/kerasan",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/kerlux",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/kios",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lacus",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lara-bath-solutions",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lazzarini-radiatori",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/lineabeta",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/litokol",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/luce-ambiente-e-design",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/mapei",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/megius",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/mgm-ceramiche",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/naxos",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/nettex-bulding-solutions",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/nofer",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/novabell",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/oli",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/oli-deluxe",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/paffoni-rubinetterie",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/paulco-ceramiche",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/progetto-group",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/radiatori-2000",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/relax",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/river",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/saniplast",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/skema",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/solava",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/sphera",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/tece",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/thermomat",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/treesse",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/tremolada",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/vema",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/vitruvit",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/weiss-stern",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/xilon",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/zagi-rubinetterie",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/zazzeri-rubinetterie-spa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "http://eepurl.com/iz1W6k",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/ceramikeshop.it",
+      "fragment": "",
+      "text": "Facebook",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/ceramikeshop/",
+      "fragment": "",
+      "text": "Instagram",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/nuovi-prodotti",
+      "fragment": "",
+      "text": "Nuovi prodotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/piu-venduti",
+      "fragment": "",
+      "text": "Più venduti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/content/consegna",
+      "fragment": "",
+      "text": "Metodi di spedizione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/content/termini-e-condizioni-di-uso",
+      "fragment": "",
+      "text": "Termini e condizioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/content/chi-siamo",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/content/pagamento-sicuro",
+      "fragment": "",
+      "text": "Pagamento sicuro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/content/privacy-policy",
+      "fragment": "",
+      "text": "Privacy policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/content/cookie-policy-ceramikeshopit",
+      "fragment": "",
+      "text": "Cookie policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/contattaci",
+      "fragment": "",
+      "text": "Contattaci",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/mappa-del-sito",
+      "fragment": "",
+      "text": "Mappa del sito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/negozi",
+      "fragment": "",
+      "text": "Negozi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/tracciatura-ospite",
+      "fragment": "",
+      "text": "Tracciamento ordine",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/module/plumastudio_withdrawal/form",
+      "fragment": "",
+      "text": "Reso e Recesso Ordine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.plumastudio.com/",
+      "fragment": "",
+      "text": "Pluma Studio",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://tastocasa.it/",
+      "fragment": "",
+      "text": "Clicca qui",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://ceramikeshop.it/img/favicon.ico?1698865669",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&amp;display=swap",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/themes/Mobiemax/assets/css/theme.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/themes/child_Mobiemax/assets/css/font-awesome.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/blockreassurance/views/dist/front.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/ps_socialfollow/views/css/ps_socialfollow.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/themes/Mobiemax/modules/ps_searchbar/ps_searchbar.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/cz_instagramfeeds/views/css/cz_instagramfeed.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/ets_promotion/views/css/front.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/payplug/views//css/front-5.1.0.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/cz_themeoptions/views/css/frontdesign.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/czsalenotification//views/css/front.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/stfeature/views/css/front.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/addifyrequestaquote//views/css/front.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/customfields/views/css/customfields_common.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/js/jquery/ui/themes/base/minified/jquery-ui.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/js/jquery/ui/themes/base/minified/jquery.ui.theme.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/modules/cz_imageslider/views/css/flexslider.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://ceramikeshop.it/themes/child_Mobiemax/assets/css/custom.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://assets.motive.co/motive-x/v2/app.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://smartarget-sp-cache.fra1.digitaloceanspaces.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://api-v2.smartarget.online",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,800,900&amp;display=swap",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn-images.mailchimp.com/embedcode/classic-061523.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

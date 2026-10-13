@@ -1,0 +1,88 @@
+{
+ "url": "https://www.arredobagno360.it/cesame-belle-epoque.html",
+ "file": "cesame-belle-epoque.html.html",
+ "title": "Cesame Belle Epoque Sedile completo per WC",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2179,
+ "attributes": {
+  "sku": {
+   "value": "cesame-belle-epoque",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "cesame-belle-epoque"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "cesame-belle-epoque",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "cesame-belle-epoque"
+    }
+   ]
+  },
+  "series": {
+   "value": "Cesame Belle Epoque Sedile completo per WC",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Cesame Belle Epoque Sedile completo per WC"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Modello",
+     "value": "Cesame Belle Epoque"
+    }
+   ]
+  },
+  "material": {
+   "value": "resina poliestere colata",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiali",
+     "value": "resina poliestere colata"
+    }
+   ]
+  },
+  "colour": {
+   "value": "disponibile in bianco europeo o in molti altri colori (vedi la scheda \"colori e finiture\" - dopo l'acquisto dovrai specificare il colore scelto)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colori",
+     "value": "disponibile in bianco europeo o in molti altri colori (vedi la scheda \"colori e finiture\" - dopo l'acquisto dovrai specificare il colore scelto)"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 3,
+  "dropped": 3
+ }
+}

@@ -1,0 +1,81 @@
+{
+  "company": "OBI Italia",
+  "url": "https://www.obi-italia.it/",
+  "site_dir": "discovery_round_final/sites/OBI_Italia_28b2c655",
+  "final_url": "https://www.obi-italia.it/",
+  "status": "fetched",
+  "timestamp": "2026-09-30T17:03:04.747186",
+  "http_status": 200,
+  "fetch_ms": 29595.6,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.obi-italia.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final/sites/OBI_Italia_28b2c655/index.html",
+      "count": 894050,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.obi-italia.it/sitemaps/obi_it_it/sitemap_obi-products_0.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final/sites/OBI_Italia_28b2c655/sitemap.json",
+      "count": 20000,
+      "total_available": 98055,
+      "truncated": true,
+      "product_url_count": 20000,
+      "product_total_available": 90165
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final/sites/OBI_Italia_28b2c655/jsonld.json",
+      "count": 1,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final/sites/OBI_Italia_28b2c655/links.json",
+      "count": 449,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

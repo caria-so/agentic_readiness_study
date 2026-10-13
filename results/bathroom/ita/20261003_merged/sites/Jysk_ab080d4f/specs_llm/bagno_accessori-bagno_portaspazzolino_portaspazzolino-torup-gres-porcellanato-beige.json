@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/bagno/accessori-bagno/portaspazzolino/portaspazzolino-torup-gres-porcellanato-beige",
+  "model": "qwen2.5:32b",
+  "html": "bagno_accessori-bagno_portaspazzolino_portaspazzolino-torup-gres-porcellanato-beige.html",
+  "title": "Portaspazzolino TORUP gres porcellanato beige | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "11 cm",
+      "evidence": "Dimensioni\nDiametro 7 cm, Altezza 11 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "TORUP",
+      "evidence": "Portaspazzolino TORUP gres porcellanato beige",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore\nJYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5275,
+    "output_tokens": 595,
+    "seconds": 67.55
+  }
+}

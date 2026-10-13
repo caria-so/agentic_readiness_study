@@ -1,0 +1,1359 @@
+{
+  "source": "https://termoidraulicarv.com/",
+  "generated": "2026-10-03T07:23:58.315143",
+  "total": 174,
+  "internal_count": 161,
+  "external_count": 13,
+  "links": [
+    {
+      "url": "https://termoidraulicarv.com/",
+      "fragment": "site-navigation",
+      "text": "Skip to navigation",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/",
+      "fragment": "content",
+      "text": "Skip to content",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.feedaty.com/feedaty/widgetredirect?m=10214542&amp;object=widget-merchant",
+      "fragment": "",
+      "text": "4,9 /5",
+      "rel": "noopener noreferrer dofollow ",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/my-account/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/area-installatori/",
+      "fragment": "",
+      "text": "Area installatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/cart/",
+      "fragment": "",
+      "text": "€ 0,00 0",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/addolcitori-e-ricambi/",
+      "fragment": "",
+      "text": "Addolcitori e ricambi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-per-acqua/",
+      "fragment": "",
+      "text": "Filtri per acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/",
+      "fragment": "",
+      "text": "Filtri drop in, autopulenti e contenitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/gasatori-e-refrigeratori-acqua/",
+      "fragment": "",
+      "text": "Gasatori e refrigeratori acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/sanificazione-e-tester-per-acqua/",
+      "fragment": "",
+      "text": "Sanificazione e tester per acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/bombole-ricariche-e-riduttori-co2/",
+      "fragment": "",
+      "text": "Bombole ricariche e riduttori Co2",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/",
+      "fragment": "",
+      "text": "Raccordi, tubi e accessori John Guest",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/sistemi-uv-per-acqua/",
+      "fragment": "",
+      "text": "Sistemi uv per acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/osmosi-inversa-e-microfiltrazione/",
+      "fragment": "",
+      "text": "Osmosi inversa e microfiltrazione: filtri e sistemi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/accessori-per-l-installazione/",
+      "fragment": "",
+      "text": "Accessori per l’installazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/",
+      "fragment": "",
+      "text": "Raccordi, tubi e accessori DM Fit",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/",
+      "fragment": "",
+      "text": "Rubinetteria per trattamento acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/strumenti-di-controllo-e-dosaggio/",
+      "fragment": "",
+      "text": "Strumenti di controllo e dosaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/borracce/",
+      "fragment": "",
+      "text": "Borracce",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/dearsenificatori-e-deferizzatori/",
+      "fragment": "",
+      "text": "Filtri a colonna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/sistemi-di-irrigazione-a-goccia/",
+      "fragment": "",
+      "text": "Sistemi di irrigazione a goccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/offerte/",
+      "fragment": "",
+      "text": "Offerte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/chi-siamo/",
+      "fragment": "",
+      "text": "Chi Siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/fatture-garanzia/",
+      "fragment": "",
+      "text": "Fatture – Garanzia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/pagamento-privacy/",
+      "fragment": "",
+      "text": "Pagamento – Privacy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/spedizione/",
+      "fragment": "",
+      "text": "Spedizione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/blog/",
+      "fragment": "",
+      "text": "Blog",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/faq/",
+      "fragment": "",
+      "text": "FAQ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/contatti/",
+      "fragment": "",
+      "text": "Contatti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/termoidraulicarv",
+      "fragment": "",
+      "text": "Facebook",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/termoidraulica_rv/",
+      "fragment": "",
+      "text": "Instagram",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.youtube.com/user/termoidraulicaRV",
+      "fragment": "",
+      "text": "YouTube",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://en.termoidraulicarv.com",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://fr.termoidraulicarv.com",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/osmosi-inversa-e-microfiltrazione/sistemi-ad-osmosi-inversa/osmosi-inversa-diretta-edenya-pure-water-easy-23-lt-min/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/gasatori-e-refrigeratori-acqua/refrigeratori/refrigeratore-da-sopra-banco-flux-slim-nero-per-acqua-naturale-e-frizzante/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-per-acqua/filtri-edenya/sistema-completo-di-microfiltraizone-acqua-edenya-medium-05-micron/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/osmosi-inversa-e-microfiltrazione/sistemi-ad-osmosi-inversa/osmosi-inversa-purewater-new-pro-ad-1-via-con-membrane-180-gpd-made-in-italy/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/osmosi-inversa-e-microfiltrazione/sistemi-di-microfiltrazione/sistema-di-microfiltrazione-acqua-ad-1-via-edenya-micro-cal/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/addolcitori-e-ricambi/ricambi-addolcitori/",
+      "fragment": "",
+      "text": "Ricambi addolcitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/addolcitori-e-ricambi/addolcitori-cabinati/",
+      "fragment": "",
+      "text": "Addolcitori cabinati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/addolcitori-e-ricambi/addolcitori-doppio-corpo/",
+      "fragment": "",
+      "text": "Addolcitori doppio corpo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-per-acqua/filtri-edenya/",
+      "fragment": "",
+      "text": "Filtri Edenya",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-per-acqua/filtri-everpure/",
+      "fragment": "",
+      "text": "Filtri Everpure",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-per-acqua/filtri-profine/",
+      "fragment": "",
+      "text": "Filtri Profine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-per-acqua/water-care-filters/",
+      "fragment": "",
+      "text": "Water Care Filters",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-per-acqua/filtri-oceano/",
+      "fragment": "",
+      "text": "Filtri Oceano",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/sistemi-di-filtrazione-per-sedimenti/",
+      "fragment": "",
+      "text": "Sistemi di filtrazione per sedimenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/filtri-autopulenti/",
+      "fragment": "",
+      "text": "Filtri autopulenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/contenitori-vessel/",
+      "fragment": "",
+      "text": "Contenitori vessel",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/filtri-in-polipropilene-avvolto/",
+      "fragment": "",
+      "text": "Filtri in polipropilene avvolto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/filtri-gac/",
+      "fragment": "",
+      "text": "Filtri GAC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/filtri-in-poliestere-plissettato/",
+      "fragment": "",
+      "text": "Filtri in poliestere plissettato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/filtri-a-rete-lavabile/",
+      "fragment": "",
+      "text": "Filtri a rete lavabile",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/filtri-in-polipropilene-soffiato/",
+      "fragment": "",
+      "text": "Filtri in polipropilene soffiato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/filtri-carbon-block/",
+      "fragment": "",
+      "text": "Filtri carbon block",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/accessori-contenitori/",
+      "fragment": "",
+      "text": "Accessori contenitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/filtri-ricaricabili/",
+      "fragment": "",
+      "text": "Filtri ricaricabili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtri-drop-in-autopulenti-e-contenitori-vessel/filtri-in-ceramica/",
+      "fragment": "",
+      "text": "Filtri in ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/gasatori-e-refrigeratori-acqua/refrigeratori/",
+      "fragment": "",
+      "text": "Refrigeratori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/gasatori-e-refrigeratori-acqua/gasatori/",
+      "fragment": "",
+      "text": "Gasatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/gasatori-e-refrigeratori-acqua/parti-di-ricambio/",
+      "fragment": "",
+      "text": "Parti di ricambio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/sanificazione-e-tester-per-acqua/tester-e-kit-per-analisi-acqua/",
+      "fragment": "",
+      "text": "Tester e kit per analisi acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/sanificazione-e-tester-per-acqua/manutenzione-e-sanificazione/",
+      "fragment": "",
+      "text": "Manutenzione e sanificazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/bombole-ricariche-e-riduttori-co2/riduttori-di-pressione-co2/",
+      "fragment": "",
+      "text": "Riduttori di pressione CO2",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/bombole-ricariche-e-riduttori-co2/bombole-co2/",
+      "fragment": "",
+      "text": "Bombole CO2",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/bombole-ricariche-e-riduttori-co2/ricarica-bombole-co2/",
+      "fragment": "",
+      "text": "Ricarica bombole CO2",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/polipropilene-bianco/",
+      "fragment": "",
+      "text": "Raccordi in polipropilene bianco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/raccordi-polar-clean/",
+      "fragment": "",
+      "text": "Raccordi Polar Clean",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/acetalica-bianca/",
+      "fragment": "",
+      "text": "Raccordi in resina acetalica bianca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/raccordi-superseal/",
+      "fragment": "",
+      "text": "Raccordi Superseal",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/valvole-di-non-ritorno-2/",
+      "fragment": "",
+      "text": "Valvole di non ritorno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/raccordi-in-resina-acetalica-serie-cm/",
+      "fragment": "",
+      "text": "Raccordi in resina acetalica serie CM",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/tubi-jg/",
+      "fragment": "",
+      "text": "tubi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/raccordi-in-resina-acetalica-nera-serie-pm/",
+      "fragment": "",
+      "text": "Raccordi in resina acetalica nera serie PM",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/raccordi-in-resina-acetalica-grigia-serie-pi/",
+      "fragment": "",
+      "text": "Raccordi in resina acetalica grigia serie PI",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/valvole-d-intercettazione/",
+      "fragment": "",
+      "text": "Valvole d'intercettazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/valvole-d-intercettazione-di-non-ritorno/",
+      "fragment": "",
+      "text": "Valvole d'intercettazione di non ritorno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-john-guest/accessori-jg/",
+      "fragment": "",
+      "text": "accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/sistemi-uv-per-acqua/sistemi-uv/",
+      "fragment": "",
+      "text": "Sistemi UV",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/sistemi-uv-per-acqua/ricambi-sistemi-uv/",
+      "fragment": "",
+      "text": "Ricambi sistemi UV",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/osmosi-inversa-e-microfiltrazione/filtri-in-linea-e-ricambi/",
+      "fragment": "",
+      "text": "Filtri in linea e ricambi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/osmosi-inversa-e-microfiltrazione/sistemi-ad-osmosi-inversa/",
+      "fragment": "",
+      "text": "Osmosi inversa: sistemi e kit",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/osmosi-inversa-e-microfiltrazione/sistemi-di-microfiltrazione/",
+      "fragment": "",
+      "text": "Sistemi di microfiltrazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/osmosi-inversa-e-microfiltrazione/osmosi-inversa-commerciale/",
+      "fragment": "",
+      "text": "Osmosi inversa commerciale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/accessori-per-l-installazione/filtri-anticalcare-per-doccia/",
+      "fragment": "",
+      "text": "Filtri anticalcare per doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/accessori-per-l-installazione/contalitri/",
+      "fragment": "",
+      "text": "Contalitri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/accessori-per-l-installazione/raccordi-e-valvole/",
+      "fragment": "",
+      "text": "Raccordi e valvole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/accessori-per-l-installazione/riduttori-di-pressione-e-manometri/",
+      "fragment": "",
+      "text": "Riduttori di pressione e manometri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/accessori-per-l-installazione/kit-installazione-filtri/",
+      "fragment": "",
+      "text": "kit installazione filtri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/accessori-per-l-installazione/defangatori-e-kit-caldaie/",
+      "fragment": "",
+      "text": "Defangatori e kit caldaie anticalcare",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/accessori-per-l-installazione/clip/",
+      "fragment": "",
+      "text": "Clip",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/valvole-presa-acqua/",
+      "fragment": "",
+      "text": "Valvole presa acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/raccordi-serie-power/",
+      "fragment": "",
+      "text": "Raccordi serie power",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/adattatori-metrico-pollici/",
+      "fragment": "",
+      "text": "Adattatori metrico-pollici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/regolatori-di-flusso/",
+      "fragment": "",
+      "text": "Regolatori di flusso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/tubi/",
+      "fragment": "",
+      "text": "tubi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/raccordi-serie-grigia-in-resina-acetalica/",
+      "fragment": "",
+      "text": "raccordi serie grigia in resina acetalica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/valvole-intermedie/",
+      "fragment": "",
+      "text": "valvole intermedie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/valvole-di-non-ritorno/",
+      "fragment": "",
+      "text": "valvole di non ritorno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/raccordi-serie-bianca-in-resina-acetalica/",
+      "fragment": "",
+      "text": "raccordi serie bianca in resina acetalica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/raccordi-serie-nera-in-resina-acetalica/",
+      "fragment": "",
+      "text": "raccordi serie nera in resina acetalica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/accessori-dmf/",
+      "fragment": "",
+      "text": "accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/filtri-dmfit/",
+      "fragment": "",
+      "text": "Filtri DMfit",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/rubinetti-a-1-via/",
+      "fragment": "",
+      "text": "Rubinetti a 1 via",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/rubinetti-a-2-vie/",
+      "fragment": "",
+      "text": "Rubinetti a 2 vie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/rubinetti-a-3-vie/",
+      "fragment": "",
+      "text": "Rubinetti a 3 vie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/rubinetti-3-vie-acciaio-inox/",
+      "fragment": "",
+      "text": "Rubinetti 3 vie acciaio inox",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/rubinetti-a-4-vie/",
+      "fragment": "",
+      "text": "Rubinetti a 4 vie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/rubinetti-a-5-vie/",
+      "fragment": "",
+      "text": "Rubinetti a 5 vie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/accessori-per-rubinetti-e-colonnine/",
+      "fragment": "",
+      "text": "Accessori per rubinetti e colonnine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/colonnine/",
+      "fragment": "",
+      "text": "Colonnine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/strumenti-di-controllo-e-dosaggio/stazioni-di-dosaggio/",
+      "fragment": "",
+      "text": "Stazioni di dosaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/strumenti-di-controllo-e-dosaggio/pompe-dosatrici-elettromagnetiche/",
+      "fragment": "",
+      "text": "Pompe dosatrici elettromagnetiche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/filtrare-lacqua-del-rubinetto-guida-completa-alle-soluzioni-domestiche/",
+      "fragment": "",
+      "text": "Filtrare l’acqua del rubinetto: guida completa alle soluzioni domestiche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/gasatori-dacqua-domestici-come-funzionano-e-quale-scegliere/",
+      "fragment": "",
+      "text": "Gasatori d’acqua domestici: come funzionano e quale scegliere",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/come-scegliere-il-miglior-filtro-per-lacqua-di-casa-guida-completa/",
+      "fragment": "",
+      "text": "Come scegliere il miglior filtro per l’acqua di casa: guida completa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/migliori-filtri-anticalcare-per-caldaie-guida-alla-protezione-dellimpianto/",
+      "fragment": "",
+      "text": "Migliori filtri anticalcare per caldaie: guida alla protezione dell’impianto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/bonus-verde-2024/",
+      "fragment": "",
+      "text": "Bonus verde 2024",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/come-si-installa-un-sistema-ad-osmosi-inversa-sotto-il-lavello-della-cucina/",
+      "fragment": "",
+      "text": "Come si installa un sistema ad osmosi inversa sotto il lavello della cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/black-friday/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/uploads/2023/03/corrieri-di-termoidraulicarv.jpg",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/cookie-policy/",
+      "fragment": "",
+      "text": "Cookie Policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/reso-e-rimborsi/",
+      "fragment": "",
+      "text": "Reso e rimborsi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/my-account/orders/",
+      "fragment": "",
+      "text": "Ordini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/my-account/edit-account/",
+      "fragment": "",
+      "text": "Dettagli account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://termoidraulicarv.com/my-account/edit-address/",
+      "fragment": "",
+      "text": "Indirizzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://web.whatsapp.com/send?phone=390763630132",
+      "fragment": "",
+      "text": "Termoidraulica RV Termoidraulica RV",
+      "rel": "nofollow",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://wordpress.org/plugins/gdpr-cookie-compliance/",
+      "fragment": "",
+      "text": "Powered by&nbsp; GDPR Cookie Compliance",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://gmpg.org/xfn/11",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/xmlrpc.php",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/page/2/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://widget.feedaty.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/feed/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/negozio/feed/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-includes/css/dashicons.min.css?ver=7.1.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-includes/css/jquery-ui-dialog.min.css?ver=7.1.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/themes/shoptimizer/style.css?ver=7.1.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/whatsapp-for-wordpress/assets/dist/css/style.css?ver=7.1.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/categories-images/assets/css/zci-styles.css?ver=3.3.3",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/commercegurus-commercekit/assets/css/commercekit-unified.css?ver=2.5.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/feedaty-rating-for-woocommerce/public/css/feedaty-rating-for-woocommerce-public.css?ver=1.0.34",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/menu-image/includes/css/menu-image.css?ver=3.13",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/simple-banner/simple-banner.css?ver=3.3.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/woo-dynamic-pricing-discounts-with-ai/public/css/rtwwdpd-woo-dynamic-pricing-discounts-with-ai-public.css?ver=2.0.0",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/cartasi-x-pay/assets/css/xpay.css?ver=8.4.0",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/sendcloud-shipping/resources/css/sendcloud-checkout.css?ver=2.4.5",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/themes/shoptimizer/assets/css/main/main.min.css?ver=2.9.9",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/themes/shoptimizer/assets/css/main/blog.min.css?ver=2.9.9",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/themes/shoptimizer/assets/css/main/blocks.min.css?ver=2.9.9",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/themes/shoptimizer/assets/css/components/accessibility/reduced-motion.css?ver=2.9.9",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/flexible-shipping/assets/dist/css/free-shipping.css?ver=6.13.1.34",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/woocommerce-product-bundles/assets/css/frontend/checkout-blocks.css?ver=8.5.12",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/themes/termoidraulicarv/style.css?ver=0.1.0",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/themes/shoptimizer/inc/compatibility/woocommerce-product-bundles/woocommerce-product-bundles.css?ver=7.1.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/woocommerce-product-bundles/assets/css/frontend/woocommerce.css?ver=8.5.12",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/commercegurus-commercekit/assets/css/compatibility/shoptimizer.css?ver=2.5.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/mailin/css/mailin-front.css?ver=7.1.2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main.css?ver=5.1.0",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-json/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/xmlrpc.php?rsd",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/uploads/2021/03/cropped-logo-piccolo-1-32x32.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/uploads/2021/03/cropped-logo-piccolo-1-192x192.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/uploads/2021/03/cropped-logo-piccolo-1-180x180.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/cartasi-x-pay/build/index_xpay.css?ver=d33923c6ab081691781f",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://termoidraulicarv.com/wp-content/plugins/soliloquy-lite/assets/css/soliloquy.css?ver=2.8.4",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://widget.feedaty.com/v3.0.0/style/2021,merchant,300x100-3,6ac01b4db17c4.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@sendcloud/checkout-plugin-ui@^2.3.7/dist/checkout-plugin-ui.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

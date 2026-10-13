@@ -1,0 +1,105 @@
+{
+ "url": "https://www.bagnodistile.com/giardino/2028-doccia-bianca-in-alluminio-con-temporizzatore-e-lavapiedi-8025431152922.html",
+ "file": "giardino_2028-doccia-bianca-in-alluminio-con-temporizzatore-e-lavapiedi-8025431152922.html.html",
+ "title": "Doccia Bianca In Alluminio Con Temporizzatore e Lavapiedi",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8473,
+ "attributes": {
+  "brand": {
+   "value": "Sined",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Sined"
+    }
+   ]
+  },
+  "sku": {
+   "value": "LUNA-TIMER-P-BIANCA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "LUNA-TIMER-P-BIANCA"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8025431152922",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8025431152922"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "LUNA-TIMER-P-BIANCA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "LUNA-TIMER-P-BIANCA"
+    }
+   ]
+  },
+  "weight": {
+   "value": "8.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "8.000000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "material": {
+   "value": "Alluminio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Alluminio"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 3
+ }
+}

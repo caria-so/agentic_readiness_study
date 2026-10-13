@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/applique-sottopensili/52607-applique-moderna-led-sottopensile-bianca-7w-2-misure.html",
+  "model": "qwen2.5:32b",
+  "html": "it_applique-sottopensili_52607-applique-moderna-led-sottopensile-bianca-7w-2-misure.html.html",
+  "title": "Barra LED Sottopensile 7W Bianca | Mondialshop",
+  "text_chars": 6445,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "3.5 x 44 x 2.2 cm",
+      "evidence": "Dimensioni pari a 3.5 x 44 x 2.2 cm (HxLxW CM)",
+      "location": "body"
+    },
+    "care": {
+      "value": "panno morbido in microfibra completamente asciutto o un comune piumino catturapolvere delicato",
+      "evidence": "è sufficiente passare sulle superfici un panno morbido in microfibra completamente asciutto o un comune piumino catturapolvere delicato",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondialshop",
+        "evidence": "Barra LED Sottopensile 7W Bianca | Mondialshop"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2814,
+    "output_tokens": 725,
+    "seconds": 66.24
+  }
+}

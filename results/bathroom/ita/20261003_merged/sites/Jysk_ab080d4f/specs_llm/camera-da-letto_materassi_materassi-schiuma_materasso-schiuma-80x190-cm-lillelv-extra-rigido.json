@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/camera-da-letto/materassi/materassi-schiuma/materasso-schiuma-80x190-cm-lillelv-extra-rigido",
+  "model": "qwen2.5:32b",
+  "html": "camera-da-letto_materassi_materassi-schiuma_materasso-schiuma-80x190-cm-lillelv-extra-rigido.html",
+  "title": "Materasso in schiuma 80x190 cm LILLELV Extra rigido | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "80 cm",
+      "evidence": "Larghezza 80 cm, Lunghezza 190 cm, Altezza 14 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "14 cm",
+      "evidence": "Altezza: 14 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "LILLELV",
+      "evidence": "Materasso in schiuma 80x190 cm LILLELV Extra rigido",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3970,
+    "output_tokens": 696,
+    "seconds": 69.83
+  }
+}

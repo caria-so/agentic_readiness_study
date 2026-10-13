@@ -1,0 +1,79 @@
+{
+ "url": "https://en.termoidraulicarv.com/sanitizing-products-and-tester-for-water/tester-and-kit-for-water-analysis/ipt-nitrites-water-kit-analysis/",
+ "file": "sanitizing-products-and-tester-for-water_tester-and-kit-for-water-analysis_ipt-nitrites-water-kit-analysis.html",
+ "title": "IPT Nitrites water kit analysis",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1985,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "KA001019",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "KA001019"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "KA001019"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "5385",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "5385"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,500000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Weight",
+     "value": "0,500000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Analysis type": "nitrites",
+  "Sensitivity": "0,05 ppm NO2",
+  "Test Quantity": "50"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 1,
+  "L3": 4,
+  "dropped": 2
+ }
+}

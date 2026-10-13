@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/viti-truc-pozi-bronzata-5x50-200pz-10009643/",
+  "model": "qwen2.5:32b",
+  "html": "it_viti-truc-pozi-bronzata-5x50-200pz-10009643.html",
+  "title": "VITI TRUCIOLARI POZIDRIV FRIULSIDER 5x50 mm 200 PEZZI ACCIAIO BRONZATO",
+  "text_chars": 2244,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1617,
+    "output_tokens": 574,
+    "seconds": 49.46
+  }
+}

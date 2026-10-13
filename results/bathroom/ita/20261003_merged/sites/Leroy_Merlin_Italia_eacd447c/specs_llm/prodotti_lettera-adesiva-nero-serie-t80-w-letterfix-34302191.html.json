@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/lettera-adesiva-nero-serie-t80-w-letterfix-34302191.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_lettera-adesiva-nero-serie-t80-w-letterfix-34302191.html.html",
+  "title": "Lettera Adesiva Nero Serie T80 W Letterfix | Leroy Merlin",
+  "text_chars": 2623,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "0,10 mm",
+      "evidence": "Colormat vinile opaco mm 0,10 - Colore nero",
+      "location": "body"
+    },
+    "series": {
+      "value": "Serie T80 W",
+      "evidence": "Lettera Adesiva Nero Serie T80 W Letterfix",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1707,
+    "output_tokens": 535,
+    "seconds": 44.1
+  }
+}

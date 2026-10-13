@@ -1,0 +1,122 @@
+{
+ "url": "https://www.iperceramica.it/it/ita/catalogo/porta-pieghevole-easy-60xh210-cm-acero-neve-apertura-a-destra",
+ "file": "it_ita_catalogo_porta-pieghevole-easy-60xh210-cm-acero-neve-apertura-a-destra.html",
+ "title": "Porta Pieghevole Easy 60xh210 cm Acero Neve Apertura a Destra",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 5400,
+ "attributes": {
+  "sku": {
+   "value": "83251",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "83251"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Marrone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "COLORE",
+     "value": "Marrone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "COLORE VETRO",
+     "value": "No vetro"
+    }
+   ]
+  },
+  "brand_is_retailer_name": {
+   "value": "IPERCERAMICA",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "BRAND",
+     "value": "IPERCERAMICA"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Eco Laminato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "FINITURA SUPERFICIALE ANTA",
+     "value": "Eco Laminato"
+    }
+   ]
+  },
+  "series": {
+   "value": "Easy",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "SERIE",
+     "value": "Easy"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Pieghevole",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "TIPOLOGIA",
+     "value": "Pieghevole"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "60x210",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "DIMENSIONI",
+     "value": "60x210"
+    }
+   ]
+  },
+  "weight": {
+   "value": "32 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "32 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "INTERNO ANTA": "Nido d'ape",
+  "FERRAMENTA": "Cromo satinata"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 9,
+  "L3": 1,
+  "dropped": 0
+ }
+}

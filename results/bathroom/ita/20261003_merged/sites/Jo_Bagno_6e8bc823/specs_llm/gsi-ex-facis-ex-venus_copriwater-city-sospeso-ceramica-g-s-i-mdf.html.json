@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/gsi-ex-facis-ex-venus/copriwater-city-sospeso-ceramica-g-s-i-mdf.html",
+  "model": "qwen2.5:32b",
+  "html": "gsi-ex-facis-ex-venus_copriwater-city-sospeso-ceramica-g-s-i-mdf.html.html",
+  "title": "Copriwater City Sospeso Ceramica G.S.I. MDF",
+  "text_chars": 2661,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "33,8",
+      "evidence": "Misure: X: 33,8 Y: 43 Z: 16 (J6)",
+      "location": "body"
+    },
+    "length": {
+      "value": "43",
+      "evidence": "Misure: X: 33,8 Y: 43 Z: 16 (J6)",
+      "location": "body"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Copriwater compatibile con serie City Sospeso della Ceramica G.S.I. in MDF",
+      "location": "body"
+    },
+    "series": {
+      "value": "City Sospeso",
+      "evidence": "Copriwater compatibile con serie City Sospeso della Ceramica G.S.I. in MDF",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Ceramica G.S.I.",
+      "evidence": "Copriwater compatibile con serie City Sospeso della Ceramica G.S.I. in MDF",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Il copriwater Wc è un prodotto Made in Italy, realizzato in MDF con anima in legno altamente resistente alle sollecitazione esterne.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2135,
+    "output_tokens": 729,
+    "seconds": 63.62
+  }
+}

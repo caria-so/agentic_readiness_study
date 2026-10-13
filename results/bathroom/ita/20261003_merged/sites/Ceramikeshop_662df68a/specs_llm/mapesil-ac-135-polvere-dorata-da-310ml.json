@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/mapesil-ac-135-polvere-dorata-da-310ml",
+  "model": "qwen2.5:32b",
+  "html": "mapesil-ac-135-polvere-dorata-da-310ml.html",
+  "title": "Mapesil AC 135 Polvere Dorata da 310ml | Mapei | Ceramikeshop",
+  "text_chars": 7945,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "dorata",
+      "evidence": "Mapesil AC 135 Polvere Dorata da 310ml",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4698,
+    "output_tokens": 499,
+    "seconds": 57.19
+  }
+}

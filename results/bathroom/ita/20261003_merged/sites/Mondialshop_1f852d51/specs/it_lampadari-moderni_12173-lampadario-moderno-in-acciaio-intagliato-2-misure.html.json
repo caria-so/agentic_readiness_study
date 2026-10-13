@@ -1,0 +1,189 @@
+{
+ "url": "https://www.mondialshop.it/it/lampadari-moderni/12173-lampadario-moderno-in-acciaio-intagliato-2-misure.html",
+ "file": "it_lampadari-moderni_12173-lampadario-moderno-in-acciaio-intagliato-2-misure.html.html",
+ "title": "Lampadario Moderno in Acciaio Intagliato 2 Misure",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2760,
+ "attributes": {
+  "brand": {
+   "value": "Gt Luce",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gt Luce"
+    }
+   ]
+  },
+  "sku": {
+   "value": "BUTTERFLY/S",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "BUTTERFLY/S"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "BUTTERFLY/S",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "BUTTERFLY/S"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.680000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.680000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Cromo"
+    }
+   ]
+  },
+  "height": {
+   "value": "22 27",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "22 27"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Acciaio"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiali di qualità",
+     "value": "Realizzata in solido metallo con finitura cromata sia per la struttura che per il diffusore."
+    }
+   ]
+  },
+  "installation": {
+   "value": "E27",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "E27"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "IP20",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Protezione Ip",
+     "value": "IP20"
+    }
+   ]
+  },
+  "length": {
+   "value": "10 35",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza cm",
+     "value": "10 35"
+    }
+   ]
+  },
+  "width": {
+   "value": "10 35",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza cm",
+     "value": "10 35"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Struttura cilindrica in metallo decorata con motivi floreali e farfalle in rilievo realizzate al laser.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Design decorativo",
+     "value": "Struttura cilindrica in metallo decorata con motivi floreali e farfalle in rilievo realizzate al laser."
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Diametro di 10 cm e altezza del corpo lampada di 27 cm, con un'altezza complessiva regolabile fino a 100 cm grazie al cavo da 80 cm.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni del prodotto",
+     "value": "Diametro di 10 cm e altezza del corpo lampada di 27 cm, con un'altezza complessiva regolabile fino a 100 cm grazie al cavo da 80 cm."
+    }
+   ]
+  },
+  "warranty": {
+   "value": "Prodotto coperto da una garanzia di 3 anni.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia ufficiale",
+     "value": "Prodotto coperto da una garanzia di 3 anni."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Attacco lampadina": "Predisposta per una sorgente luminosa con attacco E27 (lampadina non inclusa)."
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 7,
+  "L3": 5,
+  "dropped": 0
+ }
+}

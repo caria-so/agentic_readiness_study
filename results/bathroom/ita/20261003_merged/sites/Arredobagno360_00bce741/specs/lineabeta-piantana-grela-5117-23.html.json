@@ -1,0 +1,101 @@
+{
+ "url": "https://www.arredobagno360.it/lineabeta-piantana-grela-5117-23.html",
+ "file": "lineabeta-piantana-grela-5117-23.html.html",
+ "title": "Grela 5117.23 | Piantana portasalviette",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 661,
+ "attributes": {
+  "sku": {
+   "value": "lineabeta-piantana-grela-5117.23",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "lineabeta-piantana-grela-5117.23"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "lineabeta-piantana-grela-5117.23",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "lineabeta-piantana-grela-5117.23"
+    }
+   ]
+  },
+  "series": {
+   "value": "Grela 5117.23 | Piantana portasalviette",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Grela 5117.23 | Piantana portasalviette"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Collezione",
+     "value": "Grela"
+    }
+   ]
+  },
+  "weight": {
+   "value": "14.0000 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "14.0000 KGM"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Lineabeta",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Lineabeta"
+    }
+   ]
+  },
+  "finish": {
+   "value": "nero",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "nero"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Scheda tecnica e Codice": "5117.23"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 4,
+  "dropped": 2
+ }
+}

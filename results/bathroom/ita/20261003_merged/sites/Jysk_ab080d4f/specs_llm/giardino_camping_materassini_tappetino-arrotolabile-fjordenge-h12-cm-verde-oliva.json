@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/giardino/camping/materassini/tappetino-arrotolabile-fjordenge-h12-cm-verde-oliva",
+  "model": "qwen2.5:32b",
+  "html": "giardino_camping_materassini_tappetino-arrotolabile-fjordenge-h12-cm-verde-oliva.html",
+  "title": "Tappetino arrotolabile FJORDENGE H1,2 cm verde oliva | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "verde oliva",
+      "evidence": "Tappetino arrotolabile FJORDENGE H1,2 cm verde oliva",
+      "location": "title"
+    },
+    "width": {
+      "value": "55 cm",
+      "evidence": "Larghezza 55 cm, Lunghezza 190 cm, Altezza 1,2 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "1,2 cm",
+      "evidence": "Larghezza 55 cm, Lunghezza 190 cm, Altezza 1,2 cm",
+      "location": "body"
+    },
+    "length": {
+      "value": "190 cm",
+      "evidence": "Larghezza 55 cm, Lunghezza 190 cm, Altezza 1,2 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "FJORDENGE",
+      "evidence": "Tappetino arrotolabile FJORDENGE H1,2 cm verde oliva",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5435,
+    "output_tokens": 697,
+    "seconds": 76.81
+  }
+}

@@ -1,0 +1,141 @@
+{
+ "url": "https://www.ikea.com/it/it/p/vikanes-anta-rossiccio-10630503/",
+ "file": "it_it_p_vikanes-anta-rossiccio-10630503.html",
+ "title": "VIKANES Anta, rossiccio, 50x229 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2601,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "106.305.03",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "106.305.03"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "106.305.03",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "106.305.03"
+    }
+   ]
+  },
+  "width": {
+   "value": "49.5 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "49.5 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "49.5 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "229.4 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "229.4 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "229.4 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza struttura",
+     "value": "236.4 cm"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "2.0 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore",
+     "value": "2.0 cm"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "50 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "50 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "2 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lunghezza",
+     "value": "239 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "9.35 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "9.35 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 4,
+  "L3": 4,
+  "dropped": 1
+ }
+}

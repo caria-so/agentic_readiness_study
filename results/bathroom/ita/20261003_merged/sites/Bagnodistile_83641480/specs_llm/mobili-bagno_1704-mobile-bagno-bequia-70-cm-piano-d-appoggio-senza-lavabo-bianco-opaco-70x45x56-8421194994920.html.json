@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/mobili-bagno/1704-mobile-bagno-bequia-70-cm-piano-d-appoggio-senza-lavabo-bianco-opaco-70x45x56-8421194994920.html",
+  "model": "qwen2.5:32b",
+  "html": "mobili-bagno_1704-mobile-bagno-bequia-70-cm-piano-d-appoggio-senza-lavabo-bianco-opaco-70x45x56-8421194994920.html.html",
+  "title": "Mobile bagno Bequia 70 cm + piano d'appoggio (senza lavabo) Bianco ...",
+  "text_chars": 6106,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "pannello di particelle laminato da 1,6 cm (classe E-1) con bordi in PVC (con colla PUR)",
+      "evidence": "- Frontale e lati realizzati in pannello di particelle laminato da 1,6 cm (classe E-1) con bordi in PVC (con colla PUR).",
+      "location": "body"
+    },
+    "colour": {
+      "value": "bianco opaco",
+      "evidence": "Mobile bagno Bequia 70 cm + piano d'appoggio (senza lavabo) | Bianco opaco | 70x45x56",
+      "location": "body"
+    },
+    "width": {
+      "value": "70 cm",
+      "evidence": "Mobile bagno Bequia 70 cm + piano d'appoggio (senza lavabo) | Bianco opaco | 70x45x56",
+      "location": "body"
+    },
+    "height": {
+      "value": "56 cm",
+      "evidence": "Mobile bagno Bequia 70 cm + piano d'appoggio (senza lavabo) | Bianco opaco | 70x45x56",
+      "location": "body"
+    },
+    "depth": {
+      "value": "45 cm",
+      "evidence": "Mobile bagno Bequia 70 cm + piano d'appoggio (senza lavabo) | Bianco opaco | 70x45x56",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "70x45x56",
+      "evidence": "Mobile bagno Bequia 70 cm + piano d'appoggio (senza lavabo) | Bianco opaco | 70x45x56",
+      "location": "body"
+    },
+    "opening": {
+      "value": "freni a chiusura ammortizzata",
+      "evidence": "- Quattro cassetti con freni a chiusura ammortizzata per una chiusura fluida.",
+      "location": "body"
+    },
+    "series": {
+      "value": "BEQUIA",
+      "evidence": "La serie BEQUIA ha un design funzionale e minimalista.",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "5 anni contro danni e pezzi di ricambio",
+      "evidence": "- Garanzia di 5 anni contro danni e pezzi di ricambio.",
+      "location": "body"
+    },
+    "certification": {
+      "value": "Certificato PEFC",
+      "evidence": "- Certificato PEFC, che garantisce lo sfruttamento sostenibile delle risorse forestali. Imballaggio senza plastica.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Spagna",
+      "evidence": "- Progettati e realizzati in Spagna",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3181,
+    "output_tokens": 904,
+    "seconds": 78.01
+  }
+}

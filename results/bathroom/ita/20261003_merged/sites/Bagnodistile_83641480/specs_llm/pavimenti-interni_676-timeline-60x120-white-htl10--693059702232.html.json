@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/pavimenti-interni/676-timeline-60x120-white-htl10--693059702232.html",
+  "model": "qwen2.5:32b",
+  "html": "pavimenti-interni_676-timeline-60x120-white-htl10--693059702232.html.html",
+  "title": "TIMELINE 60X120 White HTL10 | Bagno di Stile",
+  "text_chars": 4072,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "White",
+      "evidence": "TIMELINE 60X120 White HTL10",
+      "location": "title"
+    },
+    "width": {
+      "value": "60",
+      "evidence": "Formato 60x120 olore White",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "60x120",
+      "evidence": "Formato 60x120 olore White",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "Rettangolare",
+      "evidence": "Formato Rettangolare",
+      "location": "body"
+    },
+    "series": {
+      "value": "Timeline",
+      "evidence": "La materia cemento diventa industrial chic. Timeline è una “collezione – progetto” di grande respiro in grado di soddisfare ogni esigenza architettonica.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2660,
+    "output_tokens": 627,
+    "seconds": 54.83
+  }
+}

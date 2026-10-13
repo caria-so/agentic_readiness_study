@@ -1,0 +1,188 @@
+{
+ "url": "https://jysk.it/soggiorno/poltrone/poggiapiedi-uldum-tessuto-grigio-nero",
+ "file": "soggiorno_poltrone_poggiapiedi-uldum-tessuto-grigio-nero.html",
+ "title": "ULDUM Poggiapiedi ULDUM tessuto grigio/nero",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 13461,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "3640378",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "3640378"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "3640378"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Poggiapiedi",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Poggiapiedi"
+    }
+   ]
+  },
+  "material": {
+   "value": "Schiuma, Compensato, Poliestere, Acciaio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Schiuma, Compensato, Poliestere, Acciaio"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Seduta Schiuma, Compensato, Poliestere, Schienale Schiuma, Compensato, Poliestere, Bracciolo Schiuma, Compensato, Poliestere, Gamba Acciaio"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo di tessuto",
+     "value": "Tessuto a trama piatta"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Grigio, Nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Grigio, Nero"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Larghezza 39 cm, Altezza 39 cm, Profondità 59 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni da montato",
+     "value": "Larghezza 39 cm, Altezza 39 cm, Profondità 59 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni non montato",
+     "value": "Larghezza 42 cm, Lunghezza 63 cm, Altezza 19 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "35",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza della seduta",
+     "value": "35"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Da montare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Assemblaggio",
+     "value": "Da montare"
+    }
+   ]
+  },
+  "weight": {
+   "value": "5 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "5 kg"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di colli",
+     "value": "1"
+    }
+   ]
+  },
+  "certification": {
+   "value": "FSC® 100% ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "FSC® 100% "
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Seduta": "Tessuto Poliestere, Materiale espanso Schiuma di polietere, Densità della schiuma D24,D16,D20 kg/m³",
+  "Trattamento": "Verniciato a polvere",
+  "Funzione": "Poggiapiedi",
+  "Carico massimo per seduta": "110 kg"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 17,
+  "L3": 1,
+  "dropped": 56
+ }
+}

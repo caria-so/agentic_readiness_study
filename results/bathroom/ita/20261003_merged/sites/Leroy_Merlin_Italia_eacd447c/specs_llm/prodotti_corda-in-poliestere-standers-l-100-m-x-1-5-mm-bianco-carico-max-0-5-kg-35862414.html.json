@@ -1,0 +1,74 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/corda-in-poliestere-standers-l-100-m-x-1-5-mm-bianco-carico-max-0-5-kg-35862414.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_corda-in-poliestere-standers-l-100-m-x-1-5-mm-bianco-carico-max-0-5-kg-35862414.html.html",
+  "title": "Corda in poliestere STANDERS L 100 m x Ø 1.5 mm bianco carico max 0.5 Kg | Leroy Merlin",
+  "text_chars": 2972,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "1.5 mm",
+      "evidence": "Diametro (in mm) 1.5",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "width": {
+      "reason": "package_value",
+      "raw": {
+        "value": "6.5 cm",
+        "evidence": "Prodotto imballato: larghezza (in cm) 6.5"
+      }
+    },
+    "height": {
+      "reason": "package_value",
+      "raw": {
+        "value": "5.5 cm",
+        "evidence": "Prodotto imballato: altezza (in cm) 5.5"
+      }
+    },
+    "depth": {
+      "reason": "package_value",
+      "raw": {
+        "value": "6.5 cm",
+        "evidence": "Prodotto imballato: profondità (in cm) 6.5"
+      }
+    },
+    "weight": {
+      "reason": "package_value",
+      "raw": {
+        "value": "0.192 kg",
+        "evidence": "Prodotto imballato: peso (in kg) 0.192"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1919,
+    "output_tokens": 666,
+    "seconds": 54.6
+  }
+}

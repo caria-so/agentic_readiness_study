@@ -1,0 +1,111 @@
+{
+ "url": "https://www.mondialshop.it/it/piatti-doccia-in-marmo-resina/56708-piatto-doccia-in-marmoresina-marrone-effetto-pietra-cemento-prestige.html",
+ "file": "it_piatti-doccia-in-marmo-resina_56708-piatto-doccia-in-marmoresina-marrone-effetto-pietra-cemento-prestige.html.html",
+ "title": "Piatto doccia marrone con scarico laterale serie MATERIA",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 5856,
+ "attributes": {
+  "brand": {
+   "value": "OLIMPO DOCCE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "OLIMPO DOCCE"
+    }
+   ]
+  },
+  "sku": {
+   "value": "MATERIA-Cioccolato",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "MATERIA-Cioccolato"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "MATERIA-Cioccolato",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "MATERIA-Cioccolato"
+    }
+   ]
+  },
+  "weight": {
+   "value": "10.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "10.000000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Marrone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Marrone"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Usare solo mastice poliuretanico",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Usare solo mastice poliuretanico"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Il coperchio materico corre lungo tutto il bordo corto del piatto, mimetizzando lo scarico e creando un blocco visivo unico e monumentale.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Scarico a scomparsa totale",
+     "value": "Il coperchio materico corre lungo tutto il bordo corto del piatto, mimetizzando lo scarico e creando un blocco visivo unico e monumentale."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Pieno": "Sì",
+  "Tagliabile": "Sì",
+  "Accessori": "Griglia Manuale di istruzioni Piatto doccia Piletta di scarico",
+  "Gamma cromatica completa": "Disponibile in 6 splendide finiture opache: Bianco, Tortora, Sabbia, Grigio Chiaro, Grigio Antracite e Nero.",
+  "La materia incontra il design": "la marmoresina con protezione Gelcoat"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 5,
+  "L3": 3,
+  "dropped": 3
+ }
+}

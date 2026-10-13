@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/giardino/accessori-da-giardino/fioriere-e-vasi/fioriera-da-esterno-storlire-o31xh34-cm-marrone",
+  "model": "qwen2.5:32b",
+  "html": "giardino_accessori-da-giardino_fioriere-e-vasi_fioriera-da-esterno-storlire-o31xh34-cm-marrone.html",
+  "title": "Fioriera da esterno STORLIRE Ø31xH34 cm marrone | JYSK",
+  "text_chars": 8082,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "34 cm",
+      "evidence": "Dimensioni da montato Diametro 31 cm, Altezza 34 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "STORLIRE",
+      "evidence": "Fioriera da esterno STORLIRE Ø31xH34 cm marrone",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4752,
+    "output_tokens": 572,
+    "seconds": 63.24
+  }
+}

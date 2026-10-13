@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/lama-multifunzione-bosch-32-x-50-mm-legn-10061192/",
+  "model": "qwen2.5:32b",
+  "html": "it_lama-multifunzione-bosch-32-x-50-mm-legn-10061192.html",
+  "title": "LAMA MULTIFUNZIONE BOSCH 32 x 50 mm LEGNO METALLO CURVED TECH AIZ 32 APB BIM",
+  "text_chars": 789,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "32 mm",
+      "evidence": "Con una larghezza di 32 mm e una lunghezza di 50 mm, questa lama è adatta per lavorare su legno e metallo.",
+      "location": "body"
+    },
+    "length": {
+      "value": "50 mm",
+      "evidence": "Con una larghezza di 32 mm e una lunghezza di 50 mm, questa lama è adatta per lavorare su legno e metallo.",
+      "location": "body"
+    },
+    "series": {
+      "value": "AIZ 32 APB BIM",
+      "evidence": "La lama multifunzione Bosch AIZ 32 APB BIM è progettata per tagli ad immersione e rifilature precise in diversi materiali.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1115,
+    "output_tokens": 610,
+    "seconds": 50.07
+  }
+}

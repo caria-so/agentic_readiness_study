@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/davide-groppi-moon-f-lampada-da-terra-1",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_davide-groppi-moon-f-lampada-da-terra-1.html",
+  "title": "Davide Groppi, Moon F Lampada da terra | Bertani",
+  "text_chars": 809,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "bianco opaco",
+      "evidence": "Base d'appoggio in colore bianco opaco",
+      "location": "body"
+    },
+    "height": {
+      "value": "80,5 cm",
+      "evidence": "Altezza 80,5 cm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "Diametro 78 cm",
+      "evidence": "Diametro 78 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Lampada da terra a forma sferica",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "sferica",
+      "evidence": "Lampada da terra a forma sferica",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "material": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "PE (polietilene), carta giapponese",
+        "evidence": "Lampada da terra a forma sferica con paralume in PE (polietilene) decorato con carta giapponese."
+      }
+    },
+    "electrical": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Potenza max 15W, IP20",
+        "evidence": "Potenza max 15W. IP20"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1131,
+    "output_tokens": 609,
+    "seconds": 49.94
+  }
+}

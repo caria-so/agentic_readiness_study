@@ -1,0 +1,130 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/osram-led-dulux-d-e-18w-7w-830-g24q-2-4058075559127-82511830.html",
+ "file": "prodotti_osram-led-dulux-d-e-18w-7w-830-g24q-2-4058075559127-82511830.html.html",
+ "title": "OSRAM - LED DULUX D/E (18W) 7W/830 G24Q-2 - 4058075559127",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4382,
+ "attributes": {
+  "brand": {
+   "value": "OSRAM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "OSRAM"
+    }
+   ]
+  },
+  "sku": {
+   "value": "82511830",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "82511830"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "4058075135208",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "4058075135208"
+    }
+   ]
+  },
+  "installation": {
+   "value": "G24Q",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di attacco",
+     "value": "G24Q"
+    }
+   ]
+  },
+  "material": {
+   "value": "Altro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Altro"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "220-240",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Voltaggio (in V)",
+     "value": "220-240"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "3",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "3"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "LED",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipo di lampadina",
+     "value": "LED"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "ZOOMICI",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "ZOOMICI"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Utilizzo del prodotto connesso": "Questo prodotto non è compatibile con un prodotto connesso",
+  "Temperatura di colore (in K)": "3000",
+  "Fascio luminoso della lampadina (in °)": "120",
+  "Sensore di movimento": "No"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 8,
+  "L3": 2,
+  "dropped": 7
+ }
+}

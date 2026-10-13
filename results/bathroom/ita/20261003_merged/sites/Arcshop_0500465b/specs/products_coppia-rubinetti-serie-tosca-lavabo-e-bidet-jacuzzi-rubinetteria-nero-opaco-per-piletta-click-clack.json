@@ -1,0 +1,83 @@
+{
+ "url": "https://www.arcshop.it/products/coppia-rubinetti-serie-tosca-lavabo-e-bidet-jacuzzi-rubinetteria-nero-opaco-per-piletta-click-clack",
+ "file": "products_coppia-rubinetti-serie-tosca-lavabo-e-bidet-jacuzzi-rubinetteria-nero-opaco-per-piletta-click-clack.html",
+ "title": "Coppia rubinetti serie Tosca lavabo e bidet Jacuzzi Rubinetteria nero opaco per piletta click clack",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3263,
+ "attributes": {
+  "brand": {
+   "value": "Jacuzzi | Rubinetteria",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jacuzzi | Rubinetteria"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "0630606709030",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "0630606709030"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "0630606709030",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "0630606709030"
+    }
+   ]
+  },
+  "weight": {
+   "value": "2.24kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "2.24kg"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "10 Anni",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia",
+     "value": "10 Anni"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "gtin=mpn"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 0
+ }
+}

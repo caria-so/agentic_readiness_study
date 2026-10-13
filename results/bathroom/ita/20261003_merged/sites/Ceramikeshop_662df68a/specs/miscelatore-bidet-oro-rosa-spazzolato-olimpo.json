@@ -1,0 +1,77 @@
+{
+ "url": "https://ceramikeshop.it/miscelatore-bidet-oro-rosa-spazzolato-olimpo",
+ "file": "miscelatore-bidet-oro-rosa-spazzolato-olimpo.html",
+ "title": "Miscelatore bidet Oro Rosa Spazzolato Olimpo | Imex Products",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8879,
+ "attributes": {
+  "brand": {
+   "value": "Imex Products",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Imex Products"
+    }
+   ]
+  },
+  "sku": {
+   "value": "IMEX/BDC033-2ORC",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "IMEX/BDC033-2ORC"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8435668033794",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8435668033794"
+    },
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8435668033794"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "IMEX/BDC033-2ORC",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "IMEX/BDC033-2ORC"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 0,
+  "dropped": 1
+ }
+}

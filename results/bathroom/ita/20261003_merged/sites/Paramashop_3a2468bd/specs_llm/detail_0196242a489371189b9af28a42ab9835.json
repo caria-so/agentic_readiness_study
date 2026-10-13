@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/0196242a489371189b9af28a42ab9835",
+  "model": "qwen2.5:32b",
+  "html": "detail_0196242a489371189b9af28a42ab9835.html",
+  "title": "Casetta Legno 330x318 cm: Personalizza Impermeabilizzazione e Pavimento",
+  "text_chars": 1882,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "318 cm",
+      "evidence": "Casetta Legno 330x318 cm",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1537,
+    "output_tokens": 529,
+    "seconds": 43.35
+  }
+}

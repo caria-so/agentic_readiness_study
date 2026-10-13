@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/sanindusa/copriwater-urby-plus-ceramica-sanindusa.html",
+  "model": "qwen2.5:32b",
+  "html": "sanindusa_copriwater-urby-plus-ceramica-sanindusa.html.html",
+  "title": "Copriwater Urby Plus Ceramica sanindusa",
+  "text_chars": 2265,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "35.6",
+      "evidence": "Misure: X: 35.6Y: 43.7 Z: min. 120 – max. 170 (J33B)",
+      "location": "body"
+    },
+    "length": {
+      "value": "43.7",
+      "evidence": "Misure: X: 35.6Y: 43.7 Z: min. 120 – max. 170 (J33B)",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Ceramica Sanindusa",
+      "evidence": "Copriwater seduta WC Urby Plus Ceramica Sanindusa",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Il copriwater Wc è un prodotto Made in Italy",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1807,
+    "output_tokens": 696,
+    "seconds": 59.53
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/treverkview-wood-look-marazzi.html",
+  "model": "qwen2.5:32b",
+  "html": "treverkview-wood-look-marazzi.html.html",
+  "title": "Treverkview | Piastrelle in gres porcellanato, varie misure",
+  "text_chars": 3056,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "gres fine porcellanato colorato in massa",
+      "evidence": "Tecnologia: gres fine porcellanato colorato in massa, according to UNI EN 14411 - G Bla",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Rovere Avorio, Rovere Beige, Rovere Caramello, Rovere Marrone, Rovere Grigio, Scuro, Naturale, Miele, Tortora",
+      "evidence": "Finiture: Rovere Avorio, Rovere Beige, Rovere Caramello, Rovere Marrone, Rovere Grigio, Scuro, Naturale, Miele, Tortora",
+      "location": "body"
+    },
+    "width": {
+      "value": "20 cm",
+      "evidence": "Dimensioni: 20x120",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Marazzi",
+      "evidence": "La serie Treverkview appartiene alla collezione Wood Look dell'azienda italiana Marazzi .",
+      "location": "body"
+    },
+    "certification": {
+      "value": "UNI EN 14411 - G Bla",
+      "evidence": "Tecnologia: gres fine porcellanato colorato in massa, according to UNI EN 14411 - G Bla",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1887,
+    "output_tokens": 763,
+    "seconds": 61.77
+  }
+}

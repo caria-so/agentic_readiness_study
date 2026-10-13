@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/paffoni-zsof130-filadelfia-cr.html",
+  "model": "qwen2.5:32b",
+  "html": "paffoni-zsof130-filadelfia-cr.html.html",
+  "title": "ZSOF130 Filadelfia | Soffione doccia incasso D400, cromo",
+  "text_chars": 1004,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "metallo",
+      "evidence": "Soffione ad incasso anticalcare in metallo della collezione Paffoni",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "Ø400mm",
+      "evidence": "• Ø400mm",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "2 entrate",
+      "evidence": "• 2 entrate",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "Tondo",
+      "evidence": "Soffione FILADELFIA ad incasso “Tondo” in metallo:",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Soffione FILADELFIA ad incasso"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1249,
+    "output_tokens": 628,
+    "seconds": 49.34
+  }
+}

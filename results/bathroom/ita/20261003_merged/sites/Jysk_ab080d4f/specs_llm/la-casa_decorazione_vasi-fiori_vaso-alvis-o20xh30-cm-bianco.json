@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/la-casa/decorazione/vasi-fiori/vaso-alvis-o20xh30-cm-bianco",
+  "model": "qwen2.5:32b",
+  "html": "la-casa_decorazione_vasi-fiori_vaso-alvis-o20xh30-cm-bianco.html",
+  "title": "Vaso ALVIS Ø20xH30 cm bianco | JYSK",
+  "text_chars": 8124,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "30 cm",
+      "evidence": "Dimensioni Diametro 20 cm, Altezza 30 cm",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "scultorea e arrotondata",
+      "evidence": "Vaso in dolomite bianca dalla forma scultorea e arrotondata",
+      "location": "body"
+    },
+    "series": {
+      "value": "ALVIS",
+      "evidence": "Vaso ALVIS Ø20xH30 cm bianco",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4874,
+    "output_tokens": 609,
+    "seconds": 66.58
+  }
+}

@@ -1,0 +1,77 @@
+{
+ "url": "https://www.paramashop.it/detail/019638d3810f71268135efe34b5418a0",
+ "file": "detail_019638d3810f71268135efe34b5418a0.html",
+ "title": "Casetta in legno 258x414cm porta doppia - 9,02 metri quadri",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1799,
+ "attributes": {
+  "mpn": {
+   "value": "302.009",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "302.009"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "2,31x3,80m",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni interne",
+     "value": "2,31x3,80m"
+    }
+   ]
+  },
+  "material": {
+   "value": "Abete naturale massello",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Legno",
+     "value": "Abete naturale massello"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Legno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "302.009",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "302.009"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Area interna": "9,02m²"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 4,
+  "L3": 1,
+  "dropped": 8
+ }
+}

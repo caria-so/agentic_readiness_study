@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/erika-kgr0.html",
+  "model": "qwen2.5:32b",
+  "html": "erika-kgr0.html.html",
+  "title": "Letto contenitore matrimoniale rialzato con piedini zinco mikali, bronzo mikali: Erika | Mondo Convenienza",
+  "text_chars": 1516,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Zinco Mikali / Bronzo Mikali",
+      "evidence": "ERIKA LETTO CONTENITORE MATRIMONIALE RIALZATO CON PIEDINI L.170 P.197 H.111 COLORE ZINCO MIKALI / BRONZO MIKALI",
+      "location": "body"
+    },
+    "width": {
+      "value": "L.170",
+      "evidence": "ERIKA LETTO CONTENITORE MATRIMONIALE RIALZATO CON PIEDINI L.170 P.197 H.111 COLORE ZINCO MIKALI / BRONZO MIKALI",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.111",
+      "evidence": "ERIKA LETTO CONTENITORE MATRIMONIALE RIALZATO CON PIEDINI L.170 P.197 H.111 COLORE ZINCO MIKALI / BRONZO MIKALI",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.197",
+      "evidence": "ERIKA LETTO CONTENITORE MATRIMONIALE RIALZATO CON PIEDINI L.170 P.197 H.111 COLORE ZINCO MIKALI / BRONZO MIKALI",
+      "location": "body"
+    },
+    "series": {
+      "value": "Erika",
+      "evidence": "ERIKA LETTO CONTENITORE MATRIMONIALE RIALZATO CON PIEDINI L.170 P.197 H.111 COLORE ZINCO MIKALI / BRONZO MIKALI",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "a terra",
+        "evidence": "Struttura rialzata su piedini"
+      }
+    },
+    "shape_style": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "moderno",
+        "evidence": "Estetica moderna, essenziale e accattivante!"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1308,
+    "output_tokens": 783,
+    "seconds": 64.08
+  }
+}

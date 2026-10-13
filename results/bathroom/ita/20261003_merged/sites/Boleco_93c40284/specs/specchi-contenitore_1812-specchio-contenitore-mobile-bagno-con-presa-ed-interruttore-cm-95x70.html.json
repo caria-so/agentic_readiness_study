@@ -1,0 +1,132 @@
+{
+ "url": "https://www.boleco.it/specchi-contenitore/1812-specchio-contenitore-mobile-bagno-con-presa-ed-interruttore-cm-95x70.html",
+ "file": "specchi-contenitore_1812-specchio-contenitore-mobile-bagno-con-presa-ed-interruttore-cm-95x70.html.html",
+ "title": "Specchio contenitore mobile bagno con presa ed interruttore - cm 95x70",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4283,
+ "attributes": {
+  "sku": {
+   "value": "84216",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "84216"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "84216"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "84216"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "81-110cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Specchi",
+     "value": "81-110cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "95x70cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "6500K (luce fredda)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore luce",
+     "value": "6500K (luce fredda)"
+    }
+   ]
+  },
+  "material": {
+   "value": "bianco lucido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Struttura Specchio",
+     "value": "bianco lucido"
+    }
+   ]
+  },
+  "installation": {
+   "value": "SI",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "SI"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "23",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Watt",
+     "value": "23"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lumen",
+     "value": "1.300"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Classe",
+     "value": "F"
+    }
+   ]
+  },
+  "certification": {
+   "value": "IP44 classe 2, ROHS,CE,EMC.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "IP44 classe 2, ROHS,CE,EMC."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Reversibile": "NO",
+  "Presa e Interruttore": "SI",
+  "Alimentazione": "220v"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 2,
+  "L3": 12,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "url": "https://www.deghi.it/set-incasso-doccia-con-soffione-a-soffitto-e-doccino-in-acciaio-inox-nikel-spazzolato-mariel-top",
+ "file": "set-incasso-doccia-con-soffione-a-soffitto-e-doccino-in-acciaio-inox-nikel-spazzolato-mariel-top.html",
+ "title": "Set incasso doccia con soffione a soffitto in acciaio inox e doccino nikel spazzolato - Mariel Top",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 11407,
+ "attributes": {
+  "sku": {
+   "value": "LTDS-DKS",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "LTDS-DKS"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "LTDS-DKS"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Miscelatore - Braccio - Soffione - Doccino",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia set",
+     "value": "Miscelatore - Braccio - Soffione - Doccino"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Doccino"
+    }
+   ]
+  },
+  "series": {
+   "value": "Mariel Top",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Mariel Top"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Nikel",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Nikel"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore soffione",
+     "value": "Nikel"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Spazzolata",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "Spazzolata"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Finitura braccio",
+     "value": "Spazzolata"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Finitura soffione",
+     "value": "Spazzolata"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio INOX | Ottone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Acciaio INOX | Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale piastra",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale braccio",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale soffione",
+     "value": "Acciaio INOX"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale doccino",
+     "value": "ABS"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale flessibile",
+     "value": "PVC"
+    }
+   ]
+  },
+  "installation": {
+   "value": "G1/2\"",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "G1/2\""
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "1/2G"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Ø 18 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione piastra",
+     "value": "Ø 18 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni soffione",
+     "value": "Ø 25 cm"
+    }
+   ]
+  },
+  "water": {
+   "value": "Ceramica",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo cartuccia",
+     "value": "Ceramica"
+    }
+   ]
+  },
+  "length": {
+   "value": "20 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza braccio",
+     "value": "20 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza flessibile",
+     "value": "150 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero elementi": "4 elementi",
+  "Deviatore": "2 Vie",
+  "Azionamento": "Leva monocomando",
+  "Corpo incasso": "Incluso",
+  "Caratteristiche": "Doccetta estraibile",
+  "Sezione base a muro": "Ø 6 cm",
+  "Presa ad acqua": "Si"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 29,
+  "L3": 1,
+  "dropped": 9
+ }
+}

@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/colonna-pensile-lerici-h140-a-2-ante-verde-opaco",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_colonna-pensile-lerici-h140-a-2-ante-verde-opaco.html",
+  "title": "Colonna Pensile LERICI H140 a 2 Ante Verde Opaco - Iperceramica",
+  "text_chars": 669,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "Verde Opaco",
+      "evidence": "LERICI Colonna Pensile L36xP25xH140 con 2 ante a chiusura rallentata in nobilitato a doghe verticali finitura Verde Opaco e pomolo in metallo finitura Bianco opaco.",
+      "location": "body"
+    },
+    "width": {
+      "value": "L36",
+      "evidence": "LERICI Colonna Pensile L36xP25xH140 con 2 ante a chiusura rallentata in nobilitato a doghe verticali finitura Verde Opaco e pomolo in metallo finitura Bianco opaco.",
+      "location": "body"
+    },
+    "height": {
+      "value": "H140",
+      "evidence": "LERICI Colonna Pensile L36xP25xH140 con 2 ante a chiusura rallentata in nobilitato a doghe verticali finitura Verde Opaco e pomolo in metallo finitura Bianco opaco.",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P25",
+      "evidence": "LERICI Colonna Pensile L36xP25xH140 con 2 ante a chiusura rallentata in nobilitato a doghe verticali finitura Verde Opaco e pomolo in metallo finitura Bianco opaco.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L36xP25xH140",
+      "evidence": "LERICI Colonna Pensile L36xP25xH140 con 2 ante a chiusura rallentata in nobilitato a doghe verticali finitura Verde Opaco e pomolo in metallo finitura Bianco opaco.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "Pensile",
+      "evidence": "LERICI Colonna Pensile L36xP25xH140 con 2 ante a chiusura rallentata in nobilitato a doghe verticali finitura Verde Opaco e pomolo in metallo finitura Bianco opaco.",
+      "location": "body"
+    },
+    "opening": {
+      "value": "a chiusura rallentata",
+      "evidence": "LERICI Colonna Pensile L36xP25xH140 con 2 ante a chiusura rallentata in nobilitato a doghe verticali finitura Verde Opaco e pomolo in metallo finitura Bianco opaco.",
+      "location": "body"
+    },
+    "brand": {
+      "value": "LERICI",
+      "evidence": "LERICI Colonna Pensile L36xP25xH140 con 2 ante a chiusura rallentata in nobilitato a doghe verticali finitura Verde Opaco e pomolo in metallo finitura Bianco opaco.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1198,
+    "output_tokens": 926,
+    "seconds": 74.49
+  }
+}

@@ -1,0 +1,193 @@
+{
+ "url": "https://www.mondialshop.it/it/porta-doccia-pieghevole/32169-porta-doccia-a-soffietto-con-lato-fisso-senza-profili-in-cristallo-6mm-h195-rea.html",
+ "file": "it_porta-doccia-pieghevole_32169-porta-doccia-a-soffietto-con-lato-fisso-senza-profili-in-cristallo-6mm-h195-rea.html.html",
+ "title": "Porta doccia a soffietto senza profili in cristallo 6mm H195 REA",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6411,
+ "attributes": {
+  "brand": {
+   "value": "OLIMPO DOCCE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "OLIMPO DOCCE"
+    }
+   ]
+  },
+  "sku": {
+   "value": "REA-DUO-FIX-LINE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "REA-DUO-FIX-LINE"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "REA-DUO-FIX-LINE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "REA-DUO-FIX-LINE"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Trasparente",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Trasparente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore Struttura",
+     "value": "Cromato"
+    }
+   ]
+  },
+  "height": {
+   "value": "195",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "195"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "195 cm per un design slanciato e moderno."
+    }
+   ]
+  },
+  "series": {
+   "value": "Rea",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "Rea"
+    }
+   ]
+  },
+  "material": {
+   "value": "Vetro temperato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Vetro temperato"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale Impugnatura",
+     "value": "Acciaio"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Struttura",
+     "value": "Alluminio"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Vetro",
+     "value": "Cristallo temperato di sicurezza da 6 mm, trasparente e certificato."
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiali",
+     "value": "Cerniere in ottone cromato e maniglie in acciaio inox AISI 304."
+    }
+   ]
+  },
+  "thickness": {
+   "value": "6",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore Cristallo",
+     "value": "6"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Pieghevole",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Apertura",
+     "value": "Pieghevole"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Chiusura",
+     "value": "Magnetica"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Piatto Doccia | Filo Pavimento",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Piatto Doccia | Filo Pavimento"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Il vetro fisso poggia direttamente sul piatto doccia senza profili o guarnizioni visibili.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Design Minimal",
+     "value": "Il vetro fisso poggia direttamente sul piatto doccia senza profili o guarnizioni visibili."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Anti Calcare": "Sì",
+  "Reversibile": "Sì",
+  "Sgancio rapido": "No",
+  "Impugnatura": "Maniglia | Pomello",
+  "Ingresso": "Frontale",
+  "Sistema LIFT": "Meccanismo door-up che solleva l'anta durante l'apertura.",
+  "Movimento": "Apertura versatile sia verso l'interno che verso l'esterno.",
+  "Versatilità": "Prodotto completamente reversibile per ogni esigenza di installazione."
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 16,
+  "L3": 7,
+  "dropped": 2
+ }
+}

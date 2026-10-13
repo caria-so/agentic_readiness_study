@@ -1,0 +1,202 @@
+{
+ "url": "https://www.deghi.it/set-lavabo-e-bidet-con-incasso-doccia-termostatico-con-deviatore-nero-acq9",
+ "file": "set-lavabo-e-bidet-con-incasso-doccia-termostatico-con-deviatore-nero-acq9.html",
+ "title": "Set miscelatore lavabo e bidet con incasso doccia termostatico con deviatore nero – Fluid",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 11633,
+ "attributes": {
+  "sku": {
+   "value": "FLD-LBITDN",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "FLD-LBITDN"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "FLD-LBITDN"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Lavabo - Bidet - Doccia termostatico",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia set",
+     "value": "Lavabo - Bidet - Doccia termostatico"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Miscelatore lavabo"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Acq+",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Marca",
+     "value": "Acq+"
+    }
+   ]
+  },
+  "series": {
+   "value": "Fluid",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Fluid"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Nero"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ottone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale piastra",
+     "value": "Ottone"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Bidet | Doccia | Lavabo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Bidet | Doccia | Lavabo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Monoforo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "G3/8\""
+    },
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Incasso"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "1/2\"G"
+    }
+   ]
+  },
+  "height": {
+   "value": "14,3 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "14,3 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "12 cm"
+    }
+   ]
+  },
+  "length": {
+   "value": "10,4 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza canna",
+     "value": "10,4 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza canna",
+     "value": "9,8 cm"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Per piletta Click-Clack",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Scarico",
+     "value": "Per piletta Click-Clack"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Ø 18 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione piastra",
+     "value": "Ø 18 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Manopola singola": "| Manopole C/F",
+  "Numero elementi": "3 elementi",
+  "Azionamento": "Leva monocomando",
+  "Sezione base": "Ø 5,2 cm",
+  "Flessibili di collegamento": "Inclusi",
+  "Piletta": "Non inclusa",
+  "Deviatore": "2 Vie | 3 Vie",
+  "Corpo incasso": "Incluso",
+  "Caratteristiche": "Termostatico"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 28,
+  "L3": 1,
+  "dropped": 9
+ }
+}

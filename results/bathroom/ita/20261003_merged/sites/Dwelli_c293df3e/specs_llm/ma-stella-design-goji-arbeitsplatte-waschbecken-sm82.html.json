@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.de/ma-stella-design-goji-arbeitsplatte-waschbecken-sm82.html",
+  "model": "qwen2.5:32b",
+  "html": "ma-stella-design-goji-arbeitsplatte-waschbecken-sm82.html.html",
+  "title": "Ma Stella Design Goji Arbeitsplatte Waschbecken SM82 | Dwellistore",
+  "text_chars": 662,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Mitek",
+      "evidence": "Ma Stella Design Goji, weißes Waschbecken in Mitek.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Weiß",
+      "evidence": "Der Artikel ist auch in Mak-Mat erhältlich. Für Informationen fordern Sie ein Angebot an.\nDie Armaturen sind nicht enthalten.\nDie Anzeige bezieht sich auf den Artikel Cod. SM82 weiß.",
+      "location": "body"
+    },
+    "width": {
+      "value": "64 cm",
+      "evidence": "Abmessungen: (L x B x H): 64 x 38 x 13 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "13 cm",
+      "evidence": "Abmessungen: (L x B x H): 64 x 38 x 13 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "38 cm",
+      "evidence": "Abmessungen: (L x B x H): 64 x 38 x 13 cm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "64 x 38 x 13 cm",
+      "evidence": "Abmessungen: (L x B x H): 64 x 38 x 13 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "Goji",
+      "evidence": "Ma Stella Design Goji, weißes Waschbecken in Mitek.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1079,
+    "output_tokens": 659,
+    "seconds": 54.09
+  }
+}

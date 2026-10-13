@@ -1,0 +1,201 @@
+{
+ "url": "https://www.boleco.it/mobili-bagno/4961-mobile-bagno-sospeso-olimpia-60-cm-con-lavabo-rigenerabile.html",
+ "file": "mobili-bagno_4961-mobile-bagno-sospeso-olimpia-60-cm-con-lavabo-rigenerabile.html.html",
+ "title": "Mobile bagno sospeso Olimpia 60 bianco opaco cm con lavabo rigenerabile",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6720,
+ "attributes": {
+  "sku": {
+   "value": "01057",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "01057"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "01057"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "01057"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "50-80cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Mobili",
+     "value": "50-80cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione lavabo",
+     "value": "L62 x P43/49 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione vasca lavabo",
+     "value": "L52,4 x P29 x H10 cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "BIANCO OPACO",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "BIANCO OPACO"
+    }
+   ]
+  },
+  "series": {
+   "value": "Olimpia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Nome Collezione",
+     "value": "Olimpia"
+    }
+   ]
+  },
+  "material": {
+   "value": "Mdf",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Mdf"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Resina rigenerabile"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "16 + 9 mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessori fianchi",
+     "value": "16 + 9 mm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Spessori frontali",
+     "value": "19mm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "bianco opaco",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura esterna",
+     "value": "bianco opaco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Finitura interna",
+     "value": "colore tessuto"
+    }
+   ]
+  },
+  "opening": {
+   "value": "push e rallentata (soft-close)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "push e rallentata (soft-close)"
+    }
+   ]
+  },
+  "installation": {
+   "value": "SI",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "SI"
+    }
+   ]
+  },
+  "certification": {
+   "value": "PEFC , E1, EU 995/2010",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "PEFC , E1, EU 995/2010"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE - P.R.C"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Integrale",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Integrale"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Non inclusa (acquistabile separatamente)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Rubinetteria",
+     "value": "Non inclusa (acquistabile separatamente)"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Specchio": "Non incluso (acquistabile separatamente)",
+  "Pensile": "Non incluso (acquistabile separatamente)"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 4,
+  "L3": 17,
+  "dropped": 2
+ }
+}

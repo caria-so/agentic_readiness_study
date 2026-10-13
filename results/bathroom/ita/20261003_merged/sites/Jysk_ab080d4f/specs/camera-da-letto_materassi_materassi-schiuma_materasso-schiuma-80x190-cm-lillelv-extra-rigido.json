@@ -1,0 +1,211 @@
+{
+ "url": "https://jysk.it/camera-da-letto/materassi/materassi-schiuma/materasso-schiuma-80x190-cm-lillelv-extra-rigido",
+ "file": "camera-da-letto_materassi_materassi-schiuma_materasso-schiuma-80x190-cm-lillelv-extra-rigido.html",
+ "title": "LILLELV Plus Materasso in schiuma 80x190 cm LILLELV Extra rigido",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 15555,
+ "attributes": {
+  "brand": {
+   "value": "DREAMZONE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "DREAMZONE"
+    }
+   ]
+  },
+  "brand_is_retailer_name": {
+   "value": "JYSK A/S",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "3290022",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "3290022"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "3290022"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "80x190",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "80x190"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Larghezza 80 cm, Lunghezza 190 cm, Altezza 14 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "80x190"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Misure confezione",
+     "value": "Larghezza 28 cm, Lunghezza 90 cm, Altezza 28 cm, Diametro 28 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "P80 x L190 cm. Altezza: 14 cm"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "materasso a schiuma",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di materasso",
+     "value": "materasso a schiuma"
+    }
+   ]
+  },
+  "material": {
+   "value": "Schiuma ad alta resilienza",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Composizione dell'anima",
+     "value": "Schiuma ad alta resilienza"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Composizione tessuto",
+     "value": "100% poliestere (51% riciclato)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Lavorato a maglia"
+    }
+   ]
+  },
+  "care": {
+   "value": "60°C delicati, solo fodera",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lavare",
+     "value": "60°C delicati, solo fodera"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Asciugatrice",
+     "value": "Non asciugare in asciugatrice"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Candeggio",
+     "value": "Non candeggiare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Stiratura",
+     "value": "Non stirare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio a secco e a umido",
+     "value": "Lavaggio a secco professionale - programma capi delicati"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Istruzioni",
+     "value": "Lavare sempre separatamente"
+    }
+   ]
+  },
+  "weight": {
+   "value": "8,5 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "8,5 kg"
+    }
+   ]
+  },
+  "certification": {
+   "value": "OEKO-TEX® STANDARD 100 ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "OEKO-TEX® STANDARD 100 "
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Rigidità": "Molto rigido",
+  "Zone di comfort": "7 ",
+  "Anima": "Schiuma ad alta resilienza",
+  "Strato di comfort 1 (dall'esterno)": "140 mm schiuma ad alta resilienza 30 kg/m³",
+  "Trapuntatura": "200g/m² poliestere",
+  "Imballaggio": "Arrotolato e in scatolone",
+  "Indice di qualità": "PLUS",
+  "Sul marchio": "",
+  "OEKO-TEX® STANDARD 100": "",
+  "Materasso extra rigido": "supporto forte immediato",
+  "Supporto mirato": "7 zone di comfort forniscono un supporto individuale",
+  "Schiuma ad alta resilienza": "resistente e traspirante",
+  "Rivestimento lavabile": "il rivestimento è sfoderabile e lavabile a 60°C",
+  "DREAMZONE®": "materassi e letti di qualità a prezzi accessibili, disponibili in esclusiva da JYSK"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 25,
+  "L3": 8,
+  "dropped": 37
+ }
+}

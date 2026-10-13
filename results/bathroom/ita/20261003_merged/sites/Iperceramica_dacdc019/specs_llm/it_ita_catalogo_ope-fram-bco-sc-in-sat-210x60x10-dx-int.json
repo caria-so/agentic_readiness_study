@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/ope-fram-bco-sc-in-sat-210x60x10-dx-int",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_ope-fram-bco-sc-in-sat-210x60x10-dx-int.html",
+  "title": "Porta Scorrevole Open Frame con Vetro Satinato 60XH210 cm Bianca Apertura a Destra per Controtelaio da Intonaco Spess 105 mm - Iperceramica",
+  "text_chars": 595,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "vetro",
+      "evidence": "Porta Scorrevole Open Frame con Vetro Satinato",
+      "location": "title"
+    },
+    "finish": {
+      "value": "satinato",
+      "evidence": "Porta Scorrevole Open Frame con Vetro Satinato",
+      "location": "title"
+    },
+    "colour": {
+      "value": "Bianca",
+      "evidence": "Porta Scorrevole Open Frame con Vetro Satinato 60XH210 cm Bianca Apertura a Destra per Controtelaio da Intonaco Spess 105 mm - Iperceramica",
+      "location": "title"
+    },
+    "width": {
+      "value": "60",
+      "evidence": "Porta Scorrevole Open Frame con Vetro Satinato 60XH210 cm Bianca Apertura a Destra per Controtelaio da Intonaco Spess 105 mm - Iperceramica",
+      "location": "title"
+    },
+    "height": {
+      "value": "210",
+      "evidence": "Porta Scorrevole Open Frame con Vetro Satinato 60XH210 cm Bianca Apertura a Destra per Controtelaio da Intonaco Spess 105 mm - Iperceramica",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "60XH210 cm",
+      "evidence": "Porta Scorrevole Open Frame con Vetro Satinato 60XH210 cm Bianca Apertura a Destra per Controtelaio da Intonaco Spess 105 mm - Iperceramica",
+      "location": "title"
+    },
+    "installation": {
+      "value": "da Intonaco",
+      "evidence": "Porta Scorrevole Open Frame con Vetro Satinato 60XH210 cm Bianca Apertura a Destra per Controtelaio da Intonaco Spess 105 mm - Iperceramica",
+      "location": "title"
+    },
+    "opening": {
+      "value": "Scorrevole",
+      "evidence": "Porta Scorrevole Open Frame con Vetro Satinato 60XH210 cm Bianca Apertura a Destra per Controtelaio da Intonaco Spess 105 mm - Iperceramica",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "Porta Scorrevole Open Frame con Vetro Satinato 60XH210 cm Bianca Apertura a Destra per Controtelaio da Intonaco Spess 105 mm - Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1219,
+    "output_tokens": 865,
+    "seconds": 70.15
+  }
+}

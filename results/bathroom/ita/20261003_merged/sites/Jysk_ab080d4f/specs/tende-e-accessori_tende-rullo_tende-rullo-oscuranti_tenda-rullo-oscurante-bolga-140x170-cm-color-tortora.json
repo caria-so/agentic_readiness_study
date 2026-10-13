@@ -1,0 +1,214 @@
+{
+ "url": "https://jysk.it/tende-e-accessori/tende-rullo/tende-rullo-oscuranti/tenda-rullo-oscurante-bolga-140x170-cm-color-tortora",
+ "file": "tende-e-accessori_tende-rullo_tende-rullo-oscuranti_tenda-rullo-oscurante-bolga-140x170-cm-color-tortora.html",
+ "title": "BOLGA Tenda a rullo oscurante BOLGA 140x170 cm color tortora",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 9527,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "5530881",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5530881"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "5530881"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Tortora",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Tortora"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Bianco Colore : Grigio chiaro Colore : Tortora"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "140x170",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "140x170"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensione",
+     "value": "Larghezza 140 cm, Altezza 170 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "100% poliestere (50% riciclato) con retro in polietilene",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "100% poliestere (50% riciclato) con retro in polietilene"
+    }
+   ]
+  },
+  "care": {
+   "value": "Lavare le singole macchie con acqua",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Istruzioni",
+     "value": "Lavare le singole macchie con acqua"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavare",
+     "value": "No"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Candeggio",
+     "value": "Non candeggiare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Asciugatrice",
+     "value": "Non asciugare in asciugatrice"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Stiratura",
+     "value": "Non stirare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio a secco e a umido",
+     "value": "Non lavare a secco"
+    }
+   ]
+  },
+  "width": {
+   "value": "137 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza del tessuto",
+     "value": "137 cm"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Catenella",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di operazione",
+     "value": "Catenella"
+    }
+   ]
+  },
+  "certification": {
+   "value": "OEKO-TEX® STANDARD 100 ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "OEKO-TEX® STANDARD 100 "
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  },
+  "weight": {
+   "value": "280 g/m².",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "280 g/m²."
+    }
+   ]
+  },
+  "finish": {
+   "value": "Tinto",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Metodo di colorazione",
+     "value": "Tinto"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Utilizzo": "Interni",
+  "Lato azienda": "Reversibile",
+  "Tubo": "17 mm",
+  "Bastone in basso": "Bastone in binario",
+  "Caratteristica": "Oscurante  , Con staffa per appenderlo al muro o al soffitto ",
+  "Capacità di supporto bastone": "13-26 mm",
+  "Viti e tasselli": "Escl.",
+  "Rifilatura": "È possibile ridurla in larghezza",
+  "OEKO-TEX® STANDARD 100": "",
+  "Oscurante": ""
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 25,
+  "L3": 2,
+  "dropped": 28
+ }
+}

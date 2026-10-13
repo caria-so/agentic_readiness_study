@@ -1,0 +1,85 @@
+{
+ "url": "https://www.bagnodistile.com/rivestimenti/295-adine-33x55-rlv-gris--693059703574.html",
+ "file": "rivestimenti_295-adine-33x55-rlv-gris--693059703574.html.html",
+ "title": "ADINE 33x55 RLV Gris",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3780,
+ "attributes": {
+  "brand": {
+   "value": "GEOTILES",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "GEOTILES"
+    }
+   ]
+  },
+  "sku": {
+   "value": "ADINERLVGR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "ADINERLVGR"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059703574",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059703574"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "ADINERLVGR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "ADINERLVGR"
+    }
+   ]
+  },
+  "weight": {
+   "value": "15.300000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "15.300000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Mq/Scatola": "1,84"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 1,
+  "L3": 0,
+  "dropped": 34
+ }
+}

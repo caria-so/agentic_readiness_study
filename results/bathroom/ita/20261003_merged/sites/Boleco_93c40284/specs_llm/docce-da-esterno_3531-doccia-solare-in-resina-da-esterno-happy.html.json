@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/docce-da-esterno/3531-doccia-solare-in-resina-da-esterno-happy.html",
+  "model": "qwen2.5:32b",
+  "html": "docce-da-esterno_3531-doccia-solare-in-resina-da-esterno-happy.html.html",
+  "title": "Doccia Solare da esterno in resina - Happy | Boleco Colore ANTRACITE",
+  "text_chars": 5731,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "20,5 cm",
+      "evidence": "Dimensioni doccia (HxPxL): 220x17,5x20,5 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "220 cm",
+      "evidence": "Dimensioni doccia (HxPxL): 220x17,5x20,5 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "17,5 cm",
+      "evidence": "Dimensioni doccia (HxPxL): 220x17,5x20,5 cm",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "Ha un solo ingresso dell'acqua.",
+      "evidence": "Ha un solo ingresso dell'acqua.",
+      "location": "body"
+    },
+    "water": {
+      "value": "La temperatura dell'acqua interna, a seconda delle condizioni può raggiungere temperature che vanno dai 25° ai 40°.",
+      "evidence": "La temperatura dell'acqua interna, a seconda delle condizioni può raggiungere temperature che vanno dai 25° ai 40°.",
+      "location": "body"
+    },
+    "series": {
+      "value": "Happy",
+      "evidence": "Doccia Solare da esterno in resina - Happy",
+      "location": "title"
+    },
+    "brand": {
+      "value": "Arkema",
+      "evidence": "Doccia solare curva da esterno con soffione e miscelatore - Arkema - Made in Italy",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Prodotto garantito 2 anni.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Doccia solare curva da esterno con soffione e miscelatore - Arkema - Made in Italy",
+      "location": "body"
+    },
+    "care": {
+      "value": "Occorre avere cura della doccia con controlli periodici di pulizia del soffione.",
+      "evidence": "Occorre avere cura della doccia con controlli periodici di pulizia del soffione.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2881,
+    "output_tokens": 882,
+    "seconds": 80.02
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/set-di-tasselli-con-vite-standers-in-acciaio-8x50-mm-50-pezzi-36585262.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_set-di-tasselli-con-vite-standers-in-acciaio-8x50-mm-50-pezzi-36585262.html.html",
+  "title": "Set di tasselli con vite STANDERS in acciaio ø 8x50 mm, 50 pezzi | Leroy Merlin",
+  "text_chars": 4490,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "width": {
+      "reason": "package_value",
+      "raw": {
+        "value": "8.4 cm",
+        "evidence": "Prodotto imballato: larghezza (in cm) 8.4"
+      }
+    },
+    "height": {
+      "reason": "package_value",
+      "raw": {
+        "value": "12.2 cm",
+        "evidence": "Prodotto imballato: altezza (in cm) 12.2"
+      }
+    },
+    "depth": {
+      "reason": "package_value",
+      "raw": {
+        "value": "9.2 cm",
+        "evidence": "Prodotto imballato: profondità (in cm) 9.2"
+      }
+    },
+    "length": {
+      "reason": "package_value",
+      "raw": {
+        "value": "50 mm",
+        "evidence": "Tassello universale in nylon e acciaio, lunghezza 50 mm, Ø 8 mm, confezione da 50 pezzi"
+      }
+    },
+    "weight": {
+      "reason": "package_value",
+      "raw": {
+        "value": "0.36 kg",
+        "evidence": "Prodotto imballato: peso (in kg) 0.36"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2427,
+    "output_tokens": 659,
+    "seconds": 59.76
+  }
+}

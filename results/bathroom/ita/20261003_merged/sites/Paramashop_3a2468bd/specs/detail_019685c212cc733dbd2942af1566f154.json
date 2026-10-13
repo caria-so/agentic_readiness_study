@@ -1,0 +1,99 @@
+{
+ "url": "https://www.paramashop.it/detail/019685c212cc733dbd2942af1566f154",
+ "file": "detail_019685c212cc733dbd2942af1566f154.html",
+ "title": "Bancarella in legno 222x138 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 5436,
+ "attributes": {
+  "mpn": {
+   "value": "305.006.001",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "305.006.001"
+    }
+   ]
+  },
+  "height": {
+   "value": "224cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza massima",
+     "value": "224cm"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "222x138cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione",
+     "value": "222x138cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni tetto incluso",
+     "value": "222x138cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni base",
+     "value": "200x97cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Abete naturale massello",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Legno",
+     "value": "Abete naturale massello"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Legno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "305.006.001",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "305.006.001"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Impermeabilizzazione": "No",
+  "Piano d'appoggio": "No"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 6,
+  "L3": 3,
+  "dropped": 9
+ }
+}

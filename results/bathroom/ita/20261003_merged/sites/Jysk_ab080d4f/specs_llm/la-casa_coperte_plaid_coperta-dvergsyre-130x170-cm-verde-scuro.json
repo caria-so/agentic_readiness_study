@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/la-casa/coperte/plaid/coperta-dvergsyre-130x170-cm-verde-scuro",
+  "model": "qwen2.5:32b",
+  "html": "la-casa_coperte_plaid_coperta-dvergsyre-130x170-cm-verde-scuro.html",
+  "title": "Coperta DVERGSYRE 130x170 cm verde scuro | JYSK",
+  "text_chars": 7591,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "130 cm",
+      "evidence": "Dimensioni\nLarghezza 130 cm, Lunghezza 170 cm",
+      "location": "body"
+    },
+    "length": {
+      "value": "170 cm",
+      "evidence": "Dimensioni\nLarghezza 130 cm, Lunghezza 170 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "DVERGSYRE",
+      "evidence": "Coperta DVERGSYRE 130x170 cm verde scuro",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore\nJYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4597,
+    "output_tokens": 694,
+    "seconds": 72.19
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/5d26f91badcc4cc486e3fd4c324a10f4",
+  "model": "qwen2.5:32b",
+  "html": "detail_5d26f91badcc4cc486e3fd4c324a10f4.html",
+  "title": "Cassettone scorrevole 90cm bianco opaco chiusura soft-close | Bako",
+  "text_chars": 4533,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "90cm",
+      "evidence": "Dimensione 90cm",
+      "location": "body"
+    },
+    "opening": {
+      "value": "scorrevole",
+      "evidence": "Cassettone scorrevole Bako da 90 cm bianco opaco",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2363,
+    "output_tokens": 565,
+    "seconds": 49.08
+  }
+}

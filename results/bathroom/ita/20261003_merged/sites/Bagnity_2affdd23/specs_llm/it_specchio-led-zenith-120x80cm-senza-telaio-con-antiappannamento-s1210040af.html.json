@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/specchio-led-zenith-120x80cm-senza-telaio-con-antiappannamento-s1210040af.html",
+  "model": "qwen2.5:32b",
+  "html": "it_specchio-led-zenith-120x80cm-senza-telaio-con-antiappannamento-s1210040af.html.html",
+  "title": "Specchio LED Zenith 120x80cm senza telaio con antiappannamento",
+  "text_chars": 7094,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3165,
+    "output_tokens": 583,
+    "seconds": 53.98
+  }
+}

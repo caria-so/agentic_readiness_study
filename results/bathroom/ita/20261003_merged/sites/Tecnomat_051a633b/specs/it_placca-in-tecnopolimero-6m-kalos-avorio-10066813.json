@@ -1,0 +1,74 @@
+{
+ "url": "https://www.tecnomat.it/it/placca-in-tecnopolimero-6m-kalos-avorio-10066813/",
+ "file": "it_placca-in-tecnopolimero-6m-kalos-avorio-10066813.html",
+ "title": "Placca in tecnopolimero kalos 6 moduli color avorio",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1126,
+ "attributes": {
+  "brand": {
+   "value": "KALOS",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "KALOS"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10066813",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10066813"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10066813",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10066813"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Avorio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Avorio"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero di moduli": "6"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": true,
+  "manufacturer_text": "SEMPLE' ELEKTRIK SRL VIA DELLE MONACHELLE 71 00040, POMEZIA Italia Persona responsabile nell'UE : Questa informazione non è attualmente disponibile sul nostro sito. Ti consigliamo di contattare direttamente il venditore. Chiudi Scan the bar"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 3
+ }
+}

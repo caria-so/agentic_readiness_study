@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/punta-hss-rettific-12mm-bosch-x-metallo-10003554/",
+  "model": "qwen2.5:32b",
+  "html": "it_punta-hss-rettific-12mm-bosch-x-metallo-10003554.html",
+  "title": "PUNTA BOSCH HSS RETTIFICATA Ø12 mm PER METALLO",
+  "text_chars": 807,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "12 mm",
+      "evidence": "Punta Bosch HSS rettificata da 12 mm",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1107,
+    "output_tokens": 477,
+    "seconds": 39.89
+  }
+}

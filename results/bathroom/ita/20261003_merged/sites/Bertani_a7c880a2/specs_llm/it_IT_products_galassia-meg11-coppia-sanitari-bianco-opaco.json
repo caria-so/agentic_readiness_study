@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/galassia-meg11-coppia-sanitari-bianco-opaco",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_galassia-meg11-coppia-sanitari-bianco-opaco.html",
+  "title": "Galassia, Meg11 Coppia sanitari Bianco Opaco | Bertani",
+  "text_chars": 789,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "opaco",
+      "evidence": "Colore Sanitario bianco opaco",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "55x35 cm",
+      "evidence": "- vaso con scarico universale S/P, senza brida, 55x35 cm",
+      "location": "body"
+    },
+    "opening": {
+      "value": "dispositivo di chiusura rallentata",
+      "evidence": "cerniera con dispositivo di chiusura rallentata, dispositivo di sgancio rapido;",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "vaso con scarico universale S/P, senza brida",
+      "evidence": "- vaso con scarico universale S/P, senza brida, 55x35 cm",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1143,
+    "output_tokens": 594,
+    "seconds": 48.95
+  }
+}

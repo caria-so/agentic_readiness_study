@@ -1,0 +1,111 @@
+{
+ "url": "https://dwellistore.com/geda-wellness-shower-head-pia1g.html",
+ "file": "geda-wellness-shower-head-pia1g.html.html",
+ "title": "Geda Wellness Shower Head PIA1G",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 657,
+ "attributes": {
+  "brand": {
+   "value": "Geda",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Geda"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Geda"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "Geda"
+    }
+   ]
+  },
+  "sku": {
+   "value": "PIA1G",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "PIA1G"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "PIA1G",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "PIA1G"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Polished Steel",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finish",
+     "value": "Polished Steel"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Finishes",
+     "value": "Polished Steel (Base), Satin Steel, PVD Carbon Polished, PVD Roseè Polished, PVD Gold Polished, Matt Black, Matt White, Special Old Bronze, Special Dark Brass, Satin Gold, Satin Copper, Satin Brass (w"
+    }
+   ]
+  },
+  "series": {
+   "value": "Geda Wellness",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Series",
+     "value": "Geda Wellness"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "430x430 mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Size",
+     "value": "430x430 mm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Code": "PIA1G"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 3,
+  "L3": 3,
+  "dropped": 1
+ }
+}

@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/lory-bl3q.html",
+  "model": "qwen2.5:32b",
+  "html": "lory-bl3q.html.html",
+  "title": "Sedia Microfibra effetto rivestimento eco talpa: Lory | Mondo Convenienza",
+  "text_chars": 500,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "LACCATO NERO / ECO TAUPE",
+      "evidence": "LORY SEDIA L.47 P.57 H.100 COLORE LACCATO NERO / ECO TAUPE",
+      "location": "body"
+    },
+    "width": {
+      "value": "L.47",
+      "evidence": "LORY SEDIA L.47 P.57 H.100 COLORE LACCATO NERO / ECO TAUPE",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.100",
+      "evidence": "LORY SEDIA L.47 P.57 H.100 COLORE LACCATO NERO / ECO TAUPE",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.57",
+      "evidence": "LORY SEDIA L.47 P.57 H.100 COLORE LACCATO NERO / ECO TAUPE",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "moderno",
+      "evidence": "per un effetto elegante e moderno.",
+      "location": "body"
+    },
+    "series": {
+      "value": "LORY",
+      "evidence": "LORY SEDIA L.47 P.57 H.100 COLORE LACCATO NERO / ECO TAUPE",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "material": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "similpelle",
+        "evidence": "le cuciture a vista, per un effetto elegante e moderno. Schienale e seduta sono composte da unico corpo mentre l’intera struttura viene sostenuta dalle 4 gambe, solide e leggermente curvate."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1009,
+    "output_tokens": 706,
+    "seconds": 56.92
+  }
+}

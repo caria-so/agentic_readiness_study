@@ -1,0 +1,80 @@
+{
+ "url": "https://www.boleco.it/accessori-per-il-bagno/2165-dispenser-lisa-con-supporto-cromo.html",
+ "file": "accessori-per-il-bagno_2165-dispenser-lisa-con-supporto-cromo.html.html",
+ "title": "Dispenser Lisa con supporto cromo",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2975,
+ "attributes": {
+  "sku": {
+   "value": "89232",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "89232"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "89232"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "89232"
+    }
+   ]
+  },
+  "material": {
+   "value": "Vetro",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Vetro"
+    }
+   ]
+  },
+  "finish": {
+   "value": "cromo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura supporto",
+     "value": "cromo"
+    }
+   ]
+  },
+  "certification": {
+   "value": "CE",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 1,
+  "L3": 4,
+  "dropped": 0
+ }
+}

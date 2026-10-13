@@ -1,0 +1,148 @@
+{
+ "url": "https://jo-bagno.it/lavabi-incasso/lavabo-appoggio-e-semincasso-o38-cm-senso.html",
+ "file": "lavabi-incasso_lavabo-appoggio-e-semincasso-o38-cm-senso.html.html",
+ "title": "Lavabo appoggio e semincasso ø38 SENSO",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2324,
+ "attributes": {
+  "brand": {
+   "value": "Amerina",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Amerina"
+    }
+   ]
+  },
+  "sku": {
+   "value": "9135",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "9135"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "ø38xh15 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "ø38xh15 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "ø38h15 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Msure",
+     "value": "65x50xh21 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Missure",
+     "value": "47x47xh15 cm"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Lavabo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Lavabo"
+    }
+   ]
+  },
+  "series": {
+   "value": "Senso",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Modello",
+     "value": "Senso"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ceramica",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Ceramica"
+    }
+   ]
+  },
+  "weight": {
+   "value": "9 Kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "9 Kg"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "assente",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Foro troppopieno",
+     "value": "assente"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Foro Miscelatore",
+     "value": "assente"
+    }
+   ]
+  },
+  "colour": {
+   "value": "bianco",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore ceramica",
+     "value": "bianco"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {
+  "Msure": "misure",
+  "Missure": "misure"
+ },
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 11,
+  "dropped": 4
+ }
+}

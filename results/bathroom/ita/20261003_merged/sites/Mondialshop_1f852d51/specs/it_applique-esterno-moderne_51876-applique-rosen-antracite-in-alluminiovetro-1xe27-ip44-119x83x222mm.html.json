@@ -1,0 +1,121 @@
+{
+ "url": "https://www.mondialshop.it/it/applique-esterno-moderne/51876-applique-rosen-antracite-in-alluminiovetro-1xe27-ip44-119x83x222mm.html",
+ "file": "it_applique-esterno-moderne_51876-applique-rosen-antracite-in-alluminiovetro-1xe27-ip44-119x83x222mm.html.html",
+ "title": "APPLIQUE ROSEN ANTRACITE IN ALLUMINIO+VETRO 1XE27 IP44 119X83X222MM",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 2979,
+ "attributes": {
+  "sku": {
+   "value": "I-ROSEN-AP-ANT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "I-ROSEN-AP-ANT"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "I-ROSEN-AP-ANT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "I-ROSEN-AP-ANT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.890000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.890000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Antracite",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Antracite"
+    }
+   ]
+  },
+  "series": {
+   "value": "-",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "-"
+    }
+   ]
+  },
+  "material": {
+   "value": "Alluminio Vetro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Alluminio Vetro"
+    }
+   ]
+  },
+  "installation": {
+   "value": "E27",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "E27"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "N/A",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "N/A"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "N/A"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 6,
+  "L3": 0,
+  "dropped": 0
+ }
+}

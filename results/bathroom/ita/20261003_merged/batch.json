@@ -1,0 +1,22 @@
+{
+ "industry": "bathroom",
+ "lang": "ita",
+ "created": "2026-09-30T17:03:04.747186",
+ "note": "Moved from discovery_merged/ (a merge of discovery_round_final_* rounds) and the loose result files in the project root. 'created' is the earliest discovery timestamp in results.csv.",
+ "leads": "leads/bathroom/ita.csv",
+ "leads_sha256": null,
+ "runs": [
+  {
+   "stage": "extract",
+   "started": "2026-10-12T13:47:32",
+   "finished": "2026-10-12T13:48:37",
+   "exit": 0
+  },
+  {
+   "stage": "headline",
+   "started": "2026-10-12T13:48:37",
+   "finished": "2026-10-12T13:48:37",
+   "exit": 0
+  }
+ ]
+}

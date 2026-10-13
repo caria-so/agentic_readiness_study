@@ -1,0 +1,72 @@
+{
+ "url": "https://www.tecnomat.it/it/5-panni-mikrofibra-multiu-40x40cm-lb-blu-10060242/",
+ "file": "it_5-panni-mikrofibra-multiu-40x40cm-lb-blu-10060242.html",
+ "title": "Panno mikrofibra multiuso 40x40 cm blu professional 5 pezzi",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 647,
+ "attributes": {
+  "sku": {
+   "value": "10060242",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10060242"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10060242",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10060242"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Blu",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Blu"
+    }
+   ]
+  },
+  "width": {
+   "value": "40",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm)",
+     "value": "40"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 3
+ }
+}

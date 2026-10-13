@@ -1,0 +1,212 @@
+{
+ "url": "https://www.boleco.it/mobili-bagno/2365-mobile-bagno-a-terra-silvia-cm80-completo-di.html",
+ "file": "mobili-bagno_2365-mobile-bagno-a-terra-silvia-cm80-completo-di.html.html",
+ "title": "Mobile bagno a terra Silvia, 80 cm bianco lucido completo di specchio e tettino led",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6492,
+ "attributes": {
+  "sku": {
+   "value": "D0313",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D0313"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "D0313"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "D0313"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "81-110cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Mobili",
+     "value": "81-110cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione Lavabo",
+     "value": "L81 x P48,5 x H15,2"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione Vasca lavabo",
+     "value": "L51 x P35 x H13"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "80x103"
+    }
+   ]
+  },
+  "colour": {
+   "value": "BIANCO LUCIDO",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "BIANCO LUCIDO"
+    }
+   ]
+  },
+  "series": {
+   "value": "Silvia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Nome Collezione",
+     "value": "Silvia"
+    }
+   ]
+  },
+  "material": {
+   "value": "Mdf",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Mdf"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Resina"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "16mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessori fianchi",
+     "value": "16mm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Spessori frontali",
+     "value": "16mm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Bianco lucido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura esterna",
+     "value": "Bianco lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Finitura interna",
+     "value": "bianco"
+    }
+   ]
+  },
+  "opening": {
+   "value": "rallentata (soft-close)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "rallentata (soft-close)"
+    }
+   ]
+  },
+  "installation": {
+   "value": "SI",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "SI"
+    }
+   ]
+  },
+  "certification": {
+   "value": "CATAS , PEFC , E1, EU 995/2010",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CATAS , PEFC , E1, EU 995/2010"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE - P.R.C"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Integrale",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Integrale"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Non inclusa (acquistabile separatamente)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Rubinetteria",
+     "value": "Non inclusa (acquistabile separatamente)"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Reversibile": "NO",
+  "Illuminazione": "SI",
+  "Pensile": "SI (a destra)"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 4,
+  "L3": 20,
+  "dropped": 3
+ }
+}

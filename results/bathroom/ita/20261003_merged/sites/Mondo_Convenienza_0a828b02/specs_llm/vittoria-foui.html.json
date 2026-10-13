@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/vittoria-foui.html",
+  "model": "qwen2.5:32b",
+  "html": "vittoria-foui.html.html",
+  "title": "Componibile bagno a terra con led beton dark: Vittoria | Mondo Convenienza",
+  "text_chars": 456,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "BETON DARK",
+      "evidence": "VITTORIA COMPONIBILE BAGNO A TERRA L.61 P.46 H.189 CON LED COLORE BETON DARK",
+      "location": "body"
+    },
+    "width": {
+      "value": "L.61",
+      "evidence": "VITTORIA COMPONIBILE BAGNO A TERRA L.61 P.46 H.189 CON LED COLORE BETON DARK",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.189",
+      "evidence": "VITTORIA COMPONIBILE BAGNO A TERRA L.61 P.46 H.189 CON LED COLORE BETON DARK",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.46",
+      "evidence": "VITTORIA COMPONIBILE BAGNO A TERRA L.61 P.46 H.189 CON LED COLORE BETON DARK",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L.61 P.46 H.189",
+      "evidence": "VITTORIA COMPONIBILE BAGNO A TERRA L.61 P.46 H.189 CON LED COLORE BETON DARK",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Componibile bagno a terra con led",
+      "location": "title"
+    },
+    "electrical": {
+      "value": "LED",
+      "evidence": "VITTORIA COMPONIBILE BAGNO A TERRA L.61 P.46 H.189 CON LED COLORE BETON DARK",
+      "location": "body"
+    },
+    "series": {
+      "value": "VITTORIA",
+      "evidence": "VITTORIA COMPONIBILE BAGNO A TERRA L.61 P.46 H.189 CON LED COLORE BETON DARK",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 995,
+    "output_tokens": 820,
+    "seconds": 65.84
+  }
+}

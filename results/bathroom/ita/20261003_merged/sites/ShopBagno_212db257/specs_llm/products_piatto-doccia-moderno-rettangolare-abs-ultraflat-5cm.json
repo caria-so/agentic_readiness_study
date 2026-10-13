@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/piatto-doccia-moderno-rettangolare-abs-ultraflat-5cm",
+  "model": "qwen2.5:32b",
+  "html": "products_piatto-doccia-moderno-rettangolare-abs-ultraflat-5cm.html",
+  "title": "Piatto Doccia Moderno Rettangolare In ABS Ultraflat 5cm",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "70 cm",
+      "evidence": "Piatto Doccia Moderno Rettangolare In ABS Ultraflat 5cm 70x90",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "Rettangolare",
+      "evidence": "Piatto Doccia Moderno Rettangolare In ABS Ultraflat 5cm",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4068,
+    "output_tokens": 580,
+    "seconds": 60.7
+  }
+}

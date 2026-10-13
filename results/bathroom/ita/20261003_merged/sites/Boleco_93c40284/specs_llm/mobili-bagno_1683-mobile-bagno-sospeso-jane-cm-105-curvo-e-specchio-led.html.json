@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/mobili-bagno/1683-mobile-bagno-sospeso-jane-cm-105-curvo-e-specchio-led.html",
+  "model": "qwen2.5:32b",
+  "html": "mobili-bagno_1683-mobile-bagno-sospeso-jane-cm-105-curvo-e-specchio-led.html.html",
+  "title": "Mobile bagno sospeso Jane cm 105 bianco lucido curvo e specchio led |",
+  "text_chars": 7159,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "104 cm",
+      "evidence": "Mobile da bagno 104 cm e profondo 51 cm completo di lavabo in vetro e specchio led",
+      "location": "body"
+    },
+    "depth": {
+      "value": "51 cm",
+      "evidence": "Mobile da bagno 104 cm e profondo 51 cm completo di lavabo in vetro e specchio led",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "5 anni",
+      "evidence": "Prodotto garantito 5 anni.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "origin": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Made in Italy",
+        "evidence": "Mobile e specchiera prodotti in Italia."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3305,
+    "output_tokens": 756,
+    "seconds": 72.43
+  }
+}

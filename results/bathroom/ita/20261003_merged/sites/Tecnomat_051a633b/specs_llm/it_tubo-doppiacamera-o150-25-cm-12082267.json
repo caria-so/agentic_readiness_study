@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/tubo-doppiacamera-o150-25-cm-12082267/",
+  "model": "qwen2.5:32b",
+  "html": "it_tubo-doppiacamera-o150-25-cm-12082267.html",
+  "title": "TUBO DOPPIA PARETE Ø 15 cm LUNGHEZZA 25 cm",
+  "text_chars": 1338,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "installation": {
+      "value": "Posa canna fumaria in muratura dritta",
+      "evidence": "Uso del prodotto Posa canna fumaria in muratura dritta",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "origin": {
+      "reason": "origin_not_stated",
+      "raw": {
+        "value": "Italia",
+        "evidence": "FIBROTUBI SRL VIA PROVINCIALE SUD 5 42011, BAGNOLO IN PIANO Italia",
+        "location": "body"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1329,
+    "output_tokens": 581,
+    "seconds": 48.51
+  }
+}

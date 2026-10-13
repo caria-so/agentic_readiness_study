@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/struttura-colonna-bagno-remix-tartufo-l-30-x-h-173-x-p-33-cm-81251187.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_struttura-colonna-bagno-remix-tartufo-l-30-x-h-173-x-p-33-cm-81251187.html.html",
+  "title": "Struttura colonna bagno Remix tartufo L 30 x H 173 x P 33 cm | Leroy Merlin",
+  "text_chars": 6049,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "L 30 x H 173 x P 33 cm",
+      "evidence": "Struttura colonna bagno Remix tartufo L 30 x H 173 x P 33 cm",
+      "location": "title"
+    },
+    "series": {
+      "value": "Remix tartufo",
+      "evidence": "Struttura colonna bagno Remix tartufo L 30 x H 173 x P 33 cm",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3126,
+    "output_tokens": 646,
+    "seconds": 61.42
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/portascopino-bagno-da-appoggio/25878-portascopino-satinato-con-setole-nere-e-contenitore-estraibile.html",
+  "model": "qwen2.5:32b",
+  "html": "portascopino-bagno-da-appoggio_25878-portascopino-satinato-con-setole-nere-e-contenitore-estraibile.html.html",
+  "title": "Portascopino satinato con setole nere e contenitore estraibile",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "width": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "9 cm",
+        "evidence": "Dimensioni: L 9 x p 9 x H 39,5 cm;"
+      }
+    },
+    "height": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "39,5 cm",
+        "evidence": "Dimensioni: L 9 x p 9 x H 39,5 cm;"
+      }
+    },
+    "depth": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "9 cm",
+        "evidence": "Dimensioni: L 9 x p 9 x H 39,5 cm;"
+      }
+    },
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da appoggio",
+        "evidence": "Installazione in appoggio al pavimento;"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3855,
+    "output_tokens": 586,
+    "seconds": 56.59
+  }
+}

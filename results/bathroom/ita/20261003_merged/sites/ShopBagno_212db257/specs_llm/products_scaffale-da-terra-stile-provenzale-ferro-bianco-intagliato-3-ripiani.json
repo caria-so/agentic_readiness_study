@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/scaffale-da-terra-stile-provenzale-ferro-bianco-intagliato-3-ripiani",
+  "model": "qwen2.5:32b",
+  "html": "products_scaffale-da-terra-stile-provenzale-ferro-bianco-intagliato-3-ripiani.html",
+  "title": "Scaffale Da Terra Stile Provenzale Ferro Bianco Intagliato 3 Ripiani",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Ferro",
+      "evidence": "Scaffale Da Terra Stile Provenzale Ferro Bianco Intagliato 3 Ripiani",
+      "location": "title"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Scaffale Da Terra Stile Provenzale Ferro Bianco Intagliato 3 Ripiani",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "Stile Provenzale",
+      "evidence": "Scaffale Da Terra Stile Provenzale Ferro Bianco Intagliato 3 Ripiani",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3938,
+    "output_tokens": 565,
+    "seconds": 58.87
+  }
+}

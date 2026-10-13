@@ -1,0 +1,119 @@
+{
+ "url": "https://www.deghi.it/portasalviette-o-portarotolo-a-muro-in-metallo-cromo-clover",
+ "file": "portasalviette-o-portarotolo-a-muro-in-metallo-cromo-clover.html",
+ "title": "Portasalviette o portarotolo a muro in metallo cromo - Clover",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 10491,
+ "attributes": {
+  "sku": {
+   "value": "CLV-SVRC",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "CLV-SVRC"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "CLV-SVRC"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Portarotolo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Portarotolo"
+    }
+   ]
+  },
+  "installation": {
+   "value": "A muro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "A muro"
+    }
+   ]
+  },
+  "series": {
+   "value": "Clover",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Clover"
+    }
+   ]
+  },
+  "material": {
+   "value": "Metallo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Metallo"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Cromo"
+    }
+   ]
+  },
+  "height": {
+   "value": "7,5 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "7,5 cm"
+    }
+   ]
+  },
+  "width": {
+   "value": "13 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "13 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 7,
+  "L3": 1,
+  "dropped": 12
+ }
+}

@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/pensili-e-colonne/1799-pensile-bagno-diadema-cm-30x75.html",
+  "model": "qwen2.5:32b",
+  "html": "pensili-e-colonne_1799-pensile-bagno-diadema-cm-30x75.html.html",
+  "title": "Pensile bagno Diadema  cm 30x75 perla spatolato | Boleco",
+  "text_chars": 3969,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "shape_style": {
+      "value": "moderno",
+      "evidence": "Pensile bagno moderno a giorno",
+      "location": "body"
+    },
+    "series": {
+      "value": "Diadema",
+      "evidence": "Pensile bagno Diadema cm 30x75 perla spatolato",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "5 anni",
+      "evidence": "Prodotto garantito 5 anni.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Italia",
+      "evidence": "Prodotto in Italia.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Boleco",
+        "evidence": "Pensile bagno Diadema cm 30x75 perla spatolato | Boleco"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2374,
+    "output_tokens": 657,
+    "seconds": 59.8
+  }
+}

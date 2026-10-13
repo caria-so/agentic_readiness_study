@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/piatti-doccia-in-marmo-resina/56708-piatto-doccia-in-marmoresina-marrone-effetto-pietra-cemento-prestige.html",
+  "model": "qwen2.5:32b",
+  "html": "it_piatti-doccia-in-marmo-resina_56708-piatto-doccia-in-marmoresina-marrone-effetto-pietra-cemento-prestige.html.html",
+  "title": "Piatto doccia in resina marrone scarico laterale PRESTIGE",
+  "text_chars": 5856,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "marmoresina",
+      "evidence": "Piatto Doccia in Marmoresina con Bordo Architetturale e Scarico Totale",
+      "location": "body"
+    },
+    "finish": {
+      "value": "effetto pietra",
+      "evidence": "La superficie, caratterizzata da una marcata e piacevole texture effetto pietra,",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "3 cm",
+      "evidence": "Con il suo spessore sottile di 3 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "MATERIA",
+      "evidence": "Quando la forza della pietra incontra il rigore delle forme geometriche nasce MATERIA",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2838,
+    "output_tokens": 686,
+    "seconds": 63.27
+  }
+}

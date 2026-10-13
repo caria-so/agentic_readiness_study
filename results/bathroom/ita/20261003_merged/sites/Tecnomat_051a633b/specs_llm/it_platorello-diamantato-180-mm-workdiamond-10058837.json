@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/platorello-diamantato-180-mm-workdiamond-10058837/",
+  "model": "qwen2.5:32b",
+  "html": "it_platorello-diamantato-180-mm-workdiamond-10058837.html",
+  "title": "PLATORELLO DIAMANTATO PWI Ø180 mm PER LATERIZI CEMENTO E PIETRE",
+  "text_chars": 1009,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "Ø180 mm",
+      "evidence": "PLATORELLO DIAMANTATO PWI Ø180 mm PER LATERIZI CEMENTO E PIETRE",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1171,
+    "output_tokens": 511,
+    "seconds": 42.57
+  }
+}

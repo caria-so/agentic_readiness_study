@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "url": "https://termoidraulicarv.com/sistemi-uv-per-acqua/ricambi-sistemi-uv/trasformatore-ricambio-220v-per-lampada-uv-14w-4-pin-stesso-lato/",
+  "model": "qwen2.5:32b",
+  "html": "sistemi-uv-per-acqua_ricambi-sistemi-uv_trasformatore-ricambio-220v-per-lampada-uv-14w-4-pin-stesso-lato.html",
+  "title": "Trasformatore ricambio 220V per lampada UV 14W 4 pin",
+  "text_chars": 1779,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "brand": {
+      "value": "TermoidraulicaRV",
+      "evidence": "BRAND: TermoidraulicaRV",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "electrical": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "220V, 14W",
+        "evidence": "Trasformatore ricambio 220V per lampada UV 14W 4 pin"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1478,
+    "output_tokens": 515,
+    "seconds": 49.02
+  }
+}

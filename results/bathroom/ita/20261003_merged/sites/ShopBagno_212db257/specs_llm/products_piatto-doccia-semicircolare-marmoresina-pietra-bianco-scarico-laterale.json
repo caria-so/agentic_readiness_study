@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/piatto-doccia-semicircolare-marmoresina-pietra-bianco-scarico-laterale",
+  "model": "qwen2.5:32b",
+  "html": "products_piatto-doccia-semicircolare-marmoresina-pietra-bianco-scarico-laterale.html",
+  "title": "Piatto Doccia Semicircolare Mineral Marmo Bianco Spessore 2,8cm",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Mineral Marmo",
+      "evidence": "Piatto Doccia Semicircolare Mineral Marmo Bianco Spessore 2,8cm",
+      "location": "title"
+    },
+    "colour": {
+      "value": "Bianco",
+      "evidence": "Piatto Doccia Semicircolare Mineral Marmo Bianco Spessore 2,8cm",
+      "location": "title"
+    },
+    "thickness": {
+      "value": "2,8cm",
+      "evidence": "Piatto Doccia Semicircolare Mineral Marmo Bianco Spessore 2,8cm",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "Semicircolare",
+      "evidence": "Piatto Doccia Semicircolare Mineral Marmo Bianco Spessore 2,8cm",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "width": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "80 cm",
+        "evidence": "dimensions = 80x80"
+      }
+    },
+    "depth": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "80 cm",
+        "evidence": "dimensions = 80x80"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4014,
+    "output_tokens": 600,
+    "seconds": 61.91
+  }
+}

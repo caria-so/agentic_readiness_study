@@ -1,0 +1,82 @@
+{
+ "url": "https://dwellistore.it/rubinetteria-bongio-fleur-blanc-noir-gruppo-lavabo-tre-fori-11501cr00.html",
+ "file": "rubinetteria-bongio-fleur-blanc-noir-gruppo-lavabo-tre-fori-11501cr00.html.html",
+ "title": "Bongio Fleur Blanc & Noir gruppo lavabo tre fori 11501CR00",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1350,
+ "attributes": {
+  "brand": {
+   "value": "Bongio",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Bongio"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Bongio"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marca",
+     "value": "Bongio"
+    }
+   ]
+  },
+  "sku": {
+   "value": "11501CR00",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "11501CR00"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "11501CR00",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "11501CR00"
+    }
+   ]
+  },
+  "series": {
+   "value": "Bongio Fleur",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Bongio Fleur"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 1
+ }
+}

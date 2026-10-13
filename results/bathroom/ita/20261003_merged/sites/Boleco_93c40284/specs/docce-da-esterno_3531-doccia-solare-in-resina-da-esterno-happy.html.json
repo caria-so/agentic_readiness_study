@@ -1,0 +1,127 @@
+{
+ "url": "https://www.boleco.it/docce-da-esterno/3531-doccia-solare-in-resina-da-esterno-happy.html",
+ "file": "docce-da-esterno_3531-doccia-solare-in-resina-da-esterno-happy.html.html",
+ "title": "Doccia Solare da esterno in resina - Happy",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 5756,
+ "attributes": {
+  "sku": {
+   "value": "254_000005",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "254_000005"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "254_000005"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "254_000005"
+    }
+   ]
+  },
+  "colour": {
+   "value": "ANTRACITE, ROSSO, FUXIA, VERDE, BLU, BIANCO",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "ANTRACITE, ROSSO, FUXIA, VERDE, BLU, BIANCO"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colori",
+     "value": "Rosso, Fuxia, Blu, Verde, Antracite o Bianco"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Solare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Doccia da Esterno",
+     "value": "Solare"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Doccia Solare"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Design",
+     "value": "Curvo"
+    }
+   ]
+  },
+  "material": {
+   "value": "Resina Colorata in Massa",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Resina Colorata in Massa"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "220x17,5x20,5 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni doccia (HxPxL)",
+     "value": "220x17,5x20,5 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni base",
+     "value": "17,5x20,5 cm"
+    }
+   ]
+  },
+  "installation": {
+   "value": "inclusi",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi",
+     "value": "inclusi"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Capacità": "23 litri",
+  "Accessori": "in Ottone e ABS Cromato",
+  "Soffione": "Orientabile",
+  "Collegamento acqua": "Laterale"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 3,
+  "L3": 12,
+  "dropped": 0
+ }
+}

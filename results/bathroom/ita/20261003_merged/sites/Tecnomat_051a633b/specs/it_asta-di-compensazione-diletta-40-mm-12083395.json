@@ -1,0 +1,116 @@
+{
+ "url": "https://www.tecnomat.it/it/asta-di-compensazione-diletta-40-mm-12083395/",
+ "file": "it_asta-di-compensazione-diletta-40-mm-12083395.html",
+ "title": "Asta di compensazione diletta 2250x40 mm (hxl) spessore 12 mm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 785,
+ "attributes": {
+  "brand": {
+   "value": "livingdoor",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "livingdoor"
+    }
+   ]
+  },
+  "sku": {
+   "value": "12083395",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "12083395"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "12083395",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "12083395"
+    }
+   ]
+  },
+  "material": {
+   "value": "Legno",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Legno"
+    }
+   ]
+  },
+  "width": {
+   "value": "4",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm)",
+     "value": "4"
+    }
+   ]
+  },
+  "height": {
+   "value": "225",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm)",
+     "value": "225"
+    }
+   ]
+  },
+  "depth": {
+   "value": "1,2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Profondità (in cm)",
+     "value": "1,2"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Grigio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Grigio"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 5,
+  "L3": 0,
+  "dropped": 2
+ }
+}

@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/coprifilo-adesivo-bco-h3000xl50xp7-mm-10067850/",
+  "model": "qwen2.5:32b",
+  "html": "it_coprifilo-adesivo-bco-h3000xl50xp7-mm-10067850.html",
+  "title": "COPRIFILO ADESIVO IN PVC BIANCO 3000x50x7 mm (HxLxP)",
+  "text_chars": 1570,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "pvc",
+      "evidence": "COPRIFILO ADESIVO IN PVC BIANCO",
+      "location": "title"
+    },
+    "width": {
+      "value": "50 mm",
+      "evidence": "3000x50x7 mm (HxLxP)",
+      "location": "title"
+    },
+    "height": {
+      "value": "3000 mm",
+      "evidence": "3000x50x7 mm (HxLxP)",
+      "location": "title"
+    },
+    "depth": {
+      "value": "7 mm",
+      "evidence": "3000x50x7 mm (HxLxP)",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "3000x50x7 mm",
+      "evidence": "COPRIFILO ADESIVO IN PVC BIANCO 3000x50x7 mm (HxLxP)",
+      "location": "title"
+    },
+    "installation": {
+      "value": "adesivo",
+      "evidence": "Il coprifilo adesivo in pvc bianco è progettato per offrire una finitura pulita e professionale ai tuoi progetti.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "origin": {
+      "reason": "origin_not_stated",
+      "raw": {
+        "value": "Romania",
+        "evidence": "SC APLAST WOOD INDUSTRY SRL SAT CEPTURA DE JOS 077005, PRAHOVA Romania",
+        "location": "body"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1356,
+    "output_tokens": 656,
+    "seconds": 54.68
+  }
+}

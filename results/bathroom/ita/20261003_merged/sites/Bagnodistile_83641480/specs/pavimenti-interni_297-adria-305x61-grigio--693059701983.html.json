@@ -1,0 +1,83 @@
+{
+ "url": "https://www.bagnodistile.com/pavimenti-interni/297-adria-305x61-grigio--693059701983.html",
+ "file": "pavimenti-interni_297-adria-305x61-grigio--693059701983.html.html",
+ "title": "ADRIA 30,5X61 Grigio",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3905,
+ "attributes": {
+  "brand": {
+   "value": "DECOR UNION",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "DECOR UNION"
+    }
+   ]
+  },
+  "sku": {
+   "value": "ITAADG36GR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "ITAADG36GR"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059701983",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059701983"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "ITAADG36GR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "ITAADG36GR"
+    }
+   ]
+  },
+  "weight": {
+   "value": "16.100000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "16.100000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 32
+ }
+}

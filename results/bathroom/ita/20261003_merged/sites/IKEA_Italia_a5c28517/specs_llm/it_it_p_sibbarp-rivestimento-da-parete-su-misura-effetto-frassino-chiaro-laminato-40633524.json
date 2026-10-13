@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/sibbarp-rivestimento-da-parete-su-misura-effetto-frassino-chiaro-laminato-40633524/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_sibbarp-rivestimento-da-parete-su-misura-effetto-frassino-chiaro-laminato-40633524.html",
+  "title": "SIBBARP rivestimento da parete su misura, effetto frassino chiaro/laminato, 1 m²x1.3 cm  - IKEA Italia",
+  "text_chars": 3568,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Truciolare, Laminato, Bordo in plastica, Laminato melamminico ad alta pressione",
+      "evidence": "Materiale Truciolare, Laminato, Bordo in plastica, Laminato melamminico ad alta pressione",
+      "location": "body"
+    },
+    "width": {
+      "value": "100 cm",
+      "evidence": "Larghezza: 100 cm",
+      "location": "body"
+    },
+    "weight": {
+      "value": "12.00 kg",
+      "evidence": "Peso: 12.00 kg",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "25 anni di garanzia",
+      "evidence": "25 anni di garanzia. Scopri i termini e le condizioni nell'opuscolo della garanzia.",
+      "location": "body"
+    },
+    "care": {
+      "value": "Pulisci con un panno morbido inumidito con acqua e un detergente o un sapone poco concentrati, se necessario. Asciuga con un panno pulito. Non usare mai lana d'acciaio, spugnette o sostanze abrasive o prodotti simili perché potrebbero graffiare la superficie.",
+      "evidence": "Pulisci con un panno morbido inumidito con acqua e un detergente o un sapone poco concentrati, se necessario. Asciuga con un panno pulito. Non usare mai lana d'acciaio, spugnette o sostanze abrasive o prodotti simili perché potrebbero graffiare la superficie.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "SIBBARP",
+        "evidence": "Rivestimento da parete su misura, effetto frassino chiaro/laminato, 1 m²x1.3 cm"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA of Sweden",
+        "evidence": "Designer IKEA of Sweden Mostra di più"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2095,
+    "output_tokens": 876,
+    "seconds": 74.71
+  }
+}

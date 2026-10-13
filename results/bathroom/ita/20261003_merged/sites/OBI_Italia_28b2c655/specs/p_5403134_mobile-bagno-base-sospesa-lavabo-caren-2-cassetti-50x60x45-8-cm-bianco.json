@@ -1,0 +1,114 @@
+{
+ "url": "https://www.obi-italia.it/p/5403134/mobile-bagno-base-sospesa-lavabo-caren-2-cassetti-50x60x45-8-cm-bianco",
+ "file": "p_5403134_mobile-bagno-base-sospesa-lavabo-caren-2-cassetti-50x60x45-8-cm-bianco.html",
+ "title": "Mobile bagno base sospesa lavabo Caren 2 cassetti 50x60x45,8 cm bianco",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 573,
+ "attributes": {
+  "sku": {
+   "value": "5403134",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5403134"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8005251011845",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8005251011845"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "width": {
+   "value": "60.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "60.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "50.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "50.00 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "45.80 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "45.80 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "25.5 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "25.5 KGM"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "50x60x45,8 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "50x60x45,8 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "R.C.R. SRL Via Luciano Savio 3 33170 PORDENONE IT info@rcritalia.it EAN(s): [ 8005251011845 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 8,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

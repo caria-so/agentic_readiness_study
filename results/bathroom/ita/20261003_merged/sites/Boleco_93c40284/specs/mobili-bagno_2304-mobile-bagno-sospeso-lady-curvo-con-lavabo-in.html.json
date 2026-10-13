@@ -1,0 +1,180 @@
+{
+ "url": "https://www.boleco.it/mobili-bagno/2304-mobile-bagno-sospeso-lady-curvo-con-lavabo-in.html",
+ "file": "mobili-bagno_2304-mobile-bagno-sospeso-lady-curvo-con-lavabo-in.html.html",
+ "title": "Mobile bagno sospeso Lady, curvo, bianco lucido con lavabo in ceramica, cm 100",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6570,
+ "attributes": {
+  "sku": {
+   "value": "D0282",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D0282"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "D0282"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "D0282"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "81-110cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Mobili",
+     "value": "81-110cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "BIANCO LUCIDO",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "BIANCO LUCIDO"
+    }
+   ]
+  },
+  "series": {
+   "value": "Lady",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Nome Collezione",
+     "value": "Lady"
+    }
+   ]
+  },
+  "material": {
+   "value": "Mdf",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Mdf"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Ceramica"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "16mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessori fianchi",
+     "value": "16mm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Spessori frontali",
+     "value": "19mm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "bianco lucido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura esterna",
+     "value": "bianco lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Finitura interna",
+     "value": "grigio"
+    }
+   ]
+  },
+  "opening": {
+   "value": "rallentata (soft-close)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "rallentata (soft-close)"
+    }
+   ]
+  },
+  "installation": {
+   "value": "SI",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "SI"
+    }
+   ]
+  },
+  "certification": {
+   "value": "PEFC , E1, EU 995/2010",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "PEFC , E1, EU 995/2010"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE - P.R.C"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Integrale",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Integrale"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Specchio": "Non incluso (acquistabile separatamente)",
+  "Rubinetto": "Non incluso (acquistabile separatamente)"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 4,
+  "L3": 14,
+  "dropped": 2
+ }
+}

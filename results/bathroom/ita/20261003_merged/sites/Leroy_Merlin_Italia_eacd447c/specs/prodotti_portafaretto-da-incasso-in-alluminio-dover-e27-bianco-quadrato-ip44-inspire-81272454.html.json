@@ -1,0 +1,203 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/portafaretto-da-incasso-in-alluminio-dover-e27-bianco-quadrato-ip44-inspire-81272454.html",
+ "file": "prodotti_portafaretto-da-incasso-in-alluminio-dover-e27-bianco-quadrato-ip44-inspire-81272454.html.html",
+ "title": "Portafaretto da incasso in alluminio DOVER E27 bianco quadrato IP44 INSPIRE",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3449,
+ "attributes": {
+  "brand": {
+   "value": "INSPIRE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "INSPIRE"
+    }
+   ]
+  },
+  "sku": {
+   "value": "81272454",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "81272454"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "3276000442288",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "3276000442288"
+    }
+   ]
+  },
+  "installation": {
+   "value": "A incasso",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di installazione",
+     "value": "A incasso"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo di attacco",
+     "value": "E27"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Quadrato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Forma",
+     "value": "Quadrato"
+    }
+   ]
+  },
+  "height": {
+   "value": "7.5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza di incasso (in cm)",
+     "value": "7.5"
+    }
+   ]
+  },
+  "width": {
+   "value": "10",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm)",
+     "value": "10"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "material": {
+   "value": "Alluminio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Alluminio"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "230",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Voltaggio (in V)",
+     "value": "230"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Classe di protezione",
+     "value": "1: apparecchio elettrico con messa a terra obbligatoria"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "5"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "10.5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "10.5"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "24"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "9"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.641",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.641"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "ADEO Services",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "ADEO Services"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Diametro (in cm)": "0",
+  "Oggetto connesso": "No"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 16,
+  "L3": 1,
+  "dropped": 0
+ }
+}

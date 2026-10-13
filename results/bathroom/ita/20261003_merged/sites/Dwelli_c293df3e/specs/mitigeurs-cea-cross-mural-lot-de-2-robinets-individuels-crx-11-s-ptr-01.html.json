@@ -1,0 +1,118 @@
+{
+ "url": "https://dwellistore.fr/mitigeurs-cea-cross-mural-lot-de-2-robinets-individuels-crx-11-s-ptr-01.html",
+ "file": "mitigeurs-cea-cross-mural-lot-de-2-robinets-individuels-crx-11-s-ptr-01.html.html",
+ "title": "Mitigeurs Cea Cross mural lot de 2 robinets individuels CRX 11 S + PTR 01",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1136,
+ "attributes": {
+  "brand": {
+   "value": "Cea Design",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Cea Design"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Cea Design"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marque",
+     "value": "Cea Design"
+    }
+   ]
+  },
+  "sku": {
+   "value": "CRX11+ PTR01",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "CRX11+ PTR01"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "CRX11+PTR01"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "CRX11+ PTR01",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "CRX11+ PTR01"
+    }
+   ]
+  },
+  "series": {
+   "value": "Cea Design Cross",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Collection",
+     "value": "Cea Design Cross"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Designer",
+     "value": "Natalino Malasorti"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "23 x 12,5 x ∅3 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "23 x 12,5 x ∅3 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio AISI 316",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Acciaio AISI 316"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Type d'installation": "De Mur",
+  "Pièce intégrée": "comprise",
+  "Débit": "5 l/min"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 6,
+  "L3": 3,
+  "dropped": 2
+ }
+}

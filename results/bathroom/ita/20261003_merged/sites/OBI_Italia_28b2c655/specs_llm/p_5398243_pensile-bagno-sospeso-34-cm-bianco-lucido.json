@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5398243/pensile-bagno-sospeso-34-cm-bianco-lucido",
+  "model": "qwen2.5:32b",
+  "html": "p_5398243_pensile-bagno-sospeso-34-cm-bianco-lucido.html",
+  "title": "Pensile bagno sospeso 34 cm bianco lucido",
+  "text_chars": 770,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "lucido",
+      "evidence": "Pensile bagno sospeso 34 cm bianco lucido",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "34x34 centimetri e una profondità di 13 centimetri.",
+      "evidence": "Ha una forma quadrata con dimensioni di 34x34 centimetri e una profondità di 13 centimetri.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Il pensile sospeso a giorno è un elemento di arredo per la casa che si installa a parete senza alcun appoggio al suolo.",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "quadrata",
+      "evidence": "Ha una forma quadrata con dimensioni di 34x34 centimetri e una profondità di 13 centimetri.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1104,
+    "output_tokens": 651,
+    "seconds": 53.16
+  }
+}

@@ -1,0 +1,119 @@
+{
+ "url": "https://www.arredobagno360.it/specchio-bagno-giotto-alchimia.html",
+ "file": "specchio-bagno-giotto-alchimia.html.html",
+ "title": "Giotto | Specchio da parete rotondo, varie dimensioni",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 10178,
+ "attributes": {
+  "sku": {
+   "value": "specchio-bagno-giotto-alchimia",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "specchio-bagno-giotto-alchimia"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "specchio-bagno-giotto-alchimia",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "specchio-bagno-giotto-alchimia"
+    }
+   ]
+  },
+  "series": {
+   "value": "Giotto | Specchio da parete rotondo, varie dimensioni",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Giotto | Specchio da parete rotondo, varie dimensioni"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Modello",
+     "value": "Giotto"
+    }
+   ]
+  },
+  "weight": {
+   "value": "39.0000 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "39.0000 KGM"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Ø60, Ø80, Ø100 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione",
+     "value": "Ø60, Ø80, Ø100 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Le strutture in listellare di abete impiallacciato in frassino provengono da aziende rigorosamente italiane. Queste vengono rifinite sul bordo anteriore con il legno massello. Infine l'assemblaggio avviene tramite spine di legno e incollanti termo e idro resistenti",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Strutture",
+     "value": "Le strutture in listellare di abete impiallacciato in frassino provengono da aziende rigorosamente italiane. Queste vengono rifinite sul bordo anteriore con il legno massello. Infine l'assemblaggio av"
+    }
+   ]
+  },
+  "installation": {
+   "value": "I vari elementi che compongono il mobile vengono assemblati e collaudati utilizzando meccanismi di apertura BLUM e sistemi di ultima generazione provenienti dalle migliori e più qualificate aziende italiane ed europee",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Montaggio",
+     "value": "I vari elementi che compongono il mobile vengono assemblati e collaudati utilizzando meccanismi di apertura BLUM e sistemi di ultima generazione provenienti dalle migliori e più qualificate aziende it"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "specchio da trucco": "3x",
+  "pezzo unico": "realizzato per te",
+  "tecniche artigianali": "tradizione marchigiana",
+  "fascino per il legno": "cura e rispetto verso l'ambiente",
+  "provenienza del legname": "innovativi processi ecocompatibili",
+  "Imballaggio": "materiali adatti all'imballo",
+  "Azienda": "Alchimia-Eban",
+  "Optional": "specchio da trucco tondo da 25 cm con ingrandimento 3x (specificare la posizione)"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 6,
+  "L3": 6,
+  "dropped": 6
+ }
+}

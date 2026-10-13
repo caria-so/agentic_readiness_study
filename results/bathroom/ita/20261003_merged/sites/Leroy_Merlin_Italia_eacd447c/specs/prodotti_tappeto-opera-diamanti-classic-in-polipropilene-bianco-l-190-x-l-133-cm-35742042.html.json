@@ -1,0 +1,172 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/tappeto-opera-diamanti-classic-in-polipropilene-bianco-l-190-x-l-133-cm-35742042.html",
+ "file": "prodotti_tappeto-opera-diamanti-classic-in-polipropilene-bianco-l-190-x-l-133-cm-35742042.html.html",
+ "title": "Tappeto Opera Diamanti classic in polipropilene bianco L 190 x L 133 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 5493,
+ "attributes": {
+  "sku": {
+   "value": "35742042",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "35742042"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8051513660184",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8051513660184"
+    }
+   ]
+  },
+  "material": {
+   "value": "100% polipropilene",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Composizione (in %)",
+     "value": "100% polipropilene"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Interno",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Luogo di utilizzo",
+     "value": "Interno"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Meccanico",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di fabbricazione",
+     "value": "Meccanico"
+    }
+   ]
+  },
+  "weight": {
+   "value": "6570",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso totale (in g/m²)",
+     "value": "6570"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "133x190",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione (L x L) (in cm)",
+     "value": "133x190"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "2"
+    }
+   ]
+  },
+  "care": {
+   "value": "Lavare a mano a 30 ° C",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Consigli per il lavaggio",
+     "value": "Lavare a mano a 30 ° C"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "133",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "133"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "20"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "20"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "6.57",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "6.57"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "Abc Italia srl",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "Abc Italia srl"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Fondo antiscivolo": "No",
+  "Compatibilità riscaldamento a pavimento": "Sì",
+  "Home Index": "C"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 13,
+  "L3": 2,
+  "dropped": 3
+ }
+}

@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/tappeto-wenge-in-viscosa-avorio-l-240-x-l-170-cm-82489132.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_tappeto-wenge-in-viscosa-avorio-l-240-x-l-170-cm-82489132.html.html",
+  "title": "Tappeto Wenge in viscosa Avorio L 240 x L 170 cm | Leroy Merlin",
+  "text_chars": 6046,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Wenge",
+      "evidence": "Tappeto Wenge in viscosa Avorio L 240 x L 170 cm",
+      "location": "title"
+    },
+    "width": {
+      "value": "170 cm",
+      "evidence": "Dimensione (L x L) (in cm) 170x240",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "weight": {
+      "reason": "package_value",
+      "raw": {
+        "value": "8.16 kg",
+        "evidence": "Prodotto imballato: peso (in kg) 8.16"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2912,
+    "output_tokens": 655,
+    "seconds": 61.27
+  }
+}

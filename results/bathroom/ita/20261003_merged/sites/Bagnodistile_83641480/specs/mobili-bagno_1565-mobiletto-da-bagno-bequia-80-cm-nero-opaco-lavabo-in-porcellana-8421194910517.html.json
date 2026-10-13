@@ -1,0 +1,83 @@
+{
+ "url": "https://www.bagnodistile.com/mobili-bagno/1565-mobiletto-da-bagno-bequia-80-cm-nero-opaco-lavabo-in-porcellana-8421194910517.html",
+ "file": "mobili-bagno_1565-mobiletto-da-bagno-bequia-80-cm-nero-opaco-lavabo-in-porcellana-8421194910517.html.html",
+ "title": "Mobiletto da bagno Bequia 80 cm nero opaco Lavabo in porcellana",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6517,
+ "attributes": {
+  "brand": {
+   "value": "SALGAR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "SALGAR"
+    }
+   ]
+  },
+  "sku": {
+   "value": "96305",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "96305"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8421194910517",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8421194910517"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "96305",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "96305"
+    }
+   ]
+  },
+  "installation": {
+   "value": "BEQUIA 80 cm profondità 45 cm:",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Mobile sospeso",
+     "value": "BEQUIA 80 cm profondità 45 cm:"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 6
+ }
+}

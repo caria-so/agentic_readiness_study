@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.deghi.it/termoarredo-scaldasalviette-1800x500-bianco-curvo-interasse-450-mm",
+  "model": "qwen2.5:32b",
+  "html": "termoarredo-scaldasalviette-1800x500-bianco-curvo-interasse-450-mm.html",
+  "title": "Termoarredo scaldasalviette 1800x500 bianco curvo interasse 450 mm - Alpina",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3545,
+    "output_tokens": 556,
+    "seconds": 53.14
+  }
+}

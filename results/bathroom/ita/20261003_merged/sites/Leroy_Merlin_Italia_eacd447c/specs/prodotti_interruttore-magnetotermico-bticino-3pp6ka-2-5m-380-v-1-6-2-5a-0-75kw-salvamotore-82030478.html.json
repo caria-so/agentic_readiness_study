@@ -1,0 +1,152 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/interruttore-magnetotermico-bticino-3pp6ka-2-5m-380-v-1-6-2-5a-0-75kw-salvamotore-82030478.html",
+ "file": "prodotti_interruttore-magnetotermico-bticino-3pp6ka-2-5m-380-v-1-6-2-5a-0-75kw-salvamotore-82030478.html.html",
+ "title": "Interruttore magnetotermico BTICINO 3PP6kA 2.5M 380 V 1.6-2.5A/0.75KW salvamotore",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4475,
+ "attributes": {
+  "brand": {
+   "value": "BTICINO",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "BTICINO"
+    }
+   ]
+  },
+  "sku": {
+   "value": "82030478",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "82030478"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "3414970395153",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "3414970395153"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "380",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Voltaggio (in V)",
+     "value": "380"
+    }
+   ]
+  },
+  "height": {
+   "value": "45",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in mm)",
+     "value": "45"
+    }
+   ]
+  },
+  "width": {
+   "value": "75",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in mm)",
+     "value": "75"
+    }
+   ]
+  },
+  "depth": {
+   "value": "94",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Profondità (in mm)",
+     "value": "94"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "8.4",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "8.4"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "11.2"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "5.3"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.33",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.33"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "BTICINO SPA",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "BTICINO SPA"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero di moduli": "2.5",
+  "Potere di interruzione nominale (in kA)": "6",
+  "Nome prodotto commerciale": "1.6-2.5A/0.75KW salvamotore",
+  "Numero di poli": "3P",
+  "Imballaggio ottimizzato": "questo prodotto consente di aumentare l’efficienza dei trasporti, contribuendo a diminuire l'impatto sull’ambiente."
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 10,
+  "L3": 4,
+  "dropped": 2
+ }
+}

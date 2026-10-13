@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/tutto-per-le-docce/3977-box-doccia-cm-70x120-cristallo-temperato-silver.html",
+  "model": "qwen2.5:32b",
+  "html": "tutto-per-le-docce_3977-box-doccia-cm-70x120-cristallo-temperato-silver.html.html",
+  "title": "Box doccia cm 70x120 cristallo temperato – silver | Boleco",
+  "text_chars": 4518,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "6 mm",
+      "evidence": "Vetro Temperato 6 mm trasparente",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Prodotto garantito 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Boleco",
+        "evidence": "Box doccia cm 70x120 cristallo temperato – silver | Boleco"
+      }
+    },
+    "origin": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Italia",
+        "evidence": "Prodotto di produzione Made in Italy."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2485,
+    "output_tokens": 583,
+    "seconds": 53.55
+  }
+}

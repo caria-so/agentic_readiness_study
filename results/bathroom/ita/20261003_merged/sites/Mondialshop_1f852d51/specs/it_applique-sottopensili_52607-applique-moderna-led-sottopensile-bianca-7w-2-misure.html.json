@@ -1,0 +1,168 @@
+{
+ "url": "https://www.mondialshop.it/it/applique-sottopensili/52607-applique-moderna-led-sottopensile-bianca-7w-2-misure.html",
+ "file": "it_applique-sottopensili_52607-applique-moderna-led-sottopensile-bianca-7w-2-misure.html.html",
+ "title": "Applique Sottopensile Bianca 2 Misure LED",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6445,
+ "attributes": {
+  "sku": {
+   "value": "SHAPE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "SHAPE"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "SHAPE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "SHAPE"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.142000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.142000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "height": {
+   "value": "3,5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "3,5"
+    }
+   ]
+  },
+  "material": {
+   "value": "Policarbonato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Policarbonato"
+    }
+   ]
+  },
+  "installation": {
+   "value": "LED",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "LED"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "1050 850",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "1050 850"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Kelvin",
+     "value": "4000"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "7 9"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Classe",
+     "value": "E"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Protezione Ip",
+     "value": "IP20"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dati Elettrici",
+     "value": "Funzionamento standard lineare diretto alla normale linea domestica a 220/240V Volt con frequenza a 56/60 Hz."
+    }
+   ]
+  },
+  "length": {
+   "value": "44 56",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza cm",
+     "value": "44 56"
+    }
+   ]
+  },
+  "width": {
+   "value": "2,2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza cm",
+     "value": "2,2"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Schermatura Ottica": "Diffusore frontale continuo e antiriflesso stampato in policarbonato Bianco.",
+  "Sorgente Tecnologica": "Circuito d'illuminazione di ultima generazione con diodi a tecnologia LED SMD.",
+  "Tonalità di Colore": "Temperatura colore impostata a 4000K per una luce bianca naturale, nitida e riposante.",
+  "Isolamento e Sicurezza": "Apparecchio specifico da interni asciutti strutturato in Classe isolamento 2 con foro per incasso assente."
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 11,
+  "L3": 5,
+  "dropped": 3
+ }
+}

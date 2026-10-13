@@ -1,0 +1,122 @@
+{
+ "url": "https://www.paramashop.it/detail/6f6c8bdb177442d2af4d611572b681e2",
+ "file": "detail_6f6c8bdb177442d2af4d611572b681e2.html",
+ "title": "Set doccia cromato - Miscelatore incasso Katharine con braccio e soffione slim 20 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3730,
+ "attributes": {
+  "gtin": {
+   "value": "5056738524870",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "5056738524870"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "RD98KAT3020-P-C08",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "RD98KAT3020-P-C08"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "20 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione soffione",
+     "value": "20 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "ABS",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale soffione",
+     "value": "ABS"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale ugelli",
+     "value": "Silicone"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Cromato"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Cromato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "Cromato"
+    }
+   ]
+  },
+  "series": {
+   "value": "Katharine",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Modello",
+     "value": "Katharine"
+    }
+   ]
+  },
+  "sku": {
+   "value": "RD98KAT3020-P-C08",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "RD98KAT3020-P-C08"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Deviatore": "No",
+  "Miscelatore": "Incluso"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 8,
+  "L3": 1,
+  "dropped": 8
+ }
+}

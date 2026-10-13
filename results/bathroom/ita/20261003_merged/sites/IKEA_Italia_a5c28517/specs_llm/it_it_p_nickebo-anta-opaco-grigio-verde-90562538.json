@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/nickebo-anta-opaco-grigio-verde-90562538/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_nickebo-anta-opaco-grigio-verde-90562538.html",
+  "title": "NICKEBO anta, opaco grigio-verde, 60x40 cm  - IKEA Italia",
+  "text_chars": 4834,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "opaco",
+      "evidence": "Anta, opaco grigio-verde, 60x40 cm",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "60x40 cm",
+      "evidence": "NICKEBO Anta, opaco grigio-verde, 60x40 cm",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "moderno",
+      "evidence": "Il design semplice, armonioso e moderno è facile da personalizzare.",
+      "location": "body"
+    },
+    "series": {
+      "value": "NICKEBO",
+      "evidence": "NICKEBO Anta, opaco grigio-verde, 60x40 cm",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "25 anni di garanzia",
+      "evidence": "25 anni di garanzia. Scopri i termini e le condizioni nell'opuscolo della garanzia.",
+      "location": "body"
+    },
+    "care": {
+      "value": "Asciuga con un panno pulito. Pulisci con un panno in microfibra inumidito con acqua. Per le macchie più difficili, usa un detergente poco concentrato e strofina delicatamente con movimenti circolari.",
+      "evidence": "Cura Asciuga con un panno pulito. Pulisci con un panno in microfibra inumidito con acqua. Per le macchie più difficili, usa un detergente poco concentrato e strofina delicatamente con movimenti circolari.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA of Sweden",
+        "evidence": "Designer IKEA of Sweden"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2548,
+    "output_tokens": 772,
+    "seconds": 68.99
+  }
+}

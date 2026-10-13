@@ -1,0 +1,154 @@
+{
+ "url": "https://www.paramashop.it/detail/ae284c1f772e4b349730f90104e6130b",
+ "file": "detail_ae284c1f772e4b349730f90104e6130b.html",
+ "title": "Box doccia 80x90 cm apertura a battente profili neri vetro 6mm trasparente | Apulia",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6208,
+ "attributes": {
+  "sku": {
+   "value": "BD99APU7070B-C00",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "BD99APU7070B-C00"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "BD99APU8090B-C00"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "5060971775647",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "5060971775647"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "BD99APU7070B-C00",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "BD99APU7070B-C00"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "80x90cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione",
+     "value": "80x90cm"
+    }
+   ]
+  },
+  "opening": {
+   "value": "A battente",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Apertura",
+     "value": "A battente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Maniglia",
+     "value": "ABS"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Trasparente",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura vetro",
+     "value": "Trasparente"
+    }
+   ]
+  },
+  "height": {
+   "value": "190cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "190cm"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Si",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione Reversibile",
+     "value": "Si"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Nero opaco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore profili",
+     "value": "Nero opaco"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Angolare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Angolare"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Ingresso Utile": "53 cm",
+  "Cristalli Temperati": "6mm",
+  "Parete fissa": "90cm",
+  "Trattamento Anticalcare": "No",
+  "Porta a battente": "80cm"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 13,
+  "L3": 1,
+  "dropped": 8
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "url": "https://www.arcshop.it/products/miscelatori-lavabo-bidet-incasso-doccia-jacuzzi-rubinetteria-sunset-nero-per-piletta-click-clack",
+ "file": "products_miscelatori-lavabo-bidet-incasso-doccia-jacuzzi-rubinetteria-sunset-nero-per-piletta-click-clack.html",
+ "title": "Miscelatori lavabo + bidet + incasso doccia Jacuzzi | rubinetteria Sunset nero per piletta click clack",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3459,
+ "attributes": {
+  "brand": {
+   "value": "Jacuzzi | Rubinetteria",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jacuzzi | Rubinetteria"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "0630606706596",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "0630606706596"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "0630606706596",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "0630606706596"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3.11kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "3.11kg"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "10 Anni",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia",
+     "value": "10 Anni"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "gtin=mpn"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "url": "https://www.arredobagno360.it/specchio-ingranditore-inda-av258p.html",
+ "file": "specchio-ingranditore-inda-av258p.html.html",
+ "title": "AV258P | Specchio beauty ingranditore x3 da appoggio",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2756,
+ "attributes": {
+  "sku": {
+   "value": "specchio-ingranditore-inda-av258P",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "specchio-ingranditore-inda-av258P"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "specchio-ingranditore-inda-av258P",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "specchio-ingranditore-inda-av258P"
+    }
+   ]
+  },
+  "series": {
+   "value": "AV258P | Specchio beauty ingranditore x3 da appoggio",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "AV258P | Specchio beauty ingranditore x3 da appoggio"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Linea",
+     "value": "My Mirror"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Inda",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Inda"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Cromo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "Cromo"
+    }
+   ]
+  },
+  "height": {
+   "value": "42 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "42 cm"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "diametro 13 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni specchio",
+     "value": "diametro 13 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Scheda tecnica e Codice": "AV258P"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 6,
+  "dropped": 5
+ }
+}

@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/cavo-bnc-m-m-alimentazione-l-10-m-10024757/",
+  "model": "qwen2.5:32b",
+  "html": "it_cavo-bnc-m-m-alimentazione-l-10-m-10024757.html",
+  "title": "CAVO BNC MASCHIO - MASCHIO CON ALIMENTAZIONE LUNGHEZZA 10 m",
+  "text_chars": 788,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "length": {
+      "value": "10 m",
+      "evidence": "Con una lunghezza di 10 m, questo cavo offre la flessibilità necessaria per installazioni in ambienti domestici o professionali",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1102,
+    "output_tokens": 497,
+    "seconds": 41.41
+  }
+}

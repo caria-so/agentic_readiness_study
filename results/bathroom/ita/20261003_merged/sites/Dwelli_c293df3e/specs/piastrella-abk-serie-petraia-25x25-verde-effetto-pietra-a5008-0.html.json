@@ -1,0 +1,71 @@
+{
+ "url": "https://dwellistore.de/piastrella-abk-serie-petraia-25x25-verde-effetto-pietra-a5008-0.html",
+ "file": "piastrella-abk-serie-petraia-25x25-verde-effetto-pietra-a5008-0.html.html",
+ "title": "Piastrella ABK Serie Petraia 25x25 verde effetto pietra A5008.0",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 711,
+ "attributes": {
+  "brand": {
+   "value": "ABK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "ABK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "ABK"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marke",
+     "value": "ABK"
+    }
+   ]
+  },
+  "sku": {
+   "value": "A5008.0",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "A5008.0"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "A5008.0",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "A5008.0"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 0,
+  "dropped": 1
+ }
+}

@@ -1,0 +1,105 @@
+{
+  "source": "https://jysk.it/",
+  "generated": "2026-10-03T03:30:57.993101",
+  "block_count": 3,
+  "types": [
+    "AggregateRating",
+    "Certification",
+    "OnlineBusiness",
+    "Organization",
+    "Place",
+    "PostalAddress",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 1105,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "OnlineBusiness",
+        "@id": "https://www.jysk.it",
+        "name": "jysk.it",
+        "url": "https://www.jysk.it",
+        "sameAs": [
+          "https://www.trustedshops.it/valutazione-del-negozio/info_X26B9D81F66F303DBC37858303CBD79C9.html"
+        ],
+        "hasCertification": {
+          "@type": "Certification",
+          "name": "Trusted Shops Trustmark",
+          "certificationIdentification": "https://www.trustedshops.it/valutazione-del-negozio/info_X26B9D81F66F303DBC37858303CBD79C9.html",
+          "certificationStatus": "CertificationActive",
+          "sameAs": [
+            "https://www.trustedshops.it/valutazione-del-negozio/info_X26B9D81F66F303DBC37858303CBD79C9.html"
+          ],
+          "issuedBy": {
+            "@type": "Organization",
+            "name": "Trusted Shops",
+            "url": "https://www.trustedshops.com",
+            "sameAs": [
+              "https://business.trustedshops.com/",
+              "https://www.trstd.com/"
+            ]
+          },
+          "dateModified": "2026-10-02",
+          "validFrom": "2020-02-17 00:00:00"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.03",
+          "ratingCount": "4270"
+        }
+      }
+    },
+    {
+      "index": 1,
+      "chars": 89,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "JYSK",
+        "url": "https://jysk.it"
+      }
+    },
+    {
+      "index": 2,
+      "chars": 1022,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "JYSK",
+        "url": "https://jysk.it",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Viale Piero e Alberto Pirelli, 6",
+          "addressLocality": "Milano",
+          "addressRegion": "Lombardy",
+          "postalCode": "20126",
+          "addressCountry": "IT"
+        },
+        "areaServed": "Italy",
+        "description": "JYSK è un retailer internazionale di arredamento per la casa con radici scandinave che rende facile arredare ogni ambiente di qualsiasi casa e giardino.",
+        "email": "customerserviceit@jysk.com",
+        "foundingDate": "1979",
+        "foundingLocation": {
+          "@type": "Place",
+          "name": "Dinamarca"
+        },
+        "legalName": "JYSK Italia S.r.l. con Socio Unico",
+        "logo": "https://assets.jysk.io/_next/static/media/jysk-logo.2mpn36d17-jdd.svg?dpl=40d9a2e4cf2c086ef1ff4ae1dc4009f266ea9630",
+        "telephone": "(+39) 02 82959312",
+        "vatID": "IT06316060968",
+        "sameAs": [
+          "https://it.wikipedia.org/wiki/JYSK",
+          "https://www.instagram.com/jyskitalia",
+          "https://www.linkedin.com/company/jysk",
+          "https://www.youtube.com/@jyskyoutubeitalia",
+          "https://www.facebook.com/JYSKItalia"
+        ]
+      }
+    }
+  ]
+}

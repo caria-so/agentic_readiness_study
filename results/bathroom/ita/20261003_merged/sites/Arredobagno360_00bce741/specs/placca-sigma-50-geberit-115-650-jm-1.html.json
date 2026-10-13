@@ -1,0 +1,107 @@
+{
+ "url": "https://www.arredobagno360.it/placca-sigma-50-geberit-115-650-jm-1.html",
+ "file": "placca-sigma-50-geberit-115-650-jm-1.html.html",
+ "title": "Sigma50 | Placca con 2 pulsanti round per cassetta WC, colore mustang-oro rosso",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1753,
+ "attributes": {
+  "sku": {
+   "value": "placca-sigma-50-geberit-115.650.JM.1",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "placca-sigma-50-geberit-115.650.JM.1"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice articolo",
+     "value": "115.650.JM.1"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "placca-sigma-50-geberit-115.650.JM.1",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "placca-sigma-50-geberit-115.650.JM.1"
+    }
+   ]
+  },
+  "series": {
+   "value": "Sigma50 | Placca con 2 pulsanti round per cassetta WC, colore mustang-oro rosso",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Sigma50 | Placca con 2 pulsanti round per cassetta WC, colore mustang-oro rosso"
+    }
+   ]
+  },
+  "material": {
+   "value": "telaio di fissaggio, 2 perni distanziatori, 2 perni di comando",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale in dotazione",
+     "value": "telaio di fissaggio, 2 perni distanziatori, 2 perni di comando"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Lega di metallo pressofuso/ardesia (prodotto naturale)"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Mustang",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura copertura Placca e tasti",
+     "value": "Mustang"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "24,6 x 16,4 x 1,4 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "24,6 x 16,4 x 1,4 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Forza di azionamento (N) max": "20 N",
+  "Proprietà": "azionamento frontale, perni di comando isolati acusticamente, regolazione veloce senza attrezzi"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 7,
+  "dropped": 3
+ }
+}

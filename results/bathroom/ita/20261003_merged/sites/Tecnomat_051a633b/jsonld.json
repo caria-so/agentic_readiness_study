@@ -1,0 +1,79 @@
+{
+  "source": "https://www.tecnomat.it/",
+  "generated": "2026-10-01T20:52:19.270174",
+  "block_count": 2,
+  "types": [
+    "ContactPoint",
+    "Organization",
+    "PostalAddress",
+    "SearchAction",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 998,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org/",
+        "@type": "Organization",
+        "name": "Tecnomat",
+        "legalName": "Bricoman Italia S.r.L.",
+        "description": "Tecnomat è il più grande specialista di prodotti tecnici professionali e di finitura per la manutenzione, costruzione e ristrutturazione della casa.",
+        "url": "https://www.tecnomat.it/it/",
+        "logo": "https://www.tecnomat.it/pub/media/TM_logo_payoff_RGB.svg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Via Guglielmo Marconi, 24",
+          "addressLocality": "Rozzano (MI)",
+          "addressRegion": "MI",
+          "postalCode": 20089,
+          "addressCountry": "IT"
+        },
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "email": "support@tecnomat.zendesk.com",
+            "areaServed": "IT",
+            "availableLanguage": [
+              "Italian"
+            ]
+          },
+          {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "telephone": "02 8390 5463",
+            "areaServed": "IT",
+            "availableLanguage": [
+              "Italian"
+            ]
+          }
+        ],
+        "sameAs": [
+          "https://www.facebook.com/Tecnomat.ita",
+          "https://www.linkedin.com/company/tecnomat-adeo/",
+          "https://www.instagram.com/tecnomatitalia/"
+        ]
+      }
+    },
+    {
+      "index": 1,
+      "chars": 282,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Tecnomat",
+        "url": "https://www.tecnomat.it/it/",
+        "potentialAction": [
+          {
+            "@type": "SearchAction",
+            "target": "https://www.tecnomat.it/it/catalogsearch/result/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/lavabi-incasso/lavabo-appoggio-e-semincasso-o38-cm-senso.html",
+  "model": "qwen2.5:32b",
+  "html": "lavabi-incasso_lavabo-appoggio-e-semincasso-o38-cm-senso.html.html",
+  "title": "Lavabo appoggio e semincasso ø38 SENSO",
+  "text_chars": 2324,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "15 cm",
+      "evidence": "Misure: ø38xh15 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "Semincasso/appoggio",
+      "evidence": "Installazione Semincasso/appoggio",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "lucido",
+        "evidence": "Il lavabo Senso ø38 cm è realizzato in ceramica bianca lucida, ha un’installazione da appoggio e da semincasso,"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1892,
+    "output_tokens": 621,
+    "seconds": 54.25
+  }
+}

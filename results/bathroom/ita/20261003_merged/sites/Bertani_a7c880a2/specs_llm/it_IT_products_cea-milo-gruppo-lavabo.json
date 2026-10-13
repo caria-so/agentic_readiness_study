@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/cea-milo-gruppo-lavabo",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_cea-milo-gruppo-lavabo.html",
+  "title": "Cea, Milo Gruppo lavabo | Bertani",
+  "text_chars": 3732,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "plumbing": {
+      "value": "tre fori",
+      "evidence": "Fori tre fori",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2116,
+    "output_tokens": 493,
+    "seconds": 45.41
+  }
+}

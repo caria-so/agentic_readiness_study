@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.deghi.it/box-doccia-nicchia-155-cm-battente-75-cm-e-lato-fisso-con-vetro-temperato-bronzato-e-profilo-nero-190h-nilo",
+  "model": "qwen2.5:32b",
+  "html": "box-doccia-nicchia-155-cm-battente-75-cm-e-lato-fisso-con-vetro-temperato-bronzato-e-profilo-nero-190h-nilo.html",
+  "title": "Box doccia nicchia 155 cm battente 75 cm e lato fisso con vetro temperato bronzato e profilo nero 195h - Nilo",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3480,
+    "output_tokens": 570,
+    "seconds": 56.53
+  }
+}

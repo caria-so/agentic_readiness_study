@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/colonne-doccia/colonna-doccia-150-20-acciaio-inox-con-cascata-athos.html",
+  "model": "qwen2.5:32b",
+  "html": "colonne-doccia_colonna-doccia-150-20-acciaio-inox-con-cascata-athos.html.html",
+  "title": "Colonna Doccia con cascata h150 Acciaio Cromato Lucido ATHOS",
+  "text_chars": 3343,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "LUCIDO o SPAZZOLATO",
+      "evidence": "Finiture disponibili: LUCIDO o SPAZZOLATO",
+      "location": "body"
+    },
+    "width": {
+      "value": "20 cm",
+      "evidence": "Misure: L20 P50 H150",
+      "location": "body"
+    },
+    "height": {
+      "value": "150 cm",
+      "evidence": "Misure: L20 P50 H150",
+      "location": "body"
+    },
+    "depth": {
+      "value": "50 cm",
+      "evidence": "Misure: L20 P50 H150",
+      "location": "body"
+    },
+    "series": {
+      "value": "ATHOS",
+      "evidence": "Tipologia: Colonna Doccia Attrezzata DESIGN ATHOS",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "water": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "4 getti nebulizzatori, Soffione 1 getto, con ugelli anticalcare",
+        "evidence": "Soffione 1 getto, con ugelli anticalcare\n1 getto effetto cascata\n4 getti nebulizzatori"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2328,
+    "output_tokens": 699,
+    "seconds": 62.02
+  }
+}

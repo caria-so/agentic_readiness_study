@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/rubinetto-da-cucina-fisso-flessibile-nino-argento-cromato-lucido-delinia-81274460.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_rubinetto-da-cucina-fisso-flessibile-nino-argento-cromato-lucido-delinia-81274460.html.html",
+  "title": "Rubinetto da cucina fisso flessibile Nino argento cromato lucido DELINIA | Leroy Merlin",
+  "text_chars": 8881,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "series": {
+      "value": "Nino DELINIA",
+      "evidence": "Miscelatore da cucina Nino DELINIA in ottone cromato.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "width": {
+      "reason": "package_value",
+      "raw": {
+        "value": "28.8 cm",
+        "evidence": "Prodotto imballato: larghezza (in cm) 28.8"
+      }
+    },
+    "depth": {
+      "reason": "package_value",
+      "raw": {
+        "value": "7.8 cm",
+        "evidence": "Prodotto imballato: profondità (in cm) 7.8"
+      }
+    },
+    "weight": {
+      "reason": "package_value",
+      "raw": {
+        "value": "1.55 kg",
+        "evidence": "Prodotto imballato: peso (in kg) 1.55"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3741,
+    "output_tokens": 688,
+    "seconds": 67.29
+  }
+}

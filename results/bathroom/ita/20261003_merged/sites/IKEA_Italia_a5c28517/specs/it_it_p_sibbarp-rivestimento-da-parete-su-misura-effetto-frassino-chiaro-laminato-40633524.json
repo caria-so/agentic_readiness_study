@@ -1,0 +1,158 @@
+{
+ "url": "https://www.ikea.com/it/it/p/sibbarp-rivestimento-da-parete-su-misura-effetto-frassino-chiaro-laminato-40633524/",
+ "file": "it_it_p_sibbarp-rivestimento-da-parete-su-misura-effetto-frassino-chiaro-laminato-40633524.html",
+ "title": "SIBBARP Rivestimento da parete su misura, effetto frassino chiaro/laminato, 1 m²x1.3 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3568,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "406.335.24",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "406.335.24"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "406.335.24",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "406.335.24"
+    }
+   ]
+  },
+  "depth": {
+   "value": "100 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "100 cm"
+    }
+   ]
+  },
+  "length": {
+   "value": "20 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza minima",
+     "value": "20 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza massima",
+     "value": "360 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza",
+     "value": "100 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "15.1 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza minima",
+     "value": "15.1 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza massima",
+     "value": "120 cm"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "1.3 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore",
+     "value": "1.3 cm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "1 m²",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Superficie",
+     "value": "1 m²"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "100 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "100 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "2 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "12.00 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "12.00 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 7,
+  "L3": 3,
+  "dropped": 0
+ }
+}

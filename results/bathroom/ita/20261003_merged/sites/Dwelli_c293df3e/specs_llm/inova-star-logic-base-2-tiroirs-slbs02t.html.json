@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.fr/inova-star-logic-base-2-tiroirs-slbs02t.html",
+  "model": "qwen2.5:32b",
+  "html": "inova-star-logic-base-2-tiroirs-slbs02t.html.html",
+  "title": "Inova Star Logic Base 2 tiroirs SLBS02T | Dwellistore",
+  "text_chars": 821,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Blanc",
+      "evidence": "Finition\nBlanc",
+      "location": "body"
+    },
+    "height": {
+      "value": "53 cm",
+      "evidence": "Mesure 105x48x53.",
+      "location": "body"
+    },
+    "depth": {
+      "value": "48 cm",
+      "evidence": "Mesure 105x48x53.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "105x48x53",
+      "evidence": "Mesure 105x48x53.",
+      "location": "body"
+    },
+    "series": {
+      "value": "Star Logic Base",
+      "evidence": "Inova Star Logic Base 2 tiroirs SLBS02T",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1130,
+    "output_tokens": 549,
+    "seconds": 45.43
+  }
+}

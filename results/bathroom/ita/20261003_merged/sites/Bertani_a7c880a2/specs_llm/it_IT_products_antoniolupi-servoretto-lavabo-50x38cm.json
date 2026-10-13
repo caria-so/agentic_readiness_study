@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/antoniolupi-servoretto-lavabo-50x38cm",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_antoniolupi-servoretto-lavabo-50x38cm.html",
+  "title": "antoniolupi, Servoretto Lavabo 50x38cm | Bertani",
+  "text_chars": 873,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "bianco",
+      "evidence": "in Flumood bianco",
+      "location": "body"
+    },
+    "height": {
+      "value": "13 cm",
+      "evidence": "Altezza 13 cm",
+      "location": "body"
+    },
+    "weight": {
+      "value": "13 Kg",
+      "evidence": "Peso 13 Kg",
+      "location": "body"
+    },
+    "installation": {
+      "value": "appoggio",
+      "evidence": "Tipo Lavabo appoggio",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "senza foro per rubinetteria in Flumood bianco , completo di piletta in finitura con scarico libero e raccordo per sifone",
+      "evidence": "Lavabo rettangolare soprapiano o sottopiano senza foro per rubinetteria in Flumood bianco , completo di piletta in finitura con scarico libero e raccordo per sifone",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1194,
+    "output_tokens": 646,
+    "seconds": 53.08
+  }
+}

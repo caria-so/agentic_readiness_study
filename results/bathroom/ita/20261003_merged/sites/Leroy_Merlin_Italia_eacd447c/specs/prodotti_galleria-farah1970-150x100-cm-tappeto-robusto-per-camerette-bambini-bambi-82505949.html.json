@@ -1,0 +1,83 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/galleria-farah1970-150x100-cm-tappeto-robusto-per-camerette-bambini-bambi-82505949.html",
+ "file": "prodotti_galleria-farah1970-150x100-cm-tappeto-robusto-per-camerette-bambini-bambi-82505949.html.html",
+ "title": "Galleria farah1970 - 150x100 CM Tappeto Robusto Per camerette Bambini / Bambi",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4612,
+ "attributes": {
+  "brand": {
+   "value": "GALLERIAFARAH1970",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "GALLERIAFARAH1970"
+    }
+   ]
+  },
+  "sku": {
+   "value": "82505949",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "82505949"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8058368145224",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8058368145224"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Interno",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Luogo di utilizzo",
+     "value": "Interno"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "ABC Italia srl",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "ABC Italia srl"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Fondo antiscivolo": "No"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 2,
+  "L3": 1,
+  "dropped": 12
+ }
+}

@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/box-doccia-angolare-prizma-cm-120x70-h195-est-118-120-66-68-porta-scorr-lato-fisso-cristallo-6-mm-trasp-inox-spazzolato",
+  "model": "qwen2.5:32b",
+  "html": "_box-doccia-angolare-prizma-cm-120x70-h195-est-118-120-66-68-porta-scorr-lato-fisso-cristallo-6-mm-trasp-inox-spazzolato.html",
+  "title": "Box Doccia Angolare Prizma cm 120x70 H195 Est 118/120-68/70 Porta Scorr., Lato Fisso, Cristallo 6 mm Trasp., Inox Spazzolato - Iperceramica",
+  "text_chars": 925,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "cristallo temperato",
+      "evidence": "cristallo temperato spessore 6 mm trasparente con trattamento anticalcare Active Cover",
+      "location": "body"
+    },
+    "finish": {
+      "value": "Inox Spazzolato",
+      "evidence": "profili Inox Spazzolato",
+      "location": "body"
+    },
+    "width": {
+      "value": "cm 70",
+      "evidence": "Box doccia porta scorrevole + fisso reversibile cm 120x70 H195",
+      "location": "body"
+    },
+    "height": {
+      "value": "H195 cm",
+      "evidence": "Box doccia porta scorrevole + fisso reversibile cm 120x70 H195",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "cm 120x70 H195",
+      "evidence": "Box doccia porta scorrevole + fisso reversibile cm 120x70 H195",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "6 mm",
+      "evidence": "cristallo temperato spessore 6 mm trasparente con trattamento anticalcare Active Cover",
+      "location": "body"
+    },
+    "opening": {
+      "value": "scorrevole",
+      "evidence": "porta scorrevole",
+      "location": "body"
+    },
+    "series": {
+      "value": "Prizma",
+      "evidence": "Box Doccia Angolare Prizma cm 120x70 H195",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1346,
+    "output_tokens": 649,
+    "seconds": 54.19
+  }
+}

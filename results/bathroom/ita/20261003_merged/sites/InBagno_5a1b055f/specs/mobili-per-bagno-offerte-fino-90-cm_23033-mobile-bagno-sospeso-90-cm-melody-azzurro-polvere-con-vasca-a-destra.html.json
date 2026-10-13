@@ -1,0 +1,142 @@
+{
+ "url": "https://www.inbagno.it/mobili-per-bagno-offerte-fino-90-cm/23033-mobile-bagno-sospeso-90-cm-melody-azzurro-polvere-con-vasca-a-destra.html",
+ "file": "mobili-per-bagno-offerte-fino-90-cm_23033-mobile-bagno-sospeso-90-cm-melody-azzurro-polvere-con-vasca-a-destra.html.html",
+ "title": "Mobile bagno sospeso 90 cm Melody azzurro polvere con vasca a destra",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 10470,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Inbagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Inbagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "101645",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "101645"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "101645"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8059304727917",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8059304727917"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "101645",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "101645"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "mobile bagno sospeso;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "mobile bagno sospeso;"
+    }
+   ]
+  },
+  "series": {
+   "value": "Melody;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Linea",
+     "value": "Melody;"
+    }
+   ]
+  },
+  "material": {
+   "value": "legno MDF laccato 3D con finitura soft-touch,spessore 19 mm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "legno MDF laccato 3D con finitura soft-touch,spessore 19 mm;"
+    }
+   ]
+  },
+  "finish": {
+   "value": "bianco opaco e azzurro polvere;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "bianco opaco e azzurro polvere;"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L 89,7 x p 50,5 x H 54 cm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni mobile",
+     "value": "L 89,7 x p 50,5 x H 54 cm;"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni lavabo",
+     "value": "L 91 x p 51 cm;"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni specchio",
+     "value": "L 70 x H 90 cm,installazione REVERSIBILE;"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 7,
+  "dropped": 10
+ }
+}

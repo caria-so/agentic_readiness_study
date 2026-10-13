@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/portaoggetti-doccia-angolare-doppio-con-appendiabiti-cromo-lucido-av033bcr.html",
+  "model": "qwen2.5:32b",
+  "html": "it_portaoggetti-doccia-angolare-doppio-con-appendiabiti-cromo-lucido-av033bcr.html.html",
+  "title": "Portaoggetti doccia doppio appendibile a sinistra cromo lucido",
+  "text_chars": 7230,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3325,
+    "output_tokens": 549,
+    "seconds": 51.71
+  }
+}

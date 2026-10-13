@@ -1,0 +1,194 @@
+{
+ "url": "https://www.mondialshop.it/it/applique-esterno-moderne/51725-applique-da-esterno-moderna-led-varie-misure.html",
+ "file": "it_applique-esterno-moderne_51725-applique-da-esterno-moderna-led-varie-misure.html.html",
+ "title": "Applique da Esterno Moderna LED Varie misure",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 7309,
+ "attributes": {
+  "sku": {
+   "value": "PARKER-AP",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "PARKER-AP"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "PARKER-AP",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "PARKER-AP"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3.225000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "3.225000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "height": {
+   "value": "10,2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "10,2"
+    }
+   ]
+  },
+  "material": {
+   "value": "Cemento",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Cemento"
+    }
+   ]
+  },
+  "installation": {
+   "value": "LED",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "LED"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Installazione Pulita",
+     "value": "Base posteriore progettata per un ancoraggio esterno in appoggio che prevede nessun foro d'incasso."
+    }
+   ]
+  },
+  "electrical": {
+   "value": "1080 1400 1500 2400",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "1080 1400 1500 2400"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Kelvin",
+     "value": "3000/4000 4000"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "10 30 8"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Classe",
+     "value": "D E"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Protezione Ip",
+     "value": "IP65"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dati Elettrici",
+     "value": "Funzionamento standard lineare diretto alla normale linea domestica a 220/240V Volt con frequenza a 50/60 Hz."
+    }
+   ]
+  },
+  "length": {
+   "value": "120 30 40 60",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza cm",
+     "value": "120 30 40 60"
+    }
+   ]
+  },
+  "width": {
+   "value": "4,5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza cm",
+     "value": "4,5"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "Struttura in cemento, componenti elettronici e cablaggi coperti da una protezione ufficiale di 3 anni.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia di Fabbrica",
+     "value": "Struttura in cemento, componenti elettronici e cablaggi coperti da una protezione ufficiale di 3 anni."
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "10.2X120X4.5CM; 10.2X30X4.5CM; 10.2X40X4.5CM; 10.2X60X4.5CM",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "10.2X120X4.5CM; 10.2X30X4.5CM; 10.2X40X4.5CM; 10.2X60X4.5CM"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Sorgente Luminosa": "Circuito d'illuminazione di ultima generazione basato su moduli integrati a tecnologia LED SMD.",
+  "Fedeltà dei Colori": "Ottima riproduzione cromatica delle finiture murali e dei giardini assicurata dall'indice CRI 80.",
+  "Isolamento e Sicurezza": "Apparecchio stagno IP65 progettato contro le intemperie e provvisto di resistenza agli urti IK04."
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 11,
+  "L3": 7,
+  "dropped": 1
+ }
+}

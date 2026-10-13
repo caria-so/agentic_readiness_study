@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/mobili-bagno/5086-mobile-bagno-sospeso-120-cm-rovere-naturale-cannettato-con-top-mdf-zen.html",
+  "model": "qwen2.5:32b",
+  "html": "mobili-bagno_5086-mobile-bagno-sospeso-120-cm-rovere-naturale-cannettato-con-top-mdf-zen.html.html",
+  "title": "Mobile bagno sospeso 120 cm rovere naturale cannettato con top mdf - Z",
+  "text_chars": 6709,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "warranty": {
+      "value": "5 anni",
+      "evidence": "Prodotto garantito 5 anni.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "shape_style": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "moderno",
+        "evidence": "Il design contemporaneo e il colore in rovere naturale con frontali plissettati, lo rende un elemento di arredo ideale per ogni tipo di ambiente, garantendo praticità e stile."
+      }
+    },
+    "origin": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Italia",
+        "evidence": "Prodotto di produzione Made in Italy."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3124,
+    "output_tokens": 731,
+    "seconds": 69.05
+  }
+}

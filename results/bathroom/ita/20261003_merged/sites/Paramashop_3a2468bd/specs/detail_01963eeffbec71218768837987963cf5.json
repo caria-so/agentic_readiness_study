@@ -1,0 +1,83 @@
+{
+ "url": "https://www.paramashop.it/detail/01963eeffbec71218768837987963cf5",
+ "file": "detail_01963eeffbec71218768837987963cf5.html",
+ "title": "Ripostiglio in legno 132x57 cm con pavimento incluso",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1812,
+ "attributes": {
+  "mpn": {
+   "value": "304.002",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "304.002"
+    }
+   ]
+  },
+  "height": {
+   "value": "1,87m",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza massima",
+     "value": "1,87m"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza minima",
+     "value": "1,76m"
+    }
+   ]
+  },
+  "material": {
+   "value": "Abete naturale massello",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Legno",
+     "value": "Abete naturale massello"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Legno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "304.002",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "304.002"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Area interna": "0,63m²",
+  "Pavimento": "Si"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 6,
+  "L3": 1,
+  "dropped": 8
+ }
+}

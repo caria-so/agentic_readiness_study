@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/gamma-rectangular-specchio-con-cornice-vanita-casa.html",
+  "model": "qwen2.5:32b",
+  "html": "gamma-rectangular-specchio-con-cornice-vanita-casa.html.html",
+  "title": "Gamma Rectangular | Specchio rettangolare con cornice, varie misure",
+  "text_chars": 2997,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "metallo",
+      "evidence": "Specchio rettangolare con cornice in metallo nero opaco",
+      "location": "body"
+    },
+    "finish": {
+      "value": "nero opaco",
+      "evidence": "Specchio rettangolare con cornice in metallo nero opaco",
+      "location": "body"
+    },
+    "width": {
+      "value": "L40 cm, L60 cm, L100 cm, L120 cm, L140 cm, L160 cm, L180 cm",
+      "evidence": "-- Seleziona -- H80 L40 cm H80 L60 cm +31,29 € H65 L100 cm +127,49 € H65 L120 cm +154,15 € H65 L140 cm +228,32 € H65 L160 cm +271,21 € H65 L180 cm +332,63 €",
+      "location": "body"
+    },
+    "height": {
+      "value": "H80 cm, H65 cm",
+      "evidence": "-- Seleziona -- H80 L40 cm H80 L60 cm +31,29 € H65 L100 cm +127,49 € H65 L120 cm +154,15 € H65 L140 cm +228,32 € H65 L160 cm +271,21 € H65 L180 cm +332,63 €",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P2,5 cm",
+      "evidence": "80x40 cm P2,5 cm - BR 8040 1170 S",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "80x40 cm, 80x60 cm, 65x100 cm, 65x120 cm, 65x140 cm, 65x160 cm, 65x180 cm",
+      "evidence": "Dimensione: -- Seleziona -- H80 L40 cm H80 L60 cm +31,29 € H65 L100 cm +127,49 € H65 L120 cm +154,15 € H65 L140 cm +228,32 € H65 L160 cm +271,21 € H65 L180 cm +332,63 €",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "5mm",
+      "evidence": "Caratteristiche: Cornice in metallo nero opaco, spessore specchio 5mm, pellicola di sicurezza, fissaggio orizzontale o verticale",
+      "location": "body"
+    },
+    "installation": {
+      "value": "da parete",
+      "evidence": "Specchio rettangolare con cornice in metallo nero opaco, da parete dell'azienda italiana Vanità&Casa",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2027,
+    "output_tokens": 1261,
+    "seconds": 99.23
+  }
+}

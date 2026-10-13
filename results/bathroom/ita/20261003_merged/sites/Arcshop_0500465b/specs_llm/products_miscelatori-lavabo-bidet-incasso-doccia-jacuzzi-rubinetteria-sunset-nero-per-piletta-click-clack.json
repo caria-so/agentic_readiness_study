@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/miscelatori-lavabo-bidet-incasso-doccia-jacuzzi-rubinetteria-sunset-nero-per-piletta-click-clack",
+  "model": "qwen2.5:32b",
+  "html": "products_miscelatori-lavabo-bidet-incasso-doccia-jacuzzi-rubinetteria-sunset-nero-per-piletta-click-clack.html",
+  "title": "Miscelatori lavabo + bidet + incasso doccia Jacuzzi | rubinetteria Sunset nero per piletta click clack | Arcshop",
+  "text_chars": 3459,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "nero",
+      "evidence": "Miscelatori lavabo + bidet + incasso doccia Jacuzzi | rubinetteria Sunset nero per piletta click clack",
+      "location": "title"
+    },
+    "series": {
+      "value": "Sunset",
+      "evidence": "Miscelatori lavabo + bidet + incasso doccia Jacuzzi | rubinetteria Sunset nero per piletta click clack",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2037,
+    "output_tokens": 561,
+    "seconds": 47.52
+  }
+}

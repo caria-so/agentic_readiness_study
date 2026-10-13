@@ -1,0 +1,74 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/colonna-doccia-con-miscelatore-termostatico-2-funzioni-bora-nero-opaco",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_colonna-doccia-con-miscelatore-termostatico-2-funzioni-bora-nero-opaco.html",
+  "title": "Colonna Doccia con Miscelatore Termostatico 2 Funzioni Bora Nero Opaco - Iperceramica",
+  "text_chars": 926,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "opaco",
+      "evidence": "BORA colonna doccia con miscelatore termostatico Nero opaco 2 funzioni",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Nero opaco",
+      "evidence": "BORA colonna doccia con miscelatore termostatico Nero opaco 2 funzioni",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "2mm",
+      "evidence": "Soffione tondo ⌀ 300 mm e 2mm di spessore",
+      "location": "body"
+    },
+    "water": {
+      "value": "2 funzioni",
+      "evidence": "BORA colonna doccia con miscelatore termostatico Nero opaco 2 funzioni",
+      "location": "body"
+    },
+    "series": {
+      "value": "Bora",
+      "evidence": "Colonna Doccia con Miscelatore Termostatico 2 Funzioni Bora Nero Opaco",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_series",
+      "raw": {
+        "value": "BORA",
+        "evidence": "BORA colonna doccia con miscelatore termostatico Nero opaco 2 funzioni",
+        "location": "body"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1363,
+    "output_tokens": 589,
+    "seconds": 49.55
+  }
+}

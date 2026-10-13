@@ -1,0 +1,108 @@
+{
+ "url": "https://jo-bagno.it/colonne-doccia/colonna-doccia-150-20-acciaio-inox-con-cascata-athos.html",
+ "file": "colonne-doccia_colonna-doccia-150-20-acciaio-inox-con-cascata-athos.html.html",
+ "title": "Colonna Doccia con cascata h150 Acciaio Cromato Lucido ATHOS",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3343,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Jo-Bagno.it",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jo-Bagno.it"
+    }
+   ]
+  },
+  "sku": {
+   "value": "ATHOS_S070WCH",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "ATHOS_S070WCH"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L20 P50 H150",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "L20 P50 H150"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni Esterne",
+     "value": "150×20 cm"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Colonna Doccia Attrezzata DESIGN ATHOS",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Colonna Doccia Attrezzata DESIGN ATHOS"
+    }
+   ]
+  },
+  "installation": {
+   "value": "da 100 a 150 cm ( per centro entrata acqua)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Installazione da Terra",
+     "value": "da 100 a 150 cm ( per centro entrata acqua)"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio INOX",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Acciaio INOX"
+    }
+   ]
+  },
+  "weight": {
+   "value": "15 Kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "15 Kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 6,
+  "dropped": 9
+ }
+}

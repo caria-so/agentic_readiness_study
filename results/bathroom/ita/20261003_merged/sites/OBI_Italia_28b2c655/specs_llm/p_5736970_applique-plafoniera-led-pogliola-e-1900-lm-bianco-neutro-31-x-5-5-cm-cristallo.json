@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5736970/applique-plafoniera-led-pogliola-e-1900-lm-bianco-neutro-31-x-5-5-cm-cristallo",
+  "model": "qwen2.5:32b",
+  "html": "p_5736970_applique-plafoniera-led-pogliola-e-1900-lm-bianco-neutro-31-x-5-5-cm-cristallo.html",
+  "title": "Applique/Plafoniera LED Pogliola-E 1900 lm bianco neutro Ø 31 x 5,5 cm cristallo",
+  "text_chars": 2406,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "bianco",
+      "evidence": "Acciaio bianco di alta qualità",
+      "location": "body"
+    },
+    "certification": {
+      "value": "Classe 1",
+      "evidence": "Classe di protezione: Classe 1, garantendo un uso sicuro in ambienti interni.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1794,
+    "output_tokens": 857,
+    "seconds": 71.59
+  }
+}

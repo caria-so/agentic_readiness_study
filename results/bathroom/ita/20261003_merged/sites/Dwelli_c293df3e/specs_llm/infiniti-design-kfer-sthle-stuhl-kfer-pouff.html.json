@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.de/infiniti-design-kfer-sthle-stuhl-kfer-pouff.html",
+  "model": "qwen2.5:32b",
+  "html": "infiniti-design-kfer-sthle-stuhl-kfer-pouff.html.html",
+  "title": "Infiniti Design Käfer Stuhl Käfer Puff | Dwellistore",
+  "text_chars": 1302,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "kaltgeschäumtem Polyurethan, bezogen mit Leder, Öko-Leder oder Stoff auf einem Stahleinsatz",
+      "evidence": "Schale aus kaltgeschäumtem Polyurethan, bezogen mit Leder, Öko-Leder oder Stoff auf einem Stahleinsatz",
+      "location": "body"
+    },
+    "finish": {
+      "value": "Flash / Byte-Beschichtung und sauberer Basis aus poliertem Aluminium",
+      "evidence": "Die Anzeige bezieht sich auf den Artikel Cod. BEETLE Pouff mit Flash / Byte-Beschichtung und sauberer Basis aus poliertem Aluminium",
+      "location": "body"
+    },
+    "width": {
+      "value": "59 cm",
+      "evidence": "Maßnahmen: A = 59 cm x B = 63 cm xh = 44 cm (Verpackung)",
+      "location": "body"
+    },
+    "depth": {
+      "value": "63 cm",
+      "evidence": "Maßnahmen: A = 59 cm x B = 63 cm xh = 44 cm (Verpackung)",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "A = 59 cm x B = 63 cm xh = 44 cm",
+      "evidence": "Maßnahmen: A = 59 cm x B = 63 cm xh = 44 cm (Verpackung)",
+      "location": "body"
+    },
+    "series": {
+      "value": "Käfer Stuhl Käfer Puff",
+      "evidence": "Infiniti Design Käfer Stuhl Käfer Puff",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "height": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "44 cm",
+        "evidence": "Maßnahemen: A = 59 cm x B = 63 cm xh = 44 cm (Verpackung)"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1256,
+    "output_tokens": 743,
+    "seconds": 60.85
+  }
+}

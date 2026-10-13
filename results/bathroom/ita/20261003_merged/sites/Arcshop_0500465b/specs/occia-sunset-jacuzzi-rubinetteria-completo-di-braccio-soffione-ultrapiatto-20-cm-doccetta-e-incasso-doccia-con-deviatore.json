@@ -1,0 +1,83 @@
+{
+ "url": "https://www.arcshop.it/products/set-doccia-sunset-jacuzzi-rubinetteria-completo-di-braccio-soffione-ultrapiatto-20-cm-doccetta-e-incasso-doccia-con-deviatore",
+ "file": "occia-sunset-jacuzzi-rubinetteria-completo-di-braccio-soffione-ultrapiatto-20-cm-doccetta-e-incasso-doccia-con-deviatore.html",
+ "title": "Set doccia Sunset Jacuzzi | Rubinetteria completo di braccio soffione ultrapiatto 20 cm doccetta e incasso doccia con deviatore",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3627,
+ "attributes": {
+  "brand": {
+   "value": "Jacuzzi | Rubinetteria",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jacuzzi | Rubinetteria"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "0630606706947",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "0630606706947"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "0630606706947",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "0630606706947"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3.84kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "3.84kg"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "10 Anni",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia",
+     "value": "10 Anni"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "gtin=mpn"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/sirio-3wq4.html",
+  "model": "qwen2.5:32b",
+  "html": "sirio-3wq4.html.html",
+  "title": "Comò xl 3 cassetti olmo, bianco laccato: Sirio | Mondo Convenienza",
+  "text_chars": 809,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "olmo",
+      "evidence": "SIRIO COMÒ XL 3 CASSETTI L.122 P.53 H.82 COLORE OLMO / BIANCO LACCATO",
+      "location": "body"
+    },
+    "finish": {
+      "value": "bianco laccato",
+      "evidence": "SIRIO COMÒ XL 3 CASSETTI L.122 P.53 H.82 COLORE OLMO / BIANCO LACCATO",
+      "location": "body"
+    },
+    "width": {
+      "value": "L.122",
+      "evidence": "SIRIO COMÒ XL 3 CASSETTI L.122 P.53 H.82 COLORE OLMO / BIANCO LACCATO",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.82",
+      "evidence": "SIRIO COMÒ XL 3 CASSETTI L.122 P.53 H.82 COLORE OLMO / BIANCO LACCATO",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.53",
+      "evidence": "SIRIO COMÒ XL 3 CASSETTI L.122 P.53 H.82 COLORE OLMO / BIANCO LACCATO",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "122 x 53 x 82",
+      "evidence": "122 x 53 x 82",
+      "location": "body"
+    },
+    "series": {
+      "value": "Sirio",
+      "evidence": "SIRIO COMÒ XL 3 CASSETTI L.122 P.53 H.82 COLORE OLMO / BIANCO LACCATO",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1139,
+    "output_tokens": 714,
+    "seconds": 58.37
+  }
+}

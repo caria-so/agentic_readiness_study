@@ -1,0 +1,69 @@
+{
+ "url": "https://www.shopbagno.it/products/mobile-bagno-sospeso-90-creta-verso-ve06",
+ "file": "products_mobile-bagno-sospeso-90-creta-verso-ve06.html",
+ "title": "Mobile Bagno Sospeso 90 cm Creta con Lavabo Effetto Marmo – Verso",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 11700,
+ "attributes": {
+  "sku": {
+   "value": "verso-ve06-90-creta",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "verso-ve06-90-creta"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "productID",
+     "value": "15357505077571"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "VERSO-VE06-90-CRETA"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "609003972699",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin12",
+     "value": "609003972699"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L.90 × P.46 × H.45 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni base",
+     "value": "L.90 × P.46 × H.45 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 2,
+  "dropped": 20
+ }
+}

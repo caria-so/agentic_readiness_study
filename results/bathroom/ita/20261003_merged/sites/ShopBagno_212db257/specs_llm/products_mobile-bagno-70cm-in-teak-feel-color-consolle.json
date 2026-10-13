@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/mobile-bagno-70cm-in-teak-feel-color-consolle",
+  "model": "qwen2.5:32b",
+  "html": "products_mobile-bagno-70cm-in-teak-feel-color-consolle.html",
+  "title": "Mobile bagno 70cm in teak – Feel Color Consolle",
+  "text_chars": 7893,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "teak",
+      "evidence": "Mobile bagno 70cm in teak – Feel Color Consolle",
+      "location": "title"
+    },
+    "width": {
+      "value": "70cm",
+      "evidence": "Mobile bagno 70cm in teak – Feel Color Consolle",
+      "location": "title"
+    },
+    "series": {
+      "value": "Feel Color Consolle",
+      "evidence": "Mobile bagno 70cm in teak – Feel Color Consolle",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3525,
+    "output_tokens": 537,
+    "seconds": 54.82
+  }
+}

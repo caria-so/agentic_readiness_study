@@ -1,0 +1,82 @@
+{
+ "url": "https://dwellistore.fr/inova-star-logic-base-2-tiroirs-slbs02t.html",
+ "file": "inova-star-logic-base-2-tiroirs-slbs02t.html.html",
+ "title": "Inova Star Logic Base 2 tiroirs SLBS02T",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 821,
+ "attributes": {
+  "brand": {
+   "value": "Inova",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Inova"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Inova"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marque",
+     "value": "Inova"
+    }
+   ]
+  },
+  "sku": {
+   "value": "SLBS02T",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "SLBS02T"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "SLBS02T",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "SLBS02T"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Blanc",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finition",
+     "value": "Blanc"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 1
+ }
+}

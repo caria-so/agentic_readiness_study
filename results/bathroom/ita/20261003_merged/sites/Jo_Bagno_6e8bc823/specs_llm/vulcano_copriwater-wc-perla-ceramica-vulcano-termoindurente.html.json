@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/vulcano/copriwater-wc-perla-ceramica-vulcano-termoindurente.html",
+  "model": "qwen2.5:32b",
+  "html": "vulcano_copriwater-wc-perla-ceramica-vulcano-termoindurente.html.html",
+  "title": "Copriwater WC Perla Ceramica Vulcano Termoindurente",
+  "text_chars": 3126,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "36 cm",
+      "evidence": "X: 36 Y: 42-46 Z: 14-22 (JZZ45C)",
+      "location": "body"
+    },
+    "length": {
+      "value": "42-46 cm",
+      "evidence": "X: 36 Y: 42-46 Z: 14-22 (JZZ45C)",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Perla Ceramica Vulcano",
+      "evidence": "Copriwater WC Perla Ceramica Vulcano in Termoindurente Top Fixing con Sgancio Rapido",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Il copriwater Wc è un prodotto Made in Italy",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2108,
+    "output_tokens": 715,
+    "seconds": 62.53
+  }
+}

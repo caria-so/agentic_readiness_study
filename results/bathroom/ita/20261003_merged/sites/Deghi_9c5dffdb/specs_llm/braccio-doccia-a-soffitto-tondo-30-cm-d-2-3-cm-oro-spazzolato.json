@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.deghi.it/braccio-doccia-a-soffitto-tondo-30-cm-d-2-3-cm-oro-spazzolato",
+  "model": "qwen2.5:32b",
+  "html": "braccio-doccia-a-soffitto-tondo-30-cm-d-2-3-cm-oro-spazzolato.html",
+  "title": "Braccio doccia a soffitto tondo 30 cm D 2,3 cm oro spazzolato",
+  "text_chars": 8660,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "Ø 2,3 cm",
+      "evidence": "Sezione braccio Ø 2,3 cm",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "1/2\"G",
+      "evidence": "Attacchi 1/2\"G",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3411,
+    "output_tokens": 540,
+    "seconds": 53.68
+  }
+}

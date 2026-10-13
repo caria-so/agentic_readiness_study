@@ -1,0 +1,56 @@
+# Directories
+User-agent: *
+Disallow: /404/
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /downloader/
+Disallow: /includes/
+Disallow: /lib/
+
+Disallow: /media/tmp/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /stats/
+Disallow: /var/
+
+Disallow: /index.php/
+Disallow: /cache/
+
+Disallow: /catalog/product/gallery/
+Disallow: /catalog/product_compare/
+
+
+Disallow: /contacts/
+Disallow: /vault/
+Disallow: /account/
+Disallow: /productstockalert/
+Disallow: /errors/
+Disallow: /mcnewsletter/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /quoterequest/
+Disallow: /scripts/
+Disallow: /sendfriend/
+Disallow: /shell/
+Disallow: /tag/
+Disallow: /tmp/
+Disallow: /*product_compare/
+Disallow: /upsell
+Disallow: /search
+Disallow: /customer/account/
+
+# Files
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+
+# Paths (no clean URLs)
+Disallow: /*.php$
+Disallow: /*?SID=
+
+Sitemap: https://www.mondoconv.it/sitemap.xml

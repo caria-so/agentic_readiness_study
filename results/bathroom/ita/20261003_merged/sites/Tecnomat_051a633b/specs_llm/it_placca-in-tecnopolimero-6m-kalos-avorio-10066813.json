@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/placca-in-tecnopolimero-6m-kalos-avorio-10066813/",
+  "model": "qwen2.5:32b",
+  "html": "it_placca-in-tecnopolimero-6m-kalos-avorio-10066813.html",
+  "title": "PLACCA IN TECNOPOLIMERO KALOS 6 MODULI COLOR AVORIO",
+  "text_chars": 1126,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "tecnopolimero",
+      "evidence": "Realizzata in tecnopolimero, un materiale che garantisce solidità e durata nel tempo",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "origin": {
+      "reason": "origin_not_stated",
+      "raw": {
+        "value": "Italia",
+        "evidence": "SEMPLE' ELEKTRIK SRL, azienda italiana con sede a Pomezia (RM)",
+        "location": "body"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1213,
+    "output_tokens": 548,
+    "seconds": 45.76
+  }
+}

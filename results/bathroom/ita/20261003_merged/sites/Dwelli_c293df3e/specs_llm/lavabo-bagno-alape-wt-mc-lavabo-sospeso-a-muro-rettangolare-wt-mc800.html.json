@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.com/lavabo-bagno-alape-wt-mc-lavabo-sospeso-a-muro-rettangolare-wt-mc800.html",
+  "model": "qwen2.5:32b",
+  "html": "lavabo-bagno-alape-wt-mc-lavabo-sospeso-a-muro-rettangolare-wt-mc800.html.html",
+  "title": "Alape WT.MC Sinks Wall hung Rectangular Sink WT.MC800 | Dwellistore",
+  "text_chars": 645,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "vitrified internally and externally",
+      "evidence": "basin central circular, vitrified internally and externally, white",
+      "location": "body"
+    },
+    "colour": {
+      "value": "white",
+      "evidence": "vitrified internally and externally, white",
+      "location": "body"
+    },
+    "width": {
+      "value": "800 mm",
+      "evidence": "Alape WT.MC Sinks, Wall hung rectangular Sink, 800 x 455 mm",
+      "location": "body"
+    },
+    "height": {
+      "value": "160 mm",
+      "evidence": "height 160 mm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "455 mm",
+      "evidence": "Alape WT.MC Sinks, Wall hung rectangular Sink, 800 x 455 mm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "800 x 455 mm",
+      "evidence": "Alape WT.MC Sinks, Wall hung rectangular Sink, 800 x 455 mm",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "without hole for the faucet, with overflow",
+      "evidence": "without hole for the faucet, with overflow",
+      "location": "body"
+    },
+    "series": {
+      "value": "WT.MC Sinks",
+      "evidence": "Alape WT.MC Sinks Wall hung Rectangular Sink WT.MC800",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "sospeso",
+        "evidence": "Wall hung rectangular Sink"
+      }
+    },
+    "shape_style": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "rettangolare",
+        "evidence": "Wall hung rectangular Sink"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1028,
+    "output_tokens": 635,
+    "seconds": 77.01
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "company": "Bagnity",
+  "url": "https://www.bagnity.com/it/",
+  "site_dir": "discovery_round_final_e/sites/Bagnity_2affdd23",
+  "final_url": "https://www.bagnity.com/it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.413239",
+  "http_status": 200,
+  "fetch_ms": 23788.2,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.bagnity.com/it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bagnity_2affdd23/index.html",
+      "count": 895207,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.bagnity.com/sitemap_it/sitemap_it_product.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bagnity_2affdd23/sitemap.json",
+      "count": 2807,
+      "total_available": 2807,
+      "truncated": false,
+      "product_url_count": 2649,
+      "product_total_available": 2649
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bagnity_2affdd23/jsonld.json",
+      "count": 2,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Bagnity_2affdd23/links.json",
+      "count": 167,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

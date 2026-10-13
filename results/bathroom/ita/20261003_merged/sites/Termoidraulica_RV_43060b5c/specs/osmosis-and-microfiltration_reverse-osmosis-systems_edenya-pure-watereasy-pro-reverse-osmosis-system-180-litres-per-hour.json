@@ -1,0 +1,64 @@
+{
+ "url": "https://en.termoidraulicarv.com/reverse-osmosis-and-microfiltration/reverse-osmosis-systems/edenya-pure-watereasy-pro-reverse-osmosis-system-180-litres-per-hour/",
+ "file": "osmosis-and-microfiltration_reverse-osmosis-systems_edenya-pure-watereasy-pro-reverse-osmosis-system-180-litres-per-hour.html",
+ "title": "Edenya Pure WaterEasy PRO Reverse Osmosis System 180 litres per hour",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4620,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "RO0004",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "RO0004"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "RO0004"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "79659",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "79659"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 4
+ }
+}

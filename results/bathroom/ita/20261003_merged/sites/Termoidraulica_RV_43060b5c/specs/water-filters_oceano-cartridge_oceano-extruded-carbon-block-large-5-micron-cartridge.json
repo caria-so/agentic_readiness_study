@@ -1,0 +1,106 @@
+{
+ "url": "https://en.termoidraulicarv.com/water-filters/oceano-cartridge/oceano-extruded-carbon-block-large-5-micron-cartridge/",
+ "file": "water-filters_oceano-cartridge_oceano-extruded-carbon-block-large-5-micron-cartridge.html",
+ "title": "Oceano Extruded Carbon Block Large 5 micron cartridge",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2610,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "ON20L00",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "ON20L00"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "ON20L00"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "5488",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "5488"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1,000000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Weight",
+     "value": "1,000000 kg"
+    }
+   ]
+  },
+  "height": {
+   "value": "528 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Height",
+     "value": "528 mm"
+    }
+   ]
+  },
+  "width": {
+   "value": "88 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Width",
+     "value": "88 mm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Capacity": "36000 lt",
+  "Silver molecules": "No",
+  "Max water temperature": "40°C",
+  "Operation": "Vertical / horizontal",
+  "Connection": "Bayonet",
+  "Max Pressure": "8,6 Bar",
+  "Max Flow": "10 lt/min",
+  "Filtering capacity": "5 micron"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 11,
+  "L3": 1,
+  "dropped": 2
+ }
+}

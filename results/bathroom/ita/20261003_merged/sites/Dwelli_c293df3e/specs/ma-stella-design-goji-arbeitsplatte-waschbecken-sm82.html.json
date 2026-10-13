@@ -1,0 +1,84 @@
+{
+ "url": "https://dwellistore.de/ma-stella-design-goji-arbeitsplatte-waschbecken-sm82.html",
+ "file": "ma-stella-design-goji-arbeitsplatte-waschbecken-sm82.html.html",
+ "title": "Ma Stella Design Goji Arbeitsplatte Waschbecken SM82",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 662,
+ "attributes": {
+  "brand": {
+   "value": "Mastelladesign",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Mastelladesign"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Mastelladesign"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marke",
+     "value": "Mastelladesign"
+    }
+   ]
+  },
+  "sku": {
+   "value": "SM82",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "SM82"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "SM82",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "SM82"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Weiß",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Ausführung",
+     "value": "Weiß"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Abmessungen": "(L x B x H): 64 x 38 x 13 cm"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 2,
+  "L3": 1,
+  "dropped": 1
+ }
+}

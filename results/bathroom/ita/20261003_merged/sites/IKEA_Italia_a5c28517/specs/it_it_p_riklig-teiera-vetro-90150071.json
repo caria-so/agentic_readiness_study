@@ -1,0 +1,131 @@
+{
+ "url": "https://www.ikea.com/it/it/p/riklig-teiera-vetro-90150071/",
+ "file": "it_it_p_riklig-teiera-vetro-90150071.html",
+ "title": "RIKLIG Teiera, vetro, 1.5 l",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2500,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "901.500.71",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "901.500.71"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "901.500.71",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "901.500.71"
+    }
+   ]
+  },
+  "material": {
+   "value": "Vetro",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Vetro"
+    }
+   ]
+  },
+  "colour": {
+   "value": "bianco",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "bianco"
+    }
+   ]
+  },
+  "height": {
+   "value": "13 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "13 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "13 cm"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "15 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "15 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lunghezza",
+     "value": "22 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.48 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "0.48 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Corpo": "Vetro resistente al calore",
+  "Cestello": "Acciaio inossidabile, Polipropilene",
+  "Coperchio": "Polipropilene",
+  "Capacità": "1.5 l"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 6,
+  "L2": 5,
+  "L3": 3,
+  "dropped": 0
+ }
+}

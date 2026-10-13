@@ -1,0 +1,2 @@
+run_id,date,assistant,mode,retailer,intent_id,turn,rank,product_url,url_ok,variant_ok,constraints,invented_claims,outcome,answer_file,notes
+P-A-LM-1,2026-10-13,perplexity,default web,leroymerlin.it,I-A,1,1,https://www.leroymerlin.it/prodotti/box-doccia-walk-in-single-vetro-8-mm-h-200-cm-profilo-cromo-34838916.html,y,?,"fixed=PASS; transparent=?; width_100=?; height_195=PASS; stabiliser=?; fits_63_tray=UNVERIFIABLE",,partial,answers/P-A-LM-1.md,page does not mention suitability for a 63 cm tray

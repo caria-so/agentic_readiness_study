@@ -1,0 +1,210 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/cuscino-per-sedia-in-poliestere-kub-nero-34-x-38-x-sp-5-8-cm-82020865.html",
+ "file": "prodotti_cuscino-per-sedia-in-poliestere-kub-nero-34-x-38-x-sp-5-8-cm-82020865.html.html",
+ "title": "Cuscino per sedia in poliestere Kub nero 34 x 38 x Sp 5.8 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2993,
+ "attributes": {
+  "brand": {
+   "value": "SPACEO",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "SPACEO"
+    }
+   ]
+  },
+  "sku": {
+   "value": "82020865",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "82020865"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "3276000613367",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "3276000613367"
+    }
+   ]
+  },
+  "installation": {
+   "value": "1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di pezzi",
+     "value": "1"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Prodotto senza serratura",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di chiusura",
+     "value": "Prodotto senza serratura"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Quadrato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Forma",
+     "value": "Quadrato"
+    }
+   ]
+  },
+  "length": {
+   "value": "38",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza (in cm)",
+     "value": "38"
+    }
+   ]
+  },
+  "width": {
+   "value": "34",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm)",
+     "value": "34"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "5.8",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore (in cm)",
+     "value": "5.8"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Prodotto senza finitura dei bordi",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura del bordo",
+     "value": "Prodotto senza finitura dei bordi"
+    }
+   ]
+  },
+  "material": {
+   "value": "Poliestere",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale dell'imbottitura",
+     "value": "Poliestere"
+    }
+   ]
+  },
+  "care": {
+   "value": "Non lavabile",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Consigli per il lavaggio",
+     "value": "Non lavabile"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Manutenzione: candeggio",
+     "value": "Non candeggiare"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "34.4",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "34.4"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "5.9"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "38.2"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.842",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.842"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "ADEO Services",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "ADEO Services"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Destinazione": "Giardino",
+  "Motivo": "Tinta unita",
+  "Double face": "No"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 17,
+  "L3": 1,
+  "dropped": 0
+ }
+}

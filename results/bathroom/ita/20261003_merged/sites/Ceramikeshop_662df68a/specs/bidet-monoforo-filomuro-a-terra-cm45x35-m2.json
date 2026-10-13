@@ -1,0 +1,92 @@
+{
+ "url": "https://ceramikeshop.it/bidet-monoforo-filomuro-a-terra-cm45x35-m2",
+ "file": "bidet-monoforo-filomuro-a-terra-cm45x35-m2.html",
+ "title": "Bidet monoforo filomuro a terra cm.45x35 M2 | Galassia | Ceramikeshop",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 10278,
+ "attributes": {
+  "brand": {
+   "value": "Ceramica Galassia",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Ceramica Galassia"
+    }
+   ]
+  },
+  "sku": {
+   "value": "GLSS/5213",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "GLSS/5213"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8020980018606",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8020980018606"
+    },
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8020980018606"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "GLSS/5213",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "GLSS/5213"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore Principale",
+     "value": "Bianco"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Contiene Legno": "NO",
+  "Spray": "NO",
+  "Contatto con Alimenti": "NO"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 5,
+  "L3": 0,
+  "dropped": 1
+ }
+}

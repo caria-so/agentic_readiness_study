@@ -1,0 +1,103 @@
+{
+ "url": "https://www.obi-italia.it/p/5398243/pensile-bagno-sospeso-34-cm-bianco-lucido",
+ "file": "p_5398243_pensile-bagno-sospeso-34-cm-bianco-lucido.html",
+ "title": "Pensile bagno sospeso 34 cm bianco lucido",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 770,
+ "attributes": {
+  "sku": {
+   "value": "5398243",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5398243"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8030837071685",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8030837071685"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco lucido",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Bianco lucido"
+    }
+   ]
+  },
+  "width": {
+   "value": "34.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "34.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "34.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "34.00 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "13.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "13.00 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3.2 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "3.2 KGM"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "PROGETTO IDEA STELLA SRL Via Ottantunesima Strada 2 63076 Monteprandone IT commerciale@ideastella.com EAN(s): [ 8030837071685 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "url": "https://www.idrobric.it/it/astral/979-miscelatore-lavabo-serie-astral-8007931105394.html",
+ "file": "it_astral_979-miscelatore-lavabo-serie-astral-8007931105394.html.html",
+ "title": "Miscelatore lavabo serie Astral",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1052,
+ "attributes": {
+  "sku": {
+   "value": "SCARUB1460CR",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SCARUB1460CR"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931105394",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931105394"
+    }
+   ]
+  },
+  "finish": {
+   "value": "cromo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "cromo"
+    }
+   ]
+  },
+  "water": {
+   "value": "25 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Cartuccia",
+     "value": "25 mm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Risparmio acqua",
+     "value": "si, portata limitata a 6 l/min"
+    }
+   ]
+  },
+  "series": {
+   "value": "Astral",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Astral"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 6,
+  "L3": 0,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "url": "https://www.mondialshop.it/it/lampade-da-terra-moderne/52636-piantana-led-clarke-nera-25w-3650lm-4000k-42x4x133cm.html",
+ "file": "it_lampade-da-terra-moderne_52636-piantana-led-clarke-nera-25w-3650lm-4000k-42x4x133cm.html.html",
+ "title": "PIANTANA LED CLARKE NERA 25W 3650LM 4000K 42X4X133CM",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 2999,
+ "attributes": {
+  "sku": {
+   "value": "LED-CLARKE-PT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "LED-CLARKE-PT"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "LED-CLARKE-PT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "LED-CLARKE-PT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "5.800000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "5.800000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "nero"
+    }
+   ]
+  },
+  "height": {
+   "value": "133",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "133"
+    }
+   ]
+  },
+  "series": {
+   "value": "-",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "-"
+    }
+   ]
+  },
+  "material": {
+   "value": "Alluminio Silicone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Alluminio Silicone"
+    }
+   ]
+  },
+  "installation": {
+   "value": "LED",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "LED"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "3650",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "3650"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "25"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 7,
+  "L3": 0,
+  "dropped": 0
+ }
+}

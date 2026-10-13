@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/01963eeffbec71218768837987963cf5",
+  "model": "qwen2.5:32b",
+  "html": "detail_01963eeffbec71218768837987963cf5.html",
+  "title": "Ripostiglio in Legno 132x57 cm con pavimento | Facile Montaggio",
+  "text_chars": 1812,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "132 cm",
+      "evidence": "Ripostiglio in legno 132x57 cm con pavimento incluso",
+      "location": "body"
+    },
+    "depth": {
+      "value": "57 cm",
+      "evidence": "Ripostiglio in legno 132x57 cm con pavimento incluso",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "132x57 cm",
+      "evidence": "Ripostiglio in legno 132x57 cm con pavimento incluso",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "a terra",
+        "evidence": "con pavimento incluso"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1486,
+    "output_tokens": 569,
+    "seconds": 45.95
+  }
+}

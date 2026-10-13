@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/filo-per-cucire-giallo-32543385.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_filo-per-cucire-giallo-32543385.html.html",
+  "title": "Filo per cucire giallo | Leroy Merlin",
+  "text_chars": 2472,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "width": {
+      "reason": "package_value",
+      "raw": {
+        "value": "3.7 cm",
+        "evidence": "Prodotto imballato: larghezza (in cm) 3.7"
+      }
+    },
+    "height": {
+      "reason": "package_value",
+      "raw": {
+        "value": "8 cm",
+        "evidence": "Prodotto imballato: altezza (in cm) 8"
+      }
+    },
+    "depth": {
+      "reason": "package_value",
+      "raw": {
+        "value": "1 cm",
+        "evidence": "Prodotto imballato: profondità (in cm) 1"
+      }
+    },
+    "weight": {
+      "reason": "package_value",
+      "raw": {
+        "value": "0.1 kg",
+        "evidence": "Prodotto imballato: peso (in kg) 0.1"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1650,
+    "output_tokens": 548,
+    "seconds": 44.97
+  }
+}

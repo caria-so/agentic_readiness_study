@@ -1,0 +1,106 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/lettera-adesiva-nero-serie-t80-w-letterfix-34302191.html",
+ "file": "prodotti_lettera-adesiva-nero-serie-t80-w-letterfix-34302191.html.html",
+ "title": "Lettera Adesiva Nero Serie T80 W Letterfix",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2623,
+ "attributes": {
+  "brand": {
+   "value": "LETTERFIX",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "LETTERFIX"
+    }
+   ]
+  },
+  "sku": {
+   "value": "34302191",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "34302191"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8009984069685",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8009984069685"
+    }
+   ]
+  },
+  "material": {
+   "value": "Vinile",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Vinile"
+    }
+   ]
+  },
+  "height": {
+   "value": "6",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm)",
+     "value": "6"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Nero",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Famiglia colore",
+     "value": "Nero"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "VERTIGO SRL",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "VERTIGO SRL"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Elemento di fissaggio": "Nastro adesivo",
+  "Regolamentare per targhe veicoli": "h 60 agricoli h80 autoveicoli/rimorchi"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 2,
+  "L3": 4,
+  "dropped": 0
+ }
+}

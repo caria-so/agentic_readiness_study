@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://termoidraulicarv.com/sanificazione-e-tester-per-acqua/manutenzione-e-sanificazione/filtro-wcf-sanic-125-e-250/",
+  "model": "qwen2.5:32b",
+  "html": "sanificazione-e-tester-per-acqua_manutenzione-e-sanificazione_filtro-wcf-sanic-125-e-250.html",
+  "title": "Filtro WCF Sanic 250 per sanificazione impianti – TermoidraulicaRV",
+  "text_chars": 5997,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "260mm",
+      "evidence": "Altezza 260mm",
+      "location": "body"
+    },
+    "series": {
+      "value": "WCF Sanic",
+      "evidence": "Filtro WCF Sanic 250 per sanificazione impianti",
+      "location": "title"
+    },
+    "brand": {
+      "value": "TermoidraulicaRV",
+      "evidence": "TermoidraulicaRV",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2826,
+    "output_tokens": 504,
+    "seconds": 53.47
+  }
+}

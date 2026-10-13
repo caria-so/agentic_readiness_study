@@ -1,0 +1,619 @@
+{
+  "source": "https://jo-bagno.it/",
+  "generated": "2026-10-02T17:11:43.561417",
+  "block_count": 3,
+  "types": [
+    "AggregateRating",
+    "Brand",
+    "BreadcrumbList",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "Product",
+    "PropertyValueSpecification",
+    "Rating",
+    "ReadAction",
+    "Review",
+    "SearchAction",
+    "WebPage",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 1920,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://jo-bagno.it/",
+            "url": "https://jo-bagno.it/",
+            "name": "Arredo Bagno, Sanitari e Lavanderia Vendita on line - Jo-Bagno.it",
+            "isPartOf": {
+              "@id": "https://jo-bagno.it/#website"
+            },
+            "about": {
+              "@id": "https://jo-bagno.it/#organization"
+            },
+            "datePublished": "2026-07-26T11:44:47+00:00",
+            "dateModified": "2026-08-15T10:34:57+00:00",
+            "description": "Jo-Bagno.it negozio on line specializzato in arredo bagno, sanitari bagno, arredo lavanderia e mobili. Situato nel cuore della Tuscia a Civita Castellana.",
+            "breadcrumb": {
+              "@id": "https://jo-bagno.it/#breadcrumb"
+            },
+            "inLanguage": "it-IT",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://jo-bagno.it/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://jo-bagno.it/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://jo-bagno.it/#website",
+            "url": "https://jo-bagno.it/",
+            "name": "Jo-Bagno.it Sanitari ed Arredo Bagno",
+            "description": "",
+            "publisher": {
+              "@id": "https://jo-bagno.it/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://jo-bagno.it/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "it-IT"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://jo-bagno.it/#organization",
+            "name": "Jo-Bagno.it Sanitari ed Arredo Bagno",
+            "url": "https://jo-bagno.it/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "it-IT",
+              "@id": "https://jo-bagno.it/#/schema/logo/image/",
+              "url": "https://jo-bagno.it/wp-content/uploads/2026/07/logo-rettangolare.png",
+              "contentUrl": "https://jo-bagno.it/wp-content/uploads/2026/07/logo-rettangolare.png",
+              "width": 218,
+              "height": 62,
+              "caption": "Jo-Bagno.it Sanitari ed Arredo Bagno"
+            },
+            "image": {
+              "@id": "https://jo-bagno.it/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "index": 1,
+      "chars": 12462,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Jo-Bagno Arredo Bagno e Sanitari in ceramica",
+        "image": "https://cdn.trustindex.io/companies/b6/b67f2a419900g235/avatar.jpg",
+        "url": "https://jo-bagno.it",
+        "sku": "b67f2a419900g235",
+        "description": "Do you agree with Jo-Bagno Arredo Bagno e Sanitari in ceramica&#039;s 4.5-star rating? Check out what 628 people have written and share your own experience.",
+        "manufacturer": {
+          "@context": "https://schema.org/",
+          "@type": "Organization",
+          "@id": "https://www.trustindex.io/reviews/jo-bagno.it/en",
+          "name": "Jo-Bagno Arredo Bagno e Sanitari in ceramica",
+          "logo": "https://cdn.trustindex.io/companies/b6/b67f2a419900g235/avatar.jpg",
+          "url": "https://jo-bagno.it",
+          "description": "Do you agree with Jo-Bagno Arredo Bagno e Sanitari in ceramica&#039;s 4.5-star rating? Check out what 628 people have written and share your own experience.",
+          "brand": {
+            "@type": "Brand",
+            "@id": "https://jo-bagno.it",
+            "name": "Jo-Bagno Arredo Bagno e Sanitari in ceramica"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://cdn.trustindex.io/companies/b6/b67f2a419900g235/screenshot.jpg",
+            "width": 500,
+            "height": 348
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "worstRating": 1,
+          "bestRating": 5,
+          "ratingValue": 4.5,
+          "ratingCount": 628
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-25T18:43:43+00:00",
+            "reviewBody": "Ho preso un mobile con lavatoio da esterno... Sinceramente visto il prezzo, il prodotto è decisamente scadente.. ok che è in pvc ma qualche accorgimento per irrobustire un po&#039; la struttura, o anche solo un briciolo di qualità nel kit piletta+sifone (che sembrano di carta velina) ci poteva stare... Con meno soldi si prende lo stesso su deghi o simili, almeno si risparmia",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Claudio"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 2
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-22T14:06:34+00:00",
+            "reviewBody": "Assistenza, soprattutto post vendita, davvero attenta e premurosa. Se vendere online è piuttosto facile, affrontare eventuali problematiche e risolverle lo è molto meno: è proprio questo, prima ancora della mera convenienza, a contraddistinguere un negozio - serio e affidabile - dalla concorrenza.",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Attilio Minelli"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-21T17:02:44+00:00",
+            "reviewBody": "Copriwater serie Z Prodotto di ottima qualità semplice da montare arrivato in brevissimo tempo",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Maurizio Fiordelmondo"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-20T18:45:53+00:00",
+            "reviewBody": "Buon acquisto, buon prodotto, spedizione nella norma e nonostante uno dei due prodotti sia arrivato lesionato non hanno esitato a sostituirlo,servizio clienti post vendita competente e professionale. Consiglio questa azienda e i suoi prodotti.",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Laila D.N."
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-18T15:57:22+00:00",
+            "reviewBody": "Venditore affidabile c&#039;è stato un disguido nella consegna di un rubinetto ma l&#039;hanno subito cambiato il mobile lavatoio è perfetto",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "giulia creolini"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-14T07:25:05+00:00",
+            "reviewBody": "buon rapporto qualità prezzo. Buona assistenza all&#039;ordine dell&#039;azienda",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Alessio Brogi"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-12T09:52:13+00:00",
+            "reviewBody": "Un mese che ho richiesto la fattura per un prodotto consegnato, ancora la sto aspettando. Pessimi",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Maurizio Amorese"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 1
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-11T18:57:18+00:00",
+            "reviewBody": "Siamo arrivati qui quasi per caso, dove abbiamo conosciuto Daniele, un ottimo professionista che ci ha prospettato con tanta pazienza tutte le possibilità per poter arredare il nostro bagno, qui potete trovare tantissime soluzioni a ottimi prezzi, quindi..... 5 stelle 😄👍",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Gianandrea Rubbini"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-10T11:12:42+00:00",
+            "reviewBody": "",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "claudia briccarello"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "-"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-08T13:57:06+00:00",
+            "reviewBody": "",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Luigi Sile"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "-"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-05T06:54:03+00:00",
+            "reviewBody": "Tutto perfetto!!!&#039; Ho ordinato un lavabo con spedizione espressa è arrivato nei tempi indicati ed esattamente come lo volevo!!! Imballaggio super sicuro.",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Gina Busa"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-09-02T09:18:25+00:00",
+            "reviewBody": "Montato senza problemi, ottimo acquisto",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "pippo peppe"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-08-31T10:55:56+00:00",
+            "reviewBody": "",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Ada Pascarella"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "-"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-08-31T06:45:39+00:00",
+            "reviewBody": "Tutto ottimo, spedizione veloce, raccomandati!",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Mauro Galli"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-08-31T06:23:31+00:00",
+            "reviewBody": "Ottima scelta, grazie mille al personale che essendo io poco esperta tecnologicamente mi ha aiutato nell&#039; acquisto",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Peppina antonietta Caria"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-08-27T19:55:30+00:00",
+            "reviewBody": "Velocissimi nella consegna e articolo conforme alla descrizione",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Roberta Tacconelli"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 5
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-08-27T15:40:17+00:00",
+            "reviewBody": "Servizio pessimo, arriva un pezzo rotto e si ostinano a non sostituirlo, si sconsiglia vivamente di fare acquisti su questo sito. Esperienza sgradevole, hanno imballato senza polistirolo, e si rifiutano di accettare il reso, evitate vivamente di acquistare prodotti in questo sito",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Mattia Milazzo"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 1
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-08-27T07:13:17+00:00",
+            "reviewBody": "Nessun problema. Prodotto e consegna ok.",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Marco Natali"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 4
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-08-27T05:49:52+00:00",
+            "reviewBody": "",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Umberto Marasca"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 4
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "-"
+          },
+          {
+            "@type": "Review",
+            "datePublished": "2026-08-26T20:04:54+00:00",
+            "reviewBody": "Ho acquistato un copriwater che si trova anche su altri siti ma almeno a 50,00 euro di meno. Orribile, materiale scadente montato su water sembra di colore rosa! La ditta che fabbrica il modello di water lo consiglia come ricambio originale ma probabilmente non lo ha mai visto.",
+            "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9REqq7c9LxMRK9X3kwm0xYQ",
+            "author": {
+              "@type": "Person",
+              "name": "Laura Porreca"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "worstRating": 1,
+              "bestRating": 5,
+              "ratingValue": 1
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trustindex",
+              "sameAs": "https://www.trustindex.io"
+            },
+            "inLanguage": "it"
+          }
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "chars": 164,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "https://jo-bagno.it"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

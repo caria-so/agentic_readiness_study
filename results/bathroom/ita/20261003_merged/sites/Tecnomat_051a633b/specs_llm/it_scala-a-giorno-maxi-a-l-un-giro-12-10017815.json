@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/scala-a-giorno-maxi-a-l-un-giro-12-10017815/",
+  "model": "qwen2.5:32b",
+  "html": "it_scala-a-giorno-maxi-a-l-un-giro-12-10017815.html",
+  "title": "SCALA A GIORNO MAXI A L (UN GIRO) 12 GRADINI IN LEGNO DI FAGGIO SBIANCATO ACCIAIO BIANCO",
+  "text_chars": 2181,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "bianco",
+      "evidence": "Scala a giorno Maxi a L con 12 gradini in legno di faggio sbiancato e struttura in acciaio bianco",
+      "location": "body"
+    },
+    "height": {
+      "value": "289 cm",
+      "evidence": "distanza massima dal pavimento al soffitto di 289 cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "40 mm",
+      "evidence": "I 12 gradini, realizzati in legno massello di faggio con uno spessore di 40 mm",
+      "location": "body"
+    },
+    "certification": {
+      "value": "UNI 10803, 10804, 10806, 10810 e 10812",
+      "evidence": "Questa scala a giorno è certificata secondo le norme UNI 10803, 10804, 10806, 10810 e 10812",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "verniciatura atossica all'acqua a 3 strati, verniciatura opaca e antigraffio a forno con polveri epossidiche",
+        "evidence": "I 12 gradini, realizzati in legno massello di faggio con uno spessore di 40 mm, sono rifiniti con una verniciatura atossica all'acqua a 3 strati. La struttura in acciaio è trattata con verniciatura opaca e antigraffio a forno con polveri epossidiche."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1690,
+    "output_tokens": 833,
+    "seconds": 69.53
+  }
+}

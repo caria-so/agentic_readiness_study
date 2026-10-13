@@ -1,0 +1,136 @@
+{
+ "url": "https://www.paramashop.it/detail/43d1fce8bc3b40379420739911fd4485",
+ "file": "detail_43d1fce8bc3b40379420739911fd4485.html",
+ "title": "Coppia di sanitari filomuro ceramica bianco opaco vaso rimless copriwc soft-close e bidet | Europa Small",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 5574,
+ "attributes": {
+  "sku": {
+   "value": "SAN99EUR001-S-C03",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "SAN99EUR001-S-C03"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "SAN99EUR001-S-C15"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "5060971776200",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "5060971776200"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "SAN99EUR001-S-C03",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "SAN99EUR001-S-C03"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Opaco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "Opaco"
+    }
+   ]
+  },
+  "length": {
+   "value": "52 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza",
+     "value": "52 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ceramica",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Ceramica"
+    }
+   ]
+  },
+  "series": {
+   "value": "Europa Small",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Modello",
+     "value": "Europa Small"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Filomuro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Filomuro"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Foro di scarico": "A pavimento con curva tecnica",
+  "Rimless": "Sì",
+  "Europa Small": "qualità, praticità e raffinatezza"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 8,
+  "L3": 2,
+  "dropped": 8
+ }
+}

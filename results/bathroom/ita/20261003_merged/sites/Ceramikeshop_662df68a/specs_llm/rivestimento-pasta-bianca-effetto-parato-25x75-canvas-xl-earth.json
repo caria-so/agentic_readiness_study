@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/rivestimento-pasta-bianca-effetto-parato-25x75-canvas-xl-earth",
+  "model": "qwen2.5:32b",
+  "html": "rivestimento-pasta-bianca-effetto-parato-25x75-canvas-xl-earth.html",
+  "title": "Rivestimento effetto parato 25x75 Canvas XL Earth | MGM Ceramiche",
+  "text_chars": 8893,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "pasta bianca",
+      "evidence": "Rivestimento in pasta bianca",
+      "location": "body"
+    },
+    "finish": {
+      "value": "effetto parato",
+      "evidence": "Rivestimento effetto parato 25x75 Canvas XL Earth | MGM Ceramiche",
+      "location": "title"
+    },
+    "width": {
+      "value": "25 cm",
+      "evidence": "Collezione Canvas XL Earth 25x75x8.5 di spessore",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "25x75 cm",
+      "evidence": "Collezione Canvas XL Earth 25x75x8.5 di spessore",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "8.5 mm",
+      "evidence": "Collezione Canvas XL Earth 25x75x8.5 di spessore",
+      "location": "body"
+    },
+    "series": {
+      "value": "Canvas XL Earth",
+      "evidence": "Collezione Canvas XL Earth 25x75x8.5 di spessore",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4662,
+    "output_tokens": 590,
+    "seconds": 63.82
+  }
+}

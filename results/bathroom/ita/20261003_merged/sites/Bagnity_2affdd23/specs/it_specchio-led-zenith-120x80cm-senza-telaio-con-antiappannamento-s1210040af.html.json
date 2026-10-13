@@ -1,0 +1,178 @@
+{
+ "url": "https://www.bagnity.com/it/specchio-led-zenith-120x80cm-senza-telaio-con-antiappannamento-s1210040af.html",
+ "file": "it_specchio-led-zenith-120x80cm-senza-telaio-con-antiappannamento-s1210040af.html.html",
+ "title": "Specchio LED Zenith 120x80cm senza telaio con antiappannamento",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 7108,
+ "attributes": {
+  "brand": {
+   "value": "Lineabeta",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Lineabeta"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Brand",
+     "value": "Lineabeta"
+    }
+   ]
+  },
+  "material": {
+   "value": "Alluminio, Vetro",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Alluminio, Vetro"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Vetro / Alluminio"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Rettangolare",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Forma",
+     "value": "Rettangolare"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Tipo illuminazione",
+     "value": "Illuminazione a led con luce ambientale su 4 lati"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "4 mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessore",
+     "value": "4 mm"
+    }
+   ]
+  },
+  "installation": {
+   "value": "A muro",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Installazione",
+     "value": "A muro"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggio",
+     "value": "A fissaggio"
+    }
+   ]
+  },
+  "series": {
+   "value": "Zenith",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Collezione",
+     "value": "Zenith"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Designer",
+     "value": "Studio design Lineabeta"
+    }
+   ]
+  },
+  "certification": {
+   "value": "Marcatura CE",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "Marcatura CE"
+    }
+   ]
+  },
+  "width": {
+   "value": "120 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "120 cm"
+    }
+   ]
+  },
+  "depth": {
+   "value": "6.5 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Profondità",
+     "value": "6.5 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "80 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "80 cm"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "100 Watt",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Potenza",
+     "value": "100 Watt"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Flusso luminoso": "1700 Lumen/mt",
+  "Caratteristiche": "Antiappannamento incluso. Accensione solo da interruttore a muro",
+  "Grado di protezione": "IP44",
+  "Tonalità luce": "4000k",
+  "Predisposizione installazione": "Non reversibile"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 19,
+  "dropped": 6
+ }
+}

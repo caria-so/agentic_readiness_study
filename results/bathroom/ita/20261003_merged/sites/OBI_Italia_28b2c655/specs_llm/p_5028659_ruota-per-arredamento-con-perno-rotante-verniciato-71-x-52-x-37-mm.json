@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5028659/ruota-per-arredamento-con-perno-rotante-verniciato-71-x-52-x-37-mm",
+  "model": "qwen2.5:32b",
+  "html": "p_5028659_ruota-per-arredamento-con-perno-rotante-verniciato-71-x-52-x-37-mm.html",
+  "title": "Ruota per arredamento con perno rotante verniciato 71 x 52 x 37 mm",
+  "text_chars": 8727,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "polipropilene",
+      "evidence": "Corpo in polipropilene cromato",
+      "location": "body"
+    },
+    "finish": {
+      "value": "cromato",
+      "evidence": "Corpo in polipropilene cromato",
+      "location": "body"
+    },
+    "colour": {
+      "value": "nero",
+      "evidence": "ruota in polipropilene nero",
+      "location": "body"
+    },
+    "brand": {
+      "value": "MACO SRL",
+      "evidence": "Dati del produttore MACO SRL",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4198,
+    "output_tokens": 572,
+    "seconds": 60.67
+  }
+}

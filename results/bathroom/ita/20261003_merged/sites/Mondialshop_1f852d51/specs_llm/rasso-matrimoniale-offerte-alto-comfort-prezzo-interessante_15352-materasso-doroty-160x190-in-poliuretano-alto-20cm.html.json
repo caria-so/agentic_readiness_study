@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/materasso-matrimoniale-offerte-alto-comfort-prezzo-interessante/15352-materasso-doroty-160x190-in-poliuretano-alto-20cm.html",
+  "model": "qwen2.5:32b",
+  "html": "rasso-matrimoniale-offerte-alto-comfort-prezzo-interessante_15352-materasso-doroty-160x190-in-poliuretano-alto-20cm.html.html",
+  "title": "Materasso Doroty 160x190 in poliuretano alto 20cm",
+  "text_chars": 1838,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "160",
+      "evidence": "Materasso Doroty 160x190 in poliuretano alto 20cm",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "160x190",
+      "evidence": "Materasso Doroty 160x190 in poliuretano alto 20cm",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1492,
+    "output_tokens": 587,
+    "seconds": 50.01
+  }
+}

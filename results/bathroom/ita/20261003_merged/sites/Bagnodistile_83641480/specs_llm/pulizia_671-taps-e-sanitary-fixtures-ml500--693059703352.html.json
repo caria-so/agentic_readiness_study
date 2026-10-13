@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/pulizia/671-taps-e-sanitary-fixtures-ml500--693059703352.html",
+  "model": "qwen2.5:32b",
+  "html": "pulizia_671-taps-e-sanitary-fixtures-ml500--693059703352.html.html",
+  "title": "TAPS E SANITARY Fixtures ML.500 | Bagno di Stile",
+  "text_chars": 3042,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "care": {
+      "value": "Detergente acidulo adatto alla rimozione del calcare e di quello sporco che non si riesce a rimuovere dalle docce con i detergenti neutri.",
+      "evidence": "Dettagli del prodotto Detergente per rubinetti, docce, sanitari e componenti bagno. TAPS & SANITARY FIXTURES è un detergente acidulo adatto alla rimozione del calcare e di quello sporco che non si riesce a rimuovere dalle docce con i detergenti neutri.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2005,
+    "output_tokens": 626,
+    "seconds": 52.11
+  }
+}

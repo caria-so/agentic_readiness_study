@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.fr/bossini-ream-pommeau-de-douche-rectangulaire-chromotherapie-h37455.html",
+  "model": "qwen2.5:32b",
+  "html": "bossini-ream-pommeau-de-douche-rectangulaire-chromotherapie-h37455.html.html",
+  "title": "Bossini Dream Pommeau de Douche Rectangulaire Douche Chromothérapie H37455 | Dwellistore",
+  "text_chars": 655,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "470 mm",
+      "evidence": "Dimensions: 470x570x12 mm",
+      "location": "body"
+    },
+    "height": {
+      "value": "570 mm",
+      "evidence": "Dimensions: 470x570x12 mm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "12 mm",
+      "evidence": "Dimensions: 470x570x12 mm",
+      "location": "body"
+    },
+    "electrical": {
+      "value": "Lumières LED RVB",
+      "evidence": "Lumières LED RVB",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "Rectangulaire",
+      "evidence": "Bossini Dream Pommeau de Douche Rectangulaire Douche Chromothérapie H37455",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1097,
+    "output_tokens": 586,
+    "seconds": 48.07
+  }
+}

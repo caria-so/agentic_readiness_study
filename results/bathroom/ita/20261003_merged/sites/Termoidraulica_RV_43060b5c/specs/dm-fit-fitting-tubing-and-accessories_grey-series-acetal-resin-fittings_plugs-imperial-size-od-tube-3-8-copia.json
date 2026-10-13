@@ -1,0 +1,75 @@
+{
+ "url": "https://en.termoidraulicarv.com/dm-fit-fitting-tubing-and-accessories/grey-series-acetal-resin-fittings/plugs-imperial-size-od-tube-3-8-copia/",
+ "file": "dm-fit-fitting-tubing-and-accessories_grey-series-acetal-resin-fittings_plugs-imperial-size-od-tube-3-8-copia.html",
+ "title": "Plugs Imperial size OD tube 1/4″",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1705,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "D030-APL04",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D030-APL04"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "D030-APL04"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "75694",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "75694"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,010000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Weight",
+     "value": "0,010000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 1,
+  "L3": 1,
+  "dropped": 2
+ }
+}

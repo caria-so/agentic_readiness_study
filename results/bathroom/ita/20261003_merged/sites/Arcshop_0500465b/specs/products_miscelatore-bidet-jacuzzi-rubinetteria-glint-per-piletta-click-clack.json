@@ -1,0 +1,83 @@
+{
+ "url": "https://www.arcshop.it/products/miscelatore-bidet-jacuzzi-rubinetteria-glint-per-piletta-click-clack",
+ "file": "products_miscelatore-bidet-jacuzzi-rubinetteria-glint-per-piletta-click-clack.html",
+ "title": "Miscelatore bidet Jacuzzi | rubinetteria Glint per piletta click clack",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3106,
+ "attributes": {
+  "brand": {
+   "value": "Jacuzzi | Rubinetteria",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jacuzzi | Rubinetteria"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8056304001153",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8056304001153"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "8056304001153",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "8056304001153"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.33kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.33kg"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "10 Anni",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia",
+     "value": "10 Anni"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "gtin=mpn"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.idrobric.it/it/aquaxense/1122-aquaxense-sedile-wc-d-shape-8007931114365.html",
+  "model": "qwen2.5:32b",
+  "html": "it_aquaxense_1122-aquaxense-sedile-wc-d-shape-8007931114365.html.html",
+  "title": "Aquaxense Sedile Wc D-Shape",
+  "text_chars": 568,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Urea termoindurente",
+      "evidence": "Aquaxense Sedile WC D-shape, realizzato in Urea termoindurente",
+      "location": "body"
+    },
+    "opening": {
+      "value": "chiusura rallentata",
+      "evidence": "con chiusura rallentata",
+      "location": "body"
+    },
+    "water": {
+      "value": "opzionale acqua calda/fredda",
+      "evidence": "opzionale acqua calda/fredda",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "D-shape",
+      "evidence": "Aquaxense Sedile WC D-shape",
+      "location": "title"
+    },
+    "brand": {
+      "value": "Aquaxense",
+      "evidence": "Aquaxense Sedile Wc D-Shape",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1064,
+    "output_tokens": 533,
+    "seconds": 43.79
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "company": "Boleco",
+  "url": "https://www.boleco.it/it/",
+  "site_dir": "discovery_round_final_e/sites/Boleco_93c40284",
+  "final_url": "https://www.boleco.it/it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.413733",
+  "http_status": 200,
+  "fetch_ms": 28220.1,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.boleco.it/it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Boleco_93c40284/index.html",
+      "count": 1026998,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.boleco.it/1_it_0_sitemap.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Boleco_93c40284/sitemap.json",
+      "count": 1381,
+      "total_available": 1381,
+      "truncated": false,
+      "product_url_count": 1259,
+      "product_total_available": 1259
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Boleco_93c40284/jsonld.json",
+      "count": 2,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": true,
+      "url": "https://www.boleco.it/llms.txt",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Boleco_93c40284/llms_txt.json",
+      "count": 1,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Boleco_93c40284/links.json",
+      "count": 220,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": true,
+    "links": true
+  },
+  "error_details": ""
+}

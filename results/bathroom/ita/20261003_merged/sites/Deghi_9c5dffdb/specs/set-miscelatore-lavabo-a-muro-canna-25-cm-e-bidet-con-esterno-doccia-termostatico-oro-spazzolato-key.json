@@ -1,0 +1,184 @@
+{
+ "url": "https://www.deghi.it/set-miscelatore-lavabo-a-muro-canna-25-cm-e-bidet-con-esterno-doccia-termostatico-oro-spazzolato-key",
+ "file": "set-miscelatore-lavabo-a-muro-canna-25-cm-e-bidet-con-esterno-doccia-termostatico-oro-spazzolato-key.html",
+ "title": "Set miscelatore lavabo a muro canna 25 cm e bidet con esterno doccia termostatico oro spazzolato – Key",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 11966,
+ "attributes": {
+  "sku": {
+   "value": "KEY-M5BETR",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "KEY-M5BETR"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "KEY-M5BETR"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Lavabo - Bidet - Doccia termostatico",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia set",
+     "value": "Lavabo - Bidet - Doccia termostatico"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Miscelatore a parete"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Acq+",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Marca",
+     "value": "Acq+"
+    }
+   ]
+  },
+  "series": {
+   "value": "Key",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Key"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Oro spazzolato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Oro spazzolato"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ottone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale piastra",
+     "value": "Ottone"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Doccia | Lavabo | Bidet",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Doccia | Lavabo | Bidet"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Monoforo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "1/2\"G"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "G3/8\""
+    },
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Esterna"
+    }
+   ]
+  },
+  "length": {
+   "value": "25 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza canna",
+     "value": "25 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza canna",
+     "value": "10,7 cm"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Per piletta Click-Clack",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Scarico",
+     "value": "Per piletta Click-Clack"
+    }
+   ]
+  },
+  "height": {
+   "value": "12,6 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "12,6 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero elementi": "3 elementi",
+  "Azionamento": "Leva monocomando",
+  "Sezione base": "Ø 8 cm",
+  "Flessibili di collegamento": "Inclusi",
+  "Piletta": "Non inclusa",
+  "Caratteristiche": "Anti-impronta",
+  "Corpo incasso": "Incluso"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 27,
+  "L3": 1,
+  "dropped": 10
+ }
+}

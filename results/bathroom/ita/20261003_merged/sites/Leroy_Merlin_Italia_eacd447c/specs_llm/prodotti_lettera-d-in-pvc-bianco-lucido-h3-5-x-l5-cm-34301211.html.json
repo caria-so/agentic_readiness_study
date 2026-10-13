@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/lettera-d-in-pvc-bianco-lucido-h3-5-x-l5-cm-34301211.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_lettera-d-in-pvc-bianco-lucido-h3-5-x-l5-cm-34301211.html.html",
+  "title": "Lettera D in PVC bianco lucido H3.5 x L5 cm | Leroy Merlin",
+  "text_chars": 2725,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "lucido",
+      "evidence": "Lettera D in PVC bianco lucido H3.5 x L5 cm",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "H3.5 x L5 cm",
+      "evidence": "Lettera D in PVC bianco lucido H3.5 x L5 cm",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1775,
+    "output_tokens": 583,
+    "seconds": 47.99
+  }
+}

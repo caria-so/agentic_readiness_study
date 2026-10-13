@@ -1,0 +1,167 @@
+{
+ "url": "https://jysk.it/giardino/ombreggianti-da-giardino/ombrelloni/ombrellone-grande-namdal-p280xl280-cm-color-sabbia-scuro",
+ "file": "giardino_ombreggianti-da-giardino_ombrelloni_ombrellone-grande-namdal-p280xl280-cm-color-sabbia-scuro.html",
+ "title": "NAMDAL Ombrellone grande NAMDAL P280xL280 cm color sabbia scuro",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 15597,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "3726123",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "3726123"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "3726123"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Sabbia scuro",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Sabbia scuro"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore del palo",
+     "value": "Nero"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Beige Colore : Sabbia scuro"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Larghezza 280 cm, Lunghezza 280 cm, Altezza 253 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni da montato",
+     "value": "Larghezza 280 cm, Lunghezza 280 cm, Altezza 253 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni non montato",
+     "value": "Larghezza 15 cm, Lunghezza 15 cm, Altezza 200 cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "7,5 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "7,5 kg"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Quadrato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Forma",
+     "value": "Quadrato"
+    }
+   ]
+  },
+  "height": {
+   "value": "250 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza dell'asta",
+     "value": "250 cm"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  },
+  "care": {
+   "value": "Pulire con acqua e sapone neutro.",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Cura",
+     "value": "Pulire con acqua e sapone neutro."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Tettoia": "100% poliestere",
+  "Corda": "100% Polipropilene",
+  "Manovella": "Acrilonitrile-butadiene-stirene, Acciaio",
+  "Costa": "Acciaio galvanizzato",
+  "Numero di coste": "8",
+  "Palo": "Acciaio galvanizzato",
+  "Diametro del palo": "4,8 cm",
+  "Coperchio": "Polipropilene",
+  "Caratteristiche": "Manovella, Protegge dai raggi UV, Ventilazione, Resistente all'acqua",
+  "Trattamento": "Verniciato a polvere",
+  "Stoccaggio": "Durante l'inverno, tenerli all'interno",
+  "Protezione dai raggi UV": "protegge il telo dallo scolorimento",
+  "Resistente all’acqua": "il telo resiste a pioggia leggera e umidità",
+  "Ventilazione": "riduce la pressione del vento",
+  "Asta in acciaio zincato": "resistente alla ruggine e robusta",
+  "Base e custodia dell'ombrellone": "acquistabili separatamente"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 19,
+  "L3": 8,
+  "dropped": 45
+ }
+}

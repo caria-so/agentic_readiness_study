@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/6154884/lavello-1-vasca-magnetico-gocciolatoio-quadrato-guayos-500x219-mm-grigio-met",
+  "model": "qwen2.5:32b",
+  "html": "p_6154884_lavello-1-vasca-magnetico-gocciolatoio-quadrato-guayos-500x219-mm-grigio-met.html",
+  "title": "Lavello 1 vasca magnetico gocciolatoio quadrato Guayos 500x219 mm Grigio met",
+  "text_chars": 1323,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "composito di granito a base di sabbia di quarzo e resine",
+      "evidence": "Il composito di granito a base di sabbia di quarzo e resine in proporzioni misurate rigorosamente",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Grigio met",
+      "evidence": "Lavello 1 vasca magnetico gocciolatoio quadrato Guayos 500x219 mm Grigio met",
+      "location": "title"
+    },
+    "width": {
+      "value": "500mm",
+      "evidence": "configurazione a vasca singola con gocciolatoio universale da 500x219 mm.",
+      "location": "body"
+    },
+    "depth": {
+      "value": "219mm",
+      "evidence": "configurazione a vasca singola con gocciolatoio universale da 500x219 mm.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "500x219 mm",
+      "evidence": "configurazione a vasca singola con gocciolatoio universale da 500x219 mm.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "reversibile",
+      "evidence": "L`installazione è facile grazie ai fori predisposti che rendono il lavello totalmente reversibile",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "raccordi per il collegamento alla lavastoviglie, un elegante pulsante per lo scarico automatico",
+      "evidence": "Il kit include raccordi per il collegamento alla lavastoviglie, un elegante pulsante per lo scarico automatico",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "quadrato",
+      "evidence": "Lavello 1 vasca magnetico gocciolatoio quadrato Guayos",
+      "location": "title"
+    },
+    "series": {
+      "value": "Idrostile Design Studio",
+      "evidence": "Progettato da designer di fama per la linea Idrostile Design Studio,",
+      "location": "body"
+    },
+    "certification": {
+      "value": "PN-EN 13310",
+      "evidence": "rispetto della norma PN-EN 13310",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1242,
+    "output_tokens": 777,
+    "seconds": 62.8
+  }
+}

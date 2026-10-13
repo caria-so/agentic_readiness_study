@@ -1,0 +1,31 @@
+{
+  "source": "https://www.paramashop.it/",
+  "generated": "2026-10-03T01:46:11.600201",
+  "block_count": 1,
+  "types": [
+    "AggregateRating",
+    "OnlineBusiness"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 404,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "OnlineBusiness",
+        "@id": "https://www.paramashop.it",
+        "name": "Paramashop.it",
+        "url": "https://www.paramashop.it",
+        "sameAs": [
+          "https://www.trustedshops.it/valutazione-del-negozio/info_X6C68FE765C86BBF661367F2AF7153F69.html"
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.39",
+          "ratingCount": "8912"
+        }
+      }
+    }
+  ]
+}

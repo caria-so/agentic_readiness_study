@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/antoniolupi-lavandino-lavabo",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_antoniolupi-lavandino-lavabo.html",
+  "title": "antoniolupi, Lavandino Lavabo 72x44,50 cm | Bertani",
+  "text_chars": 543,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "27.5 cm",
+      "evidence": "H27,5 cm.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L72, P44,5, H27,5 cm",
+      "evidence": "Lavabo rettangolare da parete in acciaio inox 316/L completo di rubinetteria, scarico libero e raccordo per sifone, L72, P44,5, H27,5 cm.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "da parete",
+      "evidence": "Lavabo rettangolare da parete in acciaio inox 316/L completo di rubinetteria, scarico libero e raccordo per sifone",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "completo di rubinetteria, scarico libero e raccordo per sifone",
+      "evidence": "Lavabo rettangolare da parete in acciaio inox 316/L completo di rubinetteria, scarico libero e raccordo per sifone",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1102,
+    "output_tokens": 780,
+    "seconds": 63.07
+  }
+}

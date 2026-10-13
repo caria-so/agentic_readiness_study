@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/giardino/2028-doccia-bianca-in-alluminio-con-temporizzatore-e-lavapiedi-8025431152922.html",
+  "model": "qwen2.5:32b",
+  "html": "giardino_2028-doccia-bianca-in-alluminio-con-temporizzatore-e-lavapiedi-8025431152922.html.html",
+  "title": "Doccia Bianca In Alluminio Con Temporizzatore e Lavapiedi | Bagno d...",
+  "text_chars": 8473,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "223,5 cm",
+      "evidence": "La base rotonda da 17,5 cm di diametro e l`altezza di 223,5 cm conferiscono stabilità e presenza scenica all`insieme.",
+      "location": "body"
+    },
+    "series": {
+      "value": "LUNA-TIMER-P-BIANCA",
+      "evidence": "Riferimento\nLUNA-TIMER-P-BIANCA",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "plumbing": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "doppio attacco per l'acqua, fredda (inferiore o laterale) su un unico tubo interno",
+        "evidence": "Dotata di doppio entrata per l'acqua, fredda (inferiore o laterale) su un unico tubo interno"
+      }
+    },
+    "care": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "pulizia periodica degli ugelli e del soffione, installazione del filtro anticalcare fornito e l`importanza di svuotare completamente la doccia prima del periodo invernale o in caso di non utilizzo prolungato",
+        "evidence": "SINED fornisce preziosi consigli per la manutenzione, come la pulizia periodica degli ugelli e del soffione, l`installazione del filtro anticalcare fornito e l`importanza di svuotare completamente la doccia prima del periodo invernale o in caso di non utilizzo prolungato"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3759,
+    "output_tokens": 770,
+    "seconds": 69.95
+  }
+}

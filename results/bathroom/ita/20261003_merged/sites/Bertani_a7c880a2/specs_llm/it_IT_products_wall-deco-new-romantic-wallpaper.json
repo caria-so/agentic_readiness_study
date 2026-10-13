@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/wall-deco-new-romantic-wallpaper",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_wall-deco-new-romantic-wallpaper.html",
+  "title": "Wall&decò, New Romantic Carta da parati | Bertani",
+  "text_chars": 1421,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "tessuto in fibra di vetro",
+      "evidence": "Il tessuto in fibra di vetro con finitura protettiva crea una superficie durevole e dallo spessore contenuto",
+      "location": "body"
+    },
+    "width": {
+      "value": "94 cm",
+      "evidence": "Larghezza rollo 94 cm",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "1,5 mm",
+      "evidence": "spessore contenuto di 1,5 mm applicabile anche su rivestimenti esistenti",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "length": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "lunghezza adattata all’altezza della parete",
+        "evidence": "Lunghezza rollo adattata all’altezza della parete"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1276,
+    "output_tokens": 586,
+    "seconds": 49.47
+  }
+}

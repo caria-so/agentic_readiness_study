@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/sala-da-pranzo/tavoli/tavolo-lintrup-90x190-280-color-rovere-selvatico-naturale",
+  "model": "qwen2.5:32b",
+  "html": "sala-da-pranzo_tavoli_tavolo-lintrup-90x190-280-color-rovere-selvatico-naturale.html",
+  "title": "Tavolo LINTRUP 90x190/280 color rovere selvatico naturale | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "90 cm",
+      "evidence": "Dimensioni da montato Larghezza 90 cm, Lunghezza 190/280 cm, Altezza 77 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "77 cm",
+      "evidence": "Dimensioni da montato Larghezza 90 cm, Lunghezza 190/280 cm, Altezza 77 cm",
+      "location": "body"
+    },
+    "length": {
+      "value": "190/280 cm",
+      "evidence": "Dimensioni da montato Larghezza 90 cm, Lunghezza 190/280 cm, Altezza 77 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "LINTRUP",
+      "evidence": "Tavolo LINTRUP 90x190/280 color rovere selvatico naturale",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5501,
+    "output_tokens": 739,
+    "seconds": 79.86
+  }
+}

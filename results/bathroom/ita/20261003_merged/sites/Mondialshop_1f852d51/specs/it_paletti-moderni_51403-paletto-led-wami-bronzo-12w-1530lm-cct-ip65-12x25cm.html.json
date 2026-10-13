@@ -1,0 +1,143 @@
+{
+ "url": "https://www.mondialshop.it/it/paletti-moderni/51403-paletto-led-wami-bronzo-12w-1530lm-cct-ip65-12x25cm.html",
+ "file": "it_paletti-moderni_51403-paletto-led-wami-bronzo-12w-1530lm-cct-ip65-12x25cm.html.html",
+ "title": "PALETTO LED WAMI BRONZO 12W 1530LM CCT IP65 12X25CM",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 3005,
+ "attributes": {
+  "brand": {
+   "value": "Gt Luce",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Gt Luce"
+    }
+   ]
+  },
+  "sku": {
+   "value": "LED-WAMI-P25-BRO",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "LED-WAMI-P25-BRO"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "LED-WAMI-P25-BRO",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "LED-WAMI-P25-BRO"
+    }
+   ]
+  },
+  "weight": {
+   "value": "2.083300 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "2.083300 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bronzo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bronzo"
+    }
+   ]
+  },
+  "height": {
+   "value": "25",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "25"
+    }
+   ]
+  },
+  "series": {
+   "value": "-",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "-"
+    }
+   ]
+  },
+  "material": {
+   "value": "Alluminio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Alluminio"
+    }
+   ]
+  },
+  "installation": {
+   "value": "LED",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "LED"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "1530",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "1530"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "12"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 7,
+  "L3": 0,
+  "dropped": 0
+ }
+}

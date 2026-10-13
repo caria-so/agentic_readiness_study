@@ -1,0 +1,86 @@
+{
+ "url": "https://en.termoidraulicarv.com/prodotto/gomito-filetto-maschio-bspt-3-8-innesto-rapido-12mm/",
+ "file": "prodotto_gomito-filetto-maschio-bspt-3-8-innesto-rapido-12mm.html",
+ "title": "Gomito filetto maschio BSPT 3/8″ innesto rapido 12mm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3743,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "D150-AME1206M",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "D150-AME1206M"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "D150-AME1206M"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "36196",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "36196"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0,200000 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Weight",
+     "value": "0,200000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Copolimero acetalico nero.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Copolimero acetalico nero."
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 1,
+  "L3": 2,
+  "dropped": 5
+ }
+}

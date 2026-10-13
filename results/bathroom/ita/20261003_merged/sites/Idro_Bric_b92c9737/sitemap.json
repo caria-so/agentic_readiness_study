@@ -1,0 +1,25 @@
+{
+  "source": "https://www.idrobric.it/it/",
+  "generated": "2026-10-01T22:53:42.447244",
+  "url_count": 0,
+  "sitemap_docs_tried": [
+    "https://www.idrobric.it/sitemap-index.xml",
+    "https://www.idrobric.it/sitemap-index.xml.gz",
+    "https://www.idrobric.it/sitemap.xml",
+    "https://www.idrobric.it/sitemap.xml.gz",
+    "https://www.idrobric.it/sitemap/index.xml",
+    "https://www.idrobric.it/sitemap/sitemap.xml",
+    "https://www.idrobric.it/sitemap_index.xml",
+    "https://www.idrobric.it/wp-sitemap.xml"
+  ],
+  "sitemap_docs_failed": {
+    "https://www.idrobric.it/sitemap-index.xml": "HTTP 404",
+    "https://www.idrobric.it/sitemap-index.xml.gz": "HTTP 404",
+    "https://www.idrobric.it/sitemap.xml": "HTTP 404",
+    "https://www.idrobric.it/sitemap.xml.gz": "HTTP 404",
+    "https://www.idrobric.it/sitemap/index.xml": "HTTP 404",
+    "https://www.idrobric.it/sitemap/sitemap.xml": "HTTP 404",
+    "https://www.idrobric.it/sitemap_index.xml": "HTTP 404",
+    "https://www.idrobric.it/wp-sitemap.xml": "HTTP 404"
+  }
+}

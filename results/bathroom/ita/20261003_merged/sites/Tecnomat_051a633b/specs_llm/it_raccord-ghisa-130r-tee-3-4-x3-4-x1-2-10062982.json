@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/raccord-ghisa-130r-tee-3-4-x3-4-x1-2-10062982/",
+  "model": "qwen2.5:32b",
+  "html": "it_raccord-ghisa-130r-tee-3-4-x3-4-x1-2-10062982.html",
+  "title": "RACCORDO GHISA 130R TEE 3/4'' x 3/4'' x 1/2''",
+  "text_chars": 1303,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "certification": {
+      "value": "Certificato Fornitore",
+      "evidence": "Documenti e certificazioni Certificato Fornitore",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1368,
+    "output_tokens": 618,
+    "seconds": 51.98
+  }
+}

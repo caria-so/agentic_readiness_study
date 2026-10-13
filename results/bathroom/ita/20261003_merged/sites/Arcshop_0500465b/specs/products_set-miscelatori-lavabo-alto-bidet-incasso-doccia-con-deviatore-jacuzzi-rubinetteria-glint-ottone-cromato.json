@@ -1,0 +1,83 @@
+{
+ "url": "https://www.arcshop.it/products/set-miscelatori-lavabo-alto-bidet-incasso-doccia-con-deviatore-jacuzzi-rubinetteria-glint-ottone-cromato",
+ "file": "products_set-miscelatori-lavabo-alto-bidet-incasso-doccia-con-deviatore-jacuzzi-rubinetteria-glint-ottone-cromato.html",
+ "title": "Set miscelatori lavabo alto + bidet + incasso doccia con deviatore Jacuzzi | rubinetteria Glint ottone cromato",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3494,
+ "attributes": {
+  "brand": {
+   "value": "Jacuzzi | Rubinetteria",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jacuzzi | Rubinetteria"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "0630606706220",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "0630606706220"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "0630606706220",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "0630606706220"
+    }
+   ]
+  },
+  "weight": {
+   "value": "7.1kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "7.1kg"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "10 Anni",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia",
+     "value": "10 Anni"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "gtin=mpn"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 0
+ }
+}

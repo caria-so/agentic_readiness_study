@@ -1,0 +1,175 @@
+{
+ "url": "https://jysk.it/tende-e-accessori/tende/tende-pesanti/tenda-lovund-1-x-140x245-cm-color-mandorla",
+ "file": "tende-e-accessori_tende_tende-pesanti_tenda-lovund-1-x-140x245-cm-color-mandorla.html",
+ "title": "LOVUND Tenda LOVUND 1 x 140x245 cm color mandorla",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 9414,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "5098012",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5098012"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "5098012"
+    }
+   ]
+  },
+  "material": {
+   "value": "100% poliestere (50% riciclato)",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "100% poliestere (50% riciclato)"
+    }
+   ]
+  },
+  "care": {
+   "value": "40°C",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lavare",
+     "value": "40°C"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Candeggio",
+     "value": "Non candeggiare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Asciugatrice",
+     "value": "Non asciugare in asciugatrice"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Stiratura",
+     "value": "* Stirabile, a temperature basse (max. 110°C)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio a secco e a umido",
+     "value": "Lavaggio a secco professionale nei solventi elencati per il simbolo P e i solventi elencati per il simbolo F - programma normale"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Istruzioni",
+     "value": "Lavare con colori simili. Lavare e asciugare prima di fare l'orlo"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "1 x L140 x H245 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "1 x L140 x H245 cm"
+    }
+   ]
+  },
+  "certification": {
+   "value": "OEKO-TEX® STANDARD 100 ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "OEKO-TEX® STANDARD 100 "
+    }
+   ]
+  },
+  "weight": {
+   "value": "210 g/m².",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "210 g/m²."
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "A fiori",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Design",
+     "value": "A fiori"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Mandorla",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Mandorla"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Tinto e stampato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Metodo di colorazione",
+     "value": "Tinto e stampato"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Parte superiore della tenda": "Occhielli",
+  "Pezzo per pacchetto": "1 pezzo",
+  "Incl.": "Nastro per orli"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 16,
+  "L3": 1,
+  "dropped": 35
+ }
+}

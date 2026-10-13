@@ -1,0 +1,66 @@
+{
+ "url": "https://www.tecnomat.it/it/chiave-bussola-1-2-20-mm-10003004/",
+ "file": "it_chiave-bussola-1-2-20-mm-10003004.html",
+ "title": "Chiave bussola 1/2\" 20 mm chrome vanadium",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 871,
+ "attributes": {
+  "sku": {
+   "value": "10003004",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10003004"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10003004",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10003004"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "20 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misura della bussola",
+     "value": "20 mm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensione dell'attacco",
+     "value": "1/2\""
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 3
+ }
+}

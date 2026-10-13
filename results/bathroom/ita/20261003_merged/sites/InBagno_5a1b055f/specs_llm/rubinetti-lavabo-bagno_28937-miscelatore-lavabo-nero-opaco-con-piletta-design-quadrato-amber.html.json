@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/rubinetti-lavabo-bagno/28937-miscelatore-lavabo-nero-opaco-con-piletta-design-quadrato-amber.html",
+  "model": "qwen2.5:32b",
+  "html": "rubinetti-lavabo-bagno_28937-miscelatore-lavabo-nero-opaco-con-piletta-design-quadrato-amber.html.html",
+  "title": "Miscelatore lavabo nero opaco design quadrato Amber",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "4,2 cm",
+      "evidence": "Dimensioni: L 4,2 x P 10,9 x H 14,4 cm;",
+      "location": "body"
+    },
+    "height": {
+      "value": "14,4 cm",
+      "evidence": "Dimensioni: L 4,2 x P 10,9 x H 14,4 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "10,9 cm",
+      "evidence": "Dimensioni: L 4,2 x P 10,9 x H 14,4 cm;",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "Non include piletta di scarico; Set 2 flessibili inox 3/8\" G;",
+      "evidence": "Non include piletta di scarico; Set 2 flessibili inox 3/8\" G;",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3876,
+    "output_tokens": 687,
+    "seconds": 66.21
+  }
+}

@@ -1,0 +1,61 @@
+{
+ "url": "https://www.tecnomat.it/it/lama-multifunzione-bosch-32-x-50-mm-legn-10061192/",
+ "file": "it_lama-multifunzione-bosch-32-x-50-mm-legn-10061192.html",
+ "title": "Lama multifunzione bosch 32 x 50 mm legno metallo curved tech aiz 32 apb bim",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 789,
+ "attributes": {
+  "brand": {
+   "value": "BOSCH",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "BOSCH"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10061192",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10061192"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10061192",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10061192"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 2
+ }
+}

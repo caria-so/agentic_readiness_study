@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://termoidraulicarv.com/raccordi-tubi-e-accessori-dm-fit/raccordi-serie-grigia-in-resina-acetalica/terminale-dritto-dm-fit-filetto-nptf-38-m-innesto-rapido-516-8mm/",
+  "model": "qwen2.5:32b",
+  "html": "essori-dm-fit_raccordi-serie-grigia-in-resina-acetalica_terminale-dritto-dm-fit-filetto-nptf-38-m-innesto-rapido-516-8mm.html",
+  "title": "Terminale dritto DM fit filetto NPTF 3/8″ M – innesto rapido 5/16″ (8mm) – TermoidraulicaRV",
+  "text_chars": 4091,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "resina acetalica",
+      "evidence": "Questi raccordi DMfit sono in resina acetalica, conosciuta anche come POM, altamente durevole e resistente allo",
+      "location": "body"
+    },
+    "series": {
+      "value": "serie grigia",
+      "evidence": "raccordi serie grigia in resina acetalica",
+      "location": "body"
+    },
+    "certification": {
+      "value": "US FDA, WRAS, ANSI/NSF-51, 61, ACS, KWT e DVGW-W270",
+      "evidence": "DMfit sono prodotti fabbricati in materiali sicuri e non tossici in accordo con i requisiti della US FDA, WRAS, ANSI/NSF-51, 61, ACS, KWT e DVGW-W270.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "plumbing": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "attacco filettato NPTF maschio 3/8″, attacco ad innesto rapido 5/16″ (8mm)",
+        "evidence": "– Attacco filettato NPTF maschio 3/8″\n– attacco ad innesto rapido 5/16″ (8mm)"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2286,
+    "output_tokens": 709,
+    "seconds": 62.7
+  }
+}

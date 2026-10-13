@@ -1,0 +1,163 @@
+{
+ "url": "https://www.paramashop.it/detail/522d7d83a6974e1188a0d7b09770362a",
+ "file": "detail_522d7d83a6974e1188a0d7b09770362a.html",
+ "title": "Cassettone scorrevole 90cm grigio opaco chiusura soft-close | Bako",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4404,
+ "attributes": {
+  "gtin": {
+   "value": "5056738531403",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "5056738531403"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "MB07BAK90-C12",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "MB07BAK90-C12"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "90cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione",
+     "value": "90cm"
+    }
+   ]
+  },
+  "installation": {
+   "value": "A muro - incluso",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Fissaggio",
+     "value": "A muro - incluso"
+    }
+   ]
+  },
+  "depth": {
+   "value": "45,5cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Profondità",
+     "value": "45,5cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "RAL7012",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "RAL",
+     "value": "RAL7012"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Grigio"
+    }
+   ]
+  },
+  "height": {
+   "value": "33cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "33cm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Opaco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "Opaco"
+    }
+   ]
+  },
+  "material": {
+   "value": "MDF",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "MDF"
+    }
+   ]
+  },
+  "series": {
+   "value": "Bako",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Modello",
+     "value": "Bako"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Sospeso",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Sospeso"
+    }
+   ]
+  },
+  "sku": {
+   "value": "MB07BAK90-C12",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "MB07BAK90-C12"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 10,
+  "L3": 1,
+  "dropped": 8
+ }
+}

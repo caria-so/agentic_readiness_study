@@ -1,0 +1,13 @@
+https://accounts.shopbagno.it?locale=it&amp;region_country=IT&amp;buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzaG9wYmFnbm8ubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzkxNTU1MTcyLCJuYmYiOjE3OTA5NTAzNzJ9.WbzTN8YpRTpdYqyzbznokETqvyqEbMifm2OUuMxkcAU
+https://cdn.shopify.com
+https://cdn.shopify.com/s/files/1/0029/4358/2265/files/Transparent01_f02e8721-cbd3-4c29-b183-cfa43ede142d_x320.png?v=1630519210
+https://cdn.shopify.com/s/files/1/0029/4358/2265/files/rinsing-soapy-hands-in-water_2000x.jpg?v=1614283668
+https://cdn.shopify.com/storefront/web-components/chat.js
+https://extensions.shopifycdn.com/shopifycloud/checkout-web/assets/c1/polyfills-entry-modern.70q66_NX.worker.js
+https://fonts.shopifycdn.com
+https://monorail-edge.shopifysvc.com
+https://shop.app
+https://wa.me/3505825811
+https://widget.feedaty.com/v3.0.0/style/2021,carousel,carosello-1,selettore1.min.css
+https://www.feedaty.com/feedaty/widgetredirect?m=10215719&amp;object=widget-carousel
+https://www.feedaty.com/recensioni/shopbagno

@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/flessibile-universale-in-ottone-per-doccia-attacco-1-2-pollice-doppia-aggraffatura",
+  "model": "qwen2.5:32b",
+  "html": "products_flessibile-universale-in-ottone-per-doccia-attacco-1-2-pollice-doppia-aggraffatura.html",
+  "title": "Flessibile Universale In Ottone Per Doccia - Attacco 1/2 Pollice Doppia Aggraffatura",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Ottone",
+      "evidence": "Flessibile Universale In Ottone Per Doccia - Attacco 1/2 Pollice Doppia Aggraffatura",
+      "location": "title"
+    },
+    "plumbing": {
+      "value": "Attacco 1/2 Pollice Doppia Aggraffatura",
+      "evidence": "Flessibile Universale In Ottone Per Doccia - Attacco 1/2 Pollice Doppia Aggraffatura",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4005,
+    "output_tokens": 547,
+    "seconds": 57.57
+  }
+}

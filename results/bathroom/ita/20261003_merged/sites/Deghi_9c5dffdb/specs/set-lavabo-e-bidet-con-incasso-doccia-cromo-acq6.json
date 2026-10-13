@@ -1,0 +1,194 @@
+{
+ "url": "https://www.deghi.it/set-lavabo-e-bidet-con-incasso-doccia-cromo-acq6",
+ "file": "set-lavabo-e-bidet-con-incasso-doccia-cromo-acq6.html",
+ "title": "Set miscelatore lavabo e bidet con incasso doccia cromo – Kyria",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 11601,
+ "attributes": {
+  "sku": {
+   "value": "KYR-LBI",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "KYR-LBI"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "KYR-LBI"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Lavabo - Bidet - Doccia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia set",
+     "value": "Lavabo - Bidet - Doccia"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Miscelatore lavabo"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Acq+",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Marca",
+     "value": "Acq+"
+    }
+   ]
+  },
+  "series": {
+   "value": "Kyria",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Kyria"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Cromo"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ottone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale piastra",
+     "value": "Ottone"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Bidet | Doccia | Lavabo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Bidet | Doccia | Lavabo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Monoforo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "G3/8\""
+    },
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "A muro"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "1/2\"G"
+    }
+   ]
+  },
+  "height": {
+   "value": "15,4 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "15,4 cm"
+    }
+   ]
+  },
+  "length": {
+   "value": "11,1 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza canna",
+     "value": "11,1 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza canna",
+     "value": "10,7 cm"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Per piletta Click-Clack",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Scarico",
+     "value": "Per piletta Click-Clack"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "10 x 10 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione piastra",
+     "value": "10 x 10 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero elementi": "3 elementi",
+  "Azionamento": "Leva monocomando",
+  "Sezione base": "4,4 x 4,4 cm",
+  "Flessibili di collegamento": "Inclusi",
+  "Piletta": "Non inclusa",
+  "Corpo incasso": "Incluso"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 23,
+  "L3": 1,
+  "dropped": 11
+ }
+}

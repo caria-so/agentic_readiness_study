@@ -1,0 +1,37 @@
+{
+ "url": "https://www.iperceramica.it/it/ita/catalogo/box-doccia-angolare-prizma-cm-120x70-h195-est-118-120-66-68-porta-scorr-lato-fisso-cristallo-6-mm-trasp-inox-spazzolato",
+ "file": "_box-doccia-angolare-prizma-cm-120x70-h195-est-118-120-66-68-porta-scorr-lato-fisso-cristallo-6-mm-trasp-inox-spazzolato.html",
+ "title": "Box Doccia Angolare Prizma cm 120x70 H195 Est 118/120-68/70 Porta Scorr., Lato Fisso, Cristallo 6 mm Trasp., Inox Spazzolato",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 925,
+ "attributes": {
+  "sku": {
+   "value": "9023574",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "9023574"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

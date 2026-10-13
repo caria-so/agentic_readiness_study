@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/antrax-flat.html",
+  "model": "qwen2.5:32b",
+  "html": "antrax-flat.html.html",
+  "title": "Acquista Antrax Flat Radiatore Piastra",
+  "text_chars": 1793,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "acciaio inox",
+      "evidence": "Flat di Antrax è un radiatore a piastra moderno in acciaio inox adornata da una serie di originali forellini disposti in linea",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "-- Seleziona -- Flat VS - H172.5 x L37.5 (598W) Flat VS - H172.5 x L49.5 (797W) +85,10 € ...",
+      "evidence": "Dimensione: -- Seleziona -- Flat VS - H172.5 x L37.5 (598W) Flat VS - H172.5 x L49.5 (797W) +85,10 € ...",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "moderno",
+      "evidence": "Flat di Antrax è un radiatore a piastra moderno in acciaio inox adornata da una serie di originali forellini disposti in linea",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1710,
+    "output_tokens": 815,
+    "seconds": 64.84
+  }
+}

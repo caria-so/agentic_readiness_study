@@ -1,0 +1,112 @@
+{
+ "url": "https://www.arredobagno360.it/placca-sigma-50-geberit-115-670-dw-2.html",
+ "file": "placca-sigma-50-geberit-115-670-dw-2.html.html",
+ "title": "Sigma50 | Placca con 2 pulsanti square per cassetta WC, colore nero lucido-oro rosso",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1715,
+ "attributes": {
+  "sku": {
+   "value": "placca-sigma-50-geberit-115.670.DW.2",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "placca-sigma-50-geberit-115.670.DW.2"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice articolo",
+     "value": "115.670.DW.2"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "placca-sigma-50-geberit-115.670.DW.2",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "placca-sigma-50-geberit-115.670.DW.2"
+    }
+   ]
+  },
+  "series": {
+   "value": "Sigma50 | Placca con 2 pulsanti square per cassetta WC, colore nero lucido-oro rosso",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Sigma50 | Placca con 2 pulsanti square per cassetta WC, colore nero lucido-oro rosso"
+    }
+   ]
+  },
+  "material": {
+   "value": "telaio di fissaggio, 2 perni distanziatori, 2 perni di comando",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale in dotazione",
+     "value": "telaio di fissaggio, 2 perni distanziatori, 2 perni di comando"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Lega di metallo pressofuso / m ateriale sintetico"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Nero lucido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura Placca di copertura",
+     "value": "Nero lucido"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Finitura Piastra base e tasti",
+     "value": "Oro Rosso"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "24,6 x 16,4 x 1,3 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "24,6 x 16,4 x 1,3 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Forza di azionamento (N) max": "20 N",
+  "Proprietà": "azionamento frontale, perni di comando isolati acusticamente, regolazione veloce senza attrezzi"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 8,
+  "dropped": 3
+ }
+}

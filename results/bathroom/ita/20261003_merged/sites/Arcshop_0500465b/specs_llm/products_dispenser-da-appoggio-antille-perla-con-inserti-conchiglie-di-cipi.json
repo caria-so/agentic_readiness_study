@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/dispenser-da-appoggio-antille-perla-con-inserti-conchiglie-di-cipi",
+  "model": "qwen2.5:32b",
+  "html": "products_dispenser-da-appoggio-antille-perla-con-inserti-conchiglie-di-cipi.html",
+  "title": "Dispenser da appoggio Antille Perla con inserti conchiglie di Cipì | Arcshop",
+  "text_chars": 2958,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "18 cm",
+      "evidence": "Dimensioni: ø 9x18 h cm CP908/01",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "ø 9x18 h cm",
+      "evidence": "Dimensioni: ø 9x18 h cm CP908/01",
+      "location": "body"
+    },
+    "installation": {
+      "value": "da appoggio",
+      "evidence": "Dispenser da appoggio Antille Perla con inserti conchiglie di Cipì",
+      "location": "title"
+    },
+    "series": {
+      "value": "Antille Perla",
+      "evidence": "Dispenser da appoggio Antille Perla con inserti conchiglie di Cipì",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1850,
+    "output_tokens": 575,
+    "seconds": 48.15
+  }
+}

@@ -1,0 +1,191 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/tenda-doccia-foglia-in-poliestere-multicolore-l-240-x-h-200-cm-82404137.html",
+ "file": "prodotti_tenda-doccia-foglia-in-poliestere-multicolore-l-240-x-h-200-cm-82404137.html.html",
+ "title": "Tenda doccia Foglia in poliestere multicolore L 240 x H 200 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2807,
+ "attributes": {
+  "sku": {
+   "value": "82404137",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "82404137"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8024312053259",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8024312053259"
+    }
+   ]
+  },
+  "material": {
+   "value": "Poliestere",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Poliestere"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale occhielli",
+     "value": "Policarbonato"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Multicolore",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Multicolore"
+    }
+   ]
+  },
+  "width": {
+   "value": "240",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm)",
+     "value": "240"
+    }
+   ]
+  },
+  "height": {
+   "value": "200",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm)",
+     "value": "200"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "7",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore (in mm)",
+     "value": "7"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Impermeabile",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di impermeabilità",
+     "value": "Impermeabile"
+    }
+   ]
+  },
+  "care": {
+   "value": "Lavaggio in lavatrice 30°C",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Manutenzione",
+     "value": "Lavaggio in lavatrice 30°C"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "2"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Italia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Paese di fabbricazione",
+     "value": "Italia"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "14",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "14"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "7"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "24"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.56",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.56"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Tema": "Natura",
+  "Decorazione": "Disegni",
+  "Orlo con contrappeso": "Sì",
+  "Regolabile in larghezza": "No",
+  "Anelli": "Non incluso",
+  "Numero di occhielli": "16"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 20,
+  "L3": 0,
+  "dropped": 0
+ }
+}

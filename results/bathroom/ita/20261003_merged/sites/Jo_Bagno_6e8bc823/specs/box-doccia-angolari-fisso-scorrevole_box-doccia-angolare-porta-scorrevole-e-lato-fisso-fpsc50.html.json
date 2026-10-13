@@ -1,0 +1,99 @@
+{
+ "url": "https://jo-bagno.it/box-doccia-angolari-fisso-scorrevole/box-doccia-angolare-porta-scorrevole-e-lato-fisso-fpsc50.html",
+ "file": "box-doccia-angolari-fisso-scorrevole_box-doccia-angolare-porta-scorrevole-e-lato-fisso-fpsc50.html.html",
+ "title": "Box doccia angolare porta scorrevole e lato fisso FPSC50",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3259,
+ "attributes": {
+  "brand": {
+   "value": "Tamanaco",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Tamanaco"
+    }
+   ]
+  },
+  "sku": {
+   "value": "FPSC50+LF",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "FPSC50+LF"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Angolare",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Installazione",
+     "value": "Angolare"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Scorrevole + Lato fisso",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Apertura Porta",
+     "value": "Scorrevole + Lato fisso"
+    }
+   ]
+  },
+  "weight": {
+   "value": "60 Kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "60 Kg"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "ø300 mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "ø300 mm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misura",
+     "value": "da 120/140/160/170 cm H200 8 mm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Varie Misure": "100|180×70|100xh200 cm"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 6,
+  "dropped": 6
+ }
+}

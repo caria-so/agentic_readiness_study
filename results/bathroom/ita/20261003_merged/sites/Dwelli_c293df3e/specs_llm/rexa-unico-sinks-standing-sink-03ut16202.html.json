@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.com/rexa-unico-sinks-standing-sink-03ut16202.html",
+  "model": "qwen2.5:32b",
+  "html": "rexa-unico-sinks-standing-sink-03ut16202.html.html",
+  "title": "Rexa Unico Sinks standing sink 03UT16202  | Dwellistore",
+  "text_chars": 917,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Corian",
+      "evidence": "Rexa Unico Sinks, standing sink cylindrical in Corian with free flow drain and drain plug in Corian",
+      "location": "body"
+    },
+    "colour": {
+      "value": "white glacier",
+      "evidence": "in white glacier finish.",
+      "location": "body"
+    },
+    "height": {
+      "value": "80cm h",
+      "evidence": "Dimension= 80cm h and Diameter= 41Ø.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "Dimension= 80cm h and Diameter= 41Ø.",
+      "evidence": "Dimension= 80cm h and Diameter= 41Ø.",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "free flow drain and drain plug",
+      "evidence": "with free flow drain and drain plug in Corian",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "cylindrical",
+      "evidence": "standing sink cylindrical in Corian",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "standing",
+        "evidence": "Rexa Unico Sinks standing sink cylindrical in Corian with free flow drain and drain plug in Corian"
+      }
+    },
+    "series": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Unico Sinks",
+        "evidence": "Rexa Unico Sinks standing sink cylindrical in Corian with free flow drain and drain plug in Corian"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1099,
+    "output_tokens": 608,
+    "seconds": 49.93
+  }
+}

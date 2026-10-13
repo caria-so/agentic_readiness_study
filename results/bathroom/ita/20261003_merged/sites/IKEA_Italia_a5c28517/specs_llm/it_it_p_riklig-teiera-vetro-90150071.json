@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/riklig-teiera-vetro-90150071/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_riklig-teiera-vetro-90150071.html",
+  "title": "RIKLIG Teiera, vetro. Scopri i dettagli del prodotto.  - IKEA Italia",
+  "text_chars": 2500,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "15 cm",
+      "evidence": "Larghezza: 15 cm",
+      "location": "body"
+    },
+    "length": {
+      "value": "22 cm",
+      "evidence": "Lunghezza: 22 cm",
+      "location": "body"
+    },
+    "weight": {
+      "value": "0.48 kg",
+      "evidence": "Peso: 0.48 kg",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni di garanzia",
+      "evidence": "2 2 anni di garanzia",
+      "location": "body"
+    },
+    "care": {
+      "value": "La parte in vetro è lavabile in lavastoviglie. Il coperchio va lavato a mano.",
+      "evidence": "Cura\nLa parte in vetro è lavabile in lavastoviglie. Il coperchio va lavato a mano.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "RIKLIG",
+        "evidence": "Teiera, vetro, 1.5 l"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA",
+        "evidence": "RIKLIG Teiera, vetro. Scopri i dettagli del prodotto. - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1742,
+    "output_tokens": 657,
+    "seconds": 56.44
+  }
+}

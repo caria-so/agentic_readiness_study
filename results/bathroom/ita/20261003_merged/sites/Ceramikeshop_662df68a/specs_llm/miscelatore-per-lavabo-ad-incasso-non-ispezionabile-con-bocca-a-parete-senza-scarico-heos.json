@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/miscelatore-per-lavabo-ad-incasso-non-ispezionabile-con-bocca-a-parete-senza-scarico-heos",
+  "model": "qwen2.5:32b",
+  "html": "miscelatore-per-lavabo-ad-incasso-non-ispezionabile-con-bocca-a-parete-senza-scarico-heos.html",
+  "title": "Miscelatore lavabo non ispezionabile senza scarico Heos | Gaboli",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromo",
+      "evidence": "Collezione Heos versione cromo.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "ad incasso",
+      "evidence": "Miscelatore per lavabo ad incasso non ispezionabile con bocca a parete senza scarico.",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "senza scarico",
+      "evidence": "Miscelatore per lavabo ad incasso non ispezionabile con bocca a parete senza scarico.",
+      "location": "body"
+    },
+    "series": {
+      "value": "Heos",
+      "evidence": "Collezione Heos versione cromo.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4729,
+    "output_tokens": 543,
+    "seconds": 61.19
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "company": "ShopBagno",
+  "url": "https://www.shopbagno.it/",
+  "site_dir": "discovery_round_final_e/sites/ShopBagno_212db257",
+  "final_url": "https://www.shopbagno.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.413119",
+  "http_status": 200,
+  "fetch_ms": 27047.2,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.shopbagno.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/ShopBagno_212db257/index.html",
+      "count": 535731,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.shopbagno.it/sitemap_products_1.xml?from=710916210745&to=15424845283651",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/ShopBagno_212db257/sitemap.json",
+      "count": 791,
+      "total_available": 791,
+      "truncated": false,
+      "product_url_count": 681,
+      "product_total_available": 681
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/ShopBagno_212db257/jsonld.json",
+      "count": 4,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": true,
+      "url": "https://www.shopbagno.it/llms.txt",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/ShopBagno_212db257/llms_txt.json",
+      "count": 2,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/ShopBagno_212db257/links.json",
+      "count": 344,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": true,
+    "links": true
+  },
+  "error_details": ""
+}

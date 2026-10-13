@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/pavimenti-interni/928-berti-pavimenti-in-legno.html",
+  "model": "qwen2.5:32b",
+  "html": "pavimenti-interni_928-berti-pavimenti-in-legno.html.html",
+  "title": "Berti pavimenti in legno | Bagno di Stile",
+  "text_chars": 3891,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "legno",
+      "evidence": "Berti pavimenti in legno",
+      "location": "title"
+    },
+    "origin": {
+      "value": "Italia",
+      "evidence": "interamente prodotti in Italia nella sede di Villa del Conte.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2486,
+    "output_tokens": 480,
+    "seconds": 43.32
+  }
+}

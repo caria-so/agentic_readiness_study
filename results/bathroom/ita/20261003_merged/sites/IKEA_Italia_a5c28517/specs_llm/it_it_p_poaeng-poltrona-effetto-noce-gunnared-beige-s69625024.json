@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/poaeng-poltrona-effetto-noce-gunnared-beige-s69625024/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_poaeng-poltrona-effetto-noce-gunnared-beige-s69625024.html",
+  "title": "POÄNG poltrona, effetto noce/Gunnared beige  - IKEA Italia",
+  "text_chars": 3212,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "effetto noce",
+      "evidence": "POÄNG poltrona, effetto noce/Gunnared beige - IKEA Italia",
+      "location": "title"
+    },
+    "colour": {
+      "value": "Gunnared beige",
+      "evidence": "POÄNG poltrona, effetto noce/Gunnared beige - IKEA Italia",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "sedia a dondolo",
+      "evidence": "La sedia a dondolo POÄNG, in legno curvato dalle linee sinuose e di stile",
+      "location": "body"
+    },
+    "series": {
+      "value": "POÄNG",
+      "evidence": "POÄNG poltrona, effetto noce/Gunnared beige - IKEA Italia",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "10 anni di garanzia",
+      "evidence": "10 10 anni di garanzia",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA",
+        "evidence": "POÄNG poltrona, effetto noce/Gunnared beige - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2092,
+    "output_tokens": 960,
+    "seconds": 81.25
+  }
+}

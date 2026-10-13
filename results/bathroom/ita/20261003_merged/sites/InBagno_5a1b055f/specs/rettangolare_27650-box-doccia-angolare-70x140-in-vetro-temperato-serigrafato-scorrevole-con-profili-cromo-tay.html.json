@@ -1,0 +1,134 @@
+{
+ "url": "https://www.inbagno.it/rettangolare/27650-box-doccia-angolare-70x140-in-vetro-temperato-serigrafato-scorrevole-con-profili-cromo-tay.html",
+ "file": "rettangolare_27650-box-doccia-angolare-70x140-in-vetro-temperato-serigrafato-scorrevole-con-profili-cromo-tay.html.html",
+ "title": "Box doccia angolare 70x140 in vetro temperato serigrafato scorrevole con profili cromo Tay",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 11582,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Inbagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Inbagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "106690",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "106690"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "106690"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8054346075897",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8054346075897"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "106690",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "106690"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "box doccia angolare con porta scorrevole e lato fisso;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "box doccia angolare con porta scorrevole e lato fisso;"
+    }
+   ]
+  },
+  "series": {
+   "value": "Tay;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Linea",
+     "value": "Tay;"
+    }
+   ]
+  },
+  "material": {
+   "value": "vetro temperato;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "vetro temperato;"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "5 mm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessore vetro",
+     "value": "5 mm;"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L 142 x P 70 x H 195 cm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "L 142 x P 70 x H 195 cm;"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Tolleranza di regolazione": "2 cm;"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 6,
+  "dropped": 10
+ }
+}

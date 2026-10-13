@@ -1,0 +1,137 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/diffusore-irrigatore-a-pioggia-claber-pop-up-90-l-0-1-m-31403015.html",
+ "file": "prodotti_diffusore-irrigatore-a-pioggia-claber-pop-up-90-l-0-1-m-31403015.html.html",
+ "title": "Diffusore irrigatore a pioggia CLABER Pop-up 90° L 0.1 m",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9305,
+ "attributes": {
+  "brand": {
+   "value": "CLABER",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "CLABER"
+    }
+   ]
+  },
+  "sku": {
+   "value": "31403015",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "31403015"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8000625900978",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8000625900978"
+    }
+   ]
+  },
+  "material": {
+   "value": "ABS",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "ABS"
+    }
+   ]
+  },
+  "length": {
+   "value": "0.1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza (in m)",
+     "value": "0.1"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "3.7",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "3.7"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "3.7"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "15.9"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.07",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.07"
+    }
+   ]
+  },
+  "height": {
+   "value": "10",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza (in cm)",
+     "value": "10"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "Claber SpA",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "Claber SpA"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Home Index": "B"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 6,
+  "L3": 3,
+  "dropped": 26
+ }
+}

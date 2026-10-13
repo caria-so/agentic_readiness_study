@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.it/lavabi-villeroy-boch-la-belle-lavabo-6124-11.html",
+  "model": "qwen2.5:32b",
+  "html": "lavabi-villeroy-boch-la-belle-lavabo-6124-11.html.html",
+  "title": "Lavabi Villeroy&Boch La Belle lavabo 6124 11 | Dwellistore",
+  "text_chars": 768,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "bianco alpin Ceramic Plus",
+      "evidence": "L'inserzione di riferisce all'articolo cod. 6124 11 bianco alpin Ceramic Plus.",
+      "location": "body"
+    },
+    "width": {
+      "value": "1000 mm",
+      "evidence": "Lavabi Villeroy&Boch La Belle, lavabo 1000x490 mm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "490 mm",
+      "evidence": "Lavabi Villeroy&Boch La Belle, lavabo 1000x490 mm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "1000x490 mm",
+      "evidence": "Lavabi Villeroy&Boch La Belle, lavabo 1000x490 mm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "con 2 viti ad asta M10x120mm",
+      "evidence": "Fissaggio con 2 viti ad asta M10x120mm.",
+      "location": "body"
+    },
+    "series": {
+      "value": "La Belle",
+      "evidence": "Lavabi Villeroy&Boch La Belle lavabo 6124 11",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "plumbing": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "per rubinetteria a 3 fori, foro rubinetteria centrale perforato. incl. piletta di scarico non chiudibile e con copertura dello scarico in ceramica.",
+        "evidence": "Lavabi Villeroy&Boch La Belle, lavabo 1000x490 mm, per rubinetteria a 3 fori, foro rubinetteria centrale perforato. Fissaggio con 2 viti ad asta M10x120mm. incl. piletta di scarico non chiudibile e con copertura dello scarico in ceramica."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1144,
+    "output_tokens": 789,
+    "seconds": 93.62
+  }
+}

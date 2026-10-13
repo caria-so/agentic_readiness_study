@@ -1,0 +1,61 @@
+{
+ "url": "https://www.mondoconv.it/erika-kgr0.html",
+ "file": "erika-kgr0.html.html",
+ "title": "CONFIGURA IL TUO DIVANO",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1516,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Mondo Convenienza",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Mondo Convenienza"
+    }
+   ]
+  },
+  "sku": {
+   "value": "KGR0",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "KGR0"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "KGR0",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "KGR0"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

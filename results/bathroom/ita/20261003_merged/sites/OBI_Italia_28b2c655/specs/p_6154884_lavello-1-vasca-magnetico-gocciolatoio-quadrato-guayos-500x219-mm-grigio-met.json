@@ -1,0 +1,48 @@
+{
+ "url": "https://www.obi-italia.it/p/6154884/lavello-1-vasca-magnetico-gocciolatoio-quadrato-guayos-500x219-mm-grigio-met",
+ "file": "p_6154884_lavello-1-vasca-magnetico-gocciolatoio-quadrato-guayos-500x219-mm-grigio-met.html",
+ "title": "Lavello 1 vasca magnetico gocciolatoio quadrato Guayos 500x219 mm Grigio met",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1323,
+ "attributes": {
+  "sku": {
+   "value": "6154884",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "6154884"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "5908212095010",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "5908212095010"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "Idrostile GDO Service SRL Piemonte 16 20090 Buccinasco IT info@idrostilegdo.com EAN(s): [ 5908212095010 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/set-doccia-completi/27140-set-doccia-a-incasso-completo-nero-opaco-con-braccio-35cm-soffione-30cm-miscelatore-e-kit-doccino-flat.html",
+  "model": "qwen2.5:32b",
+  "html": "mpleti_27140-set-doccia-a-incasso-completo-nero-opaco-con-braccio-35cm-soffione-30cm-miscelatore-e-kit-doccino-flat.html.html",
+  "title": "Set doccia a incasso completo nero opaco con braccio 35cm, soffione 30cm, miscelatore e kit doccino Flat",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "Ø 1,8 cm",
+      "evidence": "Dimensioni braccio: L 35 cm, spessore Ø 1,8 cm;",
+      "location": "body"
+    },
+    "installation": {
+      "value": "ad incasso",
+      "evidence": "Kit per la doccia ad incasso in nero opaco completo di braccio 35cm, soffione 30cm, miscelatore a due vie e kit doccino linea Flat",
+      "location": "body"
+    },
+    "series": {
+      "value": "Flat",
+      "evidence": "Kit per la doccia ad incasso in nero opaco completo di braccio 35cm, soffione 30cm, miscelatore a due vie e kit doccino linea Flat",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3916,
+    "output_tokens": 798,
+    "seconds": 73.04
+  }
+}

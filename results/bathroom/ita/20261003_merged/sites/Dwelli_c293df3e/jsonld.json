@@ -1,0 +1,65 @@
+{
+  "source": "https://dwellistore.it/",
+  "generated": "2026-10-01T17:07:44.571509",
+  "block_count": 2,
+  "types": [
+    "ContactPoint",
+    "Organization",
+    "SearchAction",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 831,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://dwellistore.it/",
+        "name": "Dwelli Srls",
+        "logo": "https://dwellistore.com/media/logo/default/logo-dwelli-web.png",
+        "description": "Online Bathroom supply - Bathrooms Made in Italy - Dwelli is an e-commerce bathroom furniture made in Italy. Join us to discover all the news.",
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "telephone": "+393393540030",
+            "contactType": "technical support"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+393393540030",
+            "contactType": "customer service"
+          }
+        ],
+        "address": {
+          "addressCountry": "IT",
+          "postalCode": "76121",
+          "addressRegion": "BA",
+          "addressLocality": "Conversano",
+          "streetAddress": "Via Mancini, 31"
+        },
+        "sameAs": [
+          "https://www.facebook.com/dwellistore/",
+          "https://www.instagram.com/dwelli_store/",
+          "https://www.linkedin.com/company/dwelli/"
+        ]
+      }
+    },
+    {
+      "index": 1,
+      "chars": 264,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://dwellistore.it/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://dwellistore.it/catalogsearch/result/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    }
+  ]
+}

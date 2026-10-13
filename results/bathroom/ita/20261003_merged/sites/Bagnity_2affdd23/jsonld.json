@@ -1,0 +1,63 @@
+{
+  "source": "https://www.bagnity.com/it/",
+  "generated": "2026-10-02T16:17:01.017820",
+  "block_count": 2,
+  "types": [
+    "FurnitureStore",
+    "PostalAddress",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 112,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "url": "https://www.bagnity.com/it/",
+        "name": "Bagnity"
+      }
+    },
+    {
+      "index": 1,
+      "chars": 1053,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "FurnitureStore",
+        "name": "Bagnity",
+        "url": "https://www.bagnity.com/it/",
+        "logo": "https://www.bagnity.com/static/version1790670626/frontend/Magenio/bagnity-hyva/it_IT/images/bagnity-logo.png",
+        "slogan": "Il negozio di accessori bagno dal design italiano. Con Bagnity i tuoi spazi e i tuoi sogni di relax prendono forma in meno di 4 giorni.",
+        "description": "Bagnity propone una vasta gamma di prodotti di qualità e design per il tuo bagno. Realizza il tuo sogno di relax!",
+        "openingHours": [
+          "Tu-Fr 9:00-12:30",
+          "Tu-Fr 15:00-18:30",
+          "Sa 9:00-12:30"
+        ],
+        "telephone": [
+          "+39 376 04 71 290",
+          "+39 328 56 76 201"
+        ],
+        "email": [
+          "info@bagnity.com",
+          "soave@bagnity.com"
+        ],
+        "SameAs": [
+          "https://www.facebook.com/Bagnity/\", \"https://www.instagram.com/bagnitymag/",
+          "https://www.tiktok.com/@bagnity",
+          "https://www.pinterest.it/BagnityStore/"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Viale del Commercio, 5",
+          "postalCode": "37038",
+          "addressLocality": "Soave",
+          "addressRegion": "Verona",
+          "addressCountry": "IT"
+        }
+      }
+    }
+  ]
+}

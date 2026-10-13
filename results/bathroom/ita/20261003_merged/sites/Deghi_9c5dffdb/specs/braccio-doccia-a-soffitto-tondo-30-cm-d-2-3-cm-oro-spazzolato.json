@@ -1,0 +1,104 @@
+{
+ "url": "https://www.deghi.it/braccio-doccia-a-soffitto-tondo-30-cm-d-2-3-cm-oro-spazzolato",
+ "file": "braccio-doccia-a-soffitto-tondo-30-cm-d-2-3-cm-oro-spazzolato.html",
+ "title": "Braccio doccia a soffitto tondo 30 cm D 2,3 cm oro spazzolato",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9566,
+ "attributes": {
+  "sku": {
+   "value": "BSR-32RZ",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "BSR-32RZ"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "BSR-32RZ"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Braccio doccia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Braccio doccia"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Soffitto",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Soffitto"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "1/2\"G"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Oro spazzolato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore braccio",
+     "value": "Oro spazzolato"
+    }
+   ]
+  },
+  "length": {
+   "value": "30 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza braccio",
+     "value": "30 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ottone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale braccio",
+     "value": "Ottone"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Sezione braccio": "Ø 2,3 cm"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 7,
+  "L3": 1,
+  "dropped": 7
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "url": "https://ceramikeshop.it/griglia-rettangolare-da-incollo-easy-moderno",
+ "file": "griglia-rettangolare-da-incollo-easy-moderno.html",
+ "title": "Griglia rettangolare da incollo Easy | Moderno | Capannoli",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8726,
+ "attributes": {
+  "brand": {
+   "value": "Capannoli",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Capannoli"
+    }
+   ]
+  },
+  "sku": {
+   "value": "CPNNL/CT117R",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "CPNNL/CT117R"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8020865609585",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8020865609585"
+    },
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8020865609585"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "CPNNL/CT117R",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "CPNNL/CT117R"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore Principale",
+     "value": "Cromato"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Contiene Legno": "NO",
+  "Spray": "NO",
+  "Contatto con Alimenti": "NO"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 5,
+  "L3": 0,
+  "dropped": 1
+ }
+}

@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/porta-doccia-saloon-sax-est-77-81-cristallo-6-mm-trasparente-profili-cromo",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_porta-doccia-saloon-sax-est-77-81-cristallo-6-mm-trasparente-profili-cromo.html",
+  "title": "Porta Doccia Saloon Sax Est 77/81 Cristallo 6 mm Trasparente Profili Cromo - Iperceramica",
+  "text_chars": 1280,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Cristallo",
+      "evidence": "Cristallo spessore 6 mm Trasparente.",
+      "location": "body"
+    },
+    "finish": {
+      "value": "Cromo",
+      "evidence": "Profili in alluminio anodizzato finitura Cromo.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Trasparente",
+      "evidence": "Cristallo spessore 6 mm Trasparente.",
+      "location": "body"
+    },
+    "height": {
+      "value": "H200",
+      "evidence": "SAX Porta a saloon cm. 77-81 H200 reversibile.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "cm. 77-81 H200",
+      "evidence": "SAX Porta a saloon cm. 77-81 H200 reversibile.",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "6 mm",
+      "evidence": "Cristallo spessore 6 mm Trasparente.",
+      "location": "body"
+    },
+    "opening": {
+      "value": "reversibile",
+      "evidence": "SAX Porta a saloon cm. 77-81 H200 reversibile.",
+      "location": "body"
+    },
+    "series": {
+      "value": "SAX",
+      "evidence": "Porta Doccia Saloon Sax Est 77/81 Cristallo 6 mm Trasparente Profili Cromo - Iperceramica",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "Porta Doccia Saloon Sax Est 77/81 Cristallo 6 mm Trasparente Profili Cromo - Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1544,
+    "output_tokens": 668,
+    "seconds": 56.27
+  }
+}

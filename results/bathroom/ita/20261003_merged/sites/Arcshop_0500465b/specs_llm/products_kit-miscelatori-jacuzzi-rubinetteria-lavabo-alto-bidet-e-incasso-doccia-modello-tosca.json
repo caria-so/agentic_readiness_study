@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/kit-miscelatori-jacuzzi-rubinetteria-lavabo-alto-bidet-e-incasso-doccia-modello-tosca",
+  "model": "qwen2.5:32b",
+  "html": "products_kit-miscelatori-jacuzzi-rubinetteria-lavabo-alto-bidet-e-incasso-doccia-modello-tosca.html",
+  "title": "Kit miscelatori Jacuzzi Rubinetteria lavabo alto bidet e incasso doccia modello Tosca | Arcshop",
+  "text_chars": 3310,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "ottone",
+      "evidence": "Set miscelatori Jacuzzi Rubinetteria Tosca lavabo alto e bidet per piletta click clack e incasso doccia in ottone cromato",
+      "location": "body"
+    },
+    "finish": {
+      "value": "cromato",
+      "evidence": "Set miscelatori Jacuzzi Rubinetteria Tosca lavabo alto e bidet per piletta click clack e incasso doccia in ottone cromato",
+      "location": "body"
+    },
+    "series": {
+      "value": "Tosca",
+      "evidence": "Kit miscelatori Jacuzzi Rubinetteria lavabo alto bidet e incasso doccia modello Tosca",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "10 Anni",
+      "evidence": "Esaurito Garanzia: 10 Anni",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Kit miscelatori Jacuzzi Rubinetteria lavabo alto bidet e incasso doccia modello Tosca"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1964,
+    "output_tokens": 651,
+    "seconds": 53.88
+  }
+}

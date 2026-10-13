@@ -1,0 +1,125 @@
+{
+ "url": "https://www.arredobagno360.it/antrax-flat.html",
+ "file": "antrax-flat.html.html",
+ "title": "Flat V | Termoarredo Design ad acqua, varie misure e colori",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1793,
+ "attributes": {
+  "sku": {
+   "value": "antrax-flat",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "antrax-flat"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "antrax-flat",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "antrax-flat"
+    }
+   ]
+  },
+  "series": {
+   "value": "Flat V | Termoarredo Design ad acqua, varie misure e colori",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Flat V | Termoarredo Design ad acqua, varie misure e colori"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Modello",
+     "value": "Flat V"
+    }
+   ]
+  },
+  "weight": {
+   "value": "29.0000 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "29.0000 KGM"
+    }
+   ]
+  },
+  "finish": {
+   "value": "-- Seleziona -- Bianco Opaco [BCOR] Nero Opaco [NEOP] Colore (a scelta dal campionario) +172,02 €",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "-- Seleziona -- Bianco Opaco [BCOR] Nero Opaco [NEOP] Colore (a scelta dal campionario) +172,02 €"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Antrax",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Antrax"
+    }
+   ]
+  },
+  "installation": {
+   "value": "attacco standard [X] (scarica la scheda tecnica qui sotto)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Attacchi",
+     "value": "attacco standard [X] (scarica la scheda tecnica qui sotto)"
+    }
+   ]
+  },
+  "colour": {
+   "value": "a scelta",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore e finiture",
+     "value": "a scelta"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Funzionamento": "ad acqua",
+  "Staffe di fissaggio": "incluse",
+  "Valvola di sfiato": "inclusa"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 7,
+  "dropped": 3
+ }
+}

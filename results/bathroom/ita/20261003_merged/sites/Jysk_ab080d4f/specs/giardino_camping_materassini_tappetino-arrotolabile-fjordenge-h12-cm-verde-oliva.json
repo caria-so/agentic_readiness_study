@@ -1,0 +1,109 @@
+{
+ "url": "https://jysk.it/giardino/camping/materassini/tappetino-arrotolabile-fjordenge-h12-cm-verde-oliva",
+ "file": "giardino_camping_materassini_tappetino-arrotolabile-fjordenge-h12-cm-verde-oliva.html",
+ "title": "FJORDENGE Tappetino arrotolabile FJORDENGE H1,2 cm verde oliva",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 9474,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "4700024",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "4700024"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "4700024"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Larghezza 55 cm, Lunghezza 190 cm, Altezza 1,2 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Larghezza 55 cm, Lunghezza 190 cm, Altezza 1,2 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni non montato",
+     "value": "Larghezza 18 cm, Lunghezza 55 cm, Altezza 18 cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.3 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "0.3 kg"
+    }
+   ]
+  },
+  "material": {
+   "value": "Schiuma di polietilene a reticolato ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Schiuma di polietilene a reticolato "
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Per un uso quotidiano": "No"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 6,
+  "L3": 1,
+  "dropped": 35
+ }
+}

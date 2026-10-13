@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/reverse-osmosis-and-microfiltration/reverse-osmosis-systems/edenya-pure-watereasy-pro-reverse-osmosis-system-180-litres-per-hour/",
+  "model": "qwen2.5:32b",
+  "html": "osmosis-and-microfiltration_reverse-osmosis-systems_edenya-pure-watereasy-pro-reverse-osmosis-system-180-litres-per-hour.html",
+  "title": "Edenya Pure WaterEasy PRO Reverse Osmosis System 180 litres per hour – TermoidraulicaRV",
+  "text_chars": 4620,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "11 cm",
+      "evidence": "Larghezza\n11 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "46 cm",
+      "evidence": "Altezza\n46 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "43 cm",
+      "evidence": "Profondità\n43 cm",
+      "location": "body"
+    },
+    "weight": {
+      "value": "15 kg",
+      "evidence": "Peso a secco\n15 kg",
+      "location": "body"
+    },
+    "water": {
+      "value": "180 lt/h*",
+      "evidence": "Produzione\n180 lt/h*",
+      "location": "body"
+    },
+    "series": {
+      "value": "Pure Water New PRO",
+      "evidence": "Model\n–\nPure Water New PRO",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Edenya",
+      "evidence": "Edenya Pure WaterEasy PRO Reverse Osmosis System 180 litres per hour",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "electrical": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "230VAC-50/60Hz, Potenza massima assorbita 90 Watt",
+        "evidence": "Alimentazione elettrica\n230VAC-50/60Hz\nPotenza massima assorbita\n90 Watt"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2027,
+    "output_tokens": 597,
+    "seconds": 52.93
+  }
+}

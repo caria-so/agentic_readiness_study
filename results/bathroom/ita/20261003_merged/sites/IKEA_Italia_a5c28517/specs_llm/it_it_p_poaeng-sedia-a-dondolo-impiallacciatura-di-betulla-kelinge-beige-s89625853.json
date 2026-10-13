@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/poaeng-sedia-a-dondolo-impiallacciatura-di-betulla-kelinge-beige-s89625853/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_poaeng-sedia-a-dondolo-impiallacciatura-di-betulla-kelinge-beige-s89625853.html",
+  "title": "POÄNG sedia a dondolo, impiallacciatura di betulla/Kelinge beige  - IKEA Italia",
+  "text_chars": 3230,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Kelinge beige",
+      "evidence": "POÄNG sedia a dondolo, impiallacciatura di betulla/Kelinge beige",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "linee sinuose e di stile",
+      "evidence": "La sedia a dondolo POÄNG, in legno curvato dalle linee sinuose e di stile",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "10 anni di garanzia",
+      "evidence": "10 10 anni di garanzia",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Vernice trasparente",
+        "evidence": "Struttura per sedia a dondolo: Multistrato di impiallacciatura di legno, Impiallacciatura di betulla, Vernice trasparente"
+      }
+    },
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "POÄNG",
+        "evidence": "Sedia a dondolo, impiallacciatura di betulla/Kelinge beige"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA Italia",
+        "evidence": "POÄNG sedia a dondolo, impiallacciatura di betulla/Kelinge beige - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2105,
+    "output_tokens": 802,
+    "seconds": 69.07
+  }
+}

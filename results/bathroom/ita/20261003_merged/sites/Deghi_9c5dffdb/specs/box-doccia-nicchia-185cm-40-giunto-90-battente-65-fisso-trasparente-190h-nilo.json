@@ -1,0 +1,217 @@
+{
+ "url": "https://www.deghi.it/box-doccia-nicchia-185cm-40-giunto-90-battente-65-fisso-trasparente-190h-nilo",
+ "file": "box-doccia-nicchia-185cm-40-giunto-90-battente-65-fisso-trasparente-190h-nilo.html",
+ "title": "Box doccia nicchia 185cm 40 giunto + 90 battente + 65 fisso trasparente 195h - Nilo",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 11239,
+ "attributes": {
+  "sku": {
+   "value": "NIL4965",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "NIL4965"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "NIL4965"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Nicchia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Nicchia"
+    }
+   ]
+  },
+  "width": {
+   "value": "185 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "185 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza da - a",
+     "value": "185 cm | 189 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza massima 1 profilo",
+     "value": "191,5 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza massima 2 profili",
+     "value": "194 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "195 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "195 cm"
+    }
+   ]
+  },
+  "series": {
+   "value": "Nilo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Nilo"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Battente",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Apertura",
+     "value": "Battente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Sistema di apertura",
+     "value": "Maniglia"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Chiusura",
+     "value": "Magnetica"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Si",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione Reversibile",
+     "value": "Si"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Braccio di sostegno",
+     "value": "Incluso"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Su piatto doccia | Filopavimento"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "78 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione Entrata",
+     "value": "78 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Vetro temperato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale anta",
+     "value": "Vetro temperato"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale profilo",
+     "value": "Alluminio"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Trasparente",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura anta",
+     "value": "Trasparente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Finitura profilo",
+     "value": "Cromato"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "6 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore anta",
+     "value": "6 mm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore profilo",
+     "value": "Cromo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore maniglie o pomelli",
+     "value": "Cromo"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Su piatto doccia": "| Filopavimento",
+  "Regolabile": "Si",
+  "Estensibile": "Tramite profilo \"Nilo cromo\" - € 35"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 24,
+  "L3": 1,
+  "dropped": 13
+ }
+}

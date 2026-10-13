@@ -1,0 +1,86 @@
+{
+ "url": "https://www.tecnomat.it/it/fascet-stringitub-inox-303-d-10-16mm-4pz-10026690/",
+ "file": "it_fascet-stringitub-inox-303-d-10-16mm-4pz-10026690.html",
+ "title": "Fascette stringitubo friulsider acciaio inox 203 ez sae Ø 10-16 mm 4 pezzi",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1391,
+ "attributes": {
+  "brand": {
+   "value": "FRIULSIDER",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "FRIULSIDER"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10026690",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10026690"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10026690",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10026690"
+    }
+   ]
+  },
+  "installation": {
+   "value": "4",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di pezzi",
+     "value": "4"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "0,7",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore (in mm)",
+     "value": "0,7"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Diametro minimo (in mm)": "10",
+  "Diametro massimo (in mm)": "16"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": true,
+  "manufacturer_text": "FRIULSIDER SPA VIA TRIESTE VILLANOVA DEL JUDRIO 1 33048, SAN GIOVANNI AL NATISONE Italia Persona responsabile nell'UE : Questa informazione non è attualmente disponibile sul nostro sito. Ti consigliamo di contattare direttamente il venditor"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 4,
+  "L3": 0,
+  "dropped": 4
+ }
+}

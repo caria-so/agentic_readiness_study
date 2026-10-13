@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/althea/copriwater-wc-florence-ceramica-althea-termoindurente.html",
+  "model": "qwen2.5:32b",
+  "html": "althea_copriwater-wc-florence-ceramica-althea-termoindurente.html.html",
+  "title": "Copriwater WC Florence Ceramica Althea Termoindurente",
+  "text_chars": 2983,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "34,3 cm",
+      "evidence": "Misure: X: 34,3 Y: 45,7-48 Z: 10-18 (JZZ60C)",
+      "location": "body"
+    },
+    "length": {
+      "value": "45,7-48 cm",
+      "evidence": "Misure: X: 34,3 Y: 45,7-48 Z: 10-18 (JZZ60C)",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Ceramica Althea",
+      "evidence": "Copriwater WC Florence Ceramica Althea Termoindurente",
+      "location": "title"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Il copriwater Wc è un prodotto Made in Italy",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2053,
+    "output_tokens": 726,
+    "seconds": 63.02
+  }
+}

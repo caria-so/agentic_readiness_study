@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/vela-2xqc.html",
+  "model": "qwen2.5:32b",
+  "html": "vela-2xqc.html.html",
+  "title": "Camera 6 ante battenti con specchio centrale senza letto effetto noce oro, bronzo: Vela | Mondo Convenienza",
+  "text_chars": 1155,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "effetto spezzato",
+      "evidence": "cassetti di comò e comodini, che presentano un piacevole “effetto spezzato” sia nelle geometrie che nei colori.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "noce oro / bronzo",
+      "evidence": "VELA CAMERA 6 ANTE BATTENTI CON SPECCHIO CENTRALE L.274 P.55 H.247 SENZA LETTO COLORE NOCE ORO / BRONZO",
+      "location": "body"
+    },
+    "width": {
+      "value": "L.274",
+      "evidence": "VELA CAMERA 6 ANTE BATTENTI CON SPECCHIO CENTRALE L.274 P.55 H.247 SENZA LETTO COLORE NOCE ORO / BRONZO",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.247",
+      "evidence": "VELA CAMERA 6 ANTE BATTENTI CON SPECCHIO CENTRALE L.274 P.55 H.247 SENZA LETTO COLORE NOCE ORO / BRONZO",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.55",
+      "evidence": "VELA CAMERA 6 ANTE BATTENTI CON SPECCHIO CENTRALE L.274 P.55 H.247 SENZA LETTO COLORE NOCE ORO / BRONZO",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "274 x 55 x 247",
+      "evidence": "274 x 55 x 247",
+      "location": "body"
+    },
+    "series": {
+      "value": "Vela",
+      "evidence": "VELA CAMERA 6 ANTE BATTENTI CON SPECCHIO CENTRALE L.274 P.55 H.247 SENZA LETTO COLORE NOCE ORO / BRONZO",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "opening": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "battente",
+        "evidence": "Camera 6 ante battenti con specchio centrale senza letto"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondo Convenienza",
+        "evidence": "Camera 6 ante battenti con specchio centrale senza letto effetto noce oro, bronzo: Vela | Mondo Convenienza"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1249,
+    "output_tokens": 819,
+    "seconds": 66.82
+  }
+}

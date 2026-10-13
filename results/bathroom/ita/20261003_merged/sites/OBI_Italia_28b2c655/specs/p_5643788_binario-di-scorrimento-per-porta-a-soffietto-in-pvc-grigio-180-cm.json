@@ -1,0 +1,119 @@
+{
+ "url": "https://www.obi-italia.it/p/5643788/binario-di-scorrimento-per-porta-a-soffietto-in-pvc-grigio-180-cm",
+ "file": "p_5643788_binario-di-scorrimento-per-porta-a-soffietto-in-pvc-grigio-180-cm.html",
+ "title": "Binario di scorrimento per porta a soffietto in PVC grigio 180 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 526,
+ "attributes": {
+  "sku": {
+   "value": "5643788",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5643788"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8022317424531",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8022317424531"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Grigio",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Grigio"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Tessuto grigio"
+    }
+   ]
+  },
+  "width": {
+   "value": "180.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "180.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "2.80 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "2.80 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "3.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "3.00 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.54 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.54 KGM"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "1800x30x28 mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "1800x30x28 mm"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "FORTE srl C.da Parco del vecchio bovio sn 70022 Altamura IT info@fortesrl.it EAN(s): [ 8022317424531 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 0,
+  "L3": 2,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "url": "https://www.idrobric.it/it/aquaxense/1121-aquaxense-sedile-wc-smart-2000-8007931114358.html",
+ "file": "it_aquaxense_1121-aquaxense-sedile-wc-smart-2000-8007931114358.html.html",
+ "title": "Aquaxense Sedile Wc Smart 2000",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 722,
+ "attributes": {
+  "sku": {
+   "value": "SCACER1126SE",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SCACER1126SE"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931114358",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931114358"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 0
+ }
+}

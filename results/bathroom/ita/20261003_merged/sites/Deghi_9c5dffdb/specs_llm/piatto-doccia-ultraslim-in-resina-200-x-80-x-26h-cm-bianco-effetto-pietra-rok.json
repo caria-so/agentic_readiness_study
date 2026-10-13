@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.deghi.it/piatto-doccia-ultraslim-in-resina-200-x-80-x-26h-cm-bianco-effetto-pietra-rok",
+  "model": "qwen2.5:32b",
+  "html": "piatto-doccia-ultraslim-in-resina-200-x-80-x-26h-cm-bianco-effetto-pietra-rok.html",
+  "title": "Piatto doccia 200x80 cm ultraslim riducibile bianco effetto pietra - Rok",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "Poco più di 2,5 cm",
+      "evidence": "Poco più di 2,5 cm, è questo lo spessore che rende Rok un vero e proprio elemento d’arredo slim .",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "rettangolare",
+      "evidence": "Angolare, quadrato, rettangolare",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "plumbing": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Posizione scarico Centrale, Dimensioni scarico Ø 90 mm, Copertura scarico Canalina",
+        "evidence": "Posizione scarico Centrale Dimensioni scarico Ø 90 mm Copertura scarico Canalina"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3510,
+    "output_tokens": 651,
+    "seconds": 60.08
+  }
+}

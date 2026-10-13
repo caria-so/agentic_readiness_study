@@ -1,0 +1,103 @@
+{
+ "url": "https://www.obi-italia.it/p/5440185/pavimento-per-esterno-ellenica-sabbia-di-saturno-48x48x3-cm",
+ "file": "p_5440185_pavimento-per-esterno-ellenica-sabbia-di-saturno-48x48x3-cm.html",
+ "title": "Pavimento per esterno Ellenica Sabbia di Saturno 48x48x3 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 620,
+ "attributes": {
+  "sku": {
+   "value": "5440185",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5440185"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8033971565805",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8033971565805"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Grigio/Nero/Multicolore",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Grigio/Nero/Multicolore"
+    }
+   ]
+  },
+  "width": {
+   "value": "48.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "48.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "3.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "3.00 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "48.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "48.00 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "16.1 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "16.1 KGM"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "BAGATTINI SRL via Selva 26/28 24060 Zandobbio IT export@bagattinipav.com EAN(s): [ 8033971565805 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

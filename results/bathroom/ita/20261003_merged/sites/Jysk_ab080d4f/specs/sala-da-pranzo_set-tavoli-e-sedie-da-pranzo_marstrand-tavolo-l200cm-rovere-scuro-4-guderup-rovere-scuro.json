@@ -1,0 +1,286 @@
+{
+ "url": "https://jysk.it/sala-da-pranzo/set-tavoli-e-sedie-da-pranzo/marstrand-tavolo-l200cm-rovere-scuro-4-guderup-rovere-scuro",
+ "file": "sala-da-pranzo_set-tavoli-e-sedie-da-pranzo_marstrand-tavolo-l200cm-rovere-scuro-4-guderup-rovere-scuro.html",
+ "title": "MARSTRAND + GUDERUP MARSTRAND Tavolo L200cm rovere scuro +4 GUDERUP rovere scuro",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 15803,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "S000723",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "S000723"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "S000723"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "P100xL200/280",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "P100xL200/280"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni da montato",
+     "value": "Larghezza 100 cm, Lunghezza 200/280 cm, Altezza 75 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni variabili",
+     "value": "200/240/280 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni non montato",
+     "value": "Larghezza 109 cm, Lunghezza 130 cm, Altezza 41 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni da montato",
+     "value": "Larghezza 53 cm, Altezza 77 cm, Profondità 54 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni non montato",
+     "value": "Larghezza 52 cm, Lunghezza 53 cm, Altezza 76 cm"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Danimarca",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Danimarca"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Tavolo da pranzo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Tavolo da pranzo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Forma",
+     "value": "Ovale"
+    }
+   ]
+  },
+  "material": {
+   "value": "MDF  , Impiallacciatura in rovere  , Legno massello di betulla , Legno massello di rubberwood , Acciaio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "MDF  , Impiallacciatura in rovere  , Legno massello di betulla , Legno massello di rubberwood , Acciaio"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Struttura",
+     "value": "Legno massello di rovere"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Legno massello di betulla",
+     "value": ","
+    },
+    {
+     "layer": "L2_block",
+     "label": "Legno massello di rubberwood",
+     "value": ","
+    },
+    {
+     "layer": "L2_block",
+     "label": "Struttura Legno massello di rubberwood",
+     "value": ","
+    }
+   ]
+  },
+  "colour": {
+   "value": "Rovere scuro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Rovere scuro"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Rovere scuro, Naturale"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Da montare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Assemblaggio",
+     "value": "Da montare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Assemblaggio",
+     "value": "Montato"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di colli",
+     "value": "2"
+    }
+   ]
+  },
+  "certification": {
+   "value": "FSC® Mix ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "FSC® Mix "
+    }
+   ]
+  },
+  "height": {
+   "value": "46",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza della seduta",
+     "value": "46"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza bracciolo",
+     "value": "71"
+    }
+   ]
+  },
+  "depth": {
+   "value": "47",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Profondità della seduta",
+     "value": "47"
+    }
+   ]
+  },
+  "weight": {
+   "value": "5 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "5 kg"
+    }
+   ]
+  },
+  "water": {
+   "value": "110 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Portata max.",
+     "value": "110 kg"
+    }
+   ]
+  },
+  "finish": {
+   "value": "",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Superficie Impiallacciatura in rovere",
+     "value": ""
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Tavolo estensibile": "Incl. 2 prolunghe, Le prolunghe possono essere riposte sotto al bancone del tavolo",
+  "Trattamento": "Vernice",
+  "Distranza tra le gambe": "140 cm,65 cm",
+  "Spazio sotto il tavolo vuoto": "65 cm",
+  "Carico massimo": "In alto 40 kg",
+  "Vano contenitore": "Sotto il piano del tavolo",
+  "Numero di sedute": "Fino a 6 posti",
+  "Con braccioli": "Sì",
+  "MDF": "",
+  "Impiallacciatura in rovere": "",
+  "Piano Impiallacciatura in rovere": "",
+  "Fondo Impiallacciatura in rovere": "",
+  "FSC® Mix": "",
+  "Gambe Legno massello di rubberwood": ","
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 40,
+  "L3": 1,
+  "dropped": 51
+ }
+}

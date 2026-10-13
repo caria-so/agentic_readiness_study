@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/set-doccia-sunset-jacuzzi-rubinetteria-completo-di-braccio-soffione-ultrapiatto-20-cm-doccetta-e-incasso-doccia-con-deviatore",
+  "model": "qwen2.5:32b",
+  "html": "occia-sunset-jacuzzi-rubinetteria-completo-di-braccio-soffione-ultrapiatto-20-cm-doccetta-e-incasso-doccia-con-deviatore.html",
+  "title": "Set doccia Sunset Jacuzzi | Rubinetteria completo di braccio soffione ultrapiatto 20 cm doccetta e incasso doccia con deviatore | Arcshop",
+  "text_chars": 3627,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "length": {
+      "value": "23,2 cm",
+      "evidence": "lunghezza doccetta: 23,2 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "Sunset",
+      "evidence": "Set doccia Sunset Jacuzzi",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "a parete, da incasso",
+        "evidence": "braccio doccia a parete 30 cm, ... incasso doccia con deviatore."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2121,
+    "output_tokens": 552,
+    "seconds": 41.02
+  }
+}

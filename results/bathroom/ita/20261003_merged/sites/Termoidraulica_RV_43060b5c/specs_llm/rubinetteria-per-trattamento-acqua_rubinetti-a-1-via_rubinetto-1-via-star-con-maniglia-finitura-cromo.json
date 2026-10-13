@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://termoidraulicarv.com/rubinetteria-per-trattamento-acqua/rubinetti-a-1-via/rubinetto-1-via-star-con-maniglia-finitura-cromo/",
+  "model": "qwen2.5:32b",
+  "html": "rubinetteria-per-trattamento-acqua_rubinetti-a-1-via_rubinetto-1-via-star-con-maniglia-finitura-cromo.html",
+  "title": "Rubinetto 1 via Star con maniglia - finitura cromo",
+  "text_chars": 2072,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromo",
+      "evidence": "Rubinetto 1 via Star con maniglia - finitura cromo",
+      "location": "title"
+    },
+    "installation": {
+      "value": "a muro",
+      "evidence": "Rubinetto 1 via a muro cromo nichelato attacco 6mm",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "attacco 6mm",
+      "evidence": "Rubinetto 1 via a muro cromo nichelato attacco 6mm",
+      "location": "body"
+    },
+    "series": {
+      "value": "Star",
+      "evidence": "Rubinetto una via cromo modello Star per sistemi di microfiltrazione e osmosi inversa.",
+      "location": "body"
+    },
+    "brand": {
+      "value": "TermoidraulicaRV",
+      "evidence": "BRAND: TermoidraulicaRV",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1518,
+    "output_tokens": 571,
+    "seconds": 52.41
+  }
+}

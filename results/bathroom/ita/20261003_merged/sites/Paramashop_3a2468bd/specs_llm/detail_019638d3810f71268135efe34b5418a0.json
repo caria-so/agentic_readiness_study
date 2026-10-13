@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/019638d3810f71268135efe34b5418a0",
+  "model": "qwen2.5:32b",
+  "html": "detail_019638d3810f71268135efe34b5418a0.html",
+  "title": "Box da giardino 258x414cm – Porta Doppia, Pavimento e Impermeabilizzazione",
+  "text_chars": 1799,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "2,31m",
+      "evidence": "Dimensioni interne: 2,31x3,80m",
+      "location": "body"
+    },
+    "depth": {
+      "value": "3,80m",
+      "evidence": "Dimensioni interne: 2,31x3,80m",
+      "location": "body"
+    },
+    "opening": {
+      "value": "Porta Doppia",
+      "evidence": "Box da giardino 258x414cm – Porta Doppia, Pavimento e Impermeabilizzazione",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1498,
+    "output_tokens": 583,
+    "seconds": 47.03
+  }
+}

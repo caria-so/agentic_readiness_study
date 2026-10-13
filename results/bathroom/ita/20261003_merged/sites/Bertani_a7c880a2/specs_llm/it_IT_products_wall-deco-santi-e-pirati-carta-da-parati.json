@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/wall-deco-santi-e-pirati-carta-da-parati",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_wall-deco-santi-e-pirati-carta-da-parati.html",
+  "title": "Wall&decò Santi e Pirati Carta da parati | Bertani",
+  "text_chars": 2979,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "47 cm",
+      "evidence": "Larghezza rollo 47 cm",
+      "location": "body"
+    },
+    "length": {
+      "value": "su misura",
+      "evidence": "Lunghezza rollo su misura",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "material": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "bio vinile, grasscloth, SOUND SYSTEM WALLPAPER",
+        "evidence": "BIO VINILE d.ecodura™ è il supporto sviluppato secondo un approccio orientato alla sostenibilità... GRASSCLOTH Grasscloth è il supporto in fibre naturali realizzato artigianalmente intrecciando materiali pregiati e sostenibili... SOUND SYSTEM WALLPAPER Sound System Wallpaper è il sistema di rivestimento acustico in fibra di vetro e poliuretano"
+      }
+    },
+    "finish": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "d.TW, d.SW, GRC Grasstique, GSQ Grasstique",
+        "evidence": "Disponbile in due finiture: d.TW - d.ecodura Texture Wallpaper caratterizzata da una superficie materica con effetto tessuto d.SW - d.ecodura Sand Wallpaper caratterizzata da una supeficie liscia che richiama la fine granulosità della sabbia Essendo un materiale completamente naturale è adatto in ambienti interni asciutti, sia in ambito residenziale che contract, evitando l’esposizione all’acqua e alla luce solare diretta. Disponibile in due finiture: GRC Grasstique presenta una texture materica, caratterizzata da nodi e giunzioni delle fibre a vista, esaltata da un delicato effetto metallico GSQ Grasstique si distingue per una trama regolare e omogenea che valorizza la naturale matericità delle fibre attraverso una finitura semi-opaca"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1713,
+    "output_tokens": 845,
+    "seconds": 71.47
+  }
+}

@@ -1,0 +1,225 @@
+{
+ "url": "https://www.deghi.it/set-incasso-doccia-con-deviatore-con-braccio-a-soffitto-20-cm-e-soffione-40x40-cm-nero-acq6",
+ "file": "set-incasso-doccia-con-deviatore-con-braccio-a-soffitto-20-cm-e-soffione-40x40-cm-nero-acq6.html",
+ "title": "Set incasso doccia con deviatore con braccio a soffitto 20 cm e soffione 40x40 cm nero – Kyria",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 11515,
+ "attributes": {
+  "sku": {
+   "value": "KYR-IDBS2S24N",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "KYR-IDBS2S24N"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "KYR-IDBS2S24N"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Miscelatore - Braccio - Soffione - Doccino",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia set",
+     "value": "Miscelatore - Braccio - Soffione - Doccino"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Set doccino"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Acq+",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Marca",
+     "value": "Acq+"
+    }
+   ]
+  },
+  "series": {
+   "value": "Kyria",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Serie",
+     "value": "Kyria"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Nero"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore soffione",
+     "value": "Nero"
+    }
+   ]
+  },
+  "material": {
+   "value": "ABS | Acciaio INOX | Ottone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "ABS | Acciaio INOX | Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale piastra",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale braccio",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale soffione",
+     "value": "Acciaio INOX"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale ugelli",
+     "value": "Gomma"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "ABS | Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale doccino",
+     "value": "ABS"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale flessibile",
+     "value": "PVC"
+    }
+   ]
+  },
+  "installation": {
+   "value": "G1/2\"",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "G1/2\""
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "1/2G"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Attacchi",
+     "value": "1/2\"G"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "18 x 13 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione piastra",
+     "value": "18 x 13 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni soffione",
+     "value": "40 x 40 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensione doccino",
+     "value": "19,8 cm"
+    }
+   ]
+  },
+  "length": {
+   "value": "20 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza braccio",
+     "value": "20 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza flessibile",
+     "value": "150 cm"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "0,2 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore soffione",
+     "value": "0,2 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero elementi": "6 elementi",
+  "Deviatore": "2 Vie",
+  "Azionamento": "Leva monocomando",
+  "Corpo incasso": "Incluso",
+  "Sezione braccio": "2,5 x 2,5 cm",
+  "Sezione base a muro": "5 x 5 cm",
+  "Caratteristiche": "Ultraslim | Anticalcare | Orientabile",
+  "Presa ad acqua": "Si"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 32,
+  "L3": 1,
+  "dropped": 9
+ }
+}

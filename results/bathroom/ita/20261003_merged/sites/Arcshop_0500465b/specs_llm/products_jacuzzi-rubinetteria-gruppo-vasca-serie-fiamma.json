@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/jacuzzi-rubinetteria-gruppo-vasca-serie-fiamma",
+  "model": "qwen2.5:32b",
+  "html": "products_jacuzzi-rubinetteria-gruppo-vasca-serie-fiamma.html",
+  "title": "Jacuzzi Rubinetteria gruppo vasca serie Fiamma | Arcshop",
+  "text_chars": 2899,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "ottone",
+      "evidence": "Miscelatore Jacuzzi Rubinetteria gruppo vasca Fiamma in ottone cromato 0FM00002JA00",
+      "location": "body"
+    },
+    "finish": {
+      "value": "cromato",
+      "evidence": "Miscelatore Jacuzzi Rubinetteria gruppo vasca Fiamma in ottone cromato 0FM00002JA00",
+      "location": "body"
+    },
+    "series": {
+      "value": "Fiamma",
+      "evidence": "Jacuzzi Rubinetteria gruppo vasca serie Fiamma",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1828,
+    "output_tokens": 578,
+    "seconds": 47.95
+  }
+}

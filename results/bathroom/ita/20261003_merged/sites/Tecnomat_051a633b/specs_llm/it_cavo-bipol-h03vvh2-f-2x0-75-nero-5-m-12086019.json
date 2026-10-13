@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/cavo-bipol-h03vvh2-f-2x0-75-nero-5-m-12086019/",
+  "model": "qwen2.5:32b",
+  "html": "it_cavo-bipol-h03vvh2-f-2x0-75-nero-5-m-12086019.html",
+  "title": "CAVO BIPOLARE H03VVH 2-F 2x0,75 LUNGHEZZA 5 m COLORE NERO",
+  "text_chars": 863,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "nero",
+      "evidence": "Questo cavo di colore nero è fornito in una matassa da 5 m",
+      "location": "body"
+    },
+    "length": {
+      "value": "5 m",
+      "evidence": "Questo cavo di colore nero è fornito in una matassa da 5 m",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1137,
+    "output_tokens": 489,
+    "seconds": 40.83
+  }
+}

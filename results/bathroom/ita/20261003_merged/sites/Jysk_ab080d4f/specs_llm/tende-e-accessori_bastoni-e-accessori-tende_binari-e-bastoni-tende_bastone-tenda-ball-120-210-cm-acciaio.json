@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/tende-e-accessori/bastoni-e-accessori-tende/binari-e-bastoni-tende/bastone-tenda-ball-120-210-cm-acciaio",
+  "model": "qwen2.5:32b",
+  "html": "tende-e-accessori_bastoni-e-accessori-tende_binari-e-bastoni-tende_bastone-tenda-ball-120-210-cm-acciaio.html",
+  "title": "Bastone per tenda BALL 120-210 cm acciaio | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "length": {
+      "value": "120-210 cm",
+      "evidence": "Lunghezza 120-210 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "BALL",
+      "evidence": "BALL Bastone per tenda BALL 120-210 cm acciaio",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5556,
+    "output_tokens": 575,
+    "seconds": 66.95
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/sala-da-pranzo/credenze/credenza-jungen-2-ante-3-cassetti-color-rovere-caldo",
+  "model": "qwen2.5:32b",
+  "html": "sala-da-pranzo_credenze_credenza-jungen-2-ante-3-cassetti-color-rovere-caldo.html",
+  "title": "Credenza JUNGEN 2 ante 3 cassetti color rovere caldo | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "165 cm",
+      "evidence": "Dimensioni da montato Larghezza 165 cm, Altezza 85 cm, Profondità 44 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "85 cm",
+      "evidence": "Dimensioni da montato Larghezza 165 cm, Altezza 85 cm, Profondità 44 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "44 cm",
+      "evidence": "Dimensioni da montato Larghezza 165 cm, Altezza 85 cm, Profondità 44 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "JUNGEN",
+      "evidence": "Credenza JUNGEN 2 ante 3 cassetti color rovere caldo",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5462,
+    "output_tokens": 769,
+    "seconds": 82.41
+  }
+}

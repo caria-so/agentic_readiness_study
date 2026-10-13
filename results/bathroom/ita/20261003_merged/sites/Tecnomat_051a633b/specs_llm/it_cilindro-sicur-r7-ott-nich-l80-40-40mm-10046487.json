@@ -1,0 +1,47 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/cilindro-sicur-r7-ott-nich-l80-40-40mm-10046487/",
+  "model": "qwen2.5:32b",
+  "html": "it_cilindro-sicur-r7-ott-nich-l80-40-40mm-10046487.html",
+  "title": "CILINDRO DI SICUREZZA ISEO R7 MISURA 80 = 40+40 mm OTTONE NICHELATO",
+  "text_chars": 1762,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "certification": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Certificato Fornitore, Scheda tecnica Fornitore",
+        "evidence": "Documenti e certificazioni Certificato Fornitore, Scheda tecnica Fornitore"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1457,
+    "output_tokens": 588,
+    "seconds": 49.7
+  }
+}

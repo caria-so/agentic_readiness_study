@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/mobili-bagno/2304-mobile-bagno-sospeso-lady-curvo-con-lavabo-in.html",
+  "model": "qwen2.5:32b",
+  "html": "mobili-bagno_2304-mobile-bagno-sospeso-lady-curvo-con-lavabo-in.html.html",
+  "title": "Mobile bagno sospeso Lady, curvo, bianco lucido con lavabo in ceramica",
+  "text_chars": 6545,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "warranty": {
+      "value": "5 anni",
+      "evidence": "Prodotto garantito 5 anni.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Prodotto di produzione Made in Italy.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3105,
+    "output_tokens": 639,
+    "seconds": 61.66
+  }
+}

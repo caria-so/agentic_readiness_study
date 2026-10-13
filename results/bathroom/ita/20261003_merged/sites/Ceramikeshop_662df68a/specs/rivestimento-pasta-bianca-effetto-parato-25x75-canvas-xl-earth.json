@@ -1,0 +1,61 @@
+{
+ "url": "https://ceramikeshop.it/rivestimento-pasta-bianca-effetto-parato-25x75-canvas-xl-earth",
+ "file": "rivestimento-pasta-bianca-effetto-parato-25x75-canvas-xl-earth.html",
+ "title": "Rivestimento effetto parato 25x75 Canvas XL Earth | MGM Ceramiche",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8893,
+ "attributes": {
+  "brand": {
+   "value": "MGM Ceramiche",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "MGM Ceramiche"
+    }
+   ]
+  },
+  "sku": {
+   "value": "MGM/CANVASXLEARTH",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "MGM/CANVASXLEARTH"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "MGM/CANVASXLEARTH",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "MGM/CANVASXLEARTH"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.idrobric.it/soffioni/905-339-soffione-vortex-square.html",
+  "model": "qwen2.5:32b",
+  "html": "soffioni_905-339-soffione-vortex-square.html.html",
+  "title": "Soffione Vortex square",
+  "text_chars": 541,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "ABS",
+      "evidence": "Soffione doccia Vortex, ABS cromato/nero o nero, 1 getto, anticalcare 30x19 cm, attacco universale",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "30x19 cm",
+      "evidence": "Diametro\n30x19 cm",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "attacco universale da 1/2”",
+      "evidence": "Soffione doccia Vortex, ABS cromato/nero o nero, 1 getto, anticalcare 30x19 cm, attacco universale\nda 1/2”",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "Square",
+      "evidence": "Finitura\nSquare nero\nSquare cromo-nero",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1099,
+    "output_tokens": 599,
+    "seconds": 48.97
+  }
+}

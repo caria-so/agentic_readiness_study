@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/rivestimento-effetto-mattoncino-brick-generation-marrakech-48x20-sea-water",
+  "model": "qwen2.5:32b",
+  "html": "rivestimento-effetto-mattoncino-brick-generation-marrakech-48x20-sea-water.html",
+  "title": "Rivestimento Brick Generation Marrakech 4.8x20 Sea Water | Rondine",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Gres Porcellanato",
+      "evidence": "Le piastrelle gres porcellanato di Brick Generation si arricchiscono di una nuova proposta.",
+      "location": "body"
+    },
+    "finish": {
+      "value": "lucide e specchianti che opache e materiche",
+      "evidence": "Imperfette, colorate e con finiture sia lucide e specchianti che opache e materiche",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Sea Water",
+      "evidence": "Rivestimento Brick Generation Marrakech 4.8x20 Sea Water | Rondine",
+      "location": "title"
+    },
+    "width": {
+      "value": "4,8 cm",
+      "evidence": "formati, 4,8x20 e 10x10 cm,",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "4,8x20 cm",
+      "evidence": "formati, 4,8x20 e 10x10 cm,",
+      "location": "body"
+    },
+    "series": {
+      "value": "Brick Generation",
+      "evidence": "Le piastrelle gres porcellanato di Brick Generation si arricchiscono di una nuova proposta.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4752,
+    "output_tokens": 631,
+    "seconds": 67.7
+  }
+}

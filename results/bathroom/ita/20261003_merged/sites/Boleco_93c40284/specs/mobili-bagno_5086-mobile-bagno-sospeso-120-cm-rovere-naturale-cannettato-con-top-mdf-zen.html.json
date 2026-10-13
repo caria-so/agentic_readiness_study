@@ -1,0 +1,187 @@
+{
+ "url": "https://www.boleco.it/mobili-bagno/5086-mobile-bagno-sospeso-120-cm-rovere-naturale-cannettato-con-top-mdf-zen.html",
+ "file": "mobili-bagno_5086-mobile-bagno-sospeso-120-cm-rovere-naturale-cannettato-con-top-mdf-zen.html.html",
+ "title": "Mobile bagno sospeso 120 cm rovere naturale cannettato con top mdf - Zen",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6734,
+ "attributes": {
+  "sku": {
+   "value": "02495",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "02495"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "02495"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "02495"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "111-130cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Mobili",
+     "value": "111-130cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione",
+     "value": "L121,4 x P46 cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "ROVERE NATURALE",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "ROVERE NATURALE"
+    }
+   ]
+  },
+  "series": {
+   "value": "Zen",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Nome Collezione",
+     "value": "Zen"
+    }
+   ]
+  },
+  "material": {
+   "value": "Mdf",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Mdf"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "16mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessore fianchi",
+     "value": "16mm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Spessore frontali",
+     "value": "16mm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Spessore",
+     "value": "16 mm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "rovere naturale",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura esterna",
+     "value": "rovere naturale"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Finitura interna",
+     "value": "antracite"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "rovere naturale"
+    }
+   ]
+  },
+  "opening": {
+   "value": "rallentata (soft-close)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "rallentata (soft-close)"
+    }
+   ]
+  },
+  "installation": {
+   "value": "SI",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "SI"
+    }
+   ]
+  },
+  "certification": {
+   "value": "PEFC , E1, EU 995/2010",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "PEFC , E1, EU 995/2010"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Non inclusa (acquistabile separatamente)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Rubinetteria",
+     "value": "Non inclusa (acquistabile separatamente)"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Ripiani interni": "4 ripiani in vetro nel cassetto superiore",
+  "Lavabo": "Non incluso (acquistabile separatamente)",
+  "Colonna": "Non inclusa (acquistabile separatamente)",
+  "Specchio": "Non incluso (acquistabile separatamente)"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 4,
+  "L3": 17,
+  "dropped": 2
+ }
+}

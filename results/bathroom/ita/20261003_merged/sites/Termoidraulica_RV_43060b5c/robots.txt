@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /ordine-ricevuto/
+Disallow: /my-account/
+Disallow: /staging/
+
+User-agent: MJ12bot
+Disallow: /

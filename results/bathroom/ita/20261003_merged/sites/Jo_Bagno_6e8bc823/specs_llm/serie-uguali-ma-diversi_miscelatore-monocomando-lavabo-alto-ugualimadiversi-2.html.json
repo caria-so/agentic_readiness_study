@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/serie-uguali-ma-diversi/miscelatore-monocomando-lavabo-alto-ugualimadiversi-2.html",
+  "model": "qwen2.5:32b",
+  "html": "serie-uguali-ma-diversi_miscelatore-monocomando-lavabo-alto-ugualimadiversi-2.html.html",
+  "title": "Miscelatore monocomando lavabo Alto UGUALI MA DIVERSI #2",
+  "text_chars": 4259,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "series": {
+      "value": "UGUALI MA DIVERSI",
+      "evidence": "Miscelatore monocomando lavabo Alto UGUALI MA DIVERSI #2",
+      "location": "title"
+    },
+    "care": {
+      "value": "l'utilizzo di acqua o detergenti neutri e di asciugare con un panno morbido evitando di utilizzare strofinacci contenenti fibre sintetiche",
+      "evidence": "Per la pulizia del prodotto si consiglia invece, l'utilizzo di acqua o detergenti neutri e di asciugare con un panno morbido evitando di utilizzare strofinacci contenenti fibre sintetiche.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da appoggio",
+        "evidence": "è adatto per essere installato su un piano per un lavabo d'appoggio senza foro rubinetteria."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2380,
+    "output_tokens": 677,
+    "seconds": 60.7
+  }
+}

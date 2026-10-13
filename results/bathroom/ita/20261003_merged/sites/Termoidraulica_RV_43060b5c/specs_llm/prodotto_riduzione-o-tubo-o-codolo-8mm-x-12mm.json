@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/prodotto/riduzione-o-tubo-o-codolo-8mm-x-12mm/",
+  "model": "qwen2.5:32b",
+  "html": "prodotto_riduzione-o-tubo-o-codolo-8mm-x-12mm.html",
+  "title": "Riduzione Ø tubo - Ø codolo 8mm x 12mm",
+  "text_chars": 3718,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Copolimero acetalico",
+      "evidence": "Colore : Copolimero acetalico nero.",
+      "location": "body"
+    },
+    "series": {
+      "value": "black series acetal resin fittings",
+      "evidence": "black series acetal resin fittings",
+      "location": "body"
+    },
+    "certification": {
+      "value": "US FDA, WRAS, ANSI/NSF-51, 61, ACS, KWT e DVGW-W270",
+      "evidence": "DMfit sono prodotti fabbricati in materiali sicuri e non tossici in accordo con i requisiti della US FDA, WRAS, ANSI/NSF-51, 61, ACS, KWT e DVGW-W270.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1991,
+    "output_tokens": 605,
+    "seconds": 57.78
+  }
+}

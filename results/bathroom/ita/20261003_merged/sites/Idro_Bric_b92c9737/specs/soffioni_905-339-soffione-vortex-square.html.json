@@ -1,0 +1,101 @@
+{
+ "url": "https://www.idrobric.it/soffioni/905-339-soffione-vortex-square.html",
+ "file": "soffioni_905-339-soffione-vortex-square.html.html",
+ "title": "Soffione Vortex square",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 541,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Idro-Bric S.p.A.",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Idro-Bric S.p.A."
+    }
+   ]
+  },
+  "sku": {
+   "value": "SAPSOF008",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "SAPSOF008"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SAPSOF0087CR"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "SAPSOF008",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "SAPSOF008"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931094636",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931094636"
+    }
+   ]
+  },
+  "finish": {
+   "value": "cromo/nero o nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "cromo/nero o nero"
+    }
+   ]
+  },
+  "water": {
+   "value": "1 getto",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Getti",
+     "value": "1 getto"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Diametro": "30x19 cm"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 5,
+  "L3": 0,
+  "dropped": 0
+ }
+}

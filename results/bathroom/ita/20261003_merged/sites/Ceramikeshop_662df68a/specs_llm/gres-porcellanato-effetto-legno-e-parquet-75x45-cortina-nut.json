@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/gres-porcellanato-effetto-legno-e-parquet-75x45-cortina-nut",
+  "model": "qwen2.5:32b",
+  "html": "gres-porcellanato-effetto-legno-e-parquet-75x45-cortina-nut.html",
+  "title": "Gres effetto legno e parquet 7.5x45 Cortina Nut | Ceramica Rondine",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Gres Porcellanato",
+      "evidence": "Gres Porcellanato effetto Legno e Parquet",
+      "location": "body"
+    },
+    "finish": {
+      "value": "effetto legno",
+      "evidence": "Gres Porcellanato effetto Legno e Parquet",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Nut",
+      "evidence": "Cortina Nut",
+      "location": "title"
+    },
+    "width": {
+      "value": "7.5 cm",
+      "evidence": "Gres effetto legno e parquet 7.5x45 Cortina Nut",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "7.5x45 cm",
+      "evidence": "Gres effetto legno e parquet 7.5x45 Cortina Nut",
+      "location": "title"
+    },
+    "series": {
+      "value": "CORTINA",
+      "evidence": "CORTINA di Ceramica Rondine",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4680,
+    "output_tokens": 566,
+    "seconds": 62.57
+  }
+}

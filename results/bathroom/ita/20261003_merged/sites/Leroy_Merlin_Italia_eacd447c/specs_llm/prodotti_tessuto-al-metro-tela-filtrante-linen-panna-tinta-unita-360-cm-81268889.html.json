@@ -1,0 +1,47 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/tessuto-al-metro-tela-filtrante-linen-panna-tinta-unita-360-cm-81268889.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_tessuto-al-metro-tela-filtrante-linen-panna-tinta-unita-360-cm-81268889.html.html",
+  "title": "Tessuto al metro tela filtrante Linen panna tinta unita 360 cm | Leroy Merlin",
+  "text_chars": 4455,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "weight": {
+      "reason": "package_value",
+      "raw": {
+        "value": "1 kg",
+        "evidence": "Prodotto imballato: peso (in kg) 1"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2437,
+    "output_tokens": 537,
+    "seconds": 49.89
+  }
+}

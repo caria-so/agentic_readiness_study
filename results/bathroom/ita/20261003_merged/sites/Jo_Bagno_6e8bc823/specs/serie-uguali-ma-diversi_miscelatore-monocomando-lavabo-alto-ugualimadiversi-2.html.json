@@ -1,0 +1,105 @@
+{
+ "url": "https://jo-bagno.it/serie-uguali-ma-diversi/miscelatore-monocomando-lavabo-alto-ugualimadiversi-2.html",
+ "file": "serie-uguali-ma-diversi_miscelatore-monocomando-lavabo-alto-ugualimadiversi-2.html.html",
+ "title": "Miscelatore monocomando lavabo Alto UGUALI MA DIVERSI #2",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4259,
+ "attributes": {
+  "brand": {
+   "value": "Frisone",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Frisone"
+    }
+   ]
+  },
+  "sku": {
+   "value": "#2F0031",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "#2F0031"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "bocca di erogazione 140 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Interasse",
+     "value": "bocca di erogazione 140 mm"
+    }
+   ]
+  },
+  "height": {
+   "value": "bocca di erogazione 255 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "bocca di erogazione 255 mm"
+    }
+   ]
+  },
+  "water": {
+   "value": "a dischi ceramici",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Cartuccia",
+     "value": "a dischi ceramici"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "73x43xh17,5 cm.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "73x43xh17,5 cm."
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "42x42xh16 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "10x10xh13 cm."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Aeratore": "M 24×1 “Perlator con slot” installazione e rimozione utilizzando una moneta",
+  "Caratteristica": "flessibile silver cm 150 con attacco 1/2 calotte e coniche e sistema antitorsione"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 5,
+  "L3": 3,
+  "dropped": 2
+ }
+}

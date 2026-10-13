@@ -1,0 +1,118 @@
+{
+ "url": "https://www.shopbagno.it/products/box-doccia-semicircolare-h195cm-anta-battente-cristallo-8mm",
+ "file": "products_box-doccia-semicircolare-h195cm-anta-battente-cristallo-8mm.html",
+ "title": "Box Doccia Semicircolare H195cm Anta Battente Cristallo 8mm",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 9647,
+ "attributes": {
+  "sku": {
+   "value": "w05288",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "w05288"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "W05288"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "609003973184",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin12",
+     "value": "609003973184"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "80x80",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "dimensioni",
+     "value": "80x80"
+    }
+   ]
+  },
+  "height": {
+   "value": "195cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "195cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "8mm trasparente",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Cristallo",
+     "value": "8mm trasparente"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Battente singola",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Apertura",
+     "value": "Battente singola"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "Magnetica"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Moderno",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Stile",
+     "value": "Moderno"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Adattabilità": "-2cm",
+  "Anticalcare": "No",
+  "Raggio di curvatura": "55cm",
+  "Profili": "Alluminio cromato"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 10,
+  "dropped": 19
+ }
+}

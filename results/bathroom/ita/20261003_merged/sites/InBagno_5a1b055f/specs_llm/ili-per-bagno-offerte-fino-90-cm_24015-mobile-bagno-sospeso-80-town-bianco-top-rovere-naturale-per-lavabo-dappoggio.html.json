@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/mobili-per-bagno-offerte-fino-90-cm/24015-mobile-bagno-sospeso-80-town-bianco-top-rovere-naturale-per-lavabo-dappoggio.html",
+  "model": "qwen2.5:32b",
+  "html": "ili-per-bagno-offerte-fino-90-cm_24015-mobile-bagno-sospeso-80-town-bianco-top-rovere-naturale-per-lavabo-dappoggio.html.html",
+  "title": "Mobile bagno sospeso 80 Town bianco top rovere naturale per lavabo d'appoggio",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "80 cm",
+      "evidence": "Dimensioni base: L 80 x H 54 x p 46 cm;",
+      "location": "body"
+    },
+    "height": {
+      "value": "54 cm",
+      "evidence": "Dimensioni base: L 80 x H 54 x p 46 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "46 cm",
+      "evidence": "Dimensioni base: L 80 x H 54 x p 46 cm;",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "40 mm",
+      "evidence": "Il top per lavabo d’appoggio ha uno spessore di 40 mm ed è proposta in questa variante con effetto legno di colore rovere naturale.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Mobile bagno sospeso",
+      "location": "title"
+    },
+    "opening": {
+      "value": "soft-close",
+      "evidence": "2 cassettoni con meccanismo di chiusura soft-close;",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "Vano per sifone",
+      "evidence": "Vano per sifone;",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "electrical": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "INCLUDE lampada LED;",
+        "evidence": "Specchio a filo – caratteristiche tecniche: INCLUDE lampada LED;"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3728,
+    "output_tokens": 724,
+    "seconds": 69.72
+  }
+}

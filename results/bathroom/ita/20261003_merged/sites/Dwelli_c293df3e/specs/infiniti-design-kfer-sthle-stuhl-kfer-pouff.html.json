@@ -1,0 +1,73 @@
+{
+ "url": "https://dwellistore.de/infiniti-design-kfer-sthle-stuhl-kfer-pouff.html",
+ "file": "infiniti-design-kfer-sthle-stuhl-kfer-pouff.html.html",
+ "title": "Infiniti Design Käfer Stuhl Käfer Puff",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1302,
+ "attributes": {
+  "brand": {
+   "value": "Infiniti Design",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Infiniti Design"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Infiniti Design"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Marke",
+     "value": "Infiniti Design"
+    }
+   ]
+  },
+  "sku": {
+   "value": "BEETLE pouff",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "BEETLE pouff"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "BEETLE pouff",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "BEETLE pouff"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Maßnahmen": "A = 59 cm x B = 63 cm xh = 44 cm (Verpackung)"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 1,
+  "dropped": 1
+ }
+}

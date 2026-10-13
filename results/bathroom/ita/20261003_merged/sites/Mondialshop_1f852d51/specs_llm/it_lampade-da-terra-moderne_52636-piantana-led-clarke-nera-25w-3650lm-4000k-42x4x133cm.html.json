@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/lampade-da-terra-moderne/52636-piantana-led-clarke-nera-25w-3650lm-4000k-42x4x133cm.html",
+  "model": "qwen2.5:32b",
+  "html": "it_lampade-da-terra-moderne_52636-piantana-led-clarke-nera-25w-3650lm-4000k-42x4x133cm.html.html",
+  "title": "PIANTANA LED CLARKE NERA 25W 3650LM 4000K 42X4X133CM",
+  "text_chars": 2999,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "42 cm",
+      "evidence": "PIANTANA LED CLARKE NERA 25W 3650LM 4000K 42X4X133CM",
+      "location": "title"
+    },
+    "depth": {
+      "value": "4 cm",
+      "evidence": "PIANTANA LED CLARKE NERA 25W 3650LM 4000K 42X4X133CM",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "42x4x133 cm",
+      "evidence": "PIANTANA LED CLARKE NERA 25W 3650LM 4000K 42X4X133CM",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2186,
+    "output_tokens": 674,
+    "seconds": 59.49
+  }
+}

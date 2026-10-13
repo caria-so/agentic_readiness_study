@@ -1,0 +1,92 @@
+{
+ "url": "https://www.obi-italia.it/p/5524319/sblocco-manuale-esterno-per-matic-box800",
+ "file": "p_5524319_sblocco-manuale-esterno-per-matic-box800.html",
+ "title": "Sblocco manuale esterno per MATIC BOX800",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 626,
+ "attributes": {
+  "sku": {
+   "value": "5524319",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5524319"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8032434056171",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8032434056171"
+    }
+   ]
+  },
+  "width": {
+   "value": "63.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "63.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "7.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "7.00 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "63.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "63.00 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.16 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.16 KGM"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "APRIMATIC SRL XXV APRILE 38-40-42 40057 40057 GRANAROLO IT info@aprimatic.it EAN(s): [ 8032434056171 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 6,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

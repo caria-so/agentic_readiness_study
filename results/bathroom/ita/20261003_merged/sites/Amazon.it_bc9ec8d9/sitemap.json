@@ -1,0 +1,25 @@
+{
+  "source": "https://www.amazon.it/",
+  "generated": "2026-10-01T03:47:04.673839",
+  "url_count": 0,
+  "sitemap_docs_tried": [
+    "https://www.amazon.it/sitemap-index.xml",
+    "https://www.amazon.it/sitemap-index.xml.gz",
+    "https://www.amazon.it/sitemap.xml",
+    "https://www.amazon.it/sitemap.xml.gz",
+    "https://www.amazon.it/sitemap/index.xml",
+    "https://www.amazon.it/sitemap/sitemap.xml",
+    "https://www.amazon.it/sitemap_index.xml",
+    "https://www.amazon.it/wp-sitemap.xml"
+  ],
+  "sitemap_docs_failed": {
+    "https://www.amazon.it/sitemap-index.xml": "HTTP 404",
+    "https://www.amazon.it/sitemap-index.xml.gz": "HTTP 404",
+    "https://www.amazon.it/sitemap.xml": "HTTP 404",
+    "https://www.amazon.it/sitemap.xml.gz": "HTTP 404",
+    "https://www.amazon.it/sitemap/index.xml": "HTTP 404",
+    "https://www.amazon.it/sitemap/sitemap.xml": "HTTP 404",
+    "https://www.amazon.it/sitemap_index.xml": "HTTP 404",
+    "https://www.amazon.it/wp-sitemap.xml": "HTTP 404"
+  }
+}

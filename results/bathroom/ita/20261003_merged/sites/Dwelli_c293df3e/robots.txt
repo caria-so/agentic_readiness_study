@@ -1,0 +1,133 @@
+User-agent:*
+
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+Disallow: /pub/
+
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /tag/
+Disallow: /errors/
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login
+
+#Disallow URL Filter param
+Disallow: /*?dir*
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /?mode=*
+Disallow: /*?manufacturer=*
+Disallow: /*?p=*
+Disallow: *?p=*
+Disallow: /attachments/*
+
+# Filtri layered nav in QUALSIASI posizione (non solo primo param) - 25/09/2026
+# Pagine gia noindex,nofollow; Googlebot riceveva 503 dal rate-limit nginx facet_global
+Disallow: /*?*manufacturer=
+Disallow: /*?*serie=
+Disallow: /*?*materiale=
+# Parametri ignorati da Magento (attributi non filtrabili / limit): duplicati con canonical alla categoria - 25/09/2026
+Disallow: /*?*finiture=
+Disallow: /*?*fori=
+Disallow: /*?*designer=
+Disallow: /*?*limit=
+
+#param 03032023
+Disallow: */?q=
+Disallow: */?fbclid=
+Disallow: */?gclid=
+Disallow: /*SID=*
+Disallow: /*?materiale=*
+Disallow: /*?price=*
+Disallow: /*?cat=*
+Disallow: /*?tile_effect=*
+Disallow: /*?tile_size=*
+Disallow: /*?tile_type=*
+Disallow: /*?___from_store=*
+
+# Disable sorting (Avoid duplicate content)
+Disallow: /*?*product_list_mode=*
+Disallow: /*?*product_list_order=*
+Disallow: /*?*product_list_limit=*
+Disallow: /*?*product_list_dir=*
+
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /CONTRIBUTING.md
+Disallow: /CONTRIBUTOR_LICENSE_AGREEMENT.html
+Disallow: /COPYING.txt
+Disallow: /Gruntfile.js
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /nginx.conf.sample
+Disallow: /package.json
+Disallow: /php.ini.sample
+Disallow: /RELEASE_NOTES.txt
+
+Disallow: / api.php
+Disallow: / cron.php
+Disallow: / cron.sh
+Disallow: / error_log
+Disallow: / get.php
+Disallow: / install.php
+Disallow: / LICENSE.html
+Disallow: / LICENSE.txt
+Disallow: / LICENSE_AFL.txt
+Disallow: / README.txt
+Disallow: / RELEASE_NOTES.txt
+
+# Disable version control folders and others
+Disallow: /*.git
+Disallow: /*.CVS
+Disallow: /*.Zip$
+Disallow: /*.Svn$
+Disallow: /*.Idea$
+Disallow: /*.Sql$
+Disallow: /*.Tgz$
+
+
+User-agent: Googlebot-image
+
+Disallow:
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+Sitemap: https://dwellistore.it/media/prodotti_it_index.xml
+Sitemap: https://dwellistore.fr/media/sitemap_fr_prodotti_index.xml
+Sitemap: https://dwellistore.de/media/sitemap_de_prodotti_index.xml
+Sitemap: https://dwellistore.com/media/sitemap_en_prodotti_index.xml
+Sitemap: https://dwellistore.de/media/sitemap_de_categorie.xml
+Sitemap: https://dwellistore.it/media/sitemap_it_categorie.xml
+Sitemap: https://dwellistore.fr/media/sitemap_fr_categorie.xml
+Sitemap: https://dwellistore.com/media/sitemap_en_categorie.xml
+Sitemap: https://dwellistore.it/media/sitemap_it_brand.xml
+Sitemap: https://dwellistore.de/media/sitemap_de_brand.xml
+Sitemap: https://dwellistore.fr/media/sitemap_fr_brand.xml
+Sitemap: https://dwellistore.com/media/sitemap_en_brand.xml
+Sitemap: https://dwellistore.it/media/sitemap_it_pagine.xml
+Sitemap: https://dwellistore.com/media/sitemap_en_pagine.xml
+Sitemap: https://dwellistore.fr/media/sitemap_fr_pagine.xml
+Sitemap: https://dwellistore.de/media/sitemap_de_pagine.xml

@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/riscaldamento-e-climatizzazione/2057-mobile-grigio-per-caminetto-elettrico--8025431154636.html",
+  "model": "qwen2.5:32b",
+  "html": "riscaldamento-e-climatizzazione_2057-mobile-grigio-per-caminetto-elettrico--8025431154636.html.html",
+  "title": "Mobile Grigio Per Caminetto Elettrico | Bagno di Stile",
+  "text_chars": 8753,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "legno",
+      "evidence": "realizzato in legno grigio chiaro laccato con dettagli in legno di rovere",
+      "location": "body"
+    },
+    "finish": {
+      "value": "laccato",
+      "evidence": "realizzato in legno grigio chiaro laccato con dettagli in legno di rovere",
+      "location": "body"
+    },
+    "series": {
+      "value": "MOBILE-DESIO-180-GRIGIO",
+      "evidence": "Riferimento MOBILE-DESIO-180-GRIGIO",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3915,
+    "output_tokens": 598,
+    "seconds": 58.28
+  }
+}

@@ -1,0 +1,92 @@
+{
+ "url": "https://ceramikeshop.it/porta-rotolo-flat-moderno",
+ "file": "porta-rotolo-flat-moderno.html",
+ "title": "Porta rotolo Flat | Moderno | Capannoli | Ceramikeshop",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 8703,
+ "attributes": {
+  "brand": {
+   "value": "Capannoli",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Capannoli"
+    }
+   ]
+  },
+  "sku": {
+   "value": "CPNNL/FL107",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "CPNNL/FL107"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8020865603712",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8020865603712"
+    },
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8020865603712"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "CPNNL/FL107",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "CPNNL/FL107"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore Principale",
+     "value": "Cromato"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Contiene Legno": "NO",
+  "Spray": "NO",
+  "Contatto con Alimenti": "NO"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 5,
+  "L3": 0,
+  "dropped": 1
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "url": "https://jysk.it/bagno/accessori-bagno/dosatori-sapone/dispenser-sapone-lycksele-effetto-palladiana",
+ "file": "bagno_accessori-bagno_dosatori-sapone_dispenser-sapone-lycksele-effetto-palladiana.html",
+ "title": "LYCKSELE Dispenser sapone LYCKSELE effetto palladiana",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 11163,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "2786100",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "2786100"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "2786100"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Dispenser di sapone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Dispenser di sapone"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio inossidabile, Gres porcellanato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Acciaio inossidabile, Gres porcellanato"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Diametro 9 cm, Altezza 16 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Diametro 9 cm, Altezza 16 cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Multicolore",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Multicolore"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Cina"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Lavabile in lavastoviglie": "No"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 6,
+  "L3": 1,
+  "dropped": 29
+ }
+}

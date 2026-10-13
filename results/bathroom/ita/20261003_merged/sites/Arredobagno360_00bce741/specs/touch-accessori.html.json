@@ -1,0 +1,110 @@
+{
+ "url": "https://www.arredobagno360.it/touch-accessori.html",
+ "file": "touch-accessori.html.html",
+ "title": "Touch| Accessori da bagno | Varie tipologie",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2271,
+ "attributes": {
+  "sku": {
+   "value": "touch-accessori",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "touch-accessori"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "touch-accessori",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "touch-accessori"
+    }
+   ]
+  },
+  "series": {
+   "value": "Touch| Accessori da bagno | Varie tipologie",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "Touch| Accessori da bagno | Varie tipologie"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Collezione",
+     "value": "Touch_4600"
+    }
+   ]
+  },
+  "weight": {
+   "value": "5.0000 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "5.0000 KGM"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Inda",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Inda"
+    }
+   ]
+  },
+  "installation": {
+   "value": "con tasselli, montaggio rapido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggio",
+     "value": "con tasselli, montaggio rapido"
+    }
+   ]
+  },
+  "finish": {
+   "value": "cromato",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "cromato"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 4,
+  "dropped": 2
+ }
+}

@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/iside-9d1v.html",
+  "model": "qwen2.5:32b",
+  "html": "iside-9d1v.html.html",
+  "title": "Divano letto angolare con penisola destra - meccanismo estraibile tessuto loto brown: Iside | Mondo Convenienza",
+  "text_chars": 1291,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Loto Brown",
+      "evidence": "tessuto loto brown",
+      "location": "title"
+    },
+    "width": {
+      "value": "256 cm",
+      "evidence": "ISIDE DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.256 P.156 H.94",
+      "location": "body"
+    },
+    "height": {
+      "value": "94 cm",
+      "evidence": "ISIDE DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.256 P.156 H.94",
+      "location": "body"
+    },
+    "depth": {
+      "value": "156 cm",
+      "evidence": "ISIDE DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.256 P.156 H.94",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L.256 P.156 H.94",
+      "evidence": "ISIDE DIVANO LETTO ANGOLARE CON PENISOLA DESTRA L.256 P.156 H.94",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "rifinito dalla testa ai piedini cromati, che lo rialzano leggermente da terra",
+      "location": "body"
+    },
+    "opening": {
+      "value": "estraibile",
+      "evidence": "meccanismo estraibile",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "angolare",
+      "evidence": "Divano letto angolare con penisola destra",
+      "location": "title"
+    },
+    "series": {
+      "value": "Iside",
+      "evidence": "Tutto il comfort che ami con Iside!",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "cromato",
+        "evidence": "rifinito dalla testa ai piedini cromati"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondo Convenienza",
+        "evidence": "Divano letto angolare con penisola destra - meccanismo estraibile tessuto loto brown: Iside | Mondo Convenienza"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1260,
+    "output_tokens": 712,
+    "seconds": 58.49
+  }
+}

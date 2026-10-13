@@ -1,0 +1,121 @@
+{
+ "url": "https://www.mondialshop.it/it/plafoniere-moderne-lampada-parete-soffitto/52739-plafoniera-led-nurax-quadrata-bianca-45w-6160lm-cct-495x495x96cm.html",
+ "file": "t_plafoniere-moderne-lampada-parete-soffitto_52739-plafoniera-led-nurax-quadrata-bianca-45w-6160lm-cct-495x495x96cm.html.html",
+ "title": "PLAFONIERA LED NURAX QUADRATA BIANCA 45W 6160LM CCT 49,5X49,5x9,6CM",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 3016,
+ "attributes": {
+  "sku": {
+   "value": "LED-NURAX-Q50",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "LED-NURAX-Q50"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "LED-NURAX-Q50",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "LED-NURAX-Q50"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3.500000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "3.500000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "series": {
+   "value": "-",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "-"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acrilico Alluminio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Acrilico Alluminio"
+    }
+   ]
+  },
+  "installation": {
+   "value": "LED",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "LED"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "6310",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "6310"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "45"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 6,
+  "L3": 0,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/sara-mflr.html",
+  "model": "qwen2.5:32b",
+  "html": "sara-mflr.html.html",
+  "title": "Divano letto angolare con pouf contenitore sinistro - meccanismo estraibile tessuto plutone grigio scuro: Sara | Mondo Convenienza",
+  "text_chars": 1686,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "grigio scuro",
+      "evidence": "tessuto plutone grigio scuro",
+      "location": "title"
+    },
+    "width": {
+      "value": "L.256",
+      "evidence": "SARA DIVANO LETTO ANGOLARE CON POUF CONTENITORE SINISTRO L.256 P.215 H.96 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE GRIGIO SCURO",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.96",
+      "evidence": "SARA DIVANO LETTO ANGOLARE CON POUF CONTENITORE SINISTRO L.256 P.215 H.96 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE GRIGIO SCURO",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.215",
+      "evidence": "SARA DIVANO LETTO ANGOLARE CON POUF CONTENITORE SINISTRO L.256 P.215 H.96 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE GRIGIO SCURO",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L.256 P.215 H.96",
+      "evidence": "SARA DIVANO LETTO ANGOLARE CON POUF CONTENITORE SINISTRO L.256 P.215 H.96 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO PLUTONE GRIGIO SCURO",
+      "location": "body"
+    },
+    "series": {
+      "value": "Sara",
+      "evidence": "Divano letto angolare con pouf contenitore sinistro - meccanismo estraibile tessuto plutone grigio scuro: Sara | Mondo Convenienza",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "shape_style": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "classico",
+        "evidence": "Le linee eleganti e classiche offrono una comodità intramontabile grazie agli schienali alti e imbottiti"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondo Convenienza",
+        "evidence": "Divano letto angolare con pouf contenitore sinistro - meccanismo estraibile tessuto plutone grigio scuro: Sara | Mondo Convenienza"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1369,
+    "output_tokens": 857,
+    "seconds": 70.22
+  }
+}

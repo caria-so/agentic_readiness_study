@@ -1,0 +1,156 @@
+{
+ "url": "https://www.mondialshop.it/it/porta-doccia-saloon/50550-porta-doccia-saloon-dentro-o-fuori-h195-battente-opaca-anticalcare-6mm-java.html",
+ "file": "it_porta-doccia-saloon_50550-porta-doccia-saloon-dentro-o-fuori-h195-battente-opaca-anticalcare-6mm-java.html.html",
+ "title": "Porta Doccia Saloon dentro o fuori h195 Battente Opaca anticalcare 6mm JAVA",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4460,
+ "attributes": {
+  "brand": {
+   "value": "OLIMPO DOCCE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "OLIMPO DOCCE"
+    }
+   ]
+  },
+  "sku": {
+   "value": "Java-2B-OP",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "Java-2B-OP"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "Java-2B-OP",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "Java-2B-OP"
+    }
+   ]
+  },
+  "height": {
+   "value": "195",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "195"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "195 cm per una copertura ottimale."
+    }
+   ]
+  },
+  "series": {
+   "value": "Java",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "Java"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "6 mm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore Cristallo",
+     "value": "6 mm"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Saloon",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Apertura",
+     "value": "Saloon"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "Magnetica a tutta altezza per una tenuta stagna sicura."
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore Struttura",
+     "value": "Cromato"
+    }
+   ]
+  },
+  "material": {
+   "value": "Spessore 6 mm temperato con finitura opaca per la massima privacy.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Cristallo",
+     "value": "Spessore 6 mm temperato con finitura opaca per la massima privacy."
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale Maniglie",
+     "value": "Acciaio inox di alta qualità."
+    }
+   ]
+  },
+  "finish": {
+   "value": "Alluminio anodizzato cromato lucido.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura Profili",
+     "value": "Alluminio anodizzato cromato lucido."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Anti Calcare": "Sì",
+  "Regolazione": "Sistema di compensazione da -30 mm a +10 mm per adattarsi a ogni nicchia."
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 6,
+  "L3": 6,
+  "dropped": 1
+ }
+}

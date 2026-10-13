@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/mosaico-bianco-paros-29x27-gres-effetto-marmo-bianco-matt",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_mosaico-bianco-paros-29x27-gres-effetto-marmo-bianco-matt.html",
+  "title": "Mosaico Bianco Paros 29x27 Gres Effetto Marmo Bianco Matt - Iperceramica",
+  "text_chars": 715,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Gres",
+      "evidence": "Mosaico Bianco Paros 29x27 Gres Effetto Marmo Bianco Matt - Iperceramica",
+      "location": "title"
+    },
+    "finish": {
+      "value": "Matt",
+      "evidence": "Mosaico Bianco Paros 29x27 Gres Effetto Marmo Bianco Matt - Iperceramica",
+      "location": "title"
+    },
+    "colour": {
+      "value": "Bianco",
+      "evidence": "Mosaico Bianco Paros 29x27 Gres Effetto Marmo Bianco Matt - Iperceramica",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "29x27",
+      "evidence": "Mosaico Bianco Paros 29x27 Gres Effetto Marmo Bianco Matt - Iperceramica",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Iperceramica",
+        "evidence": "Mosaico Bianco Paros 29x27 Gres Effetto Marmo Bianco Matt - Iperceramica"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1253,
+    "output_tokens": 609,
+    "seconds": 50.6
+  }
+}

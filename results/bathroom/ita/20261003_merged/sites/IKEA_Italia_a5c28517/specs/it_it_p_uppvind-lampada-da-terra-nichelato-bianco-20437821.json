@@ -1,0 +1,168 @@
+{
+ "url": "https://www.ikea.com/it/it/p/uppvind-lampada-da-terra-nichelato-bianco-20437821/",
+ "file": "it_it_p_uppvind-lampada-da-terra-nichelato-bianco-20437821.html",
+ "title": "UPPVIND Lampada da terra, nichelato/bianco, 150 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2238,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "204.378.21",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "204.378.21"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "204.378.21",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "204.378.21"
+    }
+   ]
+  },
+  "material": {
+   "value": "Metallo, Prodotto tessile",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Metallo, Prodotto tessile"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Struttura",
+     "value": "Alluminio, Rivestimento epossidico"
+    }
+   ]
+  },
+  "colour": {
+   "value": "grigio, bianco",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "grigio, bianco"
+    }
+   ]
+  },
+  "width": {
+   "value": "36 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "36 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "36 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza paralume",
+     "value": "44 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "150 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "150 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "150 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza totale",
+     "value": "150 cm"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "47 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "47 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "16 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lunghezza",
+     "value": "93 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "5.88 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "5.88 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Paralume": "100% poliestere",
+  "Strato di protezione": "Plastica EVA",
+  "Giunto": "Alluminio",
+  "Max.": "13 W",
+  "UPPVIND Lampada da terra": "204.378.21"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 10,
+  "L3": 4,
+  "dropped": 1
+ }
+}

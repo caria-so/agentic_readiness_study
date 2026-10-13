@@ -1,0 +1,48 @@
+{
+  "source": "https://www.mondoconv.it/",
+  "generated": "2026-10-02T18:30:14.193538",
+  "block_count": 2,
+  "types": [
+    "BreadcrumbList",
+    "ListItem",
+    "Organization"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 498,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Mondo Convenienza",
+        "url": "https://www.mondoconv.it",
+        "logo": "https://www.mondoconv.it/media/logo/stores/default/logo.svg",
+        "sameAs": [
+          "https://www.facebook.com/mondoconv/",
+          "https://it.pinterest.com/mondoconv/",
+          "https://www.tiktok.com/@mondoconvenienza",
+          "https://www.youtube.com/user/mondoconvenienzatv",
+          "https://www.instagram.com/mondoconvenienza/"
+        ]
+      }
+    },
+    {
+      "index": 1,
+      "chars": 258,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.mondoconv.it"
+          }
+        ]
+      }
+    }
+  ]
+}

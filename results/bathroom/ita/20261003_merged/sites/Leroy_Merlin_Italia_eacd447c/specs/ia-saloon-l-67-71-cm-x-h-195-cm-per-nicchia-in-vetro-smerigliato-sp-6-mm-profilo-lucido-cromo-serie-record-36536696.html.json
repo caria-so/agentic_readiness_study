@@ -1,0 +1,206 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/porta-doccia-saloon-l-67-71-cm-x-h-195-cm-per-nicchia-in-vetro-smerigliato-sp-6-mm-profilo-lucido-cromo-serie-record-36536696.html",
+ "file": "ia-saloon-l-67-71-cm-x-h-195-cm-per-nicchia-in-vetro-smerigliato-sp-6-mm-profilo-lucido-cromo-serie-record-36536696.html.html",
+ "title": "Porta doccia saloon L 67-71 cm x H 195 cm per nicchia in vetro smerigliato SP. 6 mm, profilo lucido cromo, serie Record",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6277,
+ "attributes": {
+  "sku": {
+   "value": "36536696",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "36536696"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8019002221087",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8019002221087"
+    }
+   ]
+  },
+  "material": {
+   "value": "Vetro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Vetro"
+    }
+   ]
+  },
+  "width": {
+   "value": "71",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm)",
+     "value": "71"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza minima (in cm)",
+     "value": "67"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza massima (in cm)",
+     "value": "71"
+    }
+   ]
+  },
+  "height": {
+   "value": "195",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm)",
+     "value": "195"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "6",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore (in mm)",
+     "value": "6"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore del profilo",
+     "value": "Cromo"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Cromato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura dei profili",
+     "value": "Cromato"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Finitura del vetro di sicurezza",
+     "value": "Smerigliato"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Magnetico",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di chiusura",
+     "value": "Magnetico"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo di apertura",
+     "value": "Saloon"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo di maniglia (esterna)",
+     "value": "Maniglia"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Italia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Paese di fabbricazione",
+     "value": "Italia"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "70",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "70"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "7"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "200"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "24",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "24"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del produttore (in anni)",
+     "value": "2"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Aspetto del profilo": "Lucido"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 19,
+  "L3": 0,
+  "dropped": 18
+ }
+}

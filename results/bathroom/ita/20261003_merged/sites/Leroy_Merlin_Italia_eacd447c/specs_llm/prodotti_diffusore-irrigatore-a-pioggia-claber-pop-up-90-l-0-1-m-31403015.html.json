@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "url": "https://www.leroymerlin.it/prodotti/diffusore-irrigatore-a-pioggia-claber-pop-up-90-l-0-1-m-31403015.html",
+  "model": "qwen2.5:32b",
+  "html": "prodotti_diffusore-irrigatore-a-pioggia-claber-pop-up-90-l-0-1-m-31403015.html.html",
+  "title": "Diffusore irrigatore a pioggia CLABER Pop-up 90° L 0.1 m | Leroy Merlin",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "weight": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "0.07 kg",
+        "evidence": "Prodotto imballato: peso (in kg) : 0.07"
+      }
+    },
+    "warranty": {
+      "reason": "statutory_warranty",
+      "raw": {
+        "value": "2 anni",
+        "evidence": "In conformità alla normativa vigente, tutti i prodotti venduti da Leroy Merlin e dai suoi rivenditori partner sono coperti da una garanzia legale di conformità della durata di 2 anni a partire dalla data di pagamento."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4337,
+    "output_tokens": 592,
+    "seconds": 59.2
+  }
+}

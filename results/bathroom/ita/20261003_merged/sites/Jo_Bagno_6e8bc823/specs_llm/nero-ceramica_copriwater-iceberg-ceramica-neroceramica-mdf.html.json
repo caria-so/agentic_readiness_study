@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/nero-ceramica/copriwater-iceberg-ceramica-neroceramica-mdf.html",
+  "model": "qwen2.5:32b",
+  "html": "nero-ceramica_copriwater-iceberg-ceramica-neroceramica-mdf.html.html",
+  "title": "Copriwater Iceberg Ceramica Neroceramica MDF",
+  "text_chars": 2923,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "36,1",
+      "evidence": "Misure: X: 36,1 Y: 45,5-48,8 Z: 10,2-19,8 (J3)",
+      "location": "body"
+    },
+    "length": {
+      "value": "45,5-48,8",
+      "evidence": "Misure: X: 36,1 Y: 45,5-48,8 Z: 10,2-19,8 (J3)",
+      "location": "body"
+    },
+    "series": {
+      "value": "Iceberg",
+      "evidence": "Copriwater compatibile con serie Iceberg della Ceramica Neroceramica in MDF",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Ceramica Neroceramica",
+      "evidence": "Copriwater compatibile con serie Iceberg della Ceramica Neroceramica in MDF",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Il copriwater Wc è un prodotto Made in Italy, realizzato in MDF con anima in legno altamente resistente alle sollecitazione esterne.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2233,
+    "output_tokens": 761,
+    "seconds": 66.62
+  }
+}

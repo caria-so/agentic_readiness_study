@@ -1,0 +1,71 @@
+{
+ "url": "https://dwellistore.com/rubinetteria-fantini-af-21-fukasawa-acciaio-gruppo-lavabo-3-fori-a204wf.html",
+ "file": "rubinetteria-fantini-af-21-fukasawa-acciaio-gruppo-lavabo-3-fori-a204wf.html.html",
+ "title": "Fantini AF/21 Fukasawa Steel 3-hole sink tap A204WF",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 787,
+ "attributes": {
+  "brand": {
+   "value": "Fantini",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Fantini"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Fantini"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "Fantini"
+    }
+   ]
+  },
+  "sku": {
+   "value": "2793 A204WF",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "2793 A204WF"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "2793 A204WF",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "2793 A204WF"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 0,
+  "dropped": 1
+ }
+}

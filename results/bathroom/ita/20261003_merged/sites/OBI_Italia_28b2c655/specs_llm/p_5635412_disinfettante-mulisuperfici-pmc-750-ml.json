@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5635412/disinfettante-mulisuperfici-pmc-750-ml",
+  "model": "qwen2.5:32b",
+  "html": "p_5635412_disinfettante-mulisuperfici-pmc-750-ml.html",
+  "title": "Disinfettante mulisuperfici PMC 750 ml",
+  "text_chars": 922,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "brand": {
+      "value": "PMC",
+      "evidence": "Disinfettante mulisuperfici PMC",
+      "location": "title"
+    },
+    "certification": {
+      "value": "Presidio medico chirurgico - Reg. Min. Sal. N° 21109",
+      "evidence": "Classificazione: Presidio medico chirurgico - Reg. Min. Sal. N° 21109",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1181,
+    "output_tokens": 581,
+    "seconds": 47.82
+  }
+}

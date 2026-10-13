@@ -1,0 +1,180 @@
+{
+ "url": "https://jysk.it/tende-e-accessori/tende/tende-pesanti/tenda-askrova-1-x-135x245-cm-kaki-pallido",
+ "file": "tende-e-accessori_tende_tende-pesanti_tenda-askrova-1-x-135x245-cm-kaki-pallido.html",
+ "title": "ASKROVA Tenda ASKROVA 1 x 135x245 cm kaki pallido",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 12095,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "5098010",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5098010"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "5098010"
+    }
+   ]
+  },
+  "material": {
+   "value": "100% poliestere (100% riciclato)",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "100% poliestere (100% riciclato)"
+    }
+   ]
+  },
+  "care": {
+   "value": "40°C",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lavare",
+     "value": "40°C"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Candeggio",
+     "value": "Non candeggiare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Asciugatrice",
+     "value": "Non asciugare in asciugatrice"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Stiratura",
+     "value": "* Stirabile, a temperature basse (max. 110°C)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio a secco e a umido",
+     "value": "Non lavare a secco"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Istruzioni",
+     "value": "Lavare sempre con colori simili, Lavare e asciugare prima di fare l'orlo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Cura",
+     "value": "Stirare al rovescio"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "1 x L135 x H245 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "1 x L135 x H245 cm"
+    }
+   ]
+  },
+  "certification": {
+   "value": "OEKO-TEX® STANDARD 100 ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "OEKO-TEX® STANDARD 100 "
+    }
+   ]
+  },
+  "weight": {
+   "value": "320 g/m².",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "320 g/m²."
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "A tinta unita",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Design",
+     "value": "A tinta unita"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Blu pallido",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Blu pallido"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Tinto",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Metodo di colorazione",
+     "value": "Tinto"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Parte superiore della tenda": "Fettuccia e ganci per tende, Anelli nascosti, Passante",
+  "Pezzo per pacchetto": "1 pezzo",
+  "Incl.": "Nastro per orli"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 17,
+  "L3": 1,
+  "dropped": 48
+ }
+}

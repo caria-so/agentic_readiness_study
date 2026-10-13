@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/specchio-ingranditore-inda-av258p.html",
+  "model": "qwen2.5:32b",
+  "html": "specchio-ingranditore-inda-av258p.html.html",
+  "title": "AV258P | Specchio beauty ingranditore x3 da appoggio",
+  "text_chars": 2756,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "installation": {
+      "value": "da appoggio",
+      "evidence": "Specchio beauty ingranditore x3 da appoggio",
+      "location": "title"
+    },
+    "electrical": {
+      "value": "Regolazione dell'intensità della luce 3000k-5500k, illuminazione a LED, grado di protezione IP44, 100-240 V, 50-60 Hz, 2,5W",
+      "evidence": "Specifiche del prodotto: Regolazione dell'intensità della luce 3000k-5500k, illuminazione a LED, grado di protezione IP44, 100-240 V, 50-60 Hz, 2,5W",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "care": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Pulire con acqua calda e aceto, risciacquare con acqua fredda e asciugare la superficie.",
+        "evidence": "Come si puliscono gli accessori e le parti cromate del bagno? Pulire con acqua calda e aceto, risciacquare con acqua fredda e asciugare la superficie."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1777,
+    "output_tokens": 727,
+    "seconds": 58.68
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/mensoloni-su-misura/3802-mensolone-su-misura-con-vasca-centrale-da-80-a-200-cm.html",
+  "model": "qwen2.5:32b",
+  "html": "mensoloni-su-misura_3802-mensolone-su-misura-con-vasca-centrale-da-80-a-200-cm.html.html",
+  "title": "Mensolone su misura con vasca sinistra da 90 a 200 cm | Boleco scelta vasca Vasca a sinistra Colore CASTORO",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Mensolone bagno sospeso SU MISURA da cm 60 a cm 200 con lavabo integrato",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "5 anni",
+      "evidence": "Prodotto garantito 5 anni.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Italia",
+      "evidence": "Mobile bagno prodotto in Italia.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Boleco",
+        "evidence": "Mensolone su misura con vasca sinistra da 90 a 200 cm | Boleco scelta vasca Vasca a sinistra Colore CASTORO"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4437,
+    "output_tokens": 845,
+    "seconds": 85.13
+  }
+}

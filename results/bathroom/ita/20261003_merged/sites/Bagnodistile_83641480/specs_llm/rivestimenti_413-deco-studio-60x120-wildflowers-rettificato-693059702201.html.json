@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/rivestimenti/413-deco-studio-60x120-wildflowers-rettificato-693059702201.html",
+  "model": "qwen2.5:32b",
+  "html": "rivestimenti_413-deco-studio-60x120-wildflowers-rettificato-693059702201.html.html",
+  "title": "DECO STUDIO 60X120 Wildflowers Rettificato | Bagno di Stile",
+  "text_chars": 3952,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "120",
+      "evidence": "DECO STUDIO 60X120 Wildflowers Rettificato",
+      "location": "title"
+    },
+    "height": {
+      "value": "60",
+      "evidence": "DECO STUDIO 60X120 Wildflowers Rettificato",
+      "location": "title"
+    },
+    "dimensions": {
+      "value": "60X120",
+      "evidence": "DECO STUDIO 60X120 Wildflowers Rettificato",
+      "location": "title"
+    },
+    "shape_style": {
+      "value": "rettangolare",
+      "evidence": "Formato Rettangolare",
+      "location": "body"
+    },
+    "series": {
+      "value": "Wildflowers",
+      "evidence": "DECO STUDIO 60X120 Wildflowers Rettificato",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2680,
+    "output_tokens": 619,
+    "seconds": 56.28
+  }
+}

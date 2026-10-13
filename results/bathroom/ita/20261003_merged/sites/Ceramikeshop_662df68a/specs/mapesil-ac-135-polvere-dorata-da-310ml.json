@@ -1,0 +1,92 @@
+{
+ "url": "https://ceramikeshop.it/mapesil-ac-135-polvere-dorata-da-310ml",
+ "file": "mapesil-ac-135-polvere-dorata-da-310ml.html",
+ "title": "Mapesil AC 135 Polvere Dorata da 310ml | Mapei | Ceramikeshop",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 7945,
+ "attributes": {
+  "brand": {
+   "value": "Mapei",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Mapei"
+    }
+   ]
+  },
+  "sku": {
+   "value": "MP/4813542IT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "MP/4813542IT"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8022452074509",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8022452074509"
+    },
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8022452074509"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "MP/4813542IT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "MP/4813542IT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.000000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Contiene Legno": "NO",
+  "Spray": "NO",
+  "Contatto con Alimenti": "NO"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 4,
+  "L3": 0,
+  "dropped": 1
+ }
+}

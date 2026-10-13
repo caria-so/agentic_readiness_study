@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/rigato-7u8s.html",
+  "model": "qwen2.5:32b",
+  "html": "rigato-7u8s.html.html",
+  "title": "Pensile destro verde salvia opaco: Rigato | Mondo Convenienza",
+  "text_chars": 756,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "opaco",
+      "evidence": "verde salvia opaco",
+      "location": "title"
+    },
+    "colour": {
+      "value": "verde salvia",
+      "evidence": "verde salvia opaco",
+      "location": "title"
+    },
+    "width": {
+      "value": "34 cm",
+      "evidence": "L.34 P.22 H.71 COLORE VERDE OPACO",
+      "location": "body"
+    },
+    "height": {
+      "value": "71 cm",
+      "evidence": "L.34 P.22 H.71 COLORE VERDE OPACO",
+      "location": "body"
+    },
+    "depth": {
+      "value": "22 cm",
+      "evidence": "L.34 P.22 H.71 COLORE VERDE OPACO",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "34 x 22 x 71",
+      "evidence": "34 x 22 x 71",
+      "location": "body"
+    },
+    "series": {
+      "value": "Rigato",
+      "evidence": "RIGATO PENSILE DESTRO L.34 P.22 H.71 COLORE VERDE OPACO",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "opening": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "battente",
+        "evidence": "Questo pensile è dotato di 1 anta"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondo Convenienza",
+        "evidence": "Pensile destro verde salvia opaco: Rigato | Mondo Convenienza"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1112,
+    "output_tokens": 625,
+    "seconds": 51.25
+  }
+}

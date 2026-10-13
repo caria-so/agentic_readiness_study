@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/mobili-bagno/1597-mobile-bagno-morai-100-cm-in-rovere-con-maniglia-nera-lavabo-in-porcellana-8421194921780.html",
+  "model": "qwen2.5:32b",
+  "html": "mobili-bagno_1597-mobile-bagno-morai-100-cm-in-rovere-con-maniglia-nera-lavabo-in-porcellana-8421194921780.html.html",
+  "title": "Mobile bagno Morai 100 cm in rovere con maniglia nera Lavabo in por...",
+  "text_chars": 6418,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "rovere",
+      "evidence": "Mobile bagno Morai 100 cm in rovere con maniglia nera Lavabo in porcellana",
+      "location": "body"
+    },
+    "colour": {
+      "value": "rovere",
+      "evidence": "Mobile bagno Morai 100 cm in rovere con maniglia nera Lavabo in porcellana",
+      "location": "body"
+    },
+    "width": {
+      "value": "100 cm",
+      "evidence": "- Dimensioni: 100 x 54 x 45 cm (larghezza x altezza x profondità).",
+      "location": "body"
+    },
+    "height": {
+      "value": "54 cm",
+      "evidence": "- Dimensioni: 100 x 54 x 45 cm (larghezza x altezza x profondità).",
+      "location": "body"
+    },
+    "depth": {
+      "value": "45 cm",
+      "evidence": "- Dimensioni: 100 x 54 x 45 cm (larghezza x altezza x profondità).",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "100 x 54 x 45 cm",
+      "evidence": "- Dimensioni: 100 x 54 x 45 cm (larghezza x altezza x profondità).",
+      "location": "body"
+    },
+    "opening": {
+      "value": "cassetti con chiusura ammortizzata",
+      "evidence": "- Cassetti con chiusura ammortizzata per una chiusura fluida.",
+      "location": "body"
+    },
+    "series": {
+      "value": "MORAI",
+      "evidence": "La serie MORAI ha un design molto funzionale.",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "5 anni",
+      "evidence": "- Garanzia di 5 anni per danni e pezzi di ricambio.",
+      "location": "body"
+    },
+    "certification": {
+      "value": "PEFC",
+      "evidence": "- Certificato PEFC, che garantisce lo sfruttamento sostenibile delle risorse forestali. Imballaggio senza plastica.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Spagna",
+      "evidence": "- Progettato e prodotto in Spagna",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "sospeso",
+        "evidence": "Mobili sospesi : BORN 100 cm profondità 45 cm:"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3321,
+    "output_tokens": 779,
+    "seconds": 68.81
+  }
+}

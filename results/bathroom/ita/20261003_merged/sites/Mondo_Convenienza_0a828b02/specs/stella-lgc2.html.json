@@ -1,0 +1,61 @@
+{
+ "url": "https://www.mondoconv.it/stella-lgc2.html",
+ "file": "stella-lgc2.html.html",
+ "title": "Cucina completa: Stella | Mondo Convenienza",
+ "excluded_reason": null,
+ "main_area_method": "body",
+ "main_area_chars": 3803,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Mondo Convenienza",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Mondo Convenienza"
+    }
+   ]
+  },
+  "sku": {
+   "value": "LGC2",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "LGC2"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "LGC2",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "LGC2"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

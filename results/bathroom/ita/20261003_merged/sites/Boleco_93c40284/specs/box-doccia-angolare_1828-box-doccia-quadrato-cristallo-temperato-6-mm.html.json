@@ -1,0 +1,168 @@
+{
+ "url": "https://www.boleco.it/box-doccia-angolare/1828-box-doccia-quadrato-cristallo-temperato-6-mm.html",
+ "file": "box-doccia-angolare_1828-box-doccia-quadrato-cristallo-temperato-6-mm.html.html",
+ "title": "Box doccia quadrato cristallo temperato 6 mm - 80x80 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4894,
+ "attributes": {
+  "sku": {
+   "value": "89001",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "89001"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "89001"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "89001"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Quadrato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Box Doccia",
+     "value": "Quadrato"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Vetro Box Doccia",
+     "value": "Trasparente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipologia Apertura",
+     "value": "Scorrevole"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "80x80 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Box Doccia",
+     "value": "80x80 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensione",
+     "value": "cm. 80x80x190"
+    }
+   ]
+  },
+  "material": {
+   "value": "Alluminio",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Alluminio"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "40 mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessore Profili",
+     "value": "40 mm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Spessore Vetro",
+     "value": "6 mm"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Cromata",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "Cromata"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Con sistema a calamita",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "Con sistema a calamita"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Maniglia",
+     "value": "Si"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Si",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Fissaggi compresi",
+     "value": "Si"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Installazione",
+     "value": "tolleranza 2 cm."
+    }
+   ]
+  },
+  "certification": {
+   "value": "CE",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Regolabile in fase di montaggio": "- 2 cm per lato",
+  "Trattamento vetro interno": "Anticalcare"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 5,
+  "L3": 13,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "url": "https://www.iperceramica.it/it/ita/catalogo/ope-fram-bco-sc-in-sat-210x60x10-dx-int",
+ "file": "it_ita_catalogo_ope-fram-bco-sc-in-sat-210x60x10-dx-int.html",
+ "title": "Porta Scorrevole Open Frame con Vetro Satinato 60XH210 cm Bianca Apertura a Destra per Controtelaio da Intonaco Spess 105 mm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 595,
+ "attributes": {
+  "sku": {
+   "value": "75426",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "75426"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

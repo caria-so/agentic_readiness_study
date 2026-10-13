@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/copriwater/385-coprivaso-slim-soft-close-bianco-formunica--693059700580.html",
+  "model": "qwen2.5:32b",
+  "html": "copriwater_385-coprivaso-slim-soft-close-bianco-formunica--693059700580.html.html",
+  "title": "COPRIVASO Slim soft-close bianco FORM/UNICA | Bagno di Stile",
+  "text_chars": 3930,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "bianco",
+      "evidence": "Colore bianco",
+      "location": "body"
+    },
+    "series": {
+      "value": "FORM",
+      "evidence": "Serie FORM",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "opening": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "soft-close",
+        "evidence": "Coprivaso a caduta rallentata"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2516,
+    "output_tokens": 521,
+    "seconds": 46.39
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/porta-asciugamani-styl-in-acciaio-spazzolato-l-85-cm-a6018dns.html",
+  "model": "qwen2.5:32b",
+  "html": "it_porta-asciugamani-styl-in-acciaio-spazzolato-l-85-cm-a6018dns.html.html",
+  "title": "Porta asciugamani Styl in acciaio spazzolato L.85 cm",
+  "text_chars": 8152,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "care": {
+      "value": "l'uso di detergenti neutri e accessori non abrasivi",
+      "evidence": "Al fine di preservare la naturale bellezza dell'acciaio spazzolato, nella periodica procedura di igienizzazione si consiglia l'uso di detergenti neutri e accessori non abrasivi.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3693,
+    "output_tokens": 625,
+    "seconds": 59.02
+  }
+}

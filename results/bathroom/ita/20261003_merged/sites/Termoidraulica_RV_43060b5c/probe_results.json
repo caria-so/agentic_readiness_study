@@ -1,0 +1,81 @@
+{
+  "company": "Termoidraulica RV",
+  "url": "https://termoidraulicarv.com/",
+  "site_dir": "discovery_round_final_f/sites/Termoidraulica_RV_43060b5c",
+  "final_url": "https://termoidraulicarv.com/",
+  "status": "fetched",
+  "timestamp": "2026-10-03T07:23:33.211630",
+  "http_status": 200,
+  "fetch_ms": 24805.0,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://termoidraulicarv.com/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_f/sites/Termoidraulica_RV_43060b5c/index.html",
+      "count": 254146,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://termoidraulicarv.com/sitemap-taxonomy-product_tag.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_f/sites/Termoidraulica_RV_43060b5c/sitemap.json",
+      "count": 9866,
+      "total_available": 9866,
+      "truncated": false,
+      "product_url_count": 3285,
+      "product_total_available": 3285
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_f/sites/Termoidraulica_RV_43060b5c/jsonld.json",
+      "count": 1,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_f/sites/Termoidraulica_RV_43060b5c/links.json",
+      "count": 174,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/sanitizing-products-and-tester-for-water/tester-and-kit-for-water-analysis/ipt-nitrites-water-kit-analysis/",
+  "model": "qwen2.5:32b",
+  "html": "sanitizing-products-and-tester-for-water_tester-and-kit-for-water-analysis_ipt-nitrites-water-kit-analysis.html",
+  "title": "IPT Nitrites water kit analysis",
+  "text_chars": 1985,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "brand": {
+      "value": "IPT",
+      "evidence": "IPT Nitrites water kit analysis",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1339,
+    "output_tokens": 477,
+    "seconds": 44.57
+  }
+}

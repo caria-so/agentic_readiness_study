@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/iside-otwc.html",
+  "model": "qwen2.5:32b",
+  "html": "iside-otwc.html.html",
+  "title": "Divano relax 3 posti - meccanismo estraibile tessuto loto elephant: Iside | Mondo Convenienza",
+  "text_chars": 1307,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "tessuto loto elephant",
+      "evidence": "Divano relax 3 posti - meccanismo estraibile tessuto loto elephant",
+      "location": "title"
+    },
+    "width": {
+      "value": "L.218",
+      "evidence": "ISIDE DIVANO RELAX 3 POSTI L.218 P.90 H.94",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.94",
+      "evidence": "ISIDE DIVANO RELAX 3 POSTI L.218 P.90 H.94",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.90",
+      "evidence": "ISIDE DIVANO RELAX 3 POSTI L.218 P.90 H.94",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L.218 P.90 H.94",
+      "evidence": "ISIDE DIVANO RELAX 3 POSTI L.218 P.90 H.94",
+      "location": "body"
+    },
+    "series": {
+      "value": "Iside",
+      "evidence": "ISIDE DIVANO RELAX 3 POSTI L.218 P.90 H.94",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "cromato",
+        "evidence": "rifinito dalla testa ai piedini cromati"
+      }
+    },
+    "shape_style": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "moderno",
+        "evidence": "Iside è il complemento perfetto se ami gli ambienti moderni."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1262,
+    "output_tokens": 649,
+    "seconds": 53.65
+  }
+}

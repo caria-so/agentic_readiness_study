@@ -1,0 +1,107 @@
+{
+  "source": "https://www.boleco.it/it/",
+  "generated": "2026-10-02T17:05:31.743986",
+  "block_count": 2,
+  "types": [
+    "Organization",
+    "SearchAction",
+    "SiteNavigationElement",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 390,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.boleco.it/it/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.boleco.it/it/ricerca?controller=search&amp;s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    },
+    {
+      "index": 1,
+      "chars": 3679,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.boleco.it/it/",
+        "name": "Boleco",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Boleco",
+          "url": "https://www.boleco.it/it/",
+          "logo": "https://www.boleco.it/img/boleco-logo-1596037761.jpg"
+        },
+        "hasPart": [
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Mobili Bagno",
+            "description": "Design italiano certificato PEFC: mobili sospesi, a terra, in legno e doppio lavabo per ogni stile e metratura. Oltre 25.000 prodotti in pronta consegna, spedizione in 48/72h.",
+            "url": "https://www.boleco.it/432-mobili-bagno"
+          },
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Specchi Bagno",
+            "description": "Specchi LED retroilluminati, contenitore e filo lucido per un bagno moderno e funzionale. Con funzione antiappannamento, touch e bluetooth: il dettaglio che trasforma il progetto.",
+            "url": "https://www.boleco.it/9-specchi-bagno"
+          },
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Pensili e Colonne",
+            "description": "Soluzioni verticali salvaspazio per organizzare ogni centimetro del bagno: colonne, pensili e cassettiere coordinabili con i mobili bagno Boleco.",
+            "url": "https://www.boleco.it/796-pensili-e-colonne"
+          },
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Sanitari Bagno",
+            "description": "Sanitari sospesi e filomuro in ceramica Made in Italy: coppie coordinate con bidet, copriwater soft-close e cassette di scarico a incasso. Installazione semplice, design senza tempo.",
+            "url": "https://www.boleco.it/7-sanitari-a-terra-e-sospesi"
+          },
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Lavabi per il Bagno",
+            "description": "Lavabi da appoggio, freestanding e a colonna in ceramica, marmo naturale e resina. Dal lavabo d'arredo al modello compatto: forme e materiali per ogni stile progettuale.",
+            "url": "https://www.boleco.it/818-lavabi-per-il-bagno"
+          },
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Box Doccia e Docce",
+            "description": "Box doccia angolari, walk-in e semicircolari in vetro temperato: misure standard e su misura per bagni piccoli e grandi. Inclusi piatti doccia filo pavimento e colonne idromassaggio.",
+            "url": "https://www.boleco.it/912-box-doccia"
+          },
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Rubinetteria Bagno",
+            "description": "Rubinetti monocomando per lavabo, bidet, vasca e doccia nelle finiture più ricercate del 2026: cromo, nero opaco, oro spazzolato. Set coordinati per un bagno progettato nei dettagli.",
+            "url": "https://www.boleco.it/8-rubinetti-bagno"
+          },
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Vasche da Bagno",
+            "description": "Vasche idromassaggio angolari e freestanding per trasformare il bagno in una spa domestica. Sistemi idro e aero, cromoterapia e tecnologia benessere a portata di casa.",
+            "url": "https://www.boleco.it/it/794-vasche-idromassaggio"
+          },
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Accessori Bagno",
+            "description": "Set accessori coordinati in resina, ceramica e metallo: dispenser, porta asciugamano, appendini e piantane per completare l'arredo bagno con stile e coerenza.",
+            "url": "https://www.boleco.it/6-accessori-per-il-bagno"
+          },
+          {
+            "@type": "SiteNavigationElement",
+            "name": "Ristruttura il Bagno",
+            "description": "Bagni completi chiavi in mano: mobile, specchio LED, rubinetteria e sanitari coordinati, già abbinati dal nostro team di architetti. Il modo più semplice per rinnovare il bagno online.",
+            "url": "https://www.boleco.it/838-ristrutturazione-bagno"
+          }
+        ]
+      }
+    }
+  ]
+}

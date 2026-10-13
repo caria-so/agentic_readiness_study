@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/metod-pensile-angolare-con-ripiani-bianco-lerhyttan-mordente-nero-s29257575/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_metod-pensile-angolare-con-ripiani-bianco-lerhyttan-mordente-nero-s29257575.html",
+  "title": "METOD pensile angolare con ripiani, bianco/Lerhyttan mordente nero, 68x100 cm  - IKEA Italia",
+  "text_chars": 3895,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "68x100 cm",
+      "evidence": "Pensile angolare con ripiani, bianco/Lerhyttan mordente nero, 68x100 cm",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "25 anni di garanzia.",
+      "evidence": "25 anni di garanzia. Scopri i termini e le condizioni nell'opuscolo della garanzia.",
+      "location": "body"
+    },
+    "care": {
+      "value": "Pulisci con un panno inumidito in acqua o in un detersivo senza abrasivi. Asciuga con un panno pulito.",
+      "evidence": "Pulisci con un panno inumidito in acqua o in un detersivo senza abrasivi. Asciuga con un panno pulito.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "sospeso",
+        "evidence": "Il binario è venduto a parte."
+      }
+    },
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "METOD",
+        "evidence": "Pensile angolare con ripiani, bianco/Lerhyttan mordente nero, 68x100 cm"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA",
+        "evidence": "IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2330,
+    "output_tokens": 737,
+    "seconds": 64.98
+  }
+}

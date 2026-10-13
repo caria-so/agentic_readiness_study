@@ -1,0 +1,187 @@
+{
+ "url": "https://www.mondialshop.it/it/pareti-walk-in/50325-doccia-walk-in-130cm-anticalcare-trasparente-vetro-8mm-h195cm-osiride.html",
+ "file": "it_pareti-walk-in_50325-doccia-walk-in-130cm-anticalcare-trasparente-vetro-8mm-h195cm-osiride.html.html",
+ "title": "Doccia walk-in 130cm anticalcare trasparente vetro 8mm H195cm | Osiride",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2732,
+ "attributes": {
+  "brand": {
+   "value": "OLIMPO DOCCE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "OLIMPO DOCCE"
+    }
+   ]
+  },
+  "sku": {
+   "value": "804.00.130-PC",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "804.00.130-PC"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "804.00.130-PC",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "804.00.130-PC"
+    }
+   ]
+  },
+  "weight": {
+   "value": "55.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "55.000000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Trasparente",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Trasparente"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore Struttura",
+     "value": "Cromato"
+    }
+   ]
+  },
+  "height": {
+   "value": "195",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "195"
+    }
+   ]
+  },
+  "series": {
+   "value": "Osiride",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "Osiride"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Parete Walk-In",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Parete Walk-In"
+    }
+   ]
+  },
+  "material": {
+   "value": "Vetro temperato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Vetro temperato"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale Impugnatura",
+     "value": "Acciaio"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Struttura",
+     "value": "Alluminio"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "8",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore Cristallo",
+     "value": "8"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Walk-in",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Apertura",
+     "value": "Walk-in"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Su Piatto Doccia o Filo Pavimento",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di Installazione",
+     "value": "Su Piatto Doccia o Filo Pavimento"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Piatto Doccia | Filo Pavimento"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Configurazione": "Parete Fissa",
+  "Anti Calcare": "Sì",
+  "Reversibile": "Sì",
+  "Entrata": "Walk-in",
+  "Impugnatura": "Maniglia | Pomello",
+  "Ingresso": "Laterale"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 18,
+  "L3": 0,
+  "dropped": 1
+ }
+}

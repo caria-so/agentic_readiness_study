@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/coppia-vaso-e-bidet-cm55-meg11-pro-coprivaso-incluso",
+  "model": "qwen2.5:32b",
+  "html": "coppia-vaso-e-bidet-cm55-meg11-pro-coprivaso-incluso.html",
+  "title": "Coppia Vaso e Bidet cm.55 Meg11 Pro coprivaso incluso | Galassia",
+  "text_chars": 8469,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "55x35 cm",
+      "evidence": "Wc con scarico universale S/P SENZA BRIDA 55x35 cm, trasformabile tramite curva tecnica.",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Bidet monoforo a terra cm.56 Dream",
+      "location": "body"
+    },
+    "opening": {
+      "value": "soft close",
+      "evidence": "COMPRESO DI COPRIVASO SOFT CLOSE",
+      "location": "body"
+    },
+    "series": {
+      "value": "Meg11 Pro",
+      "evidence": "Coppia Vaso e Bidet cm.55 Meg11 Pro coprivaso incluso | Galassia",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4915,
+    "output_tokens": 556,
+    "seconds": 63.02
+  }
+}

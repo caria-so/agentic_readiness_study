@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/sinarp-anta-marrone-70404149/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_sinarp-anta-marrone-70404149.html",
+  "title": "SINARP anta, marrone, 40x100 cm  - IKEA Italia",
+  "text_chars": 3212,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "40x100 cm",
+      "evidence": "Anta, marrone, 40x100 cm",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "25 anni di garanzia",
+      "evidence": "25 anni di garanzia.",
+      "location": "body"
+    },
+    "care": {
+      "value": "Asciuga con un panno pulito.\nPulisci con un panno in microfibra inumidito con acqua. Per le macchie più difficili, usa un detergente poco concentrato e strofina delicatamente con movimenti circolari.",
+      "evidence": "Asciuga con un panno pulito.\nPulisci con un panno in microfibra inumidito con acqua. Per le macchie più difficili, usa un detergente poco concentrato e strofina delicatamente con movimenti circolari.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "shape_style": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "moderno",
+        "evidence": "I frontali SINARP aggiungono una nota di modernità a un design senza tempo."
+      }
+    },
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "SINARP",
+        "evidence": "Anta, marrone, 40x100 cm"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA of Sweden",
+        "evidence": "Designer\nIKEA of Sweden"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2134,
+    "output_tokens": 721,
+    "seconds": 63.02
+  }
+}

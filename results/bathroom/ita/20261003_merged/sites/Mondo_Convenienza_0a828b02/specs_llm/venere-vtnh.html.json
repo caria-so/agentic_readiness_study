@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/venere-vtnh.html",
+  "model": "qwen2.5:32b",
+  "html": "venere-vtnh.html.html",
+  "title": "Divano letto angolare con penisola sinistra - meccanismo estraibile tessuto arcadia milk: Venere | Mondo Convenienza",
+  "text_chars": 1184,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromati",
+      "evidence": "Piedini cromati: che tocco di classe!",
+      "location": "body"
+    },
+    "colour": {
+      "value": "arcadia milk",
+      "evidence": "tessuto arcadia milk",
+      "location": "title"
+    },
+    "width": {
+      "value": "L.290",
+      "evidence": "VENERE DIVANO LETTO ANGOLARE CON PENISOLA SINISTRA L.290 P.170 H.99 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO ARCADIA MILK",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.99",
+      "evidence": "VENERE DIVANO LETTO ANGOLARE CON PENISOLA SINISTRA L.290 P.170 H.99 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO ARCADIA MILK",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.170",
+      "evidence": "VENERE DIVANO LETTO ANGOLARE CON PENISOLA SINISTRA L.290 P.170 H.99 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO ARCADIA MILK",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L.290 P.170 H.99",
+      "evidence": "VENERE DIVANO LETTO ANGOLARE CON PENISOLA SINISTRA L.290 P.170 H.99 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO ARCADIA MILK",
+      "location": "body"
+    },
+    "opening": {
+      "value": "Modulo estraibile per apertura a letto",
+      "evidence": "Modulo estraibile per apertura a letto",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "angolare",
+      "evidence": "Divano letto angolare con penisola sinistra - meccanismo estraibile",
+      "location": "title"
+    },
+    "series": {
+      "value": "Venere",
+      "evidence": "VENERE DIVANO LETTO ANGOLARE CON PENISOLA SINISTRA L.290 P.170 H.99 - MECCANISMO ESTRAIBILE - RIVESTIMENTO TESSUTO ARCADIA MILK",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Mondo Convenienza",
+        "evidence": "Venere | Mondo Convenienza"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1227,
+    "output_tokens": 835,
+    "seconds": 67.9
+  }
+}

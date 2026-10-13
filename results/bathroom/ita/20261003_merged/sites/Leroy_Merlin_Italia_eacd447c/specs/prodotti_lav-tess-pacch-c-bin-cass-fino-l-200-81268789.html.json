@@ -1,0 +1,97 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/lav-tess-pacch-c-bin-cass-fino-l-200-81268789.html",
+ "file": "prodotti_lav-tess-pacch-c-bin-cass-fino-l-200-81268789.html.html",
+ "title": "lav tess pacch c/bin cass fino l 200",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2999,
+ "attributes": {
+  "sku": {
+   "value": "81268789",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "81268789"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "1"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "1"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "1"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Tenda a pacchetto con binario",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di prodotto (LMIT)",
+     "value": "Tenda a pacchetto con binario"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.1"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "TdS S.r.l.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "TdS S.r.l."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Opzioni principali": "Pacchetto L200 con binario",
+  "Applicazione": "Cad",
+  "Coefficiente PER (per la larghezza)": "1",
+  "Coefficiente Più (per la larghezza)": "0.25",
+  "Coefficiente Più (per l'altezza)": "0.3"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 10,
+  "L3": 1,
+  "dropped": 0
+ }
+}

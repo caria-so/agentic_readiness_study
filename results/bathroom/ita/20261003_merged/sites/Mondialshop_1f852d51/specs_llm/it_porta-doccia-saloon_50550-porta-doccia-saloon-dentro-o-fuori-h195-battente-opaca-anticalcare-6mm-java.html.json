@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/porta-doccia-saloon/50550-porta-doccia-saloon-dentro-o-fuori-h195-battente-opaca-anticalcare-6mm-java.html",
+  "model": "qwen2.5:32b",
+  "html": "it_porta-doccia-saloon_50550-porta-doccia-saloon-dentro-o-fuori-h195-battente-opaca-anticalcare-6mm-java.html.html",
+  "title": "Porta doccia con apertura saloon 80 90 100",
+  "text_chars": 4460,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "warranty": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "5 anni di garanzia",
+        "evidence": "Cosa Devi Sapere Cosa comprende la garanzia di 5 anni?"
+      }
+    },
+    "care": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Pulire con panno morbido e acqua calda, evitare spugne abrasive o prodotti acidi",
+        "evidence": "Sebbene la finitura opaca nasconda meglio le impronte, per preservare l'integrità del trattamento è fondamentale ricordare che non si può pulire con spugne abrasive o prodotti acidi. La poca manutenzione richiede l'utilizzo di un panno morbido e acqua calda;"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2229,
+    "output_tokens": 694,
+    "seconds": 61.11
+  }
+}

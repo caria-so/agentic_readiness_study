@@ -1,0 +1,94 @@
+{
+ "url": "https://www.kvstore.it/vasca-da-bagno-nirvana-filo-muro-l-170-p-80-h-59-cm-in-acrilico/",
+ "file": "vasca-da-bagno-nirvana-filo-muro-l-170-p-80-h-59-cm-in-acrilico.html",
+ "title": "Vasca da bagno rettangolare filo muro in acrilico termoformata senza giunture | Nina",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3500,
+ "attributes": {
+  "dimensions": {
+   "value": "170x80x59 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "170x80x59 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "acrilico termoformato da un unico pezzo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "acrilico termoformato da un unico pezzo"
+    }
+   ]
+  },
+  "finish": {
+   "value": "bianco lucido",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "bianco lucido"
+    }
+   ]
+  },
+  "weight": {
+   "value": "40 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "40 kg"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "centrale sul fondo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Scarico",
+     "value": "centrale sul fondo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Sifone",
+     "value": "incluso"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Rubinetteria",
+     "value": "non compresa"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Troppopieno": "centrale sul lato lungo",
+  "Piedini": "regolabili"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 0,
+  "L3": 9,
+  "dropped": 5
+ }
+}

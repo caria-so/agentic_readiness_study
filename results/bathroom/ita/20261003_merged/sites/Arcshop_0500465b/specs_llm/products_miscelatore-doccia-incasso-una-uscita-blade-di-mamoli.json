@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/miscelatore-doccia-incasso-una-uscita-blade-di-mamoli",
+  "model": "qwen2.5:32b",
+  "html": "products_miscelatore-doccia-incasso-una-uscita-blade-di-mamoli.html",
+  "title": "Miscelatore doccia incasso una uscita Blade di Mamoli | Arcshop",
+  "text_chars": 2967,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "cromo brillante",
+      "evidence": "Miscelatore doccia incasso Mamoli Blade, una uscita, cartuccia ceramica, canna sottile e squadrata, cromo brillante, Made in Italy.",
+      "location": "body"
+    },
+    "water": {
+      "value": "cartuccia ceramica",
+      "evidence": "Miscelatore doccia incasso Mamoli Blade, una uscita, cartuccia ceramica, canna sottile e squadrata, cromo brillante, Made in Italy.",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "sottile e squadrata",
+      "evidence": "Miscelatore doccia incasso Mamoli Blade, una uscita, cartuccia ceramica, canna sottile e squadrata, cromo brillante, Made in Italy.",
+      "location": "body"
+    },
+    "series": {
+      "value": "Blade",
+      "evidence": "Miscelatore doccia incasso una uscita Blade di Mamoli",
+      "location": "title"
+    },
+    "origin": {
+      "value": "Made in Italy",
+      "evidence": "Miscelatore doccia incasso Mamoli Blade, una uscita, cartuccia ceramica, canna sottile e squadrata, cromo brillante, Made in Italy.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "da incasso",
+        "evidence": "Miscelatore doccia incasso una uscita Blade di Mamoli"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1835,
+    "output_tokens": 730,
+    "seconds": 59.04
+  }
+}

@@ -1,0 +1,161 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/tappeto-wenge-in-viscosa-avorio-l-240-x-l-170-cm-82489132.html",
+ "file": "prodotti_tappeto-wenge-in-viscosa-avorio-l-240-x-l-170-cm-82489132.html.html",
+ "title": "Tappeto Wenge in viscosa Avorio L 240 x L 170 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 6046,
+ "attributes": {
+  "sku": {
+   "value": "82489132",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "82489132"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8052405506184",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8052405506184"
+    }
+   ]
+  },
+  "material": {
+   "value": "40% viscosa 30% ciniglia 30% cotone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Composizione (in %)",
+     "value": "40% viscosa 30% ciniglia 30% cotone"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Interno",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Luogo di utilizzo",
+     "value": "Interno"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Meccanico",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di fabbricazione",
+     "value": "Meccanico"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "170x240",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione (L x L) (in cm)",
+     "value": "170x240"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "2"
+    }
+   ]
+  },
+  "care": {
+   "value": "Lavare a mano a 30 ° C",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Consigli per il lavaggio",
+     "value": "Lavare a mano a 30 ° C"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "170",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "170"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "24"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "24"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "8.16",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "8.16"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "Abc Italia srl",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "Abc Italia srl"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Fondo antiscivolo": "Sì",
+  "Compatibilità riscaldamento a pavimento": "Sì",
+  "Home Index": "B"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 12,
+  "L3": 2,
+  "dropped": 6
+ }
+}

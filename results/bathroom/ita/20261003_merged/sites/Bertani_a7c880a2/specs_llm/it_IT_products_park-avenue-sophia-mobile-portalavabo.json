@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/park-avenue-sophia-mobile-portalavabo",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_park-avenue-sophia-mobile-portalavabo.html",
+  "title": "Park Avenue, Sophia Mobile portalavabo  L 125 cm | Bertani",
+  "text_chars": 696,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "vetro",
+      "evidence": "top in vetro retro verniciato colore blue sea lucido",
+      "location": "body"
+    },
+    "finish": {
+      "value": "lucido",
+      "evidence": "colore blue sea lucido , L125, P52,3, H86 cm + 6 cm alzatina, con top in vetro retro verniciato colore blue sea lucido",
+      "location": "body"
+    },
+    "colour": {
+      "value": "blue sea",
+      "evidence": "colore blue sea lucido , L125, P52,3, H86 cm + 6 cm alzatina, con top in vetro retro verniciato colore blue sea lucido",
+      "location": "body"
+    },
+    "height": {
+      "value": "86 cm + 6 cm alzatina",
+      "evidence": "H86 cm + 6 cm alzatina",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "lavabo sottopiano L53 cm, maniglie e copriforo per troppopieno",
+      "evidence": "lavabo sottopiano L53 cm, maniglie e copriforo per troppopieno finitura rame invecchiato",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "dimensions": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "125x52.3x86 cm + 6 cm alzatina",
+        "evidence": "Larghezza (cm) 125, Profondità (cm) 52.3, H86 cm + 6 cm alzatina"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1120,
+    "output_tokens": 752,
+    "seconds": 62.06
+  }
+}

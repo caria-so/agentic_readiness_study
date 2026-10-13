@@ -1,0 +1,1476 @@
+{
+  "source": "https://www.paramashop.it/",
+  "generated": "2026-10-03T01:46:11.604223",
+  "total": 186,
+  "internal_count": 173,
+  "external_count": 13,
+  "links": [
+    {
+      "url": "https://www.paramashop.it/",
+      "fragment": "content-main",
+      "text": "Passa al contenuto principale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/",
+      "fragment": "header-main-search-input",
+      "text": "Salta alla ricerca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/",
+      "fragment": "main-navigation-menu",
+      "text": "Passa alla navigazione principale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://assistenza.paramashop.it/hc/it/requests/new",
+      "fragment": "",
+      "text": "APRI UN TICKET!",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/wishlist",
+      "fragment": "",
+      "text": "twt.header.wishlistText",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/account/login",
+      "fragment": "",
+      "text": "Login",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/account",
+      "fragment": "",
+      "text": "Panoramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/account/profile",
+      "fragment": "",
+      "text": "Profilo personale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/account/address",
+      "fragment": "",
+      "text": "Indirizzi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/account/payment",
+      "fragment": "",
+      "text": "Modalità di pagamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/account/order",
+      "fragment": "",
+      "text": "Ordini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://resi.paramashop.it",
+      "fragment": "",
+      "text": "Effettua un reso",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/checkout/cart",
+      "fragment": "",
+      "text": "0,00&nbsp;€",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-bagno/",
+      "fragment": "",
+      "text": "Arredo bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/box-doccia/",
+      "fragment": "",
+      "text": "Box doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piatti-doccia/",
+      "fragment": "",
+      "text": "Piatti doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/vasche-da-bagno/",
+      "fragment": "",
+      "text": "Vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/sanitari/",
+      "fragment": "",
+      "text": "Sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/rubinetteria/",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/mobili/",
+      "fragment": "",
+      "text": "Mobili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/specchi/",
+      "fragment": "",
+      "text": "Specchi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/termoarredo/",
+      "fragment": "",
+      "text": "Termoarredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/lavabi/",
+      "fragment": "",
+      "text": "Lavabi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/accessori/",
+      "fragment": "",
+      "text": "Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/box-doccia/box-doccia-angolari/",
+      "fragment": "",
+      "text": "Box doccia angolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/box-doccia/pareti-walk-in/",
+      "fragment": "",
+      "text": "Pareti Walk-In",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/box-doccia/porte-doccia-per-nicchia/",
+      "fragment": "",
+      "text": "Porte doccia per nicchia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/box-doccia/box-doccia-tre-lati/",
+      "fragment": "",
+      "text": "Box doccia tre lati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/box-doccia/box-doccia-semicircolari/",
+      "fragment": "",
+      "text": "Box doccia semicircolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/box-doccia/doccia-idromassaggio/",
+      "fragment": "",
+      "text": "Doccia idromassaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/box-doccia/apertura-a-libro/",
+      "fragment": "",
+      "text": "Apertura a libro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piatti-doccia/piatti-doccia-rettangolari/",
+      "fragment": "",
+      "text": "Piatti doccia rettangolari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piatti-doccia/piatti-doccia-filo-pavimento/",
+      "fragment": "",
+      "text": "Piatti doccia filo pavimento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piatti-doccia/piatti-doccia-da-appoggio/",
+      "fragment": "",
+      "text": "Piatti doccia da appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piatti-doccia/piatti-doccia-in-vetroresina/",
+      "fragment": "",
+      "text": "Piatti doccia in vetroresina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piatti-doccia/piatti-doccia-in-resina/",
+      "fragment": "",
+      "text": "Piatti doccia in resina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piatti-doccia/piatti-doccia-effetto-pietra/",
+      "fragment": "",
+      "text": "Piatti doccia effetto pietra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piatti-doccia/piatti-doccia-in-ceramica/",
+      "fragment": "",
+      "text": "Piatti doccia in ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/vasche-da-bagno/freestanding/",
+      "fragment": "",
+      "text": "Freestanding",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/vasche-da-bagno/filo-muro/",
+      "fragment": "",
+      "text": "Filo Muro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/box-doccia/pareti-sopravasca/",
+      "fragment": "",
+      "text": "Pareti sopravasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/sanitari/sanitari-filo-muro/",
+      "fragment": "",
+      "text": "Sanitari filo muro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/sanitari/sanitari-sospesi/",
+      "fragment": "",
+      "text": "Sanitari sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/sanitari/coppie-di-sanitari/",
+      "fragment": "",
+      "text": "Coppie di sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/sanitari/wc-singoli/",
+      "fragment": "",
+      "text": "WC Singoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/rubinetteria/rubinetteria-doccia/",
+      "fragment": "",
+      "text": "Rubinetteria doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/rubinetteria/rubinetteria-vasche/",
+      "fragment": "",
+      "text": "Rubinetteria vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/rubinetteria/rubinetteria-lavabo-e-bidet/",
+      "fragment": "",
+      "text": "Rubinetteria lavabo e bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/rubinetteria/rubinetteria-bidet/",
+      "fragment": "",
+      "text": "Rubinetteria bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/rubinetteria/bracci-e-soffioni-doccia/",
+      "fragment": "",
+      "text": "Bracci e soffioni doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/rubinetteria/colonne-doccia/",
+      "fragment": "",
+      "text": "Colonne doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/rubinetteria/pannelli-doccia/",
+      "fragment": "",
+      "text": "Pannelli doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/mobili/mobili-bagno-sospesi/",
+      "fragment": "",
+      "text": "Mobili bagno sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/mobili/pensili-e-colonne/",
+      "fragment": "",
+      "text": "Pensili e colonne",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/mobili/mensole-per-lavabo-da-appoggio/",
+      "fragment": "",
+      "text": "Mensole per lavabo da appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/mobili/mobili-bagno-a-terra/",
+      "fragment": "",
+      "text": "Mobili bagno a terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/mobili/mobili-lavatoio/",
+      "fragment": "",
+      "text": "Mobili lavatoio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/specchi/specchi-bagno-filo-lucido/",
+      "fragment": "",
+      "text": "Specchi bagno filo lucido",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/specchi/specchi-led-da-bagno/",
+      "fragment": "",
+      "text": "Specchi LED da bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/termoarredo/scaldasalviette-idraulico-bagno/",
+      "fragment": "",
+      "text": "Scaldasalviette idraulico bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/termoarredo/scaldasalviette-elettrico-bagno/",
+      "fragment": "",
+      "text": "Scaldasalviette elettrico bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/termoarredo/accessori-termoarredo/",
+      "fragment": "",
+      "text": "Accessori termoarredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/lavabi/lavabi-da-incasso/",
+      "fragment": "",
+      "text": "Lavabi da incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/lavabi/lavabi-da-appoggio/",
+      "fragment": "",
+      "text": "Lavabi da appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/lavabi/lavabi-freestanding/",
+      "fragment": "",
+      "text": "Lavabi freestanding",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/lavabi/lavabi-sospesi/",
+      "fragment": "",
+      "text": "Lavabi sospesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/accessori/accessori-bagno/",
+      "fragment": "",
+      "text": "Accessori bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/accessori/accessori-tecnici/",
+      "fragment": "",
+      "text": "Accessori tecnici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/accessori/accessori-doccia/",
+      "fragment": "",
+      "text": "Accessori doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/accessori/guarnizioni-doccia/",
+      "fragment": "",
+      "text": "Guarnizioni doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-interno/",
+      "fragment": "",
+      "text": "Arredo interno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-interno/sedie/",
+      "fragment": "",
+      "text": "Sedie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-interno/tavoli/",
+      "fragment": "",
+      "text": "Tavoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/",
+      "fragment": "",
+      "text": "Arredo giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/casette-giardino/",
+      "fragment": "",
+      "text": "Casette da giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/sedie-da-esterno/",
+      "fragment": "",
+      "text": "Sedie da esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/tavoli-da-esterno/",
+      "fragment": "",
+      "text": "Tavoli da esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/tettoie-e-garage/",
+      "fragment": "",
+      "text": "Tettoie e Garage",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/complementi/",
+      "fragment": "",
+      "text": "Complementi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/serre/",
+      "fragment": "",
+      "text": "Serre",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/cancelli-in-alluminio/",
+      "fragment": "",
+      "text": "Cancelli in alluminio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/recinzioni-in-alluminio/",
+      "fragment": "",
+      "text": "Recinzioni in alluminio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/stufe-da-esterno/",
+      "fragment": "",
+      "text": "Stufe da esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/casette-giardino/casette-da-giardino-in-acciaio-zincato/",
+      "fragment": "",
+      "text": "Casette da giardino in acciaio zincato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/casette-giardino/casette-da-giardino-in-legno/",
+      "fragment": "",
+      "text": "Casette da giardino in legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/casette-giardino/casette-da-giardino-in-plastica-polipropilene/",
+      "fragment": "",
+      "text": "Casette da giardino in polipropilene",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/casette-giardino/pavimentazione-per-casette-da-giardino/",
+      "fragment": "",
+      "text": "Pavimentazione casette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/casette-da-giardino/base-per-casette/",
+      "fragment": "",
+      "text": "Base per casette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/tettoie-e-garage/tettoie-auto/",
+      "fragment": "",
+      "text": "Tettoie auto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/tettoie-e-garage/garage-auto/",
+      "fragment": "",
+      "text": "Garage auto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/colonne-doccia-esterno/",
+      "fragment": "",
+      "text": "Colonne doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/complementi/copribidoni/",
+      "fragment": "",
+      "text": "Copribidoni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/complementi/box-per-cani/",
+      "fragment": "",
+      "text": "Box per cani",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/complementi/coperture-tosaerba/",
+      "fragment": "",
+      "text": "Coperture tosaerba",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/complementi/legnaia/",
+      "fragment": "",
+      "text": "Legnaia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/arredo-giardino/complementi/copri-condizionatori/",
+      "fragment": "",
+      "text": "Copri condizionatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/cucina/",
+      "fragment": "",
+      "text": "Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/rubinetteria/rubinetteria-cucina/",
+      "fragment": "",
+      "text": "Rubinetteria cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/cucina/lavelli/",
+      "fragment": "",
+      "text": "Lavelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/spa/",
+      "fragment": "",
+      "text": "SPA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/saune/",
+      "fragment": "",
+      "text": "Saune",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/vasche-da-bagno/idromassaggio-da-interno/",
+      "fragment": "",
+      "text": "Idromassaggio da interno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/vasche-da-bagno/idromassaggio-da-esterno/",
+      "fragment": "",
+      "text": "Idromassaggio da esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/saune/infrarossi/",
+      "fragment": "",
+      "text": "Saune infrarossi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/saune/finlandesi/",
+      "fragment": "",
+      "text": "Saune finlandesi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/saune/saune-per-esterno/",
+      "fragment": "",
+      "text": "Saune da esterno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/",
+      "fragment": "",
+      "text": "Illuminazione Interni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/lampadine-led/",
+      "fragment": "",
+      "text": "Lampadine LED",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/strisce-led/",
+      "fragment": "",
+      "text": "Strisce LED",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/profili-alluminio-strisce-led/",
+      "fragment": "",
+      "text": "Profili in alluminio per strisce LED",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/pannelli-led/",
+      "fragment": "",
+      "text": "Pannelli LED",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/alimentatori/",
+      "fragment": "",
+      "text": "Alimentatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/profili-in-cartongesso/",
+      "fragment": "",
+      "text": "Profili in cartongesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/lampadine-led/lampadine-led-e27/",
+      "fragment": "",
+      "text": "Lampadine LED E27",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/lampadine-led/lampadine-led-e14/",
+      "fragment": "",
+      "text": "Lampadine LED E14",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/lampadine-led/lampadine-led-gu10/",
+      "fragment": "",
+      "text": "Lampadine LED GU10",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/lampadine-led/lampadine-led-g9/",
+      "fragment": "",
+      "text": "Lampadine LED G9",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/illuminazione-interni/lampadine-led/lampadine-led-g53/",
+      "fragment": "",
+      "text": "Lampadine LED G53",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/offerte/",
+      "fragment": "",
+      "text": "Offerte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/",
+      "fragment": "content-after-target-0199a42e165472f39b9bf10d05ec49e6",
+      "text": "solidAdvancedSliderElements.general.skipSlider",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/",
+      "fragment": "content-after-target-0199a42e165472f39b9bf10d07bc925c",
+      "text": "solidAdvancedSliderElements.general.skipSlider",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piletta-di-scarico-universale-per-piatto-doccia-foro-di-scarico-diametro-90mm",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/sanitari-sospesi-in-ceramica-rimless-sedile-con-chiusura-rallentata-parigi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piletta-di-scarico-click-clack-universale-per-lavabo-e-bidet-con-troppo-pieno-vajont",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piletta-di-scarico-universale-per-piatto-doccia-con-cover-cromata-drainy",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piletta-di-scarico-click-clack-universale-per-lavabo-e-bidet-con-troppo-pieno-in-ottone-nero-opaco-vajont",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/curva-tecnica-per-installazione-sanitari-filo-muro-con-scarico-a-terra-diam.-90-mm",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/sanitari-filomuro-in-ceramica-bianco-lucido-vaso-tornado-silent-flush-sedile-soft-close-e-bidet-sydney",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/doccia-walk-in-120-cm-vetro-8mm-anticalcare-trasparente-h200-profili-cromo-keros",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/trattamento-anticalcare-permanente-per-box-doccia-in-vetro-temperato-e-sanitari-in-ceramica",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piletta-di-scarico-per-piatto-doccia-modelli-paros-e-merlera",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/sanitari-filomuro-in-ceramica-bianco-lucido-vaso-rimless-con-copriwc-soft-close-e-bidet-europa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/piletta-di-scarico-per-piatto-doccia-modello-delos",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/chi-siamo/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/vasche/",
+      "fragment": "",
+      "text": "Vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/mobili-da-bagno/",
+      "fragment": "",
+      "text": "Mobili da bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/specchi-da-bagno/",
+      "fragment": "",
+      "text": "Specchi da bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/vasca-da-bagno-a-muro-170cm-bianco-lucido-lato-sinistro-mod.-olimpia",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/lavabo-da-appoggio-tondo-37-5x37-5x13-5-tortora-tirreno",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/sanitari-filomuro-in-ceramica-khaki-opaco-vaso-tornado-silent-flush-sedile-soft-close-e-bidet-riga",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/specchio-led-tondo-oe-80-cm-con-cornice-nero-opaco-retroilluminato-sensore-touch-screen",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/miscelatore-lavabo-alto-senza-scarico-nero-opaco-virna",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/blog/",
+      "fragment": "",
+      "text": "Il Blog di ParamaShop",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/blog/bagno-effetto-legno-idee-con-il-gres-porcellanato",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/blog/bagno-effetto-graniglia-5-idee-di-stile-e-pavimenti",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/blog/bagno-effetto-cemento-5-idee-con-piastrelle-e-rivestimenti",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/blog/idee-per-arredare-giardino-con-piscina-5-progetti",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/link-utili/privacy-policy/",
+      "fragment": "",
+      "text": "informazioni sulla protezione dei dati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/link-utili/condizioni-generali-di-vendita/",
+      "fragment": "",
+      "text": "termini e condizioni generali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/paramashop.it",
+      "fragment": "",
+      "text": "twt.widget.communities.facebook.name",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/paramashop.it",
+      "fragment": "",
+      "text": "twt.widget.communities.instagram.name",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://it.linkedin.com/company/paramasrl",
+      "fragment": "",
+      "text": "twt.widget.communities.linkedin.name",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/widgets/cms/fe469fbd8d94474484a54c09400fdac3",
+      "fragment": "",
+      "text": "modulo di contatto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://assistenza.paramashop.it/hc/it",
+      "fragment": "",
+      "text": "Help center",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/link-utili/localita-disagiate-isole/",
+      "fragment": "",
+      "text": "Località disagiate/isole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/link-utili/agevolazioni-fiscali/",
+      "fragment": "",
+      "text": "Agevolazioni Fiscali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/misure/",
+      "fragment": "",
+      "text": "Misure",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/link-utili/diritto-di-recesso/",
+      "fragment": "",
+      "text": "Diritto di recesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/link-utili/garanzia-legale/",
+      "fragment": "",
+      "text": "Garanzia legale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://it.indeed.com/cmp/Parama-S.r.l./jobs",
+      "fragment": "",
+      "text": "Lavora con noi",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/contatti/",
+      "fragment": "",
+      "text": "Contatti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/link-utili/cookie-policy/",
+      "fragment": "",
+      "text": "Cookie policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/recensioni/",
+      "fragment": "",
+      "text": "Recensioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.paramashop.it/effettua-un-reso/",
+      "fragment": "",
+      "text": "Effettua un reso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://static.paramacdn.net/media/b3/03/fa/1678362982/favicon-32x32.png?ts=1678362982",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/theme/413bef3b5e224054082a7dafb2c19e99/css/all.css?1789034149",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/apple-icon-57x57.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/apple-icon-60x60.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/apple-icon-72x72.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/apple-icon-76x76.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/apple-icon-114x114.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/apple-icon-120x120.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/apple-icon-144x144.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/apple-icon-152x152.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/apple-icon-180x180.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/android-icon-192x192.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/favicon-32x32.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/favicon-96x96.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/favicon-16x16.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.paramashop.it/favicon/manifest.json",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://widgets.trustedshops.com/assets/trustbadge.C-7vvAwk.js",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://trstd-protocol.trustedshops.com/v1/entities/int-326682f3-78d7-4764-b0e3-eb37e9785feb/trust-signals",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "http://schema.org/InStock",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "http://schema.org/LimitedAvailability",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

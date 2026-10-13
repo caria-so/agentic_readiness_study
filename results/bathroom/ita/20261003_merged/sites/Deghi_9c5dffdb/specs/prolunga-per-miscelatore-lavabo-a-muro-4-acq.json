@@ -1,0 +1,110 @@
+{
+ "url": "https://www.deghi.it/prolunga-per-miscelatore-lavabo-a-muro-4-acq",
+ "file": "prolunga-per-miscelatore-lavabo-a-muro-4-acq.html",
+ "title": "Prolunga per miscelatore lavabo a muro 4 - Acq+",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 10920,
+ "attributes": {
+  "sku": {
+   "value": "PLI-4",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "PLI-4"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice",
+     "value": "PLI-4"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Prolunga di ricambio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipologia",
+     "value": "Prolunga di ricambio"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Incasso",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Installazione",
+     "value": "Incasso"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Cromo"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Ø 3,6 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Ø 3,6 cm"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Acq+",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Marca",
+     "value": "Acq+"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ottone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Ottone"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Compatibilità": "Miscelatore lavabo a muro"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 7,
+  "L3": 1,
+  "dropped": 12
+ }
+}

@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/mobili-bagno/1677-mobile-bagno-bequia-120-cm-piano-d-appoggio-lavabo-posar-noce-120x45x56-cm-8421194994654.html",
+  "model": "qwen2.5:32b",
+  "html": "mobili-bagno_1677-mobile-bagno-bequia-120-cm-piano-d-appoggio-lavabo-posar-noce-120x45x56-cm-8421194994654.html.html",
+  "title": "Mobile bagno Bequia 120 cm + piano d'appoggio + lavabo Posar Noce 1...",
+  "text_chars": 6572,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "pannello di particelle laminato da 1,6 cm (classe E-1) con bordi in PVC (con colla PUR)",
+      "evidence": "- Frontale e lati realizzati in pannello di particelle laminato da 1,6 cm (classe E-1) con bordi in PVC (con colla PUR)",
+      "location": "body"
+    },
+    "finish": {
+      "value": "Grigio Onice",
+      "evidence": "- Interno: finitura Grigio Onice facile da pulire.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Noce",
+      "evidence": "Mobile bagno Bequia 120 cm + piano d'appoggio + lavabo Posar | Noce | 120x45x56 cm",
+      "location": "body"
+    },
+    "width": {
+      "value": "120 cm",
+      "evidence": "Mobile bagno Bequia 120 cm + piano d'appoggio + lavabo Posar | Noce | 120x45x56 cm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "120x45x56 cm",
+      "evidence": "Mobile bagno Bequia 120 cm + piano d'appoggio + lavabo Posar | Noce | 120x45x56 cm",
+      "location": "body"
+    },
+    "opening": {
+      "value": "freni a chiusura ammortizzata",
+      "evidence": "- Quattro cassetti con freni a chiusura ammortizzata per una chiusura fluida.",
+      "location": "body"
+    },
+    "series": {
+      "value": "BEQUIA",
+      "evidence": "La serie BEQUIA ha un design funzionale e minimalista.",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "Garanzia di 5 anni contro danni e pezzi di ricambio.",
+      "evidence": "- Garanzia di 5 anni contro danni e pezzi di ricambio.",
+      "location": "body"
+    },
+    "certification": {
+      "value": "Certificato PEFC",
+      "evidence": "- Certificato PEFC, che garantisce lo sfruttamento sostenibile delle risorse forestali. Imballaggio senza plastica.",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Spagna",
+      "evidence": "- Progettati e realizzati in Spagna",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "depth": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "45 cm",
+        "evidence": "- Mobile sospeso: BEQUIA, profondità 45 cm:"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3430,
+    "output_tokens": 879,
+    "seconds": 77.23
+  }
+}

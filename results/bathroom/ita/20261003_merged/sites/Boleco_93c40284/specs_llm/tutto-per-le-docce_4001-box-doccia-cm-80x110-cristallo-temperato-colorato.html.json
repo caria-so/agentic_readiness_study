@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/tutto-per-le-docce/4001-box-doccia-cm-80x110-cristallo-temperato-colorato.html",
+  "model": "qwen2.5:32b",
+  "html": "tutto-per-le-docce_4001-box-doccia-cm-80x110-cristallo-temperato-colorato.html.html",
+  "title": "Box doccia cm 80x110 cristallo temperato – colorato | Boleco Colore NIGHT WATCH",
+  "text_chars": 4795,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "80 cm",
+      "evidence": "Dimensione: cm 80x110x200",
+      "location": "body"
+    },
+    "height": {
+      "value": "200 cm",
+      "evidence": "Dimensione: cm 80x110x200",
+      "location": "body"
+    },
+    "depth": {
+      "value": "110 cm",
+      "evidence": "Dimensione: cm 80x110x200",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "6 mm",
+      "evidence": "Vetro Temperato 6 mm",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Prodotto garantito 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "Boleco Colore",
+        "evidence": "Box doccia cm 80x110 cristallo temperato – colorato | Boleco Colore NIGHT WATCH"
+      }
+    },
+    "origin": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Italia",
+        "evidence": "Prodotto di produzione Made in Italy."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2607,
+    "output_tokens": 705,
+    "seconds": 63.66
+  }
+}

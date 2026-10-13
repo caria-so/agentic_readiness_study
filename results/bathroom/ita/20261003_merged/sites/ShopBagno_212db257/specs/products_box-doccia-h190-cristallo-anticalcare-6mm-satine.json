@@ -1,0 +1,121 @@
+{
+ "url": "https://www.shopbagno.it/products/box-doccia-h190-cristallo-anticalcare-6mm-satine",
+ "file": "products_box-doccia-h190-cristallo-anticalcare-6mm-satine.html",
+ "title": "Box Doccia Flora H190 Cristallo Anticalcare 6mm Satine",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 9427,
+ "attributes": {
+  "sku": {
+   "value": "wkg-flora100-77s",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "wkg-flora100-77s"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "WKG-FLORA100-77S"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "7433906476489",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "7433906476489"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "69x69",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "dimensioni",
+     "value": "69x69"
+    }
+   ]
+  },
+  "height": {
+   "value": "190cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "190cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "6mm satinato",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Cristallo",
+     "value": "6mm satinato"
+    }
+   ]
+  },
+  "opening": {
+   "value": "Doppio scorrevole",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Apertura",
+     "value": "Doppio scorrevole"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Chiusura",
+     "value": "Magnetica"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Moderno",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Stile",
+     "value": "Moderno"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Adattabilità": "-2,5cm",
+  "Anticalcare": "No",
+  "Reversibile": "Sì",
+  "Sgancio rapido": "Sì",
+  "Tenuta inferiore": "Binario",
+  "Profili": "Alluminio cromato",
+  "Su misura": "Richiedi quotazione"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 13,
+  "dropped": 18
+ }
+}

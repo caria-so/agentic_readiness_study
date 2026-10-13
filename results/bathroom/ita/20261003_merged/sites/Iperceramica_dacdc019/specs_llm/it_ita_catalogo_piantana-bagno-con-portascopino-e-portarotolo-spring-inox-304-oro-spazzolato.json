@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/piantana-bagno-con-portascopino-e-portarotolo-spring-inox-304-oro-spazzolato",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_piantana-bagno-con-portascopino-e-portarotolo-spring-inox-304-oro-spazzolato.html",
+  "title": "Piantana Bagno con Portascopino e Portarotolo Spring Inox 304 Oro Spazzolato - Iperceramica",
+  "text_chars": 919,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "acciaio INOX AISI 304",
+      "evidence": "piantana wc portarotolo e portascopino in acciaio INOX AISI 304 Oro Spazzolato",
+      "location": "body"
+    },
+    "finish": {
+      "value": "Oro Spazzolato",
+      "evidence": "piantana wc portarotolo e portascopino in acciaio INOX AISI 304 Oro Spazzolato",
+      "location": "body"
+    },
+    "height": {
+      "value": "68 cm",
+      "evidence": "piantana wc portarotolo e portascopino in acciaio INOX AISI 304 Oro Spazzolato da 68 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "Spring",
+      "evidence": "Piantana Bagno con Portascopino e Portarotolo Spring Inox 304 Oro Spazzolato",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IPERCERAMICA",
+        "evidence": "SPRING piantana wc portarotolo e portascopino in acciaio INOX AISI 304 Oro Spazzolato da 68 cm by IPERCERAMICA"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1289,
+    "output_tokens": 639,
+    "seconds": 52.95
+  }
+}

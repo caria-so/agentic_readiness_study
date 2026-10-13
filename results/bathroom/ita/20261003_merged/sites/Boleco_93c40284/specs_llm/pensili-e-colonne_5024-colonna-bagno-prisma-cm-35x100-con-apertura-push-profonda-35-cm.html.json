@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/pensili-e-colonne/5024-colonna-bagno-prisma-cm-35x100-con-apertura-push-profonda-35-cm.html",
+  "model": "qwen2.5:32b",
+  "html": "pensili-e-colonne_5024-colonna-bagno-prisma-cm-35x100-con-apertura-push-profonda-35-cm.html.html",
+  "title": "Colonna bagno Prisma cm 35x100 bianco opaco con apertura push – profon",
+  "text_chars": 5642,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "35 cm",
+      "evidence": "Colonna bagno Prisma cm 35x100 bianco opaco con apertura push – profonda 35 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "100 cm",
+      "evidence": "Colonna bagno Prisma cm 35x100 bianco opaco con apertura push – profonda 35 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "35 cm",
+      "evidence": "Colonna bagno Prisma cm 35x100 bianco opaco con apertura push – profonda 35 cm",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "contemporanea",
+      "evidence": "Prisma è una colonna bagno da cm 35x100x35, dalla linea contemporanea",
+      "location": "body"
+    },
+    "series": {
+      "value": "Prisma",
+      "evidence": "Colonna bagno Prisma cm 35x100 bianco opaco con apertura push – profonda 35 cm",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "5 anni",
+      "evidence": "Prodotto garantito 5 anni",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Italia",
+      "evidence": "Colonna prodotta in Italia",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2888,
+    "output_tokens": 873,
+    "seconds": 78.45
+  }
+}

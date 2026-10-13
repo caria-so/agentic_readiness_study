@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/0196486fcceb7340a5bba62195a39992",
+  "model": "qwen2.5:32b",
+  "html": "detail_0196486fcceb7340a5bba62195a39992.html",
+  "title": "Casetta da giardino in legno 173x160 cm - con pavimento e guaina",
+  "text_chars": 1836,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "160 cm",
+      "evidence": "Casetta da giardino in legno 173x160 cm",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1521,
+    "output_tokens": 539,
+    "seconds": 43.8
+  }
+}

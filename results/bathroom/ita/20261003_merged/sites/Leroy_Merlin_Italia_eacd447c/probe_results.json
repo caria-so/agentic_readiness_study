@@ -1,0 +1,81 @@
+{
+  "company": "Leroy Merlin Italia",
+  "url": "https://www.leroymerlin.it/",
+  "site_dir": "discovery_round_final/sites/Leroy_Merlin_Italia_eacd447c",
+  "final_url": "https://www.leroymerlin.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T11:07:20.126332",
+  "http_status": 200,
+  "fetch_ms": 29993.4,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.leroymerlin.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final/sites/Leroy_Merlin_Italia_eacd447c/index.html",
+      "count": 583843,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.leroymerlin.it/sitemap-prodotti1.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final/sites/Leroy_Merlin_Italia_eacd447c/sitemap.json",
+      "count": 20000,
+      "total_available": 5387432,
+      "truncated": true,
+      "product_url_count": 20000,
+      "product_total_available": 5139252
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final/sites/Leroy_Merlin_Italia_eacd447c/jsonld.json",
+      "count": 3,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final/sites/Leroy_Merlin_Italia_eacd447c/links.json",
+      "count": 264,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

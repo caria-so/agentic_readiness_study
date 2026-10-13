@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/la-casa/cuscini-e-fodere-cuscini/fodere-cuscini/fodera-cuscino-toppklokke-50x50-cm-beige",
+  "model": "qwen2.5:32b",
+  "html": "la-casa_cuscini-e-fodere-cuscini_fodere-cuscini_fodera-cuscino-toppklokke-50x50-cm-beige.html",
+  "title": "Fodera cuscino TOPPKLOKKE 50x50 cm beige | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "50 cm",
+      "evidence": "Dimensioni\nLarghezza 50 cm, Lunghezza 50 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "TOPPKLOKKE",
+      "evidence": "Fodera cuscino TOPPKLOKKE 50x50 cm beige",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore\nJYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5526,
+    "output_tokens": 646,
+    "seconds": 72.79
+  }
+}

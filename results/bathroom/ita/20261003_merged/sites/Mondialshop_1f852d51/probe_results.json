@@ -1,0 +1,81 @@
+{
+  "company": "Mondialshop",
+  "url": "https://www.mondialshop.it/it/",
+  "site_dir": "discovery_round_final_e/sites/Mondialshop_1f852d51",
+  "final_url": "https://www.mondialshop.it/it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.414854",
+  "http_status": 200,
+  "fetch_ms": 26923.0,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.mondialshop.it/it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Mondialshop_1f852d51/index.html",
+      "count": 328115,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.mondialshop.it/1_it_0_sitemap.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Mondialshop_1f852d51/sitemap.json",
+      "count": 3092,
+      "total_available": 3092,
+      "truncated": false,
+      "product_url_count": 2963,
+      "product_total_available": 2963
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Mondialshop_1f852d51/jsonld.json",
+      "count": 4,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": true,
+      "url": "https://www.mondialshop.it/llms.txt",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Mondialshop_1f852d51/llms_txt.json",
+      "count": 1,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/Mondialshop_1f852d51/links.json",
+      "count": 133,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": true,
+    "links": true
+  },
+  "error_details": ""
+}

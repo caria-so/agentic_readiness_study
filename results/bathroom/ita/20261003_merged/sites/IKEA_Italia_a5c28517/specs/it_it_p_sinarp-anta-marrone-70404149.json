@@ -1,0 +1,173 @@
+{
+ "url": "https://www.ikea.com/it/it/p/sinarp-anta-marrone-70404149/",
+ "file": "it_it_p_sinarp-anta-marrone-70404149.html",
+ "title": "SINARP Anta, marrone, 40x100 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3212,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "IKEA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "IKEA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "704.041.49",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "704.041.49"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "704.041.49",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "704.041.49"
+    }
+   ]
+  },
+  "material": {
+   "value": "Legno (pannello incluso), Impiallacciatura di legno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "material",
+     "value": "Legno (pannello incluso), Impiallacciatura di legno"
+    }
+   ]
+  },
+  "colour": {
+   "value": "marrone",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "marrone"
+    }
+   ]
+  },
+  "width": {
+   "value": "39.7 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "39.7 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "39.7 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza sistema",
+     "value": "40.0 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "99.7 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "99.7 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza sistema",
+     "value": "100.0 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "99.7 cm"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "1.9 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Spessore",
+     "value": "1.9 cm"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "42 cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "42 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "2 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Lunghezza",
+     "value": "110 cm"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "5.35 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "5.35 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Parti principali": "Truciolare",
+  "Parte anteriore/ Parte posteriore": "Impiallacciatura di rovere, Mordente, Vernice, tinta, Vernice acrilica, trasparente",
+  "Bordo": "Legno massiccio, Mordente, Vernice, tinta, Vernice acrilica, trasparente",
+  "SINARP Anta": "704.041.49"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 9,
+  "L3": 4,
+  "dropped": 0
+ }
+}

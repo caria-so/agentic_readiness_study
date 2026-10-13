@@ -1,0 +1,132 @@
+{
+ "url": "https://www.inbagno.it/rubinetti-lavabo-bagno/28937-miscelatore-lavabo-nero-opaco-con-piletta-design-quadrato-amber.html",
+ "file": "rubinetti-lavabo-bagno_28937-miscelatore-lavabo-nero-opaco-con-piletta-design-quadrato-amber.html.html",
+ "title": "Miscelatore lavabo nero opaco design quadrato Amber",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9140,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "InBagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "InBagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "108097",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "108097"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "108097"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8052334108961",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8052334108961"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "108097",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "108097"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "rubinetto monocomando per lavabo;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "rubinetto monocomando per lavabo;"
+    }
+   ]
+  },
+  "series": {
+   "value": "Amber;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Linea",
+     "value": "Amber;"
+    }
+   ]
+  },
+  "material": {
+   "value": "ottone;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "ottone;"
+    }
+   ]
+  },
+  "finish": {
+   "value": "nero opaco;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "nero opaco;"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L 4,2 x P 10,9 x H 14,4 cm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "L 4,2 x P 10,9 x H 14,4 cm;"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 5,
+  "dropped": 10
+ }
+}

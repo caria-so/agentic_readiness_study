@@ -1,0 +1,74 @@
+{
+ "url": "https://www.tecnomat.it/it/scovolo-acciaio-tondo-250-mm-10065516/",
+ "file": "it_scovolo-acciaio-tondo-250-mm-10065516.html",
+ "title": "Scovolo acciaio tondo 250 mm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 551,
+ "attributes": {
+  "brand": {
+   "value": "ACCADEMIA 61",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "ACCADEMIA 61"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10065516",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10065516"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10065516",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10065516"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Pulitore",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di prodotto",
+     "value": "Pulitore"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Diametro (in cm)": "25"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 2,
+  "L3": 0,
+  "dropped": 3
+ }
+}

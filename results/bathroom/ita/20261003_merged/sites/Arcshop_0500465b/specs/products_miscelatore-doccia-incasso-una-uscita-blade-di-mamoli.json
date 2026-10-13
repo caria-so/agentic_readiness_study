@@ -1,0 +1,83 @@
+{
+ "url": "https://www.arcshop.it/products/miscelatore-doccia-incasso-una-uscita-blade-di-mamoli",
+ "file": "products_miscelatore-doccia-incasso-una-uscita-blade-di-mamoli.html",
+ "title": "Miscelatore doccia incasso una uscita Blade di Mamoli",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2967,
+ "attributes": {
+  "brand": {
+   "value": "Mamoli",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Mamoli"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "0630606714928",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "0630606714928"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "0630606714928",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "0630606714928"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.23kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.23kg"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "5 Anni",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Garanzia",
+     "value": "5 Anni"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "gtin=mpn"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 0
+ }
+}

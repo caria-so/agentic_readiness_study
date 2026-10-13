@@ -1,0 +1,58 @@
+{
+ "url": "https://www.obi-italia.it/p/1614254/plaid-protezione-vettura",
+ "file": "p_1614254_plaid-protezione-vettura.html",
+ "title": "Plaid protezione vettura",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 5620,
+ "attributes": {
+  "sku": {
+   "value": "1614254",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "1614254"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Art. N",
+     "value": "1614254"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "3507614030203",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "3507614030203"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "EAN(s)",
+     "value": "3507614030203"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "zolux sas COURS PAUL DOUMER 141 17100 SAINTES FR CONTACT@ZOLUX.COM EAN(s): [ 3507614030203 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 2,
+  "dropped": 1
+ }
+}

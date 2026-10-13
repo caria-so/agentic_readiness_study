@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "url": "https://www.paramashop.it/detail/0196861413c670709db6db49a906b600",
+  "model": "qwen2.5:32b",
+  "html": "detail_0196861413c670709db6db49a906b600.html",
+  "title": "Bancarella in Legno per Fiere e Mercatini – Parama",
+  "text_chars": 1778,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "137cm",
+      "evidence": "Dimensione: 182x137cm",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Parama",
+      "evidence": "Bancarella in Legno per Fiere e Mercatini – Parama",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1478,
+    "output_tokens": 541,
+    "seconds": 43.56
+  }
+}

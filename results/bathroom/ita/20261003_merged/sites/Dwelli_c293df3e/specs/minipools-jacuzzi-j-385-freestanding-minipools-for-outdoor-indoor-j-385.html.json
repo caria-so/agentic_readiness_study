@@ -1,0 +1,71 @@
+{
+ "url": "https://dwellistore.com/minipools-jacuzzi-j-385-freestanding-minipools-for-outdoor-indoor-j-385.html",
+ "file": "minipools-jacuzzi-j-385-freestanding-minipools-for-outdoor-indoor-j-385.html.html",
+ "title": "Jacuzzi J-385 Freestanding hot tub for outdoor / indoor J-385",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1647,
+ "attributes": {
+  "brand": {
+   "value": "Jacuzzi",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jacuzzi"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Jacuzzi"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "Jacuzzi"
+    }
+   ]
+  },
+  "sku": {
+   "value": "J-385",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "J-385"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "J-385",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "J-385"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 0,
+  "dropped": 1
+ }
+}

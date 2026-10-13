@@ -1,0 +1,61 @@
+{
+ "url": "https://www.bagnodistile.com/pavimenti-interni/928-berti-pavimenti-in-legno.html",
+ "file": "pavimenti-interni_928-berti-pavimenti-in-legno.html.html",
+ "title": "Berti pavimenti in legno",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3891,
+ "attributes": {
+  "brand": {
+   "value": "BERTI",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "BERTI"
+    }
+   ]
+  },
+  "sku": {
+   "value": "928",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "928"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "928",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "928"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 28
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "url": "https://www.tecnomat.it/it/cilindro-sicur-r7-ott-nich-l80-40-40mm-10046487/",
+ "file": "it_cilindro-sicur-r7-ott-nich-l80-40-40mm-10046487.html",
+ "title": "Cilindro di sicurezza iseo r7 misura 80 = 40+40 mm ottone nichelato",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1762,
+ "attributes": {
+  "brand": {
+   "value": "ISEO",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "ISEO"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10046487",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10046487"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10046487",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10046487"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "2 ingressi chiave",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di cilindro",
+     "value": "2 ingressi chiave"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo di chiave",
+     "value": "Chiave punzonata"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ottone",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale del cilindro",
+     "value": "Ottone"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale della chiave",
+     "value": "Ottone"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Nichelato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura del prodotto",
+     "value": "Nichelato"
+    }
+   ]
+  },
+  "length": {
+   "value": "80",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lunghezza del cilindro (in mm)",
+     "value": "80"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "40 + 40",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensione del cilindro (esterno e interno) (in mm)",
+     "value": "40 + 40"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Numero di chiavi": "5",
+  "Numero di aghi": "14",
+  "Sistema antibumping": "Sì",
+  "Antirottura": "No",
+  "Antiforatura": "Sì"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 12,
+  "L3": 0,
+  "dropped": 3
+ }
+}

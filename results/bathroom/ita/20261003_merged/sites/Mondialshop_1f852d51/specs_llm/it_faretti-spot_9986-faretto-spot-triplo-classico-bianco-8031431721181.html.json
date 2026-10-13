@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.mondialshop.it/it/faretti-spot/9986-faretto-spot-triplo-classico-bianco-8031431721181.html",
+  "model": "qwen2.5:32b",
+  "html": "it_faretti-spot_9986-faretto-spot-triplo-classico-bianco-8031431721181.html.html",
+  "title": "Faretto Spot Triplo Classico Bianco | Mondialshop",
+  "text_chars": 2376,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "care": {
+      "value": "Sì, per preservare la finitura della superficie è sufficiente pulire periodicamente la superficie con un panno morbido e asciutto, avendo cura di spegnere l'apparecchio prima di ogni operazione.",
+      "evidence": "La pulizia e la manutenzione sono semplici? Sì, per preservare la finitura della superficie è sufficiente pulire periodicamente la superficie con un panno morbido e asciutto, avendo cura di spegnere l'apparecchio prima di ogni operazione.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1725,
+    "output_tokens": 814,
+    "seconds": 68.47
+  }
+}

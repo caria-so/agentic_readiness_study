@@ -1,0 +1,81 @@
+{
+ "url": "https://www.paramashop.it/detail/5b0c8fd3809e4ebbb35ffdb2e05e3322",
+ "file": "detail_5b0c8fd3809e4ebbb35ffdb2e05e3322.html",
+ "title": "Braccio doccia tondo in ottone nero opaco 40 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3664,
+ "attributes": {
+  "gtin": {
+   "value": "5060971777634",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "5060971777634"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "RD02001400-C04",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "RD02001400-C04"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Nero"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Opaco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "Opaco"
+    }
+   ]
+  },
+  "sku": {
+   "value": "RD02001400-C04",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "RD02001400-C04"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 2,
+  "L3": 1,
+  "dropped": 8
+ }
+}

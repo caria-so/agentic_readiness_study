@@ -1,0 +1,14 @@
+https://api.whatsapp.com/send?phone=393393540030
+https://api.whatsapp.com/send?phone=393393540030&amp;text=Hi,%20I%20would%20like%20some%20information%20about%20your%20products.
+https://dwellistore.com
+https://dwellistore.com/
+https://dwellistore.de
+https://dwellistore.de/
+https://dwellistore.fr
+https://dwellistore.fr/
+https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap
+https://fonts.gstatic.com/
+https://wa.me/393393540030?text=Ciao%20Dwelli%2C%20vorrei%20una%20consulenza.
+https://www.facebook.com/dwellistore/
+https://www.instagram.com/dwelli_store/
+https://www.linkedin.com/company/dwelli

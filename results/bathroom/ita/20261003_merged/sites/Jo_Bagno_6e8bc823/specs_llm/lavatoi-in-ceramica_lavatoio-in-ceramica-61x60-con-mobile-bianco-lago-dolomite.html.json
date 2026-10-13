@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://jo-bagno.it/lavatoi-in-ceramica/lavatoio-in-ceramica-61x60-con-mobile-bianco-lago-dolomite.html",
+  "model": "qwen2.5:32b",
+  "html": "lavatoi-in-ceramica_lavatoio-in-ceramica-61x60-con-mobile-bianco-lago-dolomite.html.html",
+  "title": "Lavatoio in ceramica 61x60 con mobile bianco Lago Dolomite",
+  "text_chars": 4360,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "61 cm",
+      "evidence": "Dimensioni vasca: 61x60xh36,5 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "88 cm",
+      "evidence": "Misure: 61x60xh88 cm.",
+      "location": "body"
+    },
+    "depth": {
+      "value": "60 cm",
+      "evidence": "Dimensioni vasca: 61x60xh36,5 cm",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Installazione a terra",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Dolomite e Ideal Standard",
+      "evidence": "Mobile lavanderia con vasca in ceramica 60×60 LAGO Ideal Standard Dolomite e Ideal Standard realizzano il pilozzo in ceramica Lago",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "series": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "Dolomite e Ideal Standard Lago",
+        "evidence": "Mobile lavanderia con vasca in ceramica 60×60 LAGO Ideal Standard Dolomite e Ideal Standard realizzano il pilozzo in ceramica Lago"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2569,
+    "output_tokens": 699,
+    "seconds": 63.11
+  }
+}

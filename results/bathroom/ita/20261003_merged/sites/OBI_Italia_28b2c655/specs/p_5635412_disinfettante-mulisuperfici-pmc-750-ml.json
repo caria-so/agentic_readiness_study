@@ -1,0 +1,105 @@
+{
+ "url": "https://www.obi-italia.it/p/5635412/disinfettante-mulisuperfici-pmc-750-ml",
+ "file": "p_5635412_disinfettante-mulisuperfici-pmc-750-ml.html",
+ "title": "Disinfettante mulisuperfici PMC 750 ml",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 922,
+ "attributes": {
+  "sku": {
+   "value": "5635412",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5635412"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8002565020952",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8002565020952"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Grigio",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Grigio"
+    }
+   ]
+  },
+  "width": {
+   "value": "11.30 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "11.30 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "27.30 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "27.30 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "5.20 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "5.20 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "0.75 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "0.75 KGM"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Classificazione": "Presidio medico chirurgico - Reg. Min. Sal. N° 21109"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "Arexons SpA a Socio Unico Via Antica di Cassano 23 20063 Cernusco sul Naviglio IT arexons@arexons.it EAN(s): [ 8002565020952 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 1
+ }
+}

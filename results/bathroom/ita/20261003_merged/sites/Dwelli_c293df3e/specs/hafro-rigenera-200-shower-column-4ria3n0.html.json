@@ -1,0 +1,95 @@
+{
+ "url": "https://dwellistore.com/hafro-rigenera-200-shower-column-4ria3n0.html",
+ "file": "hafro-rigenera-200-shower-column-4ria3n0.html.html",
+ "title": "Hafro Rigenera 200 Shower Column 4RIA3N0",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 596,
+ "attributes": {
+  "brand": {
+   "value": "Hafro Geromin",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Hafro Geromin"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "Hafro Geromin"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "Hafro Geromin"
+    }
+   ]
+  },
+  "sku": {
+   "value": "4RIA3N0",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "4RIA3N0"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "4RIA3N0",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "4RIA3N0"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "cm 35x11x199h",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Size",
+     "value": "cm 35x11x199h"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Corian (base).",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finishes",
+     "value": "Corian (base)."
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Code": "4RIA3N0 (Shower Column)"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 3,
+  "dropped": 1
+ }
+}

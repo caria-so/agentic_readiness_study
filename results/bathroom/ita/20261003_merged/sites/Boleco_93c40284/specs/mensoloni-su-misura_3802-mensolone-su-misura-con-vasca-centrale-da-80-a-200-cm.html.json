@@ -1,0 +1,177 @@
+{
+ "url": "https://www.boleco.it/mensoloni-su-misura/3802-mensolone-su-misura-con-vasca-centrale-da-80-a-200-cm.html",
+ "file": "mensoloni-su-misura_3802-mensolone-su-misura-con-vasca-centrale-da-80-a-200-cm.html.html",
+ "title": "Mensolone su misura con vasca sinistra da 90 a 200 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9199,
+ "attributes": {
+  "sku": {
+   "value": "183_000006",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "183_000006"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice Prodotto",
+     "value": "183_000006"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "81-110cm, 151-200cm, 131-150cm, 111-130cm, 50-80cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Misure Mobili",
+     "value": "81-110cm, 151-200cm, 131-150cm, 111-130cm, 50-80cm"
+    }
+   ]
+  },
+  "colour": {
+   "value": "NERO OPACO, CASTORO, GRIGIO OPACO, OLD AGE, OLD WOOD, NATURAL, INDUSTRIAL",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colori",
+     "value": "NERO OPACO, CASTORO, GRIGIO OPACO, OLD AGE, OLD WOOD, NATURAL, INDUSTRIAL"
+    }
+   ]
+  },
+  "material": {
+   "value": "per finiture Old Age, Industrial, Old Wood, Natural",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale HPL",
+     "value": "per finiture Old Age, Industrial, Old Wood, Natural"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale FENIX",
+     "value": "per finiture : Nero Opaco, Castoro e Grigio Opaco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale OCRITECH",
+     "value": "per finitura Bianco Opaco"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "OCRITECH"
+    }
+   ]
+  },
+  "width": {
+   "value": "da cm. 60 a cm.200",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Larghezza",
+     "value": "da cm. 60 a cm.200"
+    }
+   ]
+  },
+  "depth": {
+   "value": "cm.46",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Profondità",
+     "value": "cm.46"
+    }
+   ]
+  },
+  "height": {
+   "value": "cm.12",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "cm.12"
+    }
+   ]
+  },
+  "thickness": {
+   "value": "cm.1,2",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Spessore Mensolone",
+     "value": "cm.1,2"
+    }
+   ]
+  },
+  "certification": {
+   "value": "CE",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Certificazione",
+     "value": "CE"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Certificazioni",
+     "value": "CE"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Integrata (possibilità di scelta in base alla dimensione del Mensolone)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Integrata (possibilità di scelta in base alla dimensione del Mensolone)"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "Non Inclusa (acquistabile separatamente)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Rubinetteria",
+     "value": "Non Inclusa (acquistabile separatamente)"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Staffe Non Incluse": "Da ordinare separatamente",
+  "Cassettiera Non inclusa": "Da ordinare separatamente",
+  "Specchio Non incluso": "Da ordinare separatamente",
+  "Piattina lavabo": "solo sul Mensolone su misura Bianco Opaco"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 2,
+  "L3": 17,
+  "dropped": 0
+ }
+}

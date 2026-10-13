@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/box-doccia-semicircolare-h195cm-anta-battente-cristallo-8mm",
+  "model": "qwen2.5:32b",
+  "html": "products_box-doccia-semicircolare-h195cm-anta-battente-cristallo-8mm.html",
+  "title": "Box Doccia Semicircolare H195cm Anta Battente Cristallo 8mm",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "thickness": {
+      "value": "8mm",
+      "evidence": "Cristallo: 8mm trasparente",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "width": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "80cm",
+        "evidence": "dimensions: 80x80"
+      }
+    },
+    "depth": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "80cm",
+        "evidence": "dimensions: 80x80"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4018,
+    "output_tokens": 558,
+    "seconds": 58.55
+  }
+}

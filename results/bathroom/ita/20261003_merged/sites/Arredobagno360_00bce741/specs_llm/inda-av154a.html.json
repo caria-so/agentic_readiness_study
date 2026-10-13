@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "url": "https://www.arredobagno360.it/inda-av154a.html",
+  "model": "qwen2.5:32b",
+  "html": "inda-av154a.html.html",
+  "title": "AV154A | Asciugacapelli con termostato di sicurezza e presa elettrica",
+  "text_chars": 1290,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "bianco, nero",
+      "evidence": "Finitura: bianco, nero",
+      "location": "body"
+    },
+    "installation": {
+      "value": "fissaggio con tasselli",
+      "evidence": "Specifiche del prodotto: fissaggio con tasselli, presente marcatura CE",
+      "location": "body"
+    },
+    "opening": {
+      "value": "push",
+      "evidence": "Funzionamento push.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "electrical": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "220/240V, 140/700/1400W, dB(A): 58",
+        "evidence": "Specifiche del prodotto: ... 220/240V, 140/700/1400W, dB(A): 58"
+      }
+    },
+    "certification": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "CE, CLASSE II, IP20",
+        "evidence": "Specifiche del prodotto: ... presente marcatura CE, grado di protezione IP20, marchio CLASSE II"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1323,
+    "output_tokens": 657,
+    "seconds": 51.55
+  }
+}

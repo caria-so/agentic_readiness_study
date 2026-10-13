@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/1307644/mattonella-in-schiuma-per-composizioni-floreali-fresca",
+  "model": "qwen2.5:32b",
+  "html": "p_1307644_mattonella-in-schiuma-per-composizioni-floreali-fresca.html",
+  "title": "Mattonella in schiuma per composizioni floreali fresca",
+  "text_chars": 6538,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "schiuma",
+      "evidence": "Mattonella universale in schiuma adatta per creare composizioni con i fiori da taglio.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "11 cm x 23 cm x 8 cm",
+      "evidence": "Dimensioni: 11 cm x 23 cm x 8 cm",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "OBI Group Sourcing GmbH",
+        "evidence": "Dati del produttore OBI Group Sourcing GmbH"
+      }
+    },
+    "origin": {
+      "reason": "origin_not_stated",
+      "raw": {
+        "value": "DE",
+        "evidence": "OBI Group Sourcing GmbH Albert-Einstein-Straße 7-9 42929 Wermelskirchen DE",
+        "location": "body"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3316,
+    "output_tokens": 604,
+    "seconds": 58.97
+  }
+}

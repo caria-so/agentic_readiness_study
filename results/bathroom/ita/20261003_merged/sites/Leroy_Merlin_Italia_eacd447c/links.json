@@ -1,0 +1,2076 @@
+{
+  "source": "https://www.leroymerlin.it/",
+  "generated": "2026-10-02T11:07:50.603310",
+  "total": 264,
+  "internal_count": 242,
+  "external_count": 22,
+  "links": [
+    {
+      "url": "https://www.leroymerlin.it/",
+      "fragment": "js-categories-layer-nav",
+      "text": "Prodotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/",
+      "fragment": "search-autocomplete__input--a11y-skip-link",
+      "text": "Vai direttamente al motore di ricerca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/",
+      "fragment": "corps",
+      "text": "Contenuti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/",
+      "fragment": "footer",
+      "text": "Piè di pagina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/promocode-sweethome-2026/",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/sezione-clienti/home",
+      "fragment": "",
+      "text": "Accesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/wishlists/my-wishlists",
+      "fragment": "",
+      "text": "Preferiti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/checkout/cart",
+      "fragment": "",
+      "text": "0 Carrello",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/",
+      "fragment": "",
+      "text": "Prodotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/giardino-e-terrazzo/",
+      "fragment": "",
+      "text": "Giardino e terrazzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/stufe-climatizzatori-e-idraulica/",
+      "fragment": "",
+      "text": "Stufe, climatizzatori e idraulica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/bagno-e-arredo-bagno/",
+      "fragment": "",
+      "text": "Bagno e arredo bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/finestre-porte-e-scale/",
+      "fragment": "",
+      "text": "Finestre, porte e scale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pavimenti-e-rivestimenti/",
+      "fragment": "",
+      "text": "Piastrelle, pavimenti e rivestimenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/illuminazione/",
+      "fragment": "",
+      "text": "Illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/decorazione/",
+      "fragment": "",
+      "text": "Decorazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/falegnameria/",
+      "fragment": "",
+      "text": "Falegnameria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/elettricita-automazioni-e-fotovoltaico/",
+      "fragment": "",
+      "text": "Elettricità, automazioni e fotovoltaico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/utensileria/",
+      "fragment": "",
+      "text": "Utensileria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/cucina/",
+      "fragment": "",
+      "text": "Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/ordine-e-sistemazione/",
+      "fragment": "",
+      "text": "Ordine e sistemazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/domotica-e-smart-home/",
+      "fragment": "",
+      "text": "Domotica e Smart Home",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/edilizia/",
+      "fragment": "",
+      "text": "Edilizia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/vernici/",
+      "fragment": "",
+      "text": "Vernici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/ferramenta/",
+      "fragment": "",
+      "text": "Ferramenta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/natale/",
+      "fragment": "",
+      "text": "Natale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/arredamento/",
+      "fragment": "",
+      "text": "Arredamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pulizia-della-casa/",
+      "fragment": "",
+      "text": "Pulizia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/elettrodomestici/",
+      "fragment": "",
+      "text": "Elettrodomestici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/tempo-libero/",
+      "fragment": "",
+      "text": "Tempo libero",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/elettronica-e-informatica/",
+      "fragment": "",
+      "text": "Elettronica e informatica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/auto/",
+      "fragment": "",
+      "text": "Auto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/bambino/",
+      "fragment": "",
+      "text": "Bambino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/",
+      "fragment": "",
+      "text": "Servizi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/",
+      "fragment": "",
+      "text": "Ispirazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/domande-e-risposte/",
+      "fragment": "",
+      "text": "Domande e risposte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/guide-alla-scelta/",
+      "fragment": "",
+      "text": "Guide alla scelta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/tutorial/",
+      "fragment": "",
+      "text": "Tutorial",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/giardino-e-terrazzo/",
+      "fragment": "",
+      "text": "Novità! Giardino e terrazzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/bagno/",
+      "fragment": "",
+      "text": "Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/cucina/",
+      "fragment": "",
+      "text": "Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/soggiorno/",
+      "fragment": "",
+      "text": "Soggiorno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/camera-da-letto/",
+      "fragment": "",
+      "text": "Camera da letto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/attivita-commerciali/",
+      "fragment": "",
+      "text": "Attività commerciali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/",
+      "fragment": "",
+      "text": "Tutte le stanze",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/giardino-e-terrazzo/3-piscine-adatte-a-terrazzi-piccoli-e-grandi.html",
+      "fragment": "",
+      "text": "Piscine adatte a terrazzi piccoli e grandi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/giardino-e-terrazzo/6-idee-per-arredare-un-terrazzo-scoperto.html",
+      "fragment": "",
+      "text": "Idee per arredare un terrazzo scoperto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/giardino-e-terrazzo/giardino-persea-tra-arredi-da-sogno-e-illuminazione-suggestiva/",
+      "fragment": "",
+      "text": "Serie Persea: il tuo arredo giardino da sogno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/giardino-e-terrazzo/pavimenti-in-cemento-stampato-per-un-outdoor-personalizzato-e-un-atmosfera-d-effetto.html",
+      "fragment": "",
+      "text": "Pavimenti in cemento per il tuo outdoor",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/giardino-e-terrazzo/recinzioni-per-giardini-moderni-6-idee-da-copiare.html",
+      "fragment": "",
+      "text": "Recinzioni per giardini moderni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/case/rifare-i-pavimenti-di-casa-senza-rimuoverli-per-ristrutturare-casa.html",
+      "fragment": "",
+      "text": "Rifare i pavimenti di casa senza rimuoverli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutti-i-colori/i-beige-e-i-tortora/i-pavimenti-perfetti-per-una-cucina-bianca.html",
+      "fragment": "",
+      "text": "Pavimenti perfetti per una cucina bianca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/camera-da-letto/come-realizzare-una-testata-in-cartongesso-per-camera-da-letto/",
+      "fragment": "",
+      "text": "Personalizza la testata letto con il cartongesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/guide-alla-scelta/piscine-fuori-terra-10-proposte-di-leroy-merlin.html",
+      "fragment": "",
+      "text": "Piscine fuori terra: le nostre proposte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/guide-alla-scelta/come-scegliere-finestre-infissi-e-serramenti-per-casa.html",
+      "fragment": "",
+      "text": "Come scegliere le finestre, infissi e serramenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/guide-alla-scelta/come-scegliere-l-idropulitrice-per-pavimenti-esterni-e-per-molti-altri-usi.html",
+      "fragment": "",
+      "text": "Come scegliere l'idropulitrice ideale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/domande-e-risposte/finestre-porte-e-scale/come-pulire-zanzariere-senza-smontarle.html",
+      "fragment": "",
+      "text": "Come pulire le zanzariere senza smontarle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/guide-alla-scelta/come-scegliere-lampade-solari.html",
+      "fragment": "",
+      "text": "Come scegliere le lampade solari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/domande-e-risposte/bagno/sostituire-piatto-doccia-senza-rompere-piastrelle-5-suggerimenti.html",
+      "fragment": "",
+      "text": "Come cambiare il piatto doccia senza demolire",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/domande-e-risposte/elettricita-automazioni-e-smart-home/come-proteggere-gli-elettrodomestici-dagli-sbalzi-di-tensione.html",
+      "fragment": "",
+      "text": "Come proteggere gli elettrodomestici dagli sbalzi di tensione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/",
+      "fragment": "",
+      "text": "Offerte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/",
+      "fragment": "",
+      "text": "Tutti i nostri Prezzi+Bassi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/giardino-fuori-tutto/",
+      "fragment": "",
+      "text": "Fuori tutto arredo giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/giardino-e-terrazzo/offerte-giardino-e-terrazzo/",
+      "fragment": "",
+      "text": "Giardino e terrazzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/stufe-climatizzatori-e-idraulica/offerte-climatizzatori-stufe-e-idraulica/",
+      "fragment": "",
+      "text": "Climatizzatori, stufe e idraulica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/bagno-e-arredo-bagno/offerte-bagno-e-arredo-bagno/",
+      "fragment": "",
+      "text": "Bagno e arredo bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/finestre-porte-e-scale/offerte-del-mese/",
+      "fragment": "",
+      "text": "Finestre, porte e scale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pavimenti-e-rivestimenti/offerte-del-mese/",
+      "fragment": "",
+      "text": "Piastrelle, pavimenti e rivestimenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/illuminazione/offerte-illuminazione/",
+      "fragment": "",
+      "text": "Illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/decorazione/offerte-decorazione/",
+      "fragment": "",
+      "text": "Decorazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/falegnameria/offerte-del-mese/",
+      "fragment": "",
+      "text": "Falegnameria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/elettricita-automazioni-e-fotovoltaico/offerte-materiale-elettrico-e-domotica/",
+      "fragment": "",
+      "text": "Elettricità, automazioni e fotovoltaico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/nostro-prezzo-piu-basso-giardino-e-terrazzo/",
+      "fragment": "",
+      "text": "Giardino e terrazzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/nostro-prezzo-piu-basso-stufe-climatizzatori-ed-idraulica/",
+      "fragment": "",
+      "text": "Climatizzatori, stufe e idraulica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/nostro-prezzo-piu-basso-bagno/",
+      "fragment": "",
+      "text": "Bagno e arredo bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/nostro-prezzo-piu-basso-finestre-porte-e-scale/",
+      "fragment": "",
+      "text": "Finestre, porte e scale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/nostro-prezzo-piu-basso-piastrelle-pavimenti-e-rivestimenti/",
+      "fragment": "",
+      "text": "Piastrelle, pavimenti e rivestimenti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/nostro-prezzo-piu-basso-illuminazione/",
+      "fragment": "",
+      "text": "Illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/nostro-prezzo-piu-basso-decorazione/",
+      "fragment": "",
+      "text": "Decorazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/nostro-prezzo-piu-basso-falegnameria/",
+      "fragment": "",
+      "text": "Falegnameria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/i-nostri-prezzi-piu-bassi/nostro-prezzo-piu-basso-elettricita-automazioni-e-fotovoltaico/",
+      "fragment": "",
+      "text": "Elettricità, automazioni e fotovoltaico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://mycommunity.leroymerlin.it/",
+      "fragment": "",
+      "text": "MyCommunity",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/homy/",
+      "fragment": "",
+      "text": "Homy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/negozi.html",
+      "fragment": "",
+      "text": "Negozi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/efficientamento-energetico/",
+      "fragment": "",
+      "text": "Casa efficiente",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/business/",
+      "fragment": "",
+      "text": "Business",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/pubblica-amministrazione-lp.html",
+      "fragment": "",
+      "text": "Pubblica Amministrazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/cookie-policy-leroy-merlin.html",
+      "fragment": "",
+      "text": "Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/fuori-tutto/",
+      "fragment": "",
+      "text": "Sconti su tanti prodotti per tutta la tua casa e gli spazi esterni! Approfittane online, in negozio, su app e al telefono. Salvo esaurimento scorte. Approfittane",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/marchi/parama/",
+      "fragment": "",
+      "text": "Sponsorizzato Il tuo bagno, con più stile. Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/riorganizzare-casa-e-giardino-2026/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/sconti-quantita/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/offerte/riorganizzare-casa-e-giardino-2026/riorganizzare-casa-e-giardino-prodotti-in-evidenza/",
+      "fragment": "",
+      "text": "Scopri tutti i prodotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/scaffale-in-kit-anemos-4five-4-ripiani-l-180-x-p-60-x-h-180-cm-in-acciaio-grigio-portata-per-ripiano-300-kg-87688497.html",
+      "fragment": "",
+      "text": "Scaffale in kit ANEMOS 4Five 4 ripiani L 180 x P 60 x H 180 cm in acciaio grigio, portata per ripiano 300 kg",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/plancia-in-spc-effetto-legno-sp-5-mm-con-sottopavimento-integrato-prime-ostend-2-745-m2-95888097.html",
+      "fragment": "",
+      "text": "Plancia in SPC effetto legno Sp 5 mm con sottopavimento integrato Prime Ostend 2.745 m²",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pittura-per-interni-a-base-acqua-traspirante-maxmeyer-t2020-igienizzante-bmb-bianco-opaco-profondo-14-l-99435256.html",
+      "fragment": "",
+      "text": "Pittura per interni a base acqua traspirante MAXMEYER T2020 igienizzante BMB bianco opaco profondo 14 L",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/caldaia-a-gas-a-condensazione-istantanea-24-3-kw-ferroli-kalis-83281986.html",
+      "fragment": "",
+      "text": "Caldaia a gas a condensazione istantanea 24.3 Kw FERROLI Kalis",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/salotto-da-giardino-per-4-persone-marrone-solis-naterial-con-cuscini-in-poliestere-beige-82232571.html",
+      "fragment": "",
+      "text": "Salotto da giardino per 4 persone marrone Solis NATERIAL con cuscini in poliestere beige",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/aspiratore-industriale-a-filo-einhell-tc-vc-2045-s-serbatoio-in-acciaio-20l-900w-18-kpa-98643384.html",
+      "fragment": "",
+      "text": "Aspiratore industriale a filo EINHELL TC-VC 2045 S serbatoio in acciaio 20l 900W 18 kPa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/stufa-a-pellet-ventilata-lvz-karin-8-1-kw-bordeaux-92109719.html",
+      "fragment": "",
+      "text": "Stufa a pellet ventilata LVZ Karin 8.1 KW bordeaux",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/salotto-da-giardino-per-4-persone-bianco-lyra-naterial-con-cuscini-in-poliestere-beige-90339830.html",
+      "fragment": "",
+      "text": "Salotto da giardino per 4 persone bianco Lyra NATERIAL con cuscini in poliestere beige",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/soffiatore-a-batteria-einhell-gp-lb-18-200-e-power-x-change-18-v-con-uno-starter-kit-18-v-1-batteria-inclusa-75043669.html",
+      "fragment": "",
+      "text": "Soffiatore a batteria EINHELL GP-LB 18/200 Li E Power X-Change, 18 V con uno starter kit 18 V 1 batteria inclusa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/marchi/pawhut/",
+      "fragment": "",
+      "text": "Sponsorizzato Comfort e protezione per i tuoi animali con PawHut Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/volantini/",
+      "fragment": "",
+      "text": "Sfoglia volantini e catalogo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/volantino",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/catalogo/giardino",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/bonus-e-agevolazioni-fiscali/bonus-sicurezza-2026.html",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prepara-tuo-giardino-per-l-autunno/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/nostre-migliori-marche/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/caldaia/installiamo-tua-nuova-caldaia-a-condensazione.html",
+      "fragment": "",
+      "text": "Installiamo la tua nuova caldaia a condensazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/porte-e-separazioni-interne/installiamo-tue-nuove-porte-da-interno-a-battente.html",
+      "fragment": "",
+      "text": "Installiamo le tue nuove porte da interno a battente",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/ristrutturazione-bagno/trasforma-tua-vasca-in-doccia.html",
+      "fragment": "",
+      "text": "Trasforma la tua vasca in doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/progettazione-e-ristrutturazione/ristrutturazione-casa-completa-con-arky.html",
+      "fragment": "",
+      "text": "Ristrutturazione casa completa con Arky",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/ristrutturazione-bagno/rinnova-tua-vecchia-doccia.html",
+      "fragment": "",
+      "text": "Rinnova la tua vecchia doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/polizze-assicurative/polizze-assicurative.html",
+      "fragment": "",
+      "text": "Polizze Assicurative",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/case/noble-serenity-quando-l-eleganza-dello-stile-classico-incontra-design-moderno/",
+      "fragment": "",
+      "text": "Noble Serenity: quando l'eleganza dello stile classico incontra il design moderno Ecco come creare un ambiente in cui l’eleganza dell’arredamento classico convive in perfetto equilibrio col design mod",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/case/living-joyful-idee-per-ambienti-freschi-e-creativi/",
+      "fragment": "",
+      "text": "Living Joyful: idee per ambienti freschi e creativi Immergiti nel colore con una casa dal design allegro in stile Joyful. Perfetta per un relooking giovane e accessibile, trasforma gli ambienti in spa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/ingresso-material-emotion-soluzioni-componibili-in-stile-naturale.html",
+      "fragment": "",
+      "text": "Ingresso Material Emotion: soluzioni componibili in stile naturale Scopri idee per arredare un ingresso funzionale con mobili componibili e personalizzabili in stile naturale. Scopri di più",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/giardino-e-terrazzo/macchine-da-giardino/",
+      "fragment": "",
+      "text": "Macchine da giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/giardino-e-terrazzo/mobili-da-giardino-e-accessori/",
+      "fragment": "",
+      "text": "Mobili da giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/giardino-e-terrazzo/pavimenti-per-esterni/",
+      "fragment": "",
+      "text": "Pavimenti per esterni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/giardino-e-terrazzo/gazebo-pergole-e-ombrelloni/",
+      "fragment": "",
+      "text": "Gazebo, pergole e ombrelloni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/giardino-e-terrazzo/piscine/",
+      "fragment": "",
+      "text": "Piscine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/giardino-e-terrazzo/barbecue-forni-e-accessori/tutti-i-barbecue/",
+      "fragment": "",
+      "text": "Barbecue",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/giardino-e-terrazzo/giochi-da-giardino/",
+      "fragment": "",
+      "text": "Giochi da giardino",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/stufe-climatizzatori-e-idraulica/condizionatori-e-ventilatori/condizionatori-fissi/",
+      "fragment": "",
+      "text": "Condizionatori fissi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/stufe-climatizzatori-e-idraulica/condizionatori-e-ventilatori/condizionatori-portatili/",
+      "fragment": "",
+      "text": "Condizionatori portatili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/stufe-climatizzatori-e-idraulica/condizionatori-e-ventilatori/ventilatori-a-piantana-e-da-appoggio/",
+      "fragment": "",
+      "text": "Ventilatori a piantana e da appoggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/illuminazione/illuminazione-per-interni/ventilatori-da-soffitto/tutti-i-ventilatori-da-soffitto/",
+      "fragment": "",
+      "text": "Ventilatori da soffitto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/stufe-climatizzatori-e-idraulica/condizionatori-e-ventilatori/raffrescatori/",
+      "fragment": "",
+      "text": "Raffrescatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/bagno-e-arredo-bagno/mobili-colonne-pensili-bagno-e-ricambi/mobili-bagno/",
+      "fragment": "",
+      "text": "Mobili bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/bagno-e-arredo-bagno/docce/",
+      "fragment": "",
+      "text": "Docce e piatti doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/bagno-e-arredo-bagno/sanitari/",
+      "fragment": "",
+      "text": "Sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/bagno-e-arredo-bagno/rubinetti/",
+      "fragment": "",
+      "text": "Rubinetti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pavimenti-e-rivestimenti/pavimenti-e-rivestimenti-per-interni/piastrelle-e-rivestimenti-bagno/",
+      "fragment": "",
+      "text": "Rivestimenti bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/bagno-e-arredo-bagno/accessori-bagno/",
+      "fragment": "",
+      "text": "Accessori bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pavimenti-e-rivestimenti/pavimenti-e-rivestimenti-per-interni/tutti-pavimenti-e-rivestimenti-in-gres-porcellanato/",
+      "fragment": "",
+      "text": "Gres porcellanato",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pavimenti-e-rivestimenti/parquet/parquet/",
+      "fragment": "",
+      "text": "Parquet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pavimenti-e-rivestimenti/pavimenti-pvc-e-spc/tutti-i-pavimenti-pvc/",
+      "fragment": "",
+      "text": "Pavimenti in PVC",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pavimenti-e-rivestimenti/pavimenti-laminati/pavimenti-laminati/",
+      "fragment": "",
+      "text": "Pavimenti laminati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pavimenti-e-rivestimenti/rivestimenti/tutte-le-piastrelle-e-rivestimenti-pareti/",
+      "fragment": "",
+      "text": "Piastrelle e rivestimenti per pareti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/pavimenti-e-rivestimenti/rivestimenti/mosaici/",
+      "fragment": "",
+      "text": "Mosaici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/ritiro-e-consegna/clicca-e-ritira-gratis-in-negozio.html",
+      "fragment": "",
+      "text": "Ritiro gratuito in negozio*",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/post-vendita/reso-merce.html",
+      "fragment": "",
+      "text": "100 giorni per cambiare idea*",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/ritiro-e-consegna/consegna-a-domicilio.html",
+      "fragment": "",
+      "text": "Consegna a domicilio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/newsletter/",
+      "fragment": "",
+      "text": "Iscriviti subito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/chi-siamo/",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://lavoro.leroymerlin.it/",
+      "fragment": "",
+      "text": "Lavora con noi",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/prodotti/nostre-scelte-responsabili/",
+      "fragment": "",
+      "text": "Le Nostre Scelte Responsabili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/homeservatory/",
+      "fragment": "",
+      "text": "Homeservatory",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/ricerca-artigiani/",
+      "fragment": "",
+      "text": "Diventa artigiano Leroy Merlin",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://lavoro.leroymerlin.it/jobs?role=Architetto",
+      "fragment": "",
+      "text": "Candidati come Architetto",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.adeo.com/",
+      "fragment": "",
+      "text": "Gruppo Adeo",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/sostenibilita/",
+      "fragment": "",
+      "text": "Sostenibilità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/i-nostri-impegni-etici.html",
+      "fragment": "",
+      "text": "Modello Organizzativo e Codice Etico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/speciale-rigeneriamo-valore/",
+      "fragment": "",
+      "text": "Rigeneriamo Valore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/speciale-progettista-giardino/",
+      "fragment": "",
+      "text": "Ricerca Progettista esterni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/diventa-un-nostro-fornitore/",
+      "fragment": "",
+      "text": "Diventa un nostro fornitore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/tutti-i-servizi-per-climatizzazione/installazione-condizionatori.html",
+      "fragment": "",
+      "text": "Installazione Climatizzatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/speciale-cittadini-malta-e-svizzera/",
+      "fragment": "",
+      "text": "Leroy Merlin per Malta e Svizzera",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/montaggio-e-installazione/posa-e-installazione-con-sopralluogo.html",
+      "fragment": "",
+      "text": "Posa e Installazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/pagamenti-e-agevolazioni-fiscali/finanziamento.html",
+      "fragment": "",
+      "text": "Finanziamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/pagamenti-e-agevolazioni-fiscali/pagamento-sicuro.html",
+      "fragment": "",
+      "text": "Modalità di Pagamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/partnership-homy/",
+      "fragment": "",
+      "text": "Partnership",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/speciale-recensioni/",
+      "fragment": "",
+      "text": "Le Nostre Recensioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://mycommunity.leroymerlin.it/app/630/channel/magazine-1338",
+      "fragment": "",
+      "text": "Magazine Della Casa",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/post-vendita/speciale-riparabilita-dexter/",
+      "fragment": "",
+      "text": "Ripara gli Elettroutensili In Autonomia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/servizi/post-vendita/assistenza-post-vendita-dei-prodotti.html",
+      "fragment": "",
+      "text": "Post Vendita Prodotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/idee-e-progetti/tutte-stanze/natale/",
+      "fragment": "",
+      "text": "Ispirazione Natale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/codici-e-buoni-sconto/",
+      "fragment": "",
+      "text": "Codici e Buoni Sconto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/marchi/",
+      "fragment": "",
+      "text": "Tutte le marche dalla a alla z",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/configuratori/",
+      "fragment": "",
+      "text": "Configuratori e calcolatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/risparmio-energetico/",
+      "fragment": "",
+      "text": "Risparmio Energetico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/ordinare-casa/",
+      "fragment": "",
+      "text": "Ordinare e pulire casa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/made-in-italy/",
+      "fragment": "",
+      "text": "Made in Italy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/selezione-del-momento/giusto-prezzo/",
+      "fragment": "",
+      "text": "Il Giusto prezzo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/black-friday/",
+      "fragment": "",
+      "text": "Black Friday",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/presentazione-marketplace.html",
+      "fragment": "",
+      "text": "Presentazione Marketplace",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/diventa-venditore.html",
+      "fragment": "",
+      "text": "Diventa Venditore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://media.adeo.com/media/4833000/media.pdf",
+      "fragment": "",
+      "text": "Privacy Policy Marketplace",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/condizioni-di-utilizzo-del-marketplace.html",
+      "fragment": "",
+      "text": "Condizioni Generali Marketplace",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/regolamenti-marketplace.html",
+      "fragment": "",
+      "text": "Informazioni normative",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/aiuto/",
+      "fragment": "",
+      "text": "Contatti e Assistenza",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/aiuto/scrivici/?journey=recesso",
+      "fragment": "",
+      "text": "Diritto di recesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/documentazione-e-regolamenti/?avviso-sicurezza",
+      "fragment": "",
+      "text": "Richiamo prodotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/truffe-e-phishing/",
+      "fragment": "",
+      "text": "Come riconoscere finte promo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/segnalare-contenuto-illecito.html",
+      "fragment": "",
+      "text": "Segnala un contenuto illecito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/presa-appuntamento/",
+      "fragment": "",
+      "text": "Prenota un appuntamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/sezione-clienti/registrazione/ricerca",
+      "fragment": "",
+      "text": "Iscriviti gratuitamente",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/login.html",
+      "fragment": "",
+      "text": "Accedi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://get.lm.app/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/leroymerlinitalia",
+      "fragment": "",
+      "text": "Facebook",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/leroymerlinita/",
+      "fragment": "",
+      "text": "Instagram",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.tiktok.com/@leroymerlinitalia",
+      "fragment": "",
+      "text": "Tiktok",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.linkedin.com/company/leroy-merlin/",
+      "fragment": "",
+      "text": "LinkedIn",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.pinterest.fr/leroymerlinita/",
+      "fragment": "",
+      "text": "Pinterest",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "http://www.youtube.com/user/leroymerlinitalia",
+      "fragment": "",
+      "text": "Youtube",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://t.me/s/leroymerlinitalia",
+      "fragment": "",
+      "text": "Telegram",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://whatsapp.com/channel/0029Vb3xwW79mrGjAmqsn00p",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/dichiarazione-di-accessibilita.html",
+      "fragment": "",
+      "text": "Accessibilità: parzialmente conforme",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/speciale-privacy-policy/privacy-policy-e-informativa-clienti.html",
+      "fragment": "",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/cookie-policy",
+      "fragment": "",
+      "text": "Cookie Policy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/documentazione-e-regolamenti/",
+      "fragment": "",
+      "text": "Condizioni generali del sito",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-prodotti.html",
+      "fragment": "",
+      "text": "Mappa del sito Prodotti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-servizi.html",
+      "fragment": "",
+      "text": "Mappa del sito servizi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-ricerche.html",
+      "fragment": "",
+      "text": "Mappa del sito ricerche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-ricerche-dei-contenuti.html",
+      "fragment": "",
+      "text": "Mappa del sito ricerche dei contenuti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-negozi.html",
+      "fragment": "",
+      "text": "Mappa del sito Negozi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-categorie.html",
+      "fragment": "",
+      "text": "Mappa del sito categorie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://mycommunity.leroymerlin.it/app/630/sitemap/856",
+      "fragment": "",
+      "text": "Mappa Community",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-guide-alla-scelta.html",
+      "fragment": "",
+      "text": "Mappa del sito guide alla scelta",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-idee-e-progetti.html",
+      "fragment": "",
+      "text": "Mappa del sito idee e progetti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-pagine-locali.html",
+      "fragment": "",
+      "text": "Mappa del sito pagine locali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-tutorial.html",
+      "fragment": "",
+      "text": "Mappa del sito tutorial",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-domande-e-risposte.html",
+      "fragment": "",
+      "text": "Mappa del sito domande e risposte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/informazioni-societarie/",
+      "fragment": "",
+      "text": "Info societarie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.leroymerlin.it/mappa-del-sito-del-marchio.html",
+      "fragment": "",
+      "text": "Mappa del sito del marchio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.onetrust.com/solutions/consent-and-preferences/",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://media.adeo.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/lmit-site/6.66.0/static/fonts/LeroyMerlinSans-Web-Regular.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/lmit-site/6.66.0/static/fonts/LeroyMerlinSans-Web-Light.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/lmit-site/6.66.0/static/fonts/LeroyMerlinSans-Web-SemiBold.woff2",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/favicon.ico",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/favicon.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/lmit-site/6.66.0/static/css/common-v2.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/lmit-site/6.66.0/static/css/common.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/store-header-module/6.37.3/static/autocontextualization/autocontextualization.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/categorynavigation/3.53.3/static/css/websiteheadercomponent/desktop/websiteheadercomponentDesktop.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/search-autocomplete/3.29.3/static/css/autocomplete.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/store-header-module/6.37.3/static/contextheader/contextheader.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/store-header-module/6.37.3/static/contextbanner/contextbanner.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/store-header-module/6.37.3/static/contextbannerdesktop/contextbannerdesktop.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/store-header-module/6.37.3/static/contextlayer/contextlayer.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/customer-header-module/1.14.18/static/css/cdp-due--customer-header.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/header-cart-module/2.20.1/static/css/app.054a4383.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/header-module/1.50.4/static/fragments/usefullink/UseFulLink.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/categorynavigation/3.53.3/static/css/mainnavigation/desktop/mainnavigationdesktop.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/header-module/1.50.4/static/fragments/preheader/Preheader.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/cart/6.58.0/static/addToCartCustomer/addToCartCustomer.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/home-module/3.26.1/static/css/flashofferarea/flashofferarea.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/home-module/3.26.1/static/css/maxarea/maxarea.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/home-module/3.26.1/static/css/quicknavigation/quicknavigation.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/hubproject/3.91.1/static/css/mainthematicmesh/mainthematicmesh.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/home-module/3.26.1/static/css/followingcommercialoperations/followingcommercialoperations.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/home-module/3.26.1/static/css/secondarycommercialoperation/secondarycommercialoperation.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/hubproject/3.91.1/static/css/topproductsmesh/topproductsmesh.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/product-thumbnails-module/1.119.4/static/product-thumbnail/product-thumbnail.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/arm-spaces-kobi-fragment/2.9.6/static/homepageLaneBanner/homepageLaneBanner.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/category-enrichment-module/1.26.1/static/fragments/content-builder/ContentBuilder.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/service-panels/1.45.5/static/css/homeservices/homeservices.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/home-module/3.26.1/static/css/secondaryarea/secondaryarea.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/product-recommendation-node-module/0.49.193/static/views/css/common.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/product-recommendation-node-module/0.49.193/static/views/css/history.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/category-enrichment-module/1.26.1/static/fragments/welcome-back-recommendation/Wbr.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/seomesh/3.11.2/static/css/seomesh.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/customer-chatbot/1.8.0/static/fragments/customer-chatbot/CustomerChatbot.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/ccdp-footer-module/1.43.0/static/fragments/footer/Footer.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/ccdp-footer-module/1.43.0/static/fragments/seo-footer/SeoFooter.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.leroymerlin.it/arm-spaces-kobi-fragment/2.9.6/static/dsa/popinDsa/dsa/popinDsa.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://cdn.caast.tv/caast/5.363/",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://api-k8s.caast.tv",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://apicache-k8s.caast.tv",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "wss://ws-k8s.caast.tv",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

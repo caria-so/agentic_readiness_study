@@ -1,0 +1,1861 @@
+{
+  "source": "https://www.bertani.it/it_IT/",
+  "generated": "2026-10-03T01:14:09.370401",
+  "total": 233,
+  "internal_count": 216,
+  "external_count": 17,
+  "links": [
+    {
+      "url": "https://www.bertani.it/it_IT/",
+      "fragment": "main",
+      "text": "Salta al contenuto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/servizi-professionisti",
+      "fragment": "",
+      "text": "Professionisti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/servizi-architetti",
+      "fragment": "",
+      "text": "Architetti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/servizi-contractor",
+      "fragment": "",
+      "text": "Contractor",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/servizi-privati",
+      "fragment": "",
+      "text": "Privati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/punti-vendita",
+      "fragment": "",
+      "text": "Punti vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/chi-siamo",
+      "fragment": "",
+      "text": "Chi siamo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog",
+      "fragment": "",
+      "text": "Blog &amp; News",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/faq",
+      "fragment": "",
+      "text": "FAQ",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/contatti",
+      "fragment": "",
+      "text": "Contatti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/switch-locale/en_US",
+      "fragment": "",
+      "text": "en",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno",
+      "fragment": "",
+      "text": "Tutti i prodotti Bagno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bertani.pinaxo.com/library/1",
+      "fragment": "",
+      "text": "Consulta i Cataloghi",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/mobili",
+      "fragment": "",
+      "text": "Mobili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/mobili/mobili-portalavabo",
+      "fragment": "",
+      "text": "Mobili portalavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/mobili/contenitori",
+      "fragment": "",
+      "text": "Contenitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/mobili/consolle",
+      "fragment": "",
+      "text": "Consolle",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/mobili/lavanderia",
+      "fragment": "",
+      "text": "Lavanderia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/sanitari",
+      "fragment": "",
+      "text": "Sanitari",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/sanitari/wc-e-bidet",
+      "fragment": "",
+      "text": "WC e Bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/sanitari/lavabo",
+      "fragment": "",
+      "text": "Lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/sanitari/lavatoi",
+      "fragment": "",
+      "text": "Lavatoi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria/rubinetti-per-lavabo",
+      "fragment": "",
+      "text": "Rubinetti per lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria/rubinetti-per-bidet",
+      "fragment": "",
+      "text": "Rubinetti per bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria/rubinetti-per-doccia",
+      "fragment": "",
+      "text": "Rubinetti per doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria/soffioni",
+      "fragment": "",
+      "text": "Soffioni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria/saliscendi",
+      "fragment": "",
+      "text": "Saliscendi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria/doccette",
+      "fragment": "",
+      "text": "Doccette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria/colonne-doccia",
+      "fragment": "",
+      "text": "Colonne doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria/gruppi-vasca",
+      "fragment": "",
+      "text": "Gruppi vasca",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/rubinetteria/sifoni",
+      "fragment": "",
+      "text": "Sifoni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/vasche",
+      "fragment": "",
+      "text": "Vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/vasche/incasso",
+      "fragment": "",
+      "text": "Incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/vasche/con-pannelli",
+      "fragment": "",
+      "text": "Con pannelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/vasche/free-standing",
+      "fragment": "",
+      "text": "Free Standing",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/vasche-idromassaggio",
+      "fragment": "",
+      "text": "Vasche idromassaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/vasche-idromassaggio/incasso",
+      "fragment": "",
+      "text": "Incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/vasche-idromassaggio/con-pannelli",
+      "fragment": "",
+      "text": "Con pannelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/docce",
+      "fragment": "",
+      "text": "Docce",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/docce/piatti",
+      "fragment": "",
+      "text": "Piatti doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/docce/canaline",
+      "fragment": "",
+      "text": "Canaline",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/docce/box-doccia",
+      "fragment": "",
+      "text": "Box doccia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/spa",
+      "fragment": "",
+      "text": "SPA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/spa/minipiscine",
+      "fragment": "",
+      "text": "Minipiscine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/spa/sauna",
+      "fragment": "",
+      "text": "Sauna",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/spa/bagno-turco",
+      "fragment": "",
+      "text": "Bagno turco",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/spa/sedute-e-arredi",
+      "fragment": "",
+      "text": "Sedute e arredi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/elementi-scaldanti",
+      "fragment": "",
+      "text": "Elementi scaldanti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/elementi-scaldanti/scaldasalviette",
+      "fragment": "",
+      "text": "Scaldasalviette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/elementi-scaldanti/termoarredo",
+      "fragment": "",
+      "text": "Termoarredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/complementi",
+      "fragment": "",
+      "text": "Complementi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/complementi/accessori",
+      "fragment": "",
+      "text": "Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/complementi/specchi",
+      "fragment": "",
+      "text": "Specchi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/complementi/luci",
+      "fragment": "",
+      "text": "Luci",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/complementi/tessile",
+      "fragment": "",
+      "text": "Tessile",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/complementi/oggettistica",
+      "fragment": "",
+      "text": "Oggettistica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/complementi/purificatori-d-aria",
+      "fragment": "",
+      "text": "Purificatori d'aria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/bagno-sicuro",
+      "fragment": "",
+      "text": "Bagno Sicuro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/bagno-sicuro/wc-e-bidet",
+      "fragment": "",
+      "text": "WC e Bidet",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/bagno-sicuro/lavabo",
+      "fragment": "",
+      "text": "Lavabo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/bagno-sicuro/vasche",
+      "fragment": "",
+      "text": "Vasche",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/bagno-sicuro/rubinetteria",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/bagno/bagno-sicuro/accessori",
+      "fragment": "",
+      "text": "Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo",
+      "fragment": "",
+      "text": "Tutti i prodotti Arredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bertani.pinaxo.com/library/3",
+      "fragment": "",
+      "text": "Consulta i Cataloghi",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/cucina",
+      "fragment": "",
+      "text": "Cucina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/cucina/cucine",
+      "fragment": "",
+      "text": "Cucine",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/cucina/rubinetteria",
+      "fragment": "",
+      "text": "Rubinetteria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/cucina/elettrodomestici",
+      "fragment": "",
+      "text": "Elettrodomestici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/living",
+      "fragment": "",
+      "text": "Living",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/living/sedute",
+      "fragment": "",
+      "text": "Sedie e sgabelli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/living/sistemi-giorno-e-librerie",
+      "fragment": "",
+      "text": "Sistemi giorno e librerie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/living/divani",
+      "fragment": "",
+      "text": "Divani e poltrone",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/living/tavoli",
+      "fragment": "",
+      "text": "Tavoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/living/porte",
+      "fragment": "",
+      "text": "Porte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/living/camini",
+      "fragment": "",
+      "text": "Camini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/living/ventilatori-a-soffitto",
+      "fragment": "",
+      "text": "Ventilatori a soffitto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/living/purificatori-d-aria",
+      "fragment": "",
+      "text": "Purificatori d'aria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/zona-notte",
+      "fragment": "",
+      "text": "Zona notte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/zona-notte/armadi",
+      "fragment": "",
+      "text": "Armadi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/zona-notte/cabine-armadio",
+      "fragment": "",
+      "text": "Cabine armadio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/zona-notte/letti",
+      "fragment": "",
+      "text": "Letti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/zona-notte/contenitori",
+      "fragment": "",
+      "text": "Contenitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/illuminazione",
+      "fragment": "",
+      "text": "Illuminazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/illuminazione/sospensione",
+      "fragment": "",
+      "text": "Sospensione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/illuminazione/parete-soffitto",
+      "fragment": "",
+      "text": "Parete/soffitto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/illuminazione/tavolo",
+      "fragment": "",
+      "text": "Tavolo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/illuminazione/da-terra",
+      "fragment": "",
+      "text": "Da terra",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/illuminazione/outdoor",
+      "fragment": "",
+      "text": "Outdoor",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/illuminazione/incasso",
+      "fragment": "",
+      "text": "Incasso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/elementi-scaldanti",
+      "fragment": "",
+      "text": "Elementi scaldanti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/elementi-scaldanti/termoarredo",
+      "fragment": "",
+      "text": "Termoarredo",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/outdoor",
+      "fragment": "",
+      "text": "Outdoor",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/outdoor/tavoli",
+      "fragment": "",
+      "text": "Tavoli",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/outdoor/sedute",
+      "fragment": "",
+      "text": "Sedute",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/outdoor/divani",
+      "fragment": "",
+      "text": "Divani",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/outdoor/accessori",
+      "fragment": "",
+      "text": "Accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/carta-da-parati",
+      "fragment": "",
+      "text": "Carta da parati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/carta-da-parati/interni",
+      "fragment": "",
+      "text": "Interni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/carta-da-parati/esterni",
+      "fragment": "",
+      "text": "Esterni",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/arredo/carta-da-parati/ambienti-umidi",
+      "fragment": "",
+      "text": "Ambienti umidi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/superfici",
+      "fragment": "",
+      "text": "Tutti i prodotti Superfici",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bertani.pinaxo.com/library/5",
+      "fragment": "",
+      "text": "Consulta i Cataloghi",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/superfici/gres",
+      "fragment": "",
+      "text": "Gres",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/superfici/ceramica",
+      "fragment": "",
+      "text": "Ceramica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/superfici/legno",
+      "fragment": "",
+      "text": "Legno",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/superfici/mosaico-vetroso",
+      "fragment": "",
+      "text": "Mosaico vetroso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/superfici/resina",
+      "fragment": "",
+      "text": "Resina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/superfici/microresina",
+      "fragment": "",
+      "text": "Microresina",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/superfici/marmi-e-pietre-naturali",
+      "fragment": "",
+      "text": "Marmi e Pietre naturali",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/superfici/vinilico-hpf-e-dpl",
+      "fragment": "",
+      "text": "Vinilico, HPF e DPL",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica",
+      "fragment": "",
+      "text": "Tutti i prodotti Termoidraulica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://bertani.pinaxo.com/library/6",
+      "fragment": "",
+      "text": "Consulta i Cataloghi",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/caldaie-e-pompe-di-calore",
+      "fragment": "",
+      "text": "Caldaie e Pompe di Calore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/caldaie-e-pompe-di-calore/caldaie",
+      "fragment": "",
+      "text": "Caldaie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/caldaie-e-pompe-di-calore/pompe-di-calore",
+      "fragment": "",
+      "text": "Pompe di Calore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/caldaie-e-pompe-di-calore/sistemi-ibridi",
+      "fragment": "",
+      "text": "Sistemi Ibridi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/riscaldamento-e-raffrescamento",
+      "fragment": "",
+      "text": "Riscaldamento e Raffrescamento",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/riscaldamento-e-raffrescamento/condizionatori",
+      "fragment": "",
+      "text": "Condizionatori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/riscaldamento-e-raffrescamento/corpi-scaldanti",
+      "fragment": "",
+      "text": "Corpi scaldanti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/riscaldamento-e-raffrescamento/trattamento-aria",
+      "fragment": "",
+      "text": "Trattamento aria",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/riscaldamento-e-raffrescamento/sistemi-radianti",
+      "fragment": "",
+      "text": "Sistemi radianti",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/riscaldamento-e-raffrescamento/dispositivi-per-la-sanificazione",
+      "fragment": "",
+      "text": "Dispositivi per la sanificazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/energie-rinnovabili",
+      "fragment": "",
+      "text": "Energie Rinnovabili",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/energie-rinnovabili/solare-termico",
+      "fragment": "",
+      "text": "Solare Termico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/energie-rinnovabili/biomassa",
+      "fragment": "",
+      "text": "Biomassa",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/energie-rinnovabili/geotermico",
+      "fragment": "",
+      "text": "Geotermico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/idraulica",
+      "fragment": "",
+      "text": "Idraulica",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/idraulica/sistemi-di-pompaggio",
+      "fragment": "",
+      "text": "Sistemi di pompaggio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/idraulica/tubazioni-e-accessori",
+      "fragment": "",
+      "text": "Tubazioni e accessori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/idraulica/scarichi",
+      "fragment": "",
+      "text": "Scarichi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/idraulica/valvole",
+      "fragment": "",
+      "text": "Valvole",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/idraulica/trattamento-acqua",
+      "fragment": "",
+      "text": "Trattamento acqua",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/idraulica/serbatoi-e-bollitori",
+      "fragment": "",
+      "text": "Serbatoi e bollitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/idraulica/irrigazione",
+      "fragment": "",
+      "text": "Irrigazione",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/antincendio",
+      "fragment": "",
+      "text": "Antincendio",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/canne-fumarie",
+      "fragment": "",
+      "text": "Canne fumarie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/isolante",
+      "fragment": "",
+      "text": "Isolante",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/aspirazione-polveri",
+      "fragment": "",
+      "text": "Aspirazione polveri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/taxons/termoidraulica/utensili-e-attrezzatura",
+      "fragment": "",
+      "text": "Utensili e attrezzatura",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi",
+      "fragment": "",
+      "text": "Marchi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/offerte-speciali",
+      "fragment": "",
+      "text": "Offerte",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/login",
+      "fragment": "",
+      "text": "Login",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/register",
+      "fragment": "",
+      "text": "Registrati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/cart/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/bertani-lab",
+      "fragment": "",
+      "text": "Bertani Lab",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/assets/pdf/ISO-9001-CERT-05301-99-AQ-BOL-SINCERT-6-en-US-20230807-20230807123115.5723c7f3.pdf",
+      "fragment": "",
+      "text": "ISO9001",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/assets/images/codice-etico.4443db8b.pdf",
+      "fragment": "",
+      "text": "Codice Etico",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/assets/images/codice-condotta-fornitori.7912e085.pdf",
+      "fragment": "",
+      "text": "Codice Condotta Fornitori",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/condizioni-di-vendita",
+      "fragment": "",
+      "text": "Condizioni di vendita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/condizioni-di-vendita-online",
+      "fragment": "",
+      "text": "Condizioni di vendita online",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/diritto-di-recesso",
+      "fragment": "",
+      "text": "Diritto di Recesso",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/lavora-con-noi",
+      "fragment": "",
+      "text": "Lavora con Noi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://ondemand.bertani.it/",
+      "fragment": "",
+      "text": "Area riservata installatori",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/sanitari-bagno-forme-design-e-soluzioni-tecniche-per-un-progetto-completo",
+      "fragment": "",
+      "text": "Sanitari bagno: forme, design e soluzioni tecniche per un progetto completo scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/lavabi-bagno",
+      "fragment": "",
+      "text": "Il lavabo: cuore progettuale del bagno contemporaneo scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/vasca-centro-stanza-design-progettazione-bagno",
+      "fragment": "",
+      "text": "Vasche centro stanza: progettare il bagno attorno a un gesto di benessere scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/bagni-piccoli-progettazione",
+      "fragment": "",
+      "text": "Il design diventa magia: una guida creativa per bagni piccoli, funzionali ed eleganti scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/sauna-bagno-turco-progettazione",
+      "fragment": "",
+      "text": "Sauna e Bagno Turco: benessere, tecnologia e design per casa e Spa Scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/gres-porcellanato-in-casa",
+      "fragment": "",
+      "text": "Tutti gli usi del gres porcellanato in casa: perché scegliere tecnologia, resistenza e design Scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/specchi-da-bagno",
+      "fragment": "",
+      "text": "Specchi da bagno: funzionalità e design a confronto scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/come-scegliere-il-piatto-doccia",
+      "fragment": "",
+      "text": "Come scegliere il piatto doccia giusto: materiali, altezze e installazione Scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/riflessioni-e-inedite-visioni-progettare-con-superfici-a-specchio",
+      "fragment": "",
+      "text": "Riflessioni e inedite visioni: progettare con superfici a specchio scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/living-antoniolupi-oltre-i-confini-del-bagno",
+      "fragment": "",
+      "text": "Living antoniolupi: oltre i confini del bagno per una contaminazione degli spazi da abitare scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/progettare-un-bagno-sostenibile-guida-al-risparmio-idrico-ed-energetico",
+      "fragment": "",
+      "text": "Progettare un bagno sostenibile: guida al risparmio idrico ed energetico scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/gessi-vita-una-nuova-relazione-con-lacqua-in-cucina",
+      "fragment": "",
+      "text": "Gessi Vita: una nuova relazione con l’acqua in cucina scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/dalla-funzione-alla-forma-tavoli-che-definiscono-la-personalita-del-living",
+      "fragment": "",
+      "text": "Dalla funzione alla forma: tavoli che definiscono la personalità del living Scopri",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/antoniolupi-reflex-vasca-167x86-cm-1",
+      "fragment": "",
+      "text": "antoniolupi, Reflex Vasca 167x86 cm 13.500&nbsp;€ Consegna in Italia gratuita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/mutina-mattonelle-margherita-20-5x20-5-cm-5",
+      "fragment": "",
+      "text": "Mutina, Mattonelle Margherita 20.5x20.5 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/antoniolupi-ghost-soffione-doccia-1-",
+      "fragment": "",
+      "text": "antoniolupi, Ghost Big Soffione doccia 1.390&nbsp;€ Consegna in Italia gratuita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/agape-cenote-lavabo-diam-45-cm",
+      "fragment": "",
+      "text": "Agape, Cenote lavabo diam. 45 cm 1.550&nbsp;€ Consegna in Italia gratuita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/tubes-rift-reverse-elettrico",
+      "fragment": "",
+      "text": "Tubes, Rift/Reverse Scaldasalviette elettrico L 100 cm 1.690&nbsp;€ Consegna in Italia gratuita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/gessi-anello-miscelatore-lavavo-warm-bronze",
+      "fragment": "",
+      "text": "Gessi, Anello Miscelatore lavavo Warm Bronze 730&nbsp;€ Consegna in Italia gratuita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/wall-deco-summer-chocolate-carta-da-parati",
+      "fragment": "",
+      "text": "Wall&amp;decò, Summer Chocolate Carta da parati",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/nic-design-consolle-45-consolle-diam-45-cm",
+      "fragment": "",
+      "text": "Nic Design, Consolle 45 Consolle diam. 45 cm 2.110&nbsp;€ Consegna in Italia gratuita",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/cedit-chimera-120x240-cm-1",
+      "fragment": "",
+      "text": "Cedit, Chimera 120x240 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/products/gaia-cosmopol-mobile-portalavabo",
+      "fragment": "",
+      "text": "Gaia, Cosmopol Mobile portalavabo 112x50 cm",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/agape",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/boffi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/antonio-lupi",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/idea-group",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/fantini",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/cea",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/mutina",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/wall-e-deco",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/fiemme-tremila",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/dynergy",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/marchi/intesa",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/design",
+      "fragment": "",
+      "text": "Leggi tutto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/video-del-talk-con-giulio-cappellini-nuovi-paesaggi-domestici-e-non",
+      "fragment": "",
+      "text": "06/07/26 Video del Talk con Giulio Cappellini - Nuovi paesaggi domestici e non",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/nuovi-paesaggi-domestici-e-non-talk-con-giulio-cappellini",
+      "fragment": "",
+      "text": "27/05/26 NUOVI PAESAGGI DOMESTICI E NON - Talk con Giulio Cappellini",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/margherita-home-dove-ogni-spazio-racconta-e-si-fa-accoglienza",
+      "fragment": "",
+      "text": "11/05/26 Margherita Home: dove ogni spazio racconta e si fa accoglienza",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/termoidraulica",
+      "fragment": "",
+      "text": "Leggi tutto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/patentino-f-gas",
+      "fragment": "",
+      "text": "16/07/26 Corso Patentino F-GAS",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/servizio-gestione-pratiche-2026",
+      "fragment": "",
+      "text": "05/06/26 Incentivi energetici: tutto il supporto per Conto Termico e pratiche ENEA",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/nuovo-conto-termico-3-0",
+      "fragment": "",
+      "text": "28/05/26 Seminario sul nuovo conto termico 3.0",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/giornata-taratura-strumenti-f-gas",
+      "fragment": "",
+      "text": "08/05/26 Giornata Taratura Strumenti F-GAS",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/taratura-strumenti-f-gas",
+      "fragment": "",
+      "text": "13/03/26 Taratura Strumenti F-GAS",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/orario-continuato-banco-di-reggio-emilia",
+      "fragment": "",
+      "text": "24/02/26 Orario Continuato - Banco di Reggio Emilia",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/nuova-apertura-a-spilamberto",
+      "fragment": "",
+      "text": "13/11/25 Nuova apertura a Spilamberto",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/la-casa-che-ci-riflette",
+      "fragment": "",
+      "text": "14/10/25 La casa che ci riflette",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/la-casa-intelligente",
+      "fragment": "",
+      "text": "22/10/24 La Casa Intelligente",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/blog/daikin-giornata-a-banco",
+      "fragment": "",
+      "text": "25/07/24 Giornata a banco Daikin",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/whistleblowing",
+      "fragment": "",
+      "text": "Whistleblowing",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/legal",
+      "fragment": "",
+      "text": "Legal",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/privacy",
+      "fragment": "",
+      "text": "Privacy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/cookies",
+      "fragment": "",
+      "text": "Cookie",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/accessibility",
+      "fragment": "",
+      "text": "Accessibilità",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "fragment": "",
+      "text": "Norme sulla privacy",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://policies.google.com/terms",
+      "fragment": "",
+      "text": "Termini di servizio",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.instagram.com/bertanispa",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.facebook.com/BertaniSpa",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.linkedin.com/company/bertani-s-p-a-/",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.pinterest.com/bertanispa/",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.youtube.com/@BertaniSpa",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://vimeo.com/user145583911",
+      "fragment": "",
+      "text": "",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/assets/images/ecovadis/ISO-9001-CERT-05301-99-AQ-BOL-SINCERT-6-en-US-20230807-20230807123115.5723c7f3.5723c7f3.pdf",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/it_IT/certificazione-ecovadis",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.iubenda.com/privacy-policy/49687040/cookie-policy?an=no&amp;s_ck=false&amp;newmarkup=yes",
+      "fragment": "",
+      "text": "cookie policy",
+      "rel": "noopener",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.bertani.it/en_US/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/assets/manifest/apple-touch-icon.cfce4efd.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/assets/manifest/favicon-32x32.708707de.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/assets/manifest/favicon-16x16.9740b1a1.png",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/assets/manifest/site.efb980de.webmanifest",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/assets/manifest/safari-pinned-tab.f59e7cf0.svg",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.gstatic.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700&amp;display=swap",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/src/app.08fd86d8.css",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bertani.it/build/shop/shop-entry.195346c6.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.bertani.it/build/store/src/app.d83a3f6c.js",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    }
+  ]
+}

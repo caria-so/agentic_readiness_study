@@ -1,0 +1,92 @@
+{
+ "url": "https://jo-bagno.it/cesame/copriwater-aretusa-ceramica-cesame.html",
+ "file": "cesame_copriwater-aretusa-ceramica-cesame.html.html",
+ "title": "Copriwater Aretusa Ceramica Cesame",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2215,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Jo-Bagno.it",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jo-Bagno.it"
+    }
+   ]
+  },
+  "sku": {
+   "value": "J028.07",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "J028.07"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "X: 36 Y: 46 Z: 195 (J2)",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "X: 36 Y: 46 Z: 195 (J2)"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Copriwater Compatibile realizzato sullo stampo dell’originale",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Copriwater Compatibile realizzato sullo stampo dell’originale"
+    }
+   ]
+  },
+  "material": {
+   "value": "Poliestere Colato",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Poliestere Colato"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3 kg",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Peso",
+     "value": "3 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 0,
+  "L3": 4,
+  "dropped": 4
+ }
+}

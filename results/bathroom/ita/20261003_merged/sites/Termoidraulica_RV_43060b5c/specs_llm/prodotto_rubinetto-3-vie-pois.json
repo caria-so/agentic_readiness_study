@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/prodotto/rubinetto-3-vie-pois/",
+  "model": "qwen2.5:32b",
+  "html": "prodotto_rubinetto-3-vie-pois.html",
+  "title": "Pois 3 way tap",
+  "text_chars": 1930,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "oat fragranite",
+      "evidence": "Tap 3 ways with finish in oat fragranite.",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Pois",
+      "evidence": "Pois 3 way tap",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1311,
+    "output_tokens": 492,
+    "seconds": 44.98
+  }
+}

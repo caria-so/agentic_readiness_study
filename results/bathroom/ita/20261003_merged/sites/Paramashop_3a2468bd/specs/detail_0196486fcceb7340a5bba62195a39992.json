@@ -1,0 +1,93 @@
+{
+ "url": "https://www.paramashop.it/detail/0196486fcceb7340a5bba62195a39992",
+ "file": "detail_0196486fcceb7340a5bba62195a39992.html",
+ "title": "Casetta da giardino in legno 173x160 cm - 2,49 metri quadri",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1836,
+ "attributes": {
+  "mpn": {
+   "value": "302.011",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "302.011"
+    }
+   ]
+  },
+  "height": {
+   "value": "2,05m",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza massima",
+     "value": "2,05m"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza minima",
+     "value": "1,76m"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "1,50x1,44m",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni interne",
+     "value": "1,50x1,44m"
+    }
+   ]
+  },
+  "material": {
+   "value": "Abete naturale massello",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Legno",
+     "value": "Abete naturale massello"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Legno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "302.011",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "302.011"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Area interna": "2,49m²"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 1,
+  "L2": 6,
+  "L3": 1,
+  "dropped": 8
+ }
+}

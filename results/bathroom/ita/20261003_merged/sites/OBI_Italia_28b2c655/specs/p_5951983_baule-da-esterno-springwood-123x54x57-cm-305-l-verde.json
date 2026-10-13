@@ -1,0 +1,103 @@
+{
+ "url": "https://www.obi-italia.it/p/5951983/baule-da-esterno-springwood-123x54x57-cm-305-l-verde",
+ "file": "p_5951983_baule-da-esterno-springwood-123x54x57-cm-305-l-verde.html",
+ "title": "Baule da esterno Springwood 123x54x57 cm 305 l verde",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 649,
+ "attributes": {
+  "sku": {
+   "value": "5951983",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5951983"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "7290112641854",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "7290112641854"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Verde",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Verde"
+    }
+   ]
+  },
+  "width": {
+   "value": "123.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "123.00 CMT"
+    }
+   ]
+  },
+  "height": {
+   "value": "57.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "57.00 CMT"
+    }
+   ]
+  },
+  "depth": {
+   "value": "53.50 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "53.50 CMT"
+    }
+   ]
+  },
+  "weight": {
+   "value": "8.3 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "8.3 KGM"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "Keter Group BV Ericssonstraat 17 5121 MK Rijen NL curver@globalinstore.hu EAN(s): [ 7290112641854 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/uppvind-lampada-da-terra-nichelato-bianco-20437821/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_uppvind-lampada-da-terra-nichelato-bianco-20437821.html",
+  "title": "UPPVIND lampada da terra, nichelato/bianco, 150 cm  - IKEA Italia",
+  "text_chars": 2238,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "weight": {
+      "value": "5.88 kg",
+      "evidence": "Peso: 5.88 kg",
+      "location": "body"
+    },
+    "installation": {
+      "value": "a terra",
+      "evidence": "Lampada da terra, nichelato/bianco, 150 cm",
+      "location": "title"
+    },
+    "electrical": {
+      "value": "Max. 13 W",
+      "evidence": "Max. 13 W",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "diapason in metallo lucido, con un paralume ovale dalla forma allungata",
+      "evidence": "Questa originale lampada da terra ricorda un diapason in metallo lucido, con un paralume ovale dalla forma allungata.",
+      "location": "body"
+    },
+    "care": {
+      "value": "Elimina la polvere con una spazzola per abiti.",
+      "evidence": "Elimina la polvere con una spazzola per abiti.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "nickelato",
+        "evidence": "Tazza/ Calotta della base/ Tubo superiore: Acciaio, Nichelato, Rivestimento epossidico"
+      }
+    },
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA",
+        "evidence": "UPPVIND lampada da terra, nichelato/bianco, 150 cm - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1729,
+    "output_tokens": 836,
+    "seconds": 70.36
+  }
+}

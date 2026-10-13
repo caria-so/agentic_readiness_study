@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://www.inbagno.it/rubinetteria-lavanderia/28982-miscelatore-lavello-a-canna-lunga-in-ottone-cromato.html",
+  "model": "qwen2.5:32b",
+  "html": "rubinetteria-lavanderia_28982-miscelatore-lavello-a-canna-lunga-in-ottone-cromato.html.html",
+  "title": "Miscelatore Lavello Canna Lunga Ottone Cromato",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "22,6 cm",
+      "evidence": "Dimensioni: H 14 x P 22,6 cm;",
+      "location": "body"
+    },
+    "height": {
+      "value": "14 cm",
+      "evidence": "Dimensioni: H 14 x P 22,6 cm;",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "Flessibili di collegamento inclusi, attacco 1/2\" G standard",
+      "evidence": "Flessibili di collegamento inclusi, attacco 1/2\" G standard;",
+      "location": "body"
+    },
+    "water": {
+      "value": "Cartuccia a dischi ceramici diam. 40 mm",
+      "evidence": "Cartuccia a dischi ceramici diam. 40 mm;",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3868,
+    "output_tokens": 638,
+    "seconds": 60.48
+  }
+}

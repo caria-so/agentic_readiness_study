@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/ultracolor-plus-152-liquirizia-da-kg-5",
+  "model": "qwen2.5:32b",
+  "html": "ultracolor-plus-152-liquirizia-da-kg-5.html",
+  "title": "Ultracolor Plus 152 Liquirizia da Kg. 5 | Mapei | Ceramikeshop",
+  "text_chars": 8414,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Liquirizia",
+      "evidence": "Ultracolor Plus 152 Liquirizia da Kg. 5",
+      "location": "title"
+    },
+    "series": {
+      "value": "Ultracolor Plus",
+      "evidence": "ULTRACOLOR PLUS",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "certification": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Certificato per l’utilizzo nell’industria navale, A bassissima emissione di VOC",
+        "evidence": "VANTAGGI: Certificato per l’utilizzo nell’industria navale, A bassissima emissione di VOC"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4825,
+    "output_tokens": 572,
+    "seconds": 63.37
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "source": "https://www.leroymerlin.it/",
+  "generated": "2026-10-02T11:07:50.595739",
+  "block_count": 3,
+  "types": [
+    "BreadcrumbList",
+    "ContactPoint",
+    "ListItem",
+    "Organization",
+    "SearchAction",
+    "Website"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 510,
+      "parse_error": "",
+      "data": {
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "0266897580"
+        },
+        "@type": "Organization",
+        "name": "Leroy Merlin Italia",
+        "@context": "https://schema.org",
+        "url": "https://www.leroymerlin.it",
+        "sameAs": [
+          "https://www.facebook.com/leroymerlinitalia",
+          "https://twitter.com/LeroyMerlinITA",
+          "https://www.instagram.com/leroymerlinita/",
+          "https://www.pinterest.it/leroymerlinita/",
+          "https://www.youtube.com/user/leroymerlinitalia",
+          "https://www.instagram.com/leroymerlin/"
+        ]
+      }
+    },
+    {
+      "index": 1,
+      "chars": 624,
+      "parse_error": "",
+      "data": {
+        "@type": "Website",
+        "potentialAction": {
+          "query-input": "required name=search_term",
+          "@type": "SearchAction",
+          "target": "https://www.leroymerlin.it/search?q={search_term}"
+        },
+        "name": "Leroy Merlin Italia",
+        "alternateName": "Per i vostri progetti di bricolage, giardinaggio e miglioramento della casa, LEROY MERLIN propone una grande scelta di marche al prezzo migliore. Tanti prodotti per tutta la casa: bagno, cucina, giardino, riscaldamento, elettricità, idraulica… Ritira in negozio o ricevi comodamente a casa",
+        "@context": "https://schema.org",
+        "url": "https://www.leroymerlin.it"
+      }
+    },
+    {
+      "index": 2,
+      "chars": 235,
+      "parse_error": "",
+      "data": {
+        "itemListElement": [
+          {
+            "item": {
+              "name": "Home",
+              "@id": "https://www.leroymerlin.it/"
+            },
+            "@type": "ListItem",
+            "position": 1
+          }
+        ],
+        "@type": "BreadcrumbList",
+        "@context": "http://schema.org"
+      }
+    }
+  ]
+}

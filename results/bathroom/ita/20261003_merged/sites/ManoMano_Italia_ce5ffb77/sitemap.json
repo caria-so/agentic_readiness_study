@@ -1,0 +1,25 @@
+{
+  "source": "https://www.manomano.it/",
+  "generated": "2026-10-01T00:35:41.682760",
+  "url_count": 0,
+  "sitemap_docs_tried": [
+    "https://www.manomano.it/sitemap-index.xml",
+    "https://www.manomano.it/sitemap-index.xml.gz",
+    "https://www.manomano.it/sitemap.xml",
+    "https://www.manomano.it/sitemap.xml.gz",
+    "https://www.manomano.it/sitemap/index.xml",
+    "https://www.manomano.it/sitemap/sitemap.xml",
+    "https://www.manomano.it/sitemap_index.xml",
+    "https://www.manomano.it/wp-sitemap.xml"
+  ],
+  "sitemap_docs_failed": {
+    "https://www.manomano.it/sitemap-index.xml": "HTTP 403",
+    "https://www.manomano.it/sitemap-index.xml.gz": "HTTP 403",
+    "https://www.manomano.it/sitemap.xml": "HTTP 403",
+    "https://www.manomano.it/sitemap.xml.gz": "HTTP 403",
+    "https://www.manomano.it/sitemap/index.xml": "HTTP 403",
+    "https://www.manomano.it/sitemap/sitemap.xml": "HTTP 403",
+    "https://www.manomano.it/sitemap_index.xml": "HTTP 403",
+    "https://www.manomano.it/wp-sitemap.xml": "HTTP 403"
+  }
+}

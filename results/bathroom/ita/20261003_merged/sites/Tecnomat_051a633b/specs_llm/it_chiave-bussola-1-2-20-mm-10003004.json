@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.tecnomat.it/it/chiave-bussola-1-2-20-mm-10003004/",
+  "model": "qwen2.5:32b",
+  "html": "it_chiave-bussola-1-2-20-mm-10003004.html",
+  "title": "CHIAVE BUSSOLA 1/2\" 20 mm CHROME VANADIUM",
+  "text_chars": 871,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "cromo-vanadio",
+      "evidence": "Realizzata in cromo-vanadio, questa chiave garantisce una resistenza elevata alla torsione e all'usura",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1134,
+    "output_tokens": 496,
+    "seconds": 41.48
+  }
+}

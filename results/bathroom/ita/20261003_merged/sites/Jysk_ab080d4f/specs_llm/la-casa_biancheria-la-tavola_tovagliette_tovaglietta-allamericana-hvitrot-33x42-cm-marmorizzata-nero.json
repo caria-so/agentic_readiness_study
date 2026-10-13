@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/la-casa/biancheria-la-tavola/tovagliette/tovaglietta-allamericana-hvitrot-33x42-cm-marmorizzata-nero",
+  "model": "qwen2.5:32b",
+  "html": "la-casa_biancheria-la-tavola_tovagliette_tovaglietta-allamericana-hvitrot-33x42-cm-marmorizzata-nero.html",
+  "title": "Tovaglietta all'americana HVITROT 33x42 cm marmorizzata nero | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "33 cm",
+      "evidence": "Larghezza 33 cm, Lunghezza 42 cm",
+      "location": "body"
+    },
+    "series": {
+      "value": "HVITROT",
+      "evidence": "Tovaglietta all'americana HVITROT 33x42 cm marmorizzata nero",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore JYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5302,
+    "output_tokens": 608,
+    "seconds": 68.96
+  }
+}

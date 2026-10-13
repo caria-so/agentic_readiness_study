@@ -1,0 +1,108 @@
+{
+ "url": "https://www.bertani.it/it_IT/products/kinedo-one-piatto-doccia-140x75-cm",
+ "file": "it_IT_products_kinedo-one-piatto-doccia-140x75-cm.html",
+ "title": "Kinedo, One Piatto doccia 140x75 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 568,
+ "attributes": {
+  "brand": {
+   "value": "Kinedo",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Kinedo"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Brand",
+     "value": "Kinedo"
+    }
+   ]
+  },
+  "sku": {
+   "value": "16267",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "16267"
+    }
+   ]
+  },
+  "material": {
+   "value": "sintetici",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "sintetici"
+    }
+   ]
+  },
+  "series": {
+   "value": "One",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Collezione",
+     "value": "One"
+    }
+   ]
+  },
+  "width": {
+   "value": "140",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (cm)",
+     "value": "140"
+    }
+   ]
+  },
+  "depth": {
+   "value": "75",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Profondità (cm)",
+     "value": "75"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia (anni)",
+     "value": "2"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 6,
+  "L3": 0,
+  "dropped": 4
+ }
+}

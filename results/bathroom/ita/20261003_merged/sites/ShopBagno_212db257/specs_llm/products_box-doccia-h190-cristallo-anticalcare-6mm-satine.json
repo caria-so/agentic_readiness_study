@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://www.shopbagno.it/products/box-doccia-h190-cristallo-anticalcare-6mm-satine",
+  "model": "qwen2.5:32b",
+  "html": "products_box-doccia-h190-cristallo-anticalcare-6mm-satine.html",
+  "title": "Box Doccia Flora H190 Cristallo Anticalcare 6mm Satine",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "Satinato",
+      "evidence": "Cristallo: 6mm satinato",
+      "location": "body"
+    },
+    "thickness": {
+      "value": "6 mm",
+      "evidence": "Cristallo: 6mm satinato",
+      "location": "body"
+    },
+    "series": {
+      "value": "Flora",
+      "evidence": "Box Doccia Flora H190 Cristallo Anticalcare 6mm Satine",
+      "location": "title"
+    }
+  },
+  "dropped": {
+    "width": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "69 cm",
+        "evidence": "dimensions: 69x69; height = 190cm; material = 6mm satinato; opening = Doppio scorrevole; shape_style = Moderno"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4205,
+    "output_tokens": 637,
+    "seconds": 65.73
+  }
+}

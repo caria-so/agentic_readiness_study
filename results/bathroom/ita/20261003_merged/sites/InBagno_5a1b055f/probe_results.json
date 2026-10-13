@@ -1,0 +1,81 @@
+{
+  "company": "InBagno",
+  "url": "https://www.inbagno.it/",
+  "site_dir": "discovery_round_final_e/sites/InBagno_5a1b055f",
+  "final_url": "https://www.inbagno.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.386378",
+  "http_status": 200,
+  "fetch_ms": 23935.9,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.inbagno.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/InBagno_5a1b055f/index.html",
+      "count": 689226,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.inbagno.it/sitemap/product/1.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/InBagno_5a1b055f/sitemap.json",
+      "count": 7251,
+      "total_available": 7251,
+      "truncated": false,
+      "product_url_count": 6952,
+      "product_total_available": 6952
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/InBagno_5a1b055f/jsonld.json",
+      "count": 6,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": false,
+      "url": "",
+      "status": 0,
+      "error": "no llms.txt found",
+      "path": "",
+      "count": 0,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/InBagno_5a1b055f/links.json",
+      "count": 194,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": false,
+    "links": true
+  },
+  "error_details": ""
+}

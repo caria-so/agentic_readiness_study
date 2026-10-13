@@ -1,0 +1,47 @@
+{
+  "version": 3,
+  "url": "https://jysk.it/camera-da-letto/lenzuola/lenzuola-elasticizzate-con-angoli/lenzuolo-con-angoli-jersey-jenny-180x200x35-cm-bianco",
+  "model": "qwen2.5:32b",
+  "html": "camera-da-letto_lenzuola_lenzuola-elasticizzate-con-angoli_lenzuolo-con-angoli-jersey-jenny-180x200x35-cm-bianco.html",
+  "title": "Lenzuolo con angoli Jersey JENNY 180x200x35 cm bianco | JYSK",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "JYSK A/S",
+        "evidence": "Produttore\nJYSK A/S"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 5442,
+    "output_tokens": 613,
+    "seconds": 70.01
+  }
+}

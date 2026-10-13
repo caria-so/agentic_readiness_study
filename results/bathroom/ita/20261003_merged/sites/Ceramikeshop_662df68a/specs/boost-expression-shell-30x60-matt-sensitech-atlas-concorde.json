@@ -1,0 +1,61 @@
+{
+ "url": "https://ceramikeshop.it/boost-expression-shell-30x60-matt-sensitech-atlas-concorde",
+ "file": "boost-expression-shell-30x60-matt-sensitech-atlas-concorde.html",
+ "title": "Boost Expression Shell 30x60 Matt Sensitech | Atlas Concorde",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 12267,
+ "attributes": {
+  "brand": {
+   "value": "Atlas Concorde",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Atlas Concorde"
+    }
+   ]
+  },
+  "sku": {
+   "value": "ATLS/AYVV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "ATLS/AYVV"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "ATLS/AYVV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "ATLS/AYVV"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

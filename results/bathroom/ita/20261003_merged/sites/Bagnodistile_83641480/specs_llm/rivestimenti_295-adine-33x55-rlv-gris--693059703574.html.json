@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.bagnodistile.com/rivestimenti/295-adine-33x55-rlv-gris--693059703574.html",
+  "model": "qwen2.5:32b",
+  "html": "rivestimenti_295-adine-33x55-rlv-gris--693059703574.html.html",
+  "title": "ADINE 33x55 RLV Gris | Bagno di Stile",
+  "text_chars": 3780,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "pasta rossa",
+      "evidence": "Geotiles presenta la collezione Adine, una collezione in pasta rossa di rivestimenti 33x55 con finitura opaca e grafica in cemento naturale.",
+      "location": "body"
+    },
+    "finish": {
+      "value": "opaca",
+      "evidence": "una collezione in pasta rossa di rivestimenti 33x55 con finitura opaca e grafica in cemento naturale.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Gris",
+      "evidence": "ADINE 33x55 RLV Gris",
+      "location": "title"
+    },
+    "width": {
+      "value": "55 cm",
+      "evidence": "una collezione in pasta rossa di rivestimenti 33x55 con finitura opaca e grafica in cemento naturale.",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "33x55 cm",
+      "evidence": "una collezione in pasta rossa di rivestimenti 33x55 con finitura opaca e grafica in cemento naturale.",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "rettangolare",
+      "evidence": "Formato Rettangolare",
+      "location": "body"
+    },
+    "series": {
+      "value": "Adine",
+      "evidence": "Geotiles presenta la collezione Adine, una collezione in pasta rossa di rivestimenti 33x55 con finitura opaca e grafica in cemento naturale.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2606,
+    "output_tokens": 727,
+    "seconds": 62.44
+  }
+}

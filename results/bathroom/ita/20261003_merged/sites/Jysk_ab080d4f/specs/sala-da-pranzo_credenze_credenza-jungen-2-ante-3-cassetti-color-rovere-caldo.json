@@ -1,0 +1,186 @@
+{
+ "url": "https://jysk.it/sala-da-pranzo/credenze/credenza-jungen-2-ante-3-cassetti-color-rovere-caldo",
+ "file": "sala-da-pranzo_credenze_credenza-jungen-2-ante-3-cassetti-color-rovere-caldo.html",
+ "title": "JUNGEN Credenza JUNGEN 2 ante 3 cassetti color rovere caldo",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 14576,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "3640322",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "3640322"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "3640322"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Rovere caldo",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Rovere caldo"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Rovere caldo Colore : Rovere selvatico scuro"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Credenza",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo",
+     "value": "Credenza"
+    }
+   ]
+  },
+  "material": {
+   "value": "HDF (High density fibreboard , truciolato ad alta densità) , MDF  , Melamina  , Pannello truciolare",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "HDF (High density fibreboard , truciolato ad alta densità) , MDF  , Melamina  , Pannello truciolare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Fronte MDF  , Melamina  , Pannello truciolare , Piano Melamina  , Fondo Melamina  , Lato MDF  , Gambe MDF  , Retro HDF (High density fibreboard , truciolato ad alta densità) , Mensola Melamina "
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Larghezza 165 cm, Altezza 85 cm, Profondità 44 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni da montato",
+     "value": "Larghezza 165 cm, Altezza 85 cm, Profondità 44 cm"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni non montato",
+     "value": "Larghezza 54 cm, Lunghezza 174 cm, Altezza 11 cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "71 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "71 kg"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "4",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di colli",
+     "value": "4"
+    }
+   ]
+  },
+  "certification": {
+   "value": "FSC® Mix ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "FSC® Mix "
+    }
+   ]
+  },
+  "origin": {
+   "value": "Polonia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto in",
+     "value": "Polonia"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Manico (i)": "Zinco",
+  "Caratteristiche cassetto": "Blocca cassetti ",
+  "Numero di cassetti": "3",
+  "Numero di ante": "2",
+  "Numero di ripiani": "2",
+  "Carico massimo": "Per mensola 7 kg, Per cassetto 5 kg, In alto 30 kg",
+  "HDF (High density fibreboard": ",",
+  "truciolato ad alta densità)": ",",
+  "Pannello truciolare": ",",
+  "Retro HDF (High density fibreboard": ",",
+  "Fondo HDF (High density fibreboard": ",",
+  "MDF": "",
+  "Melamina": "",
+  "Fronte MDF": "",
+  "Piano Melamina": "",
+  "Fondo Melamina": "",
+  "Lato MDF": "",
+  "Gambe MDF": "",
+  "Mensola Melamina": "",
+  "Frontal MDF": "",
+  "Lato Melamina": "",
+  "Parte posteriore Melamina": "",
+  "Blocca cassetti": "",
+  "FSC® Mix": ""
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 33,
+  "L3": 2,
+  "dropped": 58
+ }
+}

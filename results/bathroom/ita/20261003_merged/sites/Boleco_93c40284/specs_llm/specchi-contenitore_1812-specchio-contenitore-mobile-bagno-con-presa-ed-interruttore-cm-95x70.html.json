@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "url": "https://www.boleco.it/specchi-contenitore/1812-specchio-contenitore-mobile-bagno-con-presa-ed-interruttore-cm-95x70.html",
+  "model": "qwen2.5:32b",
+  "html": "specchi-contenitore_1812-specchio-contenitore-mobile-bagno-con-presa-ed-interruttore-cm-95x70.html.html",
+  "title": "Specchio contenitore mobile bagno con presa ed interruttore - cm 95x70",
+  "text_chars": 4258,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "finish": {
+      "value": "lucido",
+      "evidence": "Struttura Specchio: bianco lucido",
+      "location": "body"
+    },
+    "opening": {
+      "value": "chiusura rallentata",
+      "evidence": "Anta a sinistra e Anta a destra con chiusura rallentata",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "5 anni",
+      "evidence": "Prodotto garantito 5 anni",
+      "location": "body"
+    },
+    "origin": {
+      "value": "Italia",
+      "evidence": "Specchiera prodotta in Italia",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "shape_style": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "curvilineo",
+        "evidence": "Specchiera contenitore curvilineo dal design ricercato"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 2384,
+    "output_tokens": 643,
+    "seconds": 57.88
+  }
+}

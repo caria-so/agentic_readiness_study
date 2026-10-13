@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.com/rubinetteria-fantini-af-21-fukasawa-acciaio-gruppo-lavabo-3-fori-a204wf.html",
+  "model": "qwen2.5:32b",
+  "html": "rubinetteria-fantini-af-21-fukasawa-acciaio-gruppo-lavabo-3-fori-a204wf.html.html",
+  "title": "Fantini AF/21 Fukasawa Steel 3-hole sink tap A204WF | Dwellistore",
+  "text_chars": 787,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "Acciaio",
+      "evidence": "Fantini AF/21 Fukasawa Acciaio brushed steel 3-holes sink tap.",
+      "location": "body"
+    },
+    "finish": {
+      "value": "brushed steel",
+      "evidence": "Fantini AF/21 Fukasawa Acciaio brushed steel 3-holes sink tap.",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "3-holes",
+      "evidence": "Fantini AF/21 Fukasawa Acciaio brushed steel 3-holes sink tap.",
+      "location": "body"
+    },
+    "water": {
+      "value": "flow restrictor 5 l/min at 3 bar, 90° ceramic cartridge",
+      "evidence": "The article includes handles, flow restrictor 5 l/min at 3 bar, 90° ceramic cartridge, flexible supply lines, without waste.",
+      "location": "body"
+    },
+    "series": {
+      "value": "AF/21 Fukasawa",
+      "evidence": "Fantini AF/21 Fukasawa Acciaio brushed steel 3-holes sink tap.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1082,
+    "output_tokens": 597,
+    "seconds": 48.96
+  }
+}

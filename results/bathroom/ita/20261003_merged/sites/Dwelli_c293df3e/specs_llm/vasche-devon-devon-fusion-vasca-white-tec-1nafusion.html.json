@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "url": "https://dwellistore.it/vasche-devon-devon-fusion-vasca-white-tec-1nafusion.html",
+  "model": "qwen2.5:32b",
+  "html": "vasche-devon-devon-fusion-vasca-white-tec-1nafusion.html.html",
+  "title": "Vasche Devon&Devon Fusion vasca white tec 1NAFUSION | Dwellistore",
+  "text_chars": 889,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Bianco",
+      "evidence": "Finitura Bianco",
+      "location": "body"
+    },
+    "height": {
+      "value": "63 cm",
+      "evidence": "H: 63 cm;",
+      "location": "body"
+    },
+    "depth": {
+      "value": "82 cm",
+      "evidence": "P: 82 cm;",
+      "location": "body"
+    },
+    "length": {
+      "value": "177 cm",
+      "evidence": "misura 63 cm in altezza, 82 cm in profondità, 177 cm in lunghezza.",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1189,
+    "output_tokens": 546,
+    "seconds": 45.31
+  }
+}

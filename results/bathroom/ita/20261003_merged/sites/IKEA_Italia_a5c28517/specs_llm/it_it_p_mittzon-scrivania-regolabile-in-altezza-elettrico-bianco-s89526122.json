@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://www.ikea.com/it/it/p/mittzon-scrivania-regolabile-in-altezza-elettrico-bianco-s89526122/",
+  "model": "qwen2.5:32b",
+  "html": "it_it_p_mittzon-scrivania-regolabile-in-altezza-elettrico-bianco-s89526122.html",
+  "title": "MITTZON scrivania regolabile in altezza, elettrico bianco, 120x60 cm  - IKEA Italia",
+  "text_chars": 7879,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "120x60 cm",
+      "evidence": "MITTZON scrivania regolabile in altezza, elettrico bianco, 120x60 cm",
+      "location": "title"
+    },
+    "series": {
+      "value": "MITTZON",
+      "evidence": "MITTZON scrivania regolabile in altezza, elettrico bianco, 120x60 cm",
+      "location": "title"
+    },
+    "warranty": {
+      "value": "10 anni di garanzia.",
+      "evidence": "10 anni di garanzia. Leggi i termini e le condizioni nell’opuscolo della garanzia.",
+      "location": "body"
+    },
+    "certification": {
+      "value": "EN 527",
+      "evidence": "Questa scrivania è stata testata per l'uso in ambienti professionali e domestici, ed è conforme ai requisiti di sicurezza, durabilità e stabilità specificati nella norma EN 527.",
+      "location": "body"
+    },
+    "care": {
+      "value": "Asciuga con un panno pulito. Controlla regolarmente che tutti gli elementi di fissaggio siano stretti bene e, se necessario, serrali nuovamente.",
+      "evidence": "Piano supplementare/base scrivania altezza regolabile/elemento plug-in Asciuga con un panno pulito. Controlla regolarmente che tutti gli elementi di fissaggio siano stretti bene e, se necessario, serrali nuovamente.",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "brand": {
+      "reason": "brand_is_retailer",
+      "raw": {
+        "value": "IKEA",
+        "evidence": "MITTZON Scrivania regolabile in altezza, elettrico bianco, 120x60 cm - IKEA Italia"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 3470,
+    "output_tokens": 864,
+    "seconds": 80.2
+  }
+}

@@ -1,0 +1,46 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+
+Sitemap: https://www.bertani.it/sitemap/products.xml
+Sitemap: https://www.bertani.it/sitemap/blog_post.xml
+Sitemap: https://www.bertani.it/sitemap/brand.xml
+Sitemap: https://www.bertani.it/sitemap/taxons.xml
+Sitemap: https://www.bertani.it/sitemap/static.xml
+
+# Internal URLs
+Disallow: /admin
+Disallow: /api/
+Disallow: /new-api/
+Disallow: /it_IT/ajax/
+Disallow: /en_US/ajax/
+Disallow: /it_IT/verify
+Disallow: /en_US/verify
+Disallow: /it_IT/switch-currency
+Disallow: /en_US/switch-currency
+Disallow: /it_IT/switch-locale
+Disallow: /en_US/switch-locale
+
+# Customer related URLs
+Disallow: /it_IT/account
+Disallow: /en_US/account
+
+# Cart and checkout  URLs
+Disallow: /it_IT/cart
+Disallow: /en_US/cart
+Disallow: /it_IT/checkout
+Disallow: /en_US/checkout
+Disallow: /it_IT/order
+Disallow: /en_US/order
+
+# Directories
+
+# Paths (clean URLs)
+Disallow: /index.php/
+
+# Paths (no clean URLs)
+Disallow: /*.php$
+
+# Pages with noindex
+Noindex: */?page*

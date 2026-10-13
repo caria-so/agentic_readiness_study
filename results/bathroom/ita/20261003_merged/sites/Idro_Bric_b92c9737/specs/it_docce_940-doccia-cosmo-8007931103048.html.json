@@ -1,0 +1,77 @@
+{
+ "url": "https://www.idrobric.it/it/docce/940-doccia-cosmo-8007931103048.html",
+ "file": "it_docce_940-doccia-cosmo-8007931103048.html.html",
+ "title": "Doccia Cosmo",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1094,
+ "attributes": {
+  "sku": {
+   "value": "SAPDOC0337CR",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SAPDOC0337CR"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931103048",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931103048"
+    }
+   ]
+  },
+  "finish": {
+   "value": "cromo/nero",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "cromo/nero"
+    }
+   ]
+  },
+  "water": {
+   "value": "guarnizione risparmio acqua (portata limitata a 9 l/min)",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Risparmio acqua",
+     "value": "guarnizione risparmio acqua (portata limitata a 9 l/min)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Getti",
+     "value": "7 getti"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Altri plus": "tecnologia Idro Clean-jet"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 6,
+  "L3": 0,
+  "dropped": 0
+ }
+}

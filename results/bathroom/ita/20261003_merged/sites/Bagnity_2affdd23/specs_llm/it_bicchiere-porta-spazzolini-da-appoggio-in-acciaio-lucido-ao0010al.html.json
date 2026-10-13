@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "url": "https://www.bagnity.com/it/bicchiere-porta-spazzolini-da-appoggio-in-acciaio-lucido-ao0010al.html",
+  "model": "qwen2.5:32b",
+  "html": "it_bicchiere-porta-spazzolini-da-appoggio-in-acciaio-lucido-ao0010al.html.html",
+  "title": "Bicchiere porta spazzolini da appoggio in acciaio lucido",
+  "text_chars": 7396,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "dimensions": {
+      "value": "8x8x10 cm",
+      "evidence": "Dalla dimensione di 8x8x10 cm",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3406,
+    "output_tokens": 564,
+    "seconds": 53.66
+  }
+}

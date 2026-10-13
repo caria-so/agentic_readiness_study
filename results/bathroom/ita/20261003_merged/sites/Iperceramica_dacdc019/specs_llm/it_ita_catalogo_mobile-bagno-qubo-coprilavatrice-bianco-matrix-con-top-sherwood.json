@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "url": "https://www.iperceramica.it/it/ita/catalogo/mobile-bagno-qubo-coprilavatrice-bianco-matrix-con-top-sherwood",
+  "model": "qwen2.5:32b",
+  "html": "it_ita_catalogo_mobile-bagno-qubo-coprilavatrice-bianco-matrix-con-top-sherwood.html",
+  "title": "Mobile Bagno QUBO Coprilavatrice Bianco Matrix con Top Sherwood - Iperceramica",
+  "text_chars": 1060,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "laminato antigraffio",
+      "evidence": "Base in laminato antigraffio effetto legno Bianco Matrix cm. L75xP72xH92",
+      "location": "body"
+    },
+    "finish": {
+      "value": "effetto legno",
+      "evidence": "Base in laminato antigraffio effetto legno Bianco Matrix cm. L75xP72xH92 (Larghezza interna cm. 71) con trattamento professionale anti umidità, -Toppino effetto legno Sherwood.",
+      "location": "body"
+    },
+    "colour": {
+      "value": "Bianco",
+      "evidence": "Base in laminato antigraffio effetto legno Bianco Matrix cm. L75xP72xH92",
+      "location": "body"
+    },
+    "width": {
+      "value": "L75",
+      "evidence": "Base in laminato antigraffio effetto legno Bianco Matrix cm. L75xP72xH92",
+      "location": "body"
+    },
+    "height": {
+      "value": "H92",
+      "evidence": "Base in laminato antigraffio effetto legno Bianco Matrix cm. L75xP72xH92",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P72",
+      "evidence": "Base in laminato antigraffio effetto legno Bianco Matrix cm. L75xP72xH92",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L75xP72xH92",
+      "evidence": "Base in laminato antigraffio effetto legno Bianco Matrix cm. L75xP72xH92",
+      "location": "body"
+    },
+    "series": {
+      "value": "QUBO",
+      "evidence": "Mobile Bagno QUBO Coprilavatrice Bianco Matrix con Top Sherwood - Iperceramica",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1399,
+    "output_tokens": 737,
+    "seconds": 61.69
+  }
+}

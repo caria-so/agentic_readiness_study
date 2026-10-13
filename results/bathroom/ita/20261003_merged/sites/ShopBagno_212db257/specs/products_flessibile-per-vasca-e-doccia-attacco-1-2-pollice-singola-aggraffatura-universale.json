@@ -1,0 +1,64 @@
+{
+ "url": "https://www.shopbagno.it/products/flessibile-per-vasca-e-doccia-attacco-1-2-pollice-singola-aggraffatura-universale",
+ "file": "products_flessibile-per-vasca-e-doccia-attacco-1-2-pollice-singola-aggraffatura-universale.html",
+ "title": "Flessibile Per Vasca E Doccia - Attacco 1/2 Pollice Singola Aggraffatura - Universale",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 11689,
+ "attributes": {
+  "sku": {
+   "value": "wfx1001100",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "wfx1001100"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "WFX1001100"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "7445614434439",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "7445614434439"
+    }
+   ]
+  },
+  "length": {
+   "value": "100 cm",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "lunghezza",
+     "value": "100 cm"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 1,
+  "dropped": 21
+ }
+}

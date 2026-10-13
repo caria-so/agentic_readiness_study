@@ -1,0 +1,83 @@
+{
+ "url": "https://www.bagnodistile.com/copriwater/385-coprivaso-slim-soft-close-bianco-formunica--693059700580.html",
+ "file": "copriwater_385-coprivaso-slim-soft-close-bianco-formunica--693059700580.html.html",
+ "title": "COPRIVASO Slim soft-close bianco FORM/UNICA",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3930,
+ "attributes": {
+  "brand": {
+   "value": "ALICE CERAMICA",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "ALICE CERAMICA"
+    }
+   ]
+  },
+  "sku": {
+   "value": "MC2201ES",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "MC2201ES"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "693059700580",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "693059700580"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "MC2201ES",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "MC2201ES"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3.000000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "3.000000 kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 5,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 14
+ }
+}

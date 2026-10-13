@@ -1,0 +1,110 @@
+{
+ "url": "https://www.shopbagno.it/products/piatto-doccia-moderno-rettangolare-abs-ultraflat-5cm",
+ "file": "products_piatto-doccia-moderno-rettangolare-abs-ultraflat-5cm.html",
+ "title": "Piatto Doccia Moderno Rettangolare In ABS Ultraflat 5cm",
+ "excluded_reason": null,
+ "main_area_method": "title_ancestor",
+ "main_area_chars": 10533,
+ "attributes": {
+  "sku": {
+   "value": "wid79p",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "wid79p"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD. PRODOTTO",
+     "value": "WID79P"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "0768402334054",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "0768402334054"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "70x90",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "dimensioni",
+     "value": "70x90"
+    }
+   ]
+  },
+  "height": {
+   "value": "5cm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza",
+     "value": "5cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "ABS rinforzato",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "ABS rinforzato"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Lucida",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "Lucida"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Appoggio o filo pavimento",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Installazione",
+     "value": "Appoggio o filo pavimento"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Piletta": "Inclusa"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 6,
+  "dropped": 18
+ }
+}

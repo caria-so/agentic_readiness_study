@@ -1,0 +1,16 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# old discovery rounds kept locally; their data lives on in results/<industry>/<lang>/<batch>/
+.temp/
+
+# raw crawled pages: ~700 MB, third-party content, and fully regenerable with run_batch.py.
+# What stays in git per batch: tables/, review/, logs/, batch.json, leads.csv, the csv/json state files,
+# and per site the small derived files (specs/, specs_llm/, probe_results.json, robots.txt, sitemap.json ...).
+results/**/sites/*/products/
+results/**/sites/*/index.html
+# raw XHR captured while fetching a page (third-party traffic; may carry the site's own tokens); never read by the pipeline
+results/**/sites/*/fetch_json_responses.json

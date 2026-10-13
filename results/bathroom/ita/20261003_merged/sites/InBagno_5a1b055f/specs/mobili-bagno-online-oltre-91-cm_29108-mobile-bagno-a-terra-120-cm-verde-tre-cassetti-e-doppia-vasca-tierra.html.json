@@ -1,0 +1,126 @@
+{
+ "url": "https://www.inbagno.it/mobili-bagno-online-oltre-91-cm/29108-mobile-bagno-a-terra-120-cm-verde-tre-cassetti-e-doppia-vasca-tierra.html",
+ "file": "mobili-bagno-online-oltre-91-cm_29108-mobile-bagno-a-terra-120-cm-verde-tre-cassetti-e-doppia-vasca-tierra.html.html",
+ "title": "Mobile bagno a terra 120 cm verde sei cassetti e doppia vasca Tierra",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 9714,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "InBagno",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "InBagno"
+    }
+   ]
+  },
+  "sku": {
+   "value": "108122",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "108122"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Codice",
+     "value": "108122"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8052334109210",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8052334109210"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "108122",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "108122"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Mobile bagno a terra;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Mobile bagno a terra;"
+    }
+   ]
+  },
+  "series": {
+   "value": "Tierra;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Linea",
+     "value": "Tierra;"
+    }
+   ]
+  },
+  "finish": {
+   "value": "Verde;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "Verde;"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "L 120 x p 46 x H 84 cm;",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "L 120 x p 46 x H 84 cm;"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni vasca",
+     "value": "L 120 x p 46 x H 17,8 cm;"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 1,
+  "L3": 5,
+  "dropped": 10
+ }
+}

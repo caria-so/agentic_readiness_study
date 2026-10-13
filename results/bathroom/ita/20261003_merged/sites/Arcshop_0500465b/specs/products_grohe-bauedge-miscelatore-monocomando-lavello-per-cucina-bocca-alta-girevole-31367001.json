@@ -1,0 +1,72 @@
+{
+ "url": "https://www.arcshop.it/products/grohe-bauedge-miscelatore-monocomando-lavello-per-cucina-bocca-alta-girevole-31367001",
+ "file": "products_grohe-bauedge-miscelatore-monocomando-lavello-per-cucina-bocca-alta-girevole-31367001.html",
+ "title": "Grohe Bauedge miscelatore monocomando lavello per cucina bocca alta girevole 31367001",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 3102,
+ "attributes": {
+  "brand": {
+   "value": "Grohe",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Grohe"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "4005176478512",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "4005176478512"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "4005176478512",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "4005176478512"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1.5kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "1.5kg"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "gtin=mpn"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 0,
+  "L3": 0,
+  "dropped": 1
+ }
+}

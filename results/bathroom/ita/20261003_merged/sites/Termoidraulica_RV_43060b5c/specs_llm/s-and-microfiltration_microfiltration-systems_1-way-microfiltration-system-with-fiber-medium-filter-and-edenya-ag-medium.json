@@ -1,0 +1,82 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/reverse-osmosis-and-microfiltration/microfiltration-systems/1-way-microfiltration-system-with-fiber-medium-filter-and-edenya-ag-medium/",
+  "model": "qwen2.5:32b",
+  "html": "s-and-microfiltration_microfiltration-systems_1-way-microfiltration-system-with-fiber-medium-filter-and-edenya-ag-medium.html",
+  "title": "1-way microfiltration system with FIber and Edenya AG",
+  "text_chars": 4465,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "aluminium",
+      "evidence": "Made of matt black painted aluminium shell",
+      "location": "body"
+    },
+    "finish": {
+      "value": "matt black painted",
+      "evidence": "Made of matt black painted aluminium shell",
+      "location": "body"
+    },
+    "installation": {
+      "value": "under the sink of the house",
+      "evidence": "System designed for the supply of filtered water, to be installed under the sink of the house.",
+      "location": "body"
+    },
+    "brand": {
+      "value": "Edenya",
+      "evidence": "1-way microfiltration system with FIber Medium Filter and Edenya AG Medium",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "dimensions": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "HxPxL 46.5x10x38.5 cm",
+        "evidence": "Height: 46.5 cm, Width: 38.5 cm, Thickness: 10 cm"
+      }
+    },
+    "plumbing": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "1/4 chrome tap",
+        "evidence": "Tap 1 via chrome 1/4"
+      }
+    },
+    "water": {
+      "reason": "evidence_not_in_text",
+      "raw": {
+        "value": "Flow rate 300 l/h, Flow: 350 lt/h",
+        "evidence": "Flow rate 300 l/h **\nBattery life **9.000 l *\n\nTechnical characteristics\nFilter height: 375 mm\nDiameter: 79 mm\nFlow: 350 lt/h**"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1926,
+    "output_tokens": 684,
+    "seconds": 64.7
+  }
+}

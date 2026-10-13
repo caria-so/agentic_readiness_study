@@ -1,0 +1,88 @@
+{
+ "url": "https://www.arredobagno360.it/inda-av154a.html",
+ "file": "inda-av154a.html.html",
+ "title": "AV154A | Asciugacapelli con termostato di sicurezza e presa elettrica",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 1290,
+ "attributes": {
+  "sku": {
+   "value": "inda-av154A",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "inda-av154A"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Codice articolo",
+     "value": "AV154A"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "inda-av154A",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "inda-av154A"
+    }
+   ]
+  },
+  "series": {
+   "value": "AV154A | Asciugacapelli con termostato di sicurezza e presa elettrica",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "model",
+     "value": "AV154A | Asciugacapelli con termostato di sicurezza e presa elettrica"
+    }
+   ]
+  },
+  "brand": {
+   "value": "Inda",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Marca",
+     "value": "Inda"
+    }
+   ]
+  },
+  "finish": {
+   "value": "bianco, nero",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Finitura",
+     "value": "bianco, nero"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 3,
+  "dropped": 4
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "url": "https://termoidraulicarv.com/filtri-per-acqua/filtri-edenya/kit-microfiltrazione-edenya-contro-l-arsenico/",
+ "file": "filtri-per-acqua_filtri-edenya_kit-microfiltrazione-edenya-contro-l-arsenico.html",
+ "title": "Kit microfiltrazione Edenya contro l’arsenico",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4619,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "TermoidraulicaRV",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "TermoidraulicaRV"
+    }
+   ]
+  },
+  "sku": {
+   "value": "EDNAGM-AS350",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "EDNAGM-AS350"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "COD",
+     "value": "EDNAGM-AS350"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "28807",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "28807"
+    }
+   ]
+  },
+  "weight": {
+   "value": "1,5 kg",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "1,5 kg"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8059693387891",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "EAN",
+     "value": "8059693387891"
+    }
+   ]
+  },
+  "height": {
+   "value": "375 mm",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Altezza filtro",
+     "value": "375 mm"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Diametro": "79 mm",
+  "Flusso": "350 lt/h**",
+  "Autonomia*": "15000 lt***"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 2,
+  "L3": 5,
+  "dropped": 2
+ }
+}

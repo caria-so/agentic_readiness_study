@@ -1,0 +1,81 @@
+{
+  "company": "KVStore",
+  "url": "https://www.kvstore.it/",
+  "site_dir": "discovery_round_final_e/sites/KVStore_cb31876b",
+  "final_url": "https://www.kvstore.it/",
+  "status": "fetched",
+  "timestamp": "2026-10-02T16:09:34.414421",
+  "http_status": 200,
+  "fetch_ms": 27916.6,
+  "fetch_engine": "chrome_persistent",
+  "probes": {
+    "fetch": {
+      "ok": true,
+      "url": "https://www.kvstore.it/",
+      "status": 200,
+      "error": "",
+      "path": "discovery_round_final_e/sites/KVStore_cb31876b/index.html",
+      "count": 355644,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "sitemap": {
+      "ok": true,
+      "url": "https://www.kvstore.it/media/sitemap/sitemap_it.xml",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/KVStore_cb31876b/sitemap.json",
+      "count": 3244,
+      "total_available": 3244,
+      "truncated": false,
+      "product_url_count": 2958,
+      "product_total_available": 2958
+    },
+    "jsonld": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/KVStore_cb31876b/jsonld.json",
+      "count": 4,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "llms_txt": {
+      "ok": true,
+      "url": "https://www.kvstore.it/llms.txt",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/KVStore_cb31876b/llms_txt.json",
+      "count": 1,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    },
+    "links": {
+      "ok": true,
+      "url": "",
+      "status": 0,
+      "error": "",
+      "path": "discovery_round_final_e/sites/KVStore_cb31876b/links.json",
+      "count": 204,
+      "total_available": 0,
+      "truncated": false,
+      "product_url_count": 0,
+      "product_total_available": 0
+    }
+  },
+  "probe_summary": {
+    "fetch": true,
+    "sitemap": true,
+    "jsonld": true,
+    "llms_txt": true,
+    "links": true
+  },
+  "error_details": ""
+}

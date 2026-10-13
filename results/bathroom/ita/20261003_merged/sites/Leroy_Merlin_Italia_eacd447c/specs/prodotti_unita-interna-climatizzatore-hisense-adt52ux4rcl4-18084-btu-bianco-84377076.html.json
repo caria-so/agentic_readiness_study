@@ -1,0 +1,205 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/unita-interna-climatizzatore-hisense-adt52ux4rcl4-18084-btu-bianco-84377076.html",
+ "file": "prodotti_unita-interna-climatizzatore-hisense-adt52ux4rcl4-18084-btu-bianco-84377076.html.html",
+ "title": "Unità interna climatizzatore HISENSE ADT52UX4RCL4 18084 BTU, bianco",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 5006,
+ "attributes": {
+  "brand": {
+   "value": "HISENSE",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "HISENSE"
+    }
+   ]
+  },
+  "sku": {
+   "value": "84377076",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "84377076"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "6946087367794",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "6946087367794"
+    }
+   ]
+  },
+  "width": {
+   "value": "118",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in cm)",
+     "value": "118"
+    }
+   ]
+  },
+  "height": {
+   "value": "20",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm)",
+     "value": "20"
+    }
+   ]
+  },
+  "depth": {
+   "value": "44.7",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Profondità (in cm)",
+     "value": "44.7"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Famiglia colore",
+     "value": "Bianco"
+    }
+   ]
+  },
+  "material": {
+   "value": "ABS",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "ABS"
+    }
+   ]
+  },
+  "weight": {
+   "value": "22.5",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso netto (in Kg)",
+     "value": "22.5"
+    }
+   ]
+  },
+  "water": {
+   "value": "900",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Portata massima (in m³/h)",
+     "value": "900"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "2",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "2"
+    }
+   ]
+  },
+  "origin": {
+   "value": "Cina",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Paese di fabbricazione",
+     "value": "Cina"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "135",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "135"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "56.5"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "28"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "26",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "26"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "SINERGY SRL",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "SINERGY SRL"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Programmazione": "Giornaliero",
+  "Connessione alla rete Wi-Fi": "Sì",
+  "Modalità silenziosa": "Sì"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 15,
+  "L3": 2,
+  "dropped": 0
+ }
+}

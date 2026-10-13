@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://en.termoidraulicarv.com/prodotto/intermedio-a-tee-12-mm/",
+  "model": "qwen2.5:32b",
+  "html": "prodotto_intermedio-a-tee-12-mm.html",
+  "title": "Black union tee 12 mm – TermoidraulicaRV",
+  "text_chars": 2840,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "acetal resin",
+      "evidence": "These DMfit fittings are made of acetal resin, also known as POM, highly durable and resistant to",
+      "location": "body"
+    },
+    "colour": {
+      "value": "black",
+      "evidence": "Black union tee 12 mm",
+      "location": "title"
+    },
+    "thickness": {
+      "value": "12 mm",
+      "evidence": "Black union tee 12 mm",
+      "location": "title"
+    },
+    "series": {
+      "value": "black series",
+      "evidence": "black series acetal resin fittings",
+      "location": "body"
+    },
+    "brand": {
+      "value": "DMfit",
+      "evidence": "DMfit fittings are manufactured with safe and non-toxic materials in accordance with US FDA requirements ,",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "certification": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "US FDA, WRAS, ANSI/NSF-51,61, ACS, KTW and DVGW-W270",
+        "evidence": "DMfit fittings are manufactured with safe and non-toxic materials in accordance with US FDA requirements ,\nWRAS, ANSI/NSF-51,61, ACS, KTW and DVGW-W270."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1557,
+    "output_tokens": 616,
+    "seconds": 57.19
+  }
+}

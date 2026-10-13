@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5350301/rubinetto-per-lavabo-grohe-start-edge-cromo-tg-xl",
+  "model": "qwen2.5:32b",
+  "html": "p_5350301_rubinetto-per-lavabo-grohe-start-edge-cromo-tg-xl.html",
+  "title": "Rubinetto per lavabo Grohe Start Edge cromo tg XL",
+  "text_chars": 1224,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "metallo",
+      "evidence": "La leva di comando è in metallo",
+      "location": "body"
+    },
+    "finish": {
+      "value": "StarLight",
+      "evidence": "La superficie StarLight è antimacchia e antigraffio",
+      "location": "body"
+    },
+    "colour": {
+      "value": "cromo",
+      "evidence": "Rubinetto per lavabo Grohe Start Edge cromo tg XL",
+      "location": "title"
+    },
+    "plumbing": {
+      "value": "scarico a saltarello con asta piletta",
+      "evidence": "Il rubinetto per lavabo Start Edge M-Size con scarico a saltarello con asta piletta",
+      "location": "body"
+    },
+    "water": {
+      "value": "5,7 l/min*",
+      "evidence": "Con Aqua Calibrator limita la portata a 5,7 l/min*",
+      "location": "body"
+    },
+    "shape_style": {
+      "value": "contemporaneo",
+      "evidence": "Design contemporaneo, elegante e discreto",
+      "location": "body"
+    },
+    "series": {
+      "value": "Start Edge M-Size",
+      "evidence": "Il rubinetto per lavabo Start Edge M-Size con scarico a saltarello con asta piletta",
+      "location": "body"
+    },
+    "brand": {
+      "value": "GROHE",
+      "evidence": "Il rubinetto per lavabo GROHE Start Edge M-Size con scarico a saltarello con asta piletta",
+      "location": "body"
+    },
+    "certification": {
+      "value": "EN 817 Classe A",
+      "evidence": "*Rispetto alla norma EN 817 Classe A (15 l/min a 3 bar)",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1238,
+    "output_tokens": 682,
+    "seconds": 56.11
+  }
+}

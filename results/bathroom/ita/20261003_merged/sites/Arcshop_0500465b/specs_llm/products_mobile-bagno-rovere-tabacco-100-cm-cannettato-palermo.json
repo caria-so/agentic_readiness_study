@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/mobile-bagno-rovere-tabacco-100-cm-cannettato-palermo",
+  "model": "qwen2.5:32b",
+  "html": "products_mobile-bagno-rovere-tabacco-100-cm-cannettato-palermo.html",
+  "title": "Mobile bagno rovere tabacco 100 cm cannettato Palermo | Arcshop",
+  "text_chars": 3883,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "rovere tabacco",
+      "evidence": "Mobile bagno rovere tabacco 100 cm cannettato Palermo",
+      "location": "title"
+    },
+    "colour": {
+      "value": "tabacco",
+      "evidence": "Mobile bagno rovere tabacco 100 cm cannettato Palermo",
+      "location": "title"
+    },
+    "width": {
+      "value": "100 cm",
+      "evidence": "Mobile bagno rovere tabacco 100 cm cannettato Palermo",
+      "location": "title"
+    },
+    "installation": {
+      "value": "sospeso",
+      "evidence": "Mobile bagno cannettato 100 cm sospeso per lavabo da appoggio finitura Rovere tabacco con lavabo in ceramica, opzione specchio led o filo lucido e colonna da 140 cm plissè",
+      "location": "body"
+    },
+    "series": {
+      "value": "Palermo",
+      "evidence": "Mobile bagno rovere tabacco 100 cm cannettato Palermo",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 2162,
+    "output_tokens": 629,
+    "seconds": 53.07
+  }
+}

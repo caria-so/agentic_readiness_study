@@ -1,0 +1,132 @@
+{
+ "url": "https://www.mondialshop.it/it/lampadari-moderni/51666-sospensione-admiral-cromo-6xe27-100x135cm.html",
+ "file": "it_lampadari-moderni_51666-sospensione-admiral-cromo-6xe27-100x135cm.html.html",
+ "title": "SOSPENSIONE ADMIRAL CROMO 6XE27 100X135CM",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 2991,
+ "attributes": {
+  "sku": {
+   "value": "I-ADMIRAL-S6",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "I-ADMIRAL-S6"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "I-ADMIRAL-S6",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "I-ADMIRAL-S6"
+    }
+   ]
+  },
+  "weight": {
+   "value": "3.100000 kg",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "3.100000 kg"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Cromo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Cromo"
+    }
+   ]
+  },
+  "height": {
+   "value": "48",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza cm",
+     "value": "48"
+    }
+   ]
+  },
+  "series": {
+   "value": "-",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Linea",
+     "value": "-"
+    }
+   ]
+  },
+  "material": {
+   "value": "Metallo Tessuto",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "Metallo Tessuto"
+    }
+   ]
+  },
+  "installation": {
+   "value": "E27",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo Attacco",
+     "value": "E27"
+    }
+   ]
+  },
+  "electrical": {
+   "value": "N/A",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lumen",
+     "value": "N/A"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Potenza Watt",
+     "value": "N/A"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 7,
+  "L3": 0,
+  "dropped": 0
+ }
+}

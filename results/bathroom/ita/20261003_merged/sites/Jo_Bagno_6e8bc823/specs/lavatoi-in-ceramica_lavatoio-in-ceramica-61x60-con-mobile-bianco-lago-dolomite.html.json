@@ -1,0 +1,141 @@
+{
+ "url": "https://jo-bagno.it/lavatoi-in-ceramica/lavatoio-in-ceramica-61x60-con-mobile-bianco-lago-dolomite.html",
+ "file": "lavatoi-in-ceramica_lavatoio-in-ceramica-61x60-con-mobile-bianco-lago-dolomite.html.html",
+ "title": "Lavatoio in ceramica 61×60 con mobile bianco Lago Dolomite",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4360,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "Jo-Bagno.it",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "Jo-Bagno.it"
+    }
+   ]
+  },
+  "sku": {
+   "value": "J089300BO",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "J089300BO"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8056389940729",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8056389940729"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "61x60xh88 cm.",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Misure",
+     "value": "61x60xh88 cm."
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni vasca",
+     "value": "61x60xh36,5 cm"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni incluso di mobile",
+     "value": "61x60xh86 cm."
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni Vasca Interne",
+     "value": "Larghezza 61 profondità h34,5 cm"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Lavatoio",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Tipologia",
+     "value": "Lavatoio"
+    }
+   ]
+  },
+  "material": {
+   "value": "Ceramica",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Materiale",
+     "value": "Ceramica"
+    }
+   ]
+  },
+  "plumbing": {
+   "value": "presente",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Foro troppopieno",
+     "value": "presente"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Foro miscelatore",
+     "value": "assente (predisposizione per foro a centro dx)"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Rubinetteria",
+     "value": "a muro o da piano"
+    }
+   ]
+  },
+  "colour": {
+   "value": "bianco ceramica europeo",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore ceramica",
+     "value": "bianco ceramica europeo"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Asse di Lavaggio in Legno": "NON Inclusa da Aggiungere"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 0,
+  "L3": 11,
+  "dropped": 8
+ }
+}

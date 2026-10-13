@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/cabina-doccia-tre-lati-70x90x70-acril-con-due-lati-scorrevoli-ed-uno-fisso",
+  "model": "qwen2.5:32b",
+  "html": "products_cabina-doccia-tre-lati-70x90x70-acril-con-due-lati-scorrevoli-ed-uno-fisso.html",
+  "title": "Cabina doccia tre lati 70x90x70 Acril con due lati scorrevoli ed uno fisso | Arcshop",
+  "text_chars": 3098,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "acrilico",
+      "evidence": "Box doccia tre lati 70x90x70 composto da angolare scorrevole 70x90 con apertura reversibile e parete fissa da 70 cm con lastra in acrilico e profili PVC anticorrosione h 190 cm",
+      "location": "body"
+    },
+    "width": {
+      "value": "70",
+      "evidence": "Box doccia tre lati 70x90x70 composto da angolare scorrevole 70x90 con apertura reversibile e parete fissa da 70 cm con lastra in acrilico e profili PVC anticorrosione h 190 cm",
+      "location": "body"
+    },
+    "height": {
+      "value": "190",
+      "evidence": "Box doccia tre lati 70x90x70 composto da angolare scorrevole 70x90 con apertura reversibile e parete fissa da 70 cm con lastra in acrilico e profili PVC anticorrosione h 190 cm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "90",
+      "evidence": "Box doccia tre lati 70x90x70 composto da angolare scorrevole 70x90 con apertura reversibile e parete fissa da 70 cm con lastra in acrilico e profili PVC anticorrosione h 190 cm",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "70x90x70",
+      "evidence": "Box doccia tre lati 70x90x70 composto da angolare scorrevole 70x90 con apertura reversibile e parete fissa da 70 cm con lastra in acrilico e profili PVC anticorrosione h 190 cm",
+      "location": "body"
+    },
+    "opening": {
+      "value": "scorrevole",
+      "evidence": "Box doccia tre lati 70x90x70 composto da angolare scorrevole 70x90 con apertura reversibile e parete fissa da 70 cm con lastra in acrilico e profili PVC anticorrosione h 190 cm",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Esaurito Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1933,
+    "output_tokens": 926,
+    "seconds": 73.89
+  }
+}

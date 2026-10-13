@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "url": "https://ceramikeshop.it/miscelatore-monocomando-per-lavabo-con-scarico-tiara",
+  "model": "qwen2.5:32b",
+  "html": "miscelatore-monocomando-per-lavabo-con-scarico-tiara.html",
+  "title": "Miscelatore monocomando lavabo con scarico Tiara | Daniel Rubinetterie",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "Cromo",
+      "evidence": "Cod. TA605CR: Cromo",
+      "location": "body"
+    },
+    "plumbing": {
+      "value": "con scarico",
+      "evidence": "Miscelatore monocomando lavabo con scarico Tiara",
+      "location": "title"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 4868,
+    "output_tokens": 579,
+    "seconds": 64.33
+  }
+}

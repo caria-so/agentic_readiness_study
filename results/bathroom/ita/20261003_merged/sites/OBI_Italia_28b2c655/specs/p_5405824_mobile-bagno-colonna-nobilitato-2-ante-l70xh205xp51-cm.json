@@ -1,0 +1,171 @@
+{
+ "url": "https://www.obi-italia.it/p/5405824/mobile-bagno-colonna-nobilitato-2-ante-l70xh205xp51-cm",
+ "file": "p_5405824_mobile-bagno-colonna-nobilitato-2-ante-l70xh205xp51-cm.html",
+ "title": "Mobile bagno colonna nobilitato 2 ante L70xH205xP51 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 10299,
+ "attributes": {
+  "sku": {
+   "value": "5405824",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "5405824"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Art. N",
+     "value": "5405824"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007101011845",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin13",
+     "value": "8007101011845"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "EAN(s)",
+     "value": "8007101011845"
+    }
+   ]
+  },
+  "width": {
+   "value": "70.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "width",
+     "value": "70.00 CMT"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Larghezza",
+     "value": "70,0 cm"
+    }
+   ]
+  },
+  "height": {
+   "value": "205.00 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "height",
+     "value": "205.00 CMT"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Altezza",
+     "value": "2,05 m"
+    }
+   ]
+  },
+  "depth": {
+   "value": "50.80 CMT",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "depth",
+     "value": "50.80 CMT"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Profondità",
+     "value": "50,8 cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "50 KGM",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "weight",
+     "value": "50 KGM"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "50,0 kg"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "70 x 205 x 51",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "size",
+     "value": "70 x 205 x 51"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Dimensioni",
+     "value": "70 cm x 205 cm x 51 cm"
+    }
+   ]
+  },
+  "material": {
+   "value": "Preassemblato",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Struttura",
+     "value": "Preassemblato"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Moderno",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Stile",
+     "value": "Moderno"
+    }
+   ]
+  },
+  "colour": {
+   "value": "colori assortiti - fra cui:",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "colori assortiti - fra cui:"
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "",
+  "manufacturer_block": true,
+  "manufacturer_text": "R.C.R. SRL Via Luciano Savio 3 33170 PORDENONE IT info@rcritalia.it EAN(s): [ 8007101011845 ]"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 7,
+  "L2": 6,
+  "L3": 4,
+  "dropped": 2
+ }
+}

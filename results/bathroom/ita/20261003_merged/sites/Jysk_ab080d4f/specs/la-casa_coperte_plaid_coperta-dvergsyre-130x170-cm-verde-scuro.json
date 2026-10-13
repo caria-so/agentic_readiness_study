@@ -1,0 +1,176 @@
+{
+ "url": "https://jysk.it/la-casa/coperte/plaid/coperta-dvergsyre-130x170-cm-verde-scuro",
+ "file": "la-casa_coperte_plaid_coperta-dvergsyre-130x170-cm-verde-scuro.html",
+ "title": "DVERGSYRE Coperta DVERGSYRE 130x170 cm verde scuro",
+ "excluded_reason": null,
+ "main_area_method": "candidates+title_ancestor",
+ "main_area_chars": 7591,
+ "attributes": {
+  "brand_is_retailer_name": {
+   "value": "JYSK",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "JYSK"
+    },
+    {
+     "layer": "L1_schema",
+     "label": "manufacturer",
+     "value": "JYSK A/S"
+    }
+   ]
+  },
+  "sku": {
+   "value": "4545929",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "4545929"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "SKU",
+     "value": "4545929"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Verde scuro",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "color",
+     "value": "Verde scuro"
+    },
+    {
+     "layer": "L3_lines",
+     "label": "Colore",
+     "value": "Beige Colore : Verde scuro"
+    }
+   ]
+  },
+  "material": {
+   "value": "85% cotone/15% poliestere",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale",
+     "value": "85% cotone/15% poliestere"
+    }
+   ]
+  },
+  "care": {
+   "value": "30°C extra delicati",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Lavare",
+     "value": "30°C extra delicati"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Candeggio",
+     "value": "Non candeggiare"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Asciugatrice",
+     "value": "* Asciugabile in asciugatrice a basse temperature (max. 60ºC)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Stiratura",
+     "value": "* Stirabile, a temperature basse (max. 110°C)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Lavaggio a secco e a umido",
+     "value": "Non lavare a secco"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Istruzioni",
+     "value": "Lavare sempre con colori simili"
+    }
+   ]
+  },
+  "dimensions": {
+   "value": "Larghezza 130 cm, Lunghezza 170 cm",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Dimensioni",
+     "value": "Larghezza 130 cm, Lunghezza 170 cm"
+    }
+   ]
+  },
+  "weight": {
+   "value": "290 g/m².",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Peso",
+     "value": "290 g/m²."
+    }
+   ]
+  },
+  "finish": {
+   "value": "Tinto con colorante reattivo",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Metodo di colorazione",
+     "value": "Tinto con colorante reattivo"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "A fantasia",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Design",
+     "value": "A fantasia"
+    }
+   ]
+  },
+  "certification": {
+   "value": "OEKO-TEX® STANDARD 100 ",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Certificazione ambientale e sanitaria",
+     "value": "OEKO-TEX® STANDARD 100 "
+    }
+   ]
+  }
+ },
+ "other_labels": {},
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 4,
+  "L2": 12,
+  "L3": 2,
+  "dropped": 25
+ }
+}

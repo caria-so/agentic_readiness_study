@@ -1,0 +1,145 @@
+{
+  "source": "https://www.mondialshop.it/it/",
+  "generated": "2026-10-03T02:33:32.208474",
+  "block_count": 4,
+  "types": [
+    "ContactPoint",
+    "GeoCoordinates",
+    "ImageObject",
+    "LocalBusiness",
+    "Organization",
+    "PostalAddress",
+    "Store",
+    "WebPage",
+    "WebSite"
+  ],
+  "blocks": [
+    {
+      "index": 0,
+      "chars": 324,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "isPartOf": {
+          "@type": "WebSite",
+          "url": "https://www.mondialshop.it/it/",
+          "name": "MondialShop"
+        },
+        "name": "Mondialshop.it: Il tuo negozio online di prodotti per il bagno e casa",
+        "url": "https://www.mondialshop.it/it/"
+      }
+    },
+    {
+      "index": 1,
+      "chars": 836,
+      "parse_error": "",
+      "data": {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "MondialShop",
+        "url": "https://www.mondialshop.it/it/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.mondialshop.it/img/logo-1741107108.jpg"
+        },
+        "sameAs": [
+          "https://www.facebook.com/people/Mondialshopit/61573461130237/",
+          "https://www.instagram.com/mondialshop_official/",
+          "https://www.youtube.com/channel/UChrRpmLgFOm4skpyGnLf4Ow"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "0331490301",
+          "contactType": "customer service"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "20015",
+          "streetAddress": "via L. Einaudi 33",
+          "addressLocality": "Parabiago, Italia",
+          "addressCountry": "IT"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "chars": 452,
+      "parse_error": "",
+      "data": {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.mondialshop.it/it/",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.mondialshop.it/img/logo-1741107108.jpg"
+        },
+        "sameAs": [
+          "https://www.facebook.com/people/Mondialshopit/61573461130237/",
+          "https://www.instagram.com/mondialshop_official/",
+          "https://www.youtube.com/channel/UChrRpmLgFOm4skpyGnLf4Ow"
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "chars": 1967,
+      "parse_error": "",
+      "data": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": [
+              "LocalBusiness",
+              "Store"
+            ],
+            "@id": "https://www.mondialshop.it/#organization",
+            "name": "MondialShop",
+            "url": "https://www.mondialshop.it/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.mondialshop.it/img/logo-1741107108.jpg"
+            },
+            "image": "https://www.mondialshop.it/img/st/1.jpg",
+            "priceRange": "$$",
+            "hasMap": "https://www.google.com/maps/search/?api=1&query=45.55416100,8.95956500",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "via L. Einaudi 33",
+              "addressLocality": "Parabiago",
+              "postalCode": "20015",
+              "addressCountry": "IT"
+            },
+            "telephone": "0331490301",
+            "email": "info@mondialshop.it",
+            "openingHoursSpecification": [],
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "45.55416100",
+              "longitude": "8.95956500"
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "telephone": "0331490301",
+              "contactType": "customer service",
+              "email": "info@mondialshop.it",
+              "areaServed": "IT",
+              "availableLanguage": [
+                "it",
+                "fr",
+                "de"
+              ]
+            },
+            "vatID": "07056420966",
+            "iso6523Code": "0211:07056420966",
+            "sameAs": [
+              "https://www.facebook.com/people/Mondialshopit/61573461130237/",
+              "https://www.youtube.com/channel/UChrRpmLgFOm4skpyGnLf4Ow",
+              "https://www.instagram.com/mondialshop_official/"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

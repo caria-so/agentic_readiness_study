@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "url": "https://www.mondoconv.it/seychelles-3b81.html",
+  "model": "qwen2.5:32b",
+  "html": "seychelles-3b81.html.html",
+  "title": "Divano 2 posti - 2 recliner elettrici tessuto mlk green: Seychelles | Mondo Convenienza",
+  "text_chars": 1117,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "colour": {
+      "value": "MLK GREEN",
+      "evidence": "Rivestimento tessuto MLK GREEN",
+      "location": "body"
+    },
+    "width": {
+      "value": "L.169",
+      "evidence": "SEYCHELLES DIVANO 2 POSTI L.169 P.105 H.105 - 2 RECLINER ELETTRICI - RIVESTIMENTO TESSUTO MLK GREEN",
+      "location": "body"
+    },
+    "height": {
+      "value": "H.105",
+      "evidence": "SEYCHELLES DIVANO 2 POSTI L.169 P.105 H.105 - 2 RECLINER ELETTRICI - RIVESTIMENTO TESSUTO MLK GREEN",
+      "location": "body"
+    },
+    "depth": {
+      "value": "P.105",
+      "evidence": "SEYCHELLES DIVANO 2 POSTI L.169 P.105 H.105 - 2 RECLINER ELETTRICI - RIVESTIMENTO TESSUTO MLK GREEN",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "L.169 P.105 H.105",
+      "evidence": "SEYCHELLES DIVANO 2 POSTI L.169 P.105 H.105 - 2 RECLINER ELETTRICI - RIVESTIMENTO TESSUTO MLK GREEN",
+      "location": "body"
+    },
+    "series": {
+      "value": "SEYCHELLES",
+      "evidence": "Descrizione completa SEYCHELLES DIVANO 2 POSTI L.169 P.105 H.105 - 2 RECLINER ELETTRICI",
+      "location": "body"
+    },
+    "care": {
+      "value": "Facile da pulire",
+      "evidence": "Facile da pulire",
+      "location": "body"
+    }
+  },
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 1224,
+    "output_tokens": 742,
+    "seconds": 60.69
+  }
+}

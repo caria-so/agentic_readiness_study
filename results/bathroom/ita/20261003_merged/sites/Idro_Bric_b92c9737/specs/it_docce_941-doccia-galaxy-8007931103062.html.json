@@ -1,0 +1,77 @@
+{
+ "url": "https://www.idrobric.it/it/docce/941-doccia-galaxy-8007931103062.html",
+ "file": "it_docce_941-doccia-galaxy-8007931103062.html.html",
+ "title": "Doccia Galaxy",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 876,
+ "attributes": {
+  "sku": {
+   "value": "SAPDOC0338CR",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Riferimento",
+     "value": "SAPDOC0338CR"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8007931103062",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "ean13",
+     "value": "8007931103062"
+    }
+   ]
+  },
+  "finish": {
+   "value": "cromo/bianco",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Finitura",
+     "value": "cromo/bianco"
+    }
+   ]
+  },
+  "water": {
+   "value": "guarnizione risparmio acqua (portata limitata a 9 l/min)",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Risparmio acqua",
+     "value": "guarnizione risparmio acqua (portata limitata a 9 l/min)"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Getti",
+     "value": "3 getti"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Altri plus": "tecnologia Idro-Spray Control"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": false,
+  "text": false,
+  "state": "",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 0,
+  "L2": 6,
+  "L3": 0,
+  "dropped": 0
+ }
+}

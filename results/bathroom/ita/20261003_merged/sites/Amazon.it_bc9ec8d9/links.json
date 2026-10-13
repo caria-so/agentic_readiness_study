@@ -1,0 +1,1965 @@
+{
+  "source": "https://www.amazon.it/",
+  "generated": "2026-10-01T03:47:01.127366",
+  "total": 246,
+  "internal_count": 215,
+  "external_count": 31,
+  "links": [
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=T1fdzp9ecINEaVWTyY",
+      "fragment": "",
+      "text": "Amazon services",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/gp/help/customer/display.html?nodeId=201890250",
+      "fragment": "",
+      "text": "Cookie notice",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/privacyprefs/retail/partners",
+      "fragment": "",
+      "text": "129 third parties",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=201890250",
+      "fragment": "",
+      "text": "Cookie notice",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/privacyprefs/customize?oCT=ads&amp;ref_=portal_banner_cpp",
+      "fragment": "",
+      "text": "Cookie and advertising choices",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=201909010",
+      "fragment": "",
+      "text": "Privacy notice",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=G64JFZVFDY66XG9K&amp;ref_=footer_Interest_Based_Ads_Notice&amp;language=en",
+      "fragment": "",
+      "text": "Interest-Based Ads notice",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/",
+      "fragment": "skippedLink",
+      "text": "Main content",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ref=nav_logo",
+      "fragment": "",
+      "text": ".it",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/customer-preferences/edit?ie=UTF8&amp;preferencesReturnUrl=%2F&amp;ref_=topnav_lang",
+      "fragment": "",
+      "text": "EN",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.it%2F%3Fref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=itflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "fragment": "",
+      "text": "Hello, sign in Account &amp; Lists",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/css/order-history?ref_=nav_orders_first",
+      "fragment": "",
+      "text": "Orders",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/cart/view.html?ref_=nav_cart",
+      "fragment": "",
+      "text": "0 Basket",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.it%2F%3Fref_%3Dnav_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=itflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "fragment": "",
+      "text": "Sign in",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ap/register?openid.return_to=https%3A%2F%2Fwww.amazon.it%2F%3F_encoding%3DUTF8%26ref_%3Dnav_newcust&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=itflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "fragment": "",
+      "text": "Start here.",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/hz/wishlist/ls?triggerElementID=createList&amp;ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+      "fragment": "",
+      "text": "Create a List",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/wedding/home?ref_=nav_ListFlyout_gno_listpop_wr",
+      "fragment": "",
+      "text": "Wedding List",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/baby-reg/homepage?ref_=nav_ListFlyout_gno_listpop_br",
+      "fragment": "",
+      "text": "Baby Wishlist",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/discover?ref_=nav_ListFlyout_sbl",
+      "fragment": "",
+      "text": "Discover Your Style",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/showroom?ref_=nav_ListFlyout_srm_your_desk_wl_uk",
+      "fragment": "",
+      "text": "Explore Showroom",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/css/homepage.html?ref_=nav_AccountFlyout_ya",
+      "fragment": "",
+      "text": "Your Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/css/order-history?ref_=nav_AccountFlyout_orders",
+      "fragment": "",
+      "text": "Your Orders",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://sell.amazon.it/vendere-online?refTag=soa&amp;ld=AZITSOA_flyout",
+      "fragment": "",
+      "text": "Your Seller Account",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/hz/wishlist/ls?requiresSignIn=1&amp;ref_=nav_AccountFlyout_wl",
+      "fragment": "",
+      "text": "Your Lists",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/hz/mobile/mission?ref_=nav_AccountFlyout_ci_mcx_mi_d_nf",
+      "fragment": "",
+      "text": "Keep Shopping For",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/yourstore?ref_=nav_AccountFlyout_recs",
+      "fragment": "",
+      "text": "Your Recommendations",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/yourpets?ref_=nav_AccountFlyout_ya_pp",
+      "fragment": "",
+      "text": "Your Pets",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/hz5/yourmembershipsandsubscriptions?ref_=nav_AccountFlyout_digital_subscriptions",
+      "fragment": "",
+      "text": "Memberships &amp; Subscriptions",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/primecentral?ref_=nav_AccountFlyout_prime",
+      "fragment": "",
+      "text": "Your Prime Membership",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/auto-deliveries?ref_=nav_AccountFlyout_sns",
+      "fragment": "",
+      "text": "Your Subscribe &amp; Save",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/hz/mycd/myx?pageType=content&amp;ref_=nav_AccountFlyout_myk",
+      "fragment": "",
+      "text": "Manage Your Content and Devices",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/gp/video/ssoredirect?pvp=/ref%3Ddvm_crs_gno_it_xs_s_dk_nav_eg_al_yracc_0_u&amp;ref_=nav_AccountFlyout_dvm_crs_gno_it_xs_s_dk_nav_eg_al_yracc_0_u",
+      "fragment": "",
+      "text": "Your Prime Video",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku",
+      "fragment": "",
+      "text": "Your Kindle Unlimited",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://music.amazon.it?ref=nav_youraccount_cldplyr",
+      "fragment": "",
+      "text": "Your Music",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/photos?ref_=nav_AccountFlyout_photos",
+      "fragment": "",
+      "text": "Your Amazon Photos",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/mas/your-account/myapps?ref_=nav_AccountFlyout_aad",
+      "fragment": "",
+      "text": "Your Android Apps and Devices",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=14859625031&amp;ref_=nav_AccountFlyout_itb2b_reg_bottom",
+      "fragment": "",
+      "text": "Register for a free business account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/",
+      "fragment": "switch-lang=it-IT",
+      "text": "italiano - IT",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/",
+      "fragment": "switch-lang=en-GB",
+      "text": "English - EN",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/",
+      "fragment": "switch-currency=EUR",
+      "text": "€ - EUR - Euro",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/",
+      "fragment": "switch-currency=GBP",
+      "text": "£ - GBP - British Pound",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/",
+      "fragment": "switch-currency=USD",
+      "text": "US$ - USD - US Dollar",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/",
+      "fragment": "switch-currency=CHF",
+      "text": "CHF - Swiss Franc",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/customer-preferences/edit?ref_=icp_cop_flyout_seeAll",
+      "fragment": "",
+      "text": "See all",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/customer-preferences/country?ref_=icp_lop_mop_chg&amp;preferencesReturnUrl=/",
+      "fragment": "",
+      "text": "Change country/region",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/hz/cs/help?ref_=icp_language_help&amp;nodeId=GARKQZZYZ542RGWK",
+      "fragment": "",
+      "text": "Learn more",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=22784658031&amp;ref_=nav_cs_registry",
+      "fragment": "",
+      "text": "Wish Lists",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=98207986031&amp;ref_=nav_cs_sadIT1",
+      "fragment": "",
+      "text": "Prime Video",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/videogiochi/b/?ie=UTF8&amp;node=412603031&amp;ref_=nav_cs_video_games",
+      "fragment": "",
+      "text": "PC &amp; Video Games",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/deals?ref_=nav_cs_gb",
+      "fragment": "",
+      "text": "Our Deals",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Sports-and-Leisure/b/?ie=UTF8&amp;node=524012031&amp;ref_=nav_cs_sports",
+      "fragment": "",
+      "text": "Sports &amp; Outdoors",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/prime?ref_=nav_cs_primelink_nonmember",
+      "fragment": "",
+      "text": "Prime",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Giochi-Giocattoli/b/?ie=UTF8&amp;node=523997031&amp;ref_=nav_cs_toys",
+      "fragment": "",
+      "text": "Toys &amp; Games",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Bellezza/b/?ie=UTF8&amp;node=6198082031&amp;ref_=nav_cs_beauty",
+      "fragment": "",
+      "text": "Beauty",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=508510&amp;ref_=nav_cs_help",
+      "fragment": "",
+      "text": "Customer Service",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Custom/b/?ie=UTF8&amp;node=14578061031&amp;ref_=nav_cs_custom",
+      "fragment": "",
+      "text": "Custom Products",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=206534235031&amp;ref_=nav_cs_pb",
+      "fragment": "",
+      "text": "Premium Brands",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fmc/everyday-essentials?ref_=nav_cs_ee",
+      "fragment": "",
+      "text": "Everyday",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/music/player?ref_=nav_cs_music",
+      "fragment": "",
+      "text": "Music",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Salute-Cura-Persona/b/?ie=UTF8&amp;node=1571289031&amp;ref_=nav_cs_hpc",
+      "fragment": "",
+      "text": "Health &amp; Personal Care",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/auto-deliveries/landing?ref_=nav_cs_sns",
+      "fragment": "",
+      "text": "Subscribe &amp; Save",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Auto-e-Moto/b/?ie=UTF8&amp;node=1571280031&amp;ref_=nav_cs_automotive",
+      "fragment": "",
+      "text": "Car &amp; Motorbike",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/computer/b/?ie=UTF8&amp;node=425916031&amp;ref_=nav_cs_pc",
+      "fragment": "",
+      "text": "Computers",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "fragment": "",
+      "text": "Best Sellers",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/elettronica/b/?ie=UTF8&amp;node=412609031&amp;ref_=nav_cs_electronics",
+      "fragment": "",
+      "text": "Electronics",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/new-releases/?ref_=nav_cs_newreleases",
+      "fragment": "",
+      "text": "New Releases",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/buoni-regalo/b/?ie=UTF8&amp;node=3557017031&amp;ref_=nav_cs_gc",
+      "fragment": "",
+      "text": "Gift Cards",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?node=15419505031&amp;ref_=nav_cs_shoppertoolkit",
+      "fragment": "",
+      "text": "Shopper Toolkit",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/haul/store?ref_=nav_cs_hul_disb",
+      "fragment": "",
+      "text": "Amazon Haul",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Moda/b/?ie=UTF8&amp;node=5512286031&amp;ref_=nav_cs_fashion",
+      "fragment": "",
+      "text": "Fashion",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Casa-Cucina/b/?ie=UTF8&amp;node=524015031&amp;ref_=nav_cs_home",
+      "fragment": "",
+      "text": "Kitchen &amp; Home",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Fai-Da-Te/b/?ie=UTF8&amp;node=2454160031&amp;ref_=nav_cs_hi",
+      "fragment": "",
+      "text": "Home improvement",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/libri-italiano/b/?ie=UTF8&amp;node=411663031&amp;ref_=nav_cs_books",
+      "fragment": "",
+      "text": "Books",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ebooks-kindle/b/?ie=UTF8&amp;node=827182031&amp;ref_=nav_cs_kindle_books",
+      "fragment": "",
+      "text": "Kindle Books",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Prima-Infanzia/b/?ie=UTF8&amp;node=1571286031&amp;ref_=nav_cs_baby",
+      "fragment": "",
+      "text": "Baby",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&amp;ref_=nav_cs_fresh",
+      "fragment": "",
+      "text": "Fresh",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/amazonfresh",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/prime?ref_=nav_prime_btn_fb",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/festaprime/?_encoding=UTF8&amp;_encoding=UTF8&amp;ref_=pd_hp_d_r_atf_unk&amp;pd_rd_w=W9mYT&amp;content-id=amzn1.sym.c137f1e5-41d4-4d83-ad94-0d3e5512c1f6&amp;pf_rd_p=c137f1e5-41d4-4d83-ad94-0d3e5512c1f6&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05",
+      "fragment": "",
+      "text": "Prime Big Deal Days is 6-7 October Big deals coming soon",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/events/deals/?_encoding=UTF8&amp;_encoding=UTF8&amp;ref_=dealz_wd_des_see_more&amp;bubble-id=deals-contextual-link&amp;dynamicBubble=%7B%2522collectionId%2522%3A%2522deals-contextual-link%2522%2C%2522departmentsIncluded%2522%3A%5B652494031%2C3120660031%2C4327099031%2C5347858031%5D%7D&amp;pd_rd_w=984JK&amp;content-id=amzn1.sym.c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_p=c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05",
+      "fragment": "",
+      "text": "Shop deals ending soon",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Tognana-T-Care-Cooking-Crepe-Aluminium/dp/B0GL3B6FPW/?_encoding=UTF8&amp;pd_rd_w=984JK&amp;content-id=amzn1.sym.c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_p=c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_dealz_wd_des",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Cecotec-A01_EU01_123718/dp/B0GYND7TQ5/?_encoding=UTF8&amp;pd_rd_w=984JK&amp;content-id=amzn1.sym.c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_p=c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_dealz_wd_des",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Dailies-AquaComfort-Plus-Contact-Lenses/dp/B00J5C0DR4/?_encoding=UTF8&amp;pd_rd_w=984JK&amp;content-id=amzn1.sym.c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_p=c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_dealz_wd_des",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Tognana-Pauline-4-Piece-Serving-Stainless/dp/B0HH9KYPJW/?_encoding=UTF8&amp;pd_rd_w=984JK&amp;content-id=amzn1.sym.c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_p=c288963a-a938-419c-a291-76f3da018537&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_dealz_wd_des",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=602473031&amp;language=en_GB&amp;pd_rd_w=wQN6p&amp;content-id=amzn1.sym.34657d74-5d51-4f6e-89b6-6f1b2b54f494&amp;pf_rd_p=34657d74-5d51-4f6e-89b6-6f1b2b54f494&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_unk",
+      "fragment": "",
+      "text": "Meal prep made easy Kitchen tools for busy lives",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/aw/d/B0DTQF1MQT/ref=ods_gw_WD_IT_EN_AUCC_MAD_2026Q1_MWAC1_SH_BanyanVFCOPY/?ie=UTF8&amp;pd_rd_w=M75Vd&amp;content-id=amzn1.sym.4c9855ce-06c9-4ace-a5b5-a4b4b1b8064a&amp;pf_rd_p=4c9855ce-06c9-4ace-a5b5-a4b4b1b8064a&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=GCxFi&amp;pd_rd_r=c109a180-3fd9-499d-9ee4-5bbb9b4b3fcf&amp;ref_=pd_hp_d_r_stg_unk",
+      "fragment": "",
+      "text": "Unlock Alexa+ Free Early Access when you buy a device",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/events/deals/?_encoding=UTF8&amp;_encoding=UTF8&amp;ref_=dealz_wd_pd_see_more&amp;bubble-id=deals-contextual-link&amp;dynamicBubble=%7B%2522collectionId%2522%3A%2522deals-contextual-link%2522%2C%2522departmentsIncluded%2522%3A%5B700505031%2C1904634031%2C733009031%2C1462707031%5D%7D&amp;pd_rd_w=VA1pF&amp;content-id=amzn1.sym.dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_p=dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05",
+      "fragment": "",
+      "text": "Shop popular deals for you",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Dr-Scholls-Absorbing-Technology-Continuous/dp/B0CT3R4YK5/?_encoding=UTF8&amp;pd_rd_w=VA1pF&amp;content-id=amzn1.sym.dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_p=dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_dealz_wd_pd",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Ring-Intercom-upgrade-Two-Way-compatibility/dp/B0CKGQ5913/?_encoding=UTF8&amp;pd_rd_w=VA1pF&amp;content-id=amzn1.sym.dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_p=dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_dealz_wd_pd",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/STANLEY-SXVC20XTE-Solids-Liquids-Cleaner/dp/B06XTMCTB7/?_encoding=UTF8&amp;pd_rd_w=VA1pF&amp;content-id=amzn1.sym.dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_p=dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_dealz_wd_pd",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/New-Amazon-Kindle-glare-free-adjustable/dp/B0CP31T5M6/?_encoding=UTF8&amp;pd_rd_w=VA1pF&amp;content-id=amzn1.sym.dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_p=dabe895c-bc85-4e0a-84fc-6ea7ab02ae38&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_dealz_wd_pd",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=17033335031&amp;pd_rd_w=IaTG6&amp;content-id=amzn1.sym.40889a48-4635-4a61-8354-ee8a0045c36a&amp;pf_rd_p=40889a48-4635-4a61-8354-ee8a0045c36a&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_unk",
+      "fragment": "",
+      "text": "Give back to your school Join for free Initiative subject to T&amp;C",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=222534804031&amp;language=en_GB&amp;pd_rd_w=3wHZX&amp;content-id=amzn1.sym.e30b61dc-12d5-4a54-8191-a9e1f172cb88&amp;pf_rd_p=e30b61dc-12d5-4a54-8191-a9e1f172cb88&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=kH3Ga&amp;pd_rd_r=dea08d1e-acd5-4c4c-89e4-3ed35be3fc05&amp;ref_=pd_hp_d_r_atf_unk",
+      "fragment": "",
+      "text": "Autumn refresh Transform your space",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.it%2F%3F_encoding%3DUTF8%26ref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=itflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "fragment": "",
+      "text": "Sign in",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ap/register?openid.return_to=https%3A%2F%2Fwww.amazon.it%2F%3F_encoding%3DUTF8%26ref_%3Dnav_newcust&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=itflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "fragment": "",
+      "text": "Start here.",
+      "rel": "nofollow",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/hz/wishlist/ls?triggerElementID=createList&ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+      "fragment": "",
+      "text": "Create a List",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://sell.amazon.it/vendere-online?refTag=soa&ld=AZITSOA_flyout",
+      "fragment": "",
+      "text": "Your Seller Account",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/hz/wishlist/ls?requiresSignIn=1&ref_=nav_AccountFlyout_wl",
+      "fragment": "",
+      "text": "Your Lists",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/hz/mycd/myx?pageType=content&ref_=nav_AccountFlyout_myk",
+      "fragment": "",
+      "text": "Manage Your Content and Devices",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/gp/video/ssoredirect?pvp=/ref%3Ddvm_crs_gno_it_xs_s_dk_nav_eg_al_yracc_0_u&ref_=nav_AccountFlyout_dvm_crs_gno_it_xs_s_dk_nav_eg_al_yracc_0_u",
+      "fragment": "",
+      "text": "Your Prime Video",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=14859625031&ref_=nav_AccountFlyout_itb2b_reg_bottom",
+      "fragment": "",
+      "text": "Register for a free business account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.it%2F%3F_encoding%3DUTF8%26ref_%3Dnav_custrec_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=itflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "fragment": "",
+      "text": "Sign in",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ap/register?openid.return_to=https%3A%2F%2Fwww.amazon.it%2F%3F_encoding%3DUTF8%26ref_%3Dnav_custrec_newcust&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=itflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "fragment": "",
+      "text": "Start here.",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Moda/b/?_encoding=UTF8&amp;ie=UTF8&amp;node=5512286031&amp;pd_rd_w=6zTd0&amp;content-id=amzn1.sym.39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_p=39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Accessories and bags Accessories and bags",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/s/?_encoding=UTF8&amp;bbn=5515768031&amp;rh=n%3A5512286031%2Cn%3A5515768031%2Cn%3A700528031&amp;pd_rd_w=6zTd0&amp;content-id=amzn1.sym.39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_p=39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Handbags Handbags",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/s/?_encoding=UTF8&amp;bbn=700555031&amp;rh=n%3A700555031%2Cp_72%3A490205031&amp;pd_rd_w=6zTd0&amp;content-id=amzn1.sym.39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_p=39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Luggage and backpacks Luggage and backpacks",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/s/?_encoding=UTF8&amp;k=Watches&amp;rh=p_72%3A490205031&amp;dc=&amp;language=en&amp;crid=1E48RNYVHLDXZ&amp;pd_rd_w=6zTd0&amp;content-id=amzn1.sym.39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_p=39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Watches Watches",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/s/?_encoding=UTF8&amp;k=Jewellery&amp;i=fashion&amp;rh=n%3A5512286031%2Cn%3A5874482031%2Cp_72%3A490205031&amp;pd_rd_w=6zTd0&amp;content-id=amzn1.sym.39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_p=39d7ae42-97ec-4202-a338-87299a6c3bd9&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Jewelry Jewelry",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=3581999031&amp;ref_=AWOIH46E&amp;pd_rd_w=G0ZCp&amp;content-id=amzn1.sym.37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_p=37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Resale: more savings, less waste Resale: more savings, less waste",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Seconda-mano/b/?_encoding=UTF8&amp;node=213843888031&amp;ref_=AWOIH46E&amp;pd_rd_w=G0ZCp&amp;content-id=amzn1.sym.37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_p=37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "PC &amp; Laptops PC &amp; Laptops",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Seconda-mano/b/?_encoding=UTF8&amp;node=213843889031&amp;ref_=AWOIH46E&amp;pd_rd_w=G0ZCp&amp;content-id=amzn1.sym.37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_p=37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Home &amp; Kitchen Home &amp; Kitchen",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/Seconda-mano/b/?_encoding=UTF8&amp;node=213843885031&amp;ref_=AWOIH46E&amp;pd_rd_w=G0ZCp&amp;content-id=amzn1.sym.37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_p=37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Electronics Electronics",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Seconda-mano/b/?_encoding=UTF8&amp;node=213843892031&amp;ref_=AWOIH46E&amp;pd_rd_w=G0ZCp&amp;content-id=amzn1.sym.37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_p=37fc466e-3d9e-4ac2-a35e-b42534d8be2c&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Home Improvement Home Improvement",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/events/devicedeals/?_encoding=UTF8&amp;_encoding=UTF8&amp;ref_=dealz_sod_see_more&amp;pd_rd_w=spOQE&amp;content-id=amzn1.sym.70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_p=70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Save on Amazon Devices Save on Amazon Devices",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Ring-Alarm-Kit-Monitoring-Constraint/dp/B092B54KPF/?_encoding=UTF8&amp;pd_rd_w=spOQE&amp;content-id=amzn1.sym.70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_p=70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_dealz_sod",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon/dp/B0GNTD6293/?_encoding=UTF8&amp;pd_rd_w=spOQE&amp;content-id=amzn1.sym.70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_p=70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_dealz_sod",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Ring/dp/B0GP79BRWL/?_encoding=UTF8&amp;pd_rd_w=spOQE&amp;content-id=amzn1.sym.70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_p=70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_dealz_sod",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Adjustable-Stand-Generation-USB-C-Charging/dp/B09Z445488/?_encoding=UTF8&amp;pd_rd_w=spOQE&amp;content-id=amzn1.sym.70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_p=70b4d68f-3b77-4c74-9cd8-d9d6fd7ba3c5&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_dealz_sod",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/haul/store/?_encoding=UTF8&amp;ref_=hul_cgw_btf_m_it_qc_0926_sb_cta&amp;pd_rd_w=EnlwO&amp;content-id=amzn1.sym.f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_p=f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Outfits under €20 Outfits under €20",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=207024352031&amp;ref_=hul_cgw_btf_m_it_qc_0926_sb_wf&amp;ishaul=1&amp;pd_rd_w=EnlwO&amp;content-id=amzn1.sym.f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_p=f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Women's Fashion Women's Fashion",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=207024336031&amp;ref_=hul_cgw_btf_m_it_qc_0926_sb_mf&amp;ishaul=1&amp;pd_rd_w=EnlwO&amp;content-id=amzn1.sym.f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_p=f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Men's Fashion Men's Fashion",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=218812000031&amp;ref_=hul_cgw_btf_m_it_qc_0926_sb_tb&amp;ishaul=1&amp;pd_rd_w=EnlwO&amp;content-id=amzn1.sym.f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_p=f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Brand Faves Brand Faves",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=221271767031&amp;ref_=hul_cgw_btf_m_it_qc_0926_sb_af&amp;ishaul=1&amp;pd_rd_w=EnlwO&amp;content-id=amzn1.sym.f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_p=f842753a-ab17-4522-8b31-d44fe249d2ee&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Layering Essentials Layering Essentials",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=9765689031&amp;ref_=SNS_DT_GW_SCC_S15_2204&amp;pd_rd_w=wUnZv&amp;content-id=amzn1.sym.d72ab92b-7b60-4c07-b0d9-d27096151c4c&amp;pf_rd_p=d72ab92b-7b60-4c07-b0d9-d27096151c4c&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Up to 15% off on subscriptions",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/techhub/?_encoding=UTF8&amp;pd_rd_w=V4Vtx&amp;content-id=amzn1.sym.66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_p=66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "New tech, new possibilities New tech, new possibilities",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=203236619031&amp;pd_rd_w=V4Vtx&amp;content-id=amzn1.sym.66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_p=66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Personal Gadgets Personal Gadgets",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=203236617031&amp;pd_rd_w=V4Vtx&amp;content-id=amzn1.sym.66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_p=66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Home Tech Home Tech",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/b/?_encoding=UTF8&amp;node=203236627031&amp;pd_rd_w=V4Vtx&amp;content-id=amzn1.sym.66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_p=66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Home Appliances Home Appliances",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=213816229031&amp;pd_rd_w=V4Vtx&amp;content-id=amzn1.sym.66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_p=66d105d9-1f16-44ae-92fe-dd69f5cd0873&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Health &amp; Beauty Health &amp; Beauty",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=205102295031&amp;language=en_GB&amp;pd_rd_w=SNh4H&amp;content-id=amzn1.sym.d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_p=d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Most-loved finds Most-loved finds",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=205103925031&amp;language=en_GB&amp;pd_rd_w=SNh4H&amp;content-id=amzn1.sym.d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_p=d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Fashion Fashion",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=205103955031&amp;language=en_GB&amp;pd_rd_w=SNh4H&amp;content-id=amzn1.sym.d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_p=d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Tech Tech",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/b/?_encoding=UTF8&amp;node=205103923031&amp;language=en_GB&amp;pd_rd_w=SNh4H&amp;content-id=amzn1.sym.d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_p=d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Kitchen Kitchen",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=205103921031&amp;language=en_GB&amp;pd_rd_w=SNh4H&amp;content-id=amzn1.sym.d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_p=d146d42d-1b7d-4491-aa1f-95451719ac63&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Home Home",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fall2026/?_encoding=UTF8&amp;pd_rd_w=7QQu2&amp;content-id=amzn1.sym.8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_p=8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Autumn favourites Autumn favourites",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fall-beauty/?_encoding=UTF8&amp;pd_rd_w=7QQu2&amp;content-id=amzn1.sym.8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_p=8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Beauty picks Beauty picks",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fall-fashion/?_encoding=UTF8&amp;pd_rd_w=7QQu2&amp;content-id=amzn1.sym.8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_p=8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Autumn fashion Autumn fashion",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fall-reset/?_encoding=UTF8&amp;pd_rd_w=7QQu2&amp;content-id=amzn1.sym.8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_p=8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Reset and restore Reset and restore",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fall-deals/?_encoding=UTF8&amp;pd_rd_w=7QQu2&amp;content-id=amzn1.sym.8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_p=8814b38b-06d9-4cc8-86f5-d3b696f87813&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Deals Deals",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Bath-Towels-Cotton/dp/B00Q4TIHJ2?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B00Q4TIHJ2&amp;ref_=pd_hp_d_r_btf_unk_B00Q4TIHJ2",
+      "fragment": "",
+      "text": "Amazon Basics Set of 2 Bath Towels, 100% Cotton, Bath Towel 70 x 140 cm, Royal Blue, Pack of 2 35% off Limited Prime deal €10.87 € 10 87 Median price: €16.72 €16.72",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Electric-Multifunction-Replaceable/dp/B07SG47NS3?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B07SG47NS3&amp;ref_=pd_hp_d_r_btf_unk_B07SG47NS3",
+      "fragment": "",
+      "text": "Amazon Basics Electric Broom with Wire, Multifunction 2-in-1, ECO Motor, Replaceable Filter, Ultra Light, Black 30% off Limited Prime deal €29.11 € 29 11 Median price: €41.79 €41.79",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Organic-Virgin-Coconut-950ml/dp/B07W8PPQQM?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B07W8PPQQM&amp;ref_=pd_hp_d_r_btf_unk_B07W8PPQQM",
+      "fragment": "",
+      "text": "by Amazon - Organic Virgin Coconut Oil 950ml 17% off Limited Prime deal €9.66 € 9 66 Median price: €11.67 €11.67",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Double-Fitted-Microfibre/dp/B01E6X8XIW?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B01E6X8XIW&amp;ref_=pd_hp_d_r_btf_unk_B01E6X8XIW",
+      "fragment": "",
+      "text": "Amazon Basics Double Fitted Sheet, 160 x 200 x 30 cm, 100% Microfibre, 30 cm Height, White 27% off Limited Prime deal €9.91 € 9 91 Median price: €13.49 €13.49",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Automatic-Removable-Anti-Limescale/dp/B0D78N984B?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B0D78N984B&amp;ref_=pd_hp_d_r_btf_unk_B0D78N984B",
+      "fragment": "",
+      "text": "Amazon Basics Electric Kettle, 1.7L, 2200 W, BPA Free with 360° Base, Automatic Shut-off and Removable Anti-Limescale Filter, Matte Black 30% off Limited Prime deal €14.27 € 14 27 Median price: €20.49",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Classic-Casual-Backpack/dp/B013TGEJEE?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B013TGEJEE&amp;ref_=pd_hp_d_r_btf_unk_B013TGEJEE",
+      "fragment": "",
+      "text": "Amazon Basics - Classic/Casual/School Backpack, Black, Pack of 1 40% off Limited Prime deal €12.50 € 12 50 Median price: €20.89 €20.89",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Essentials-Stretch-Jeans-Athletic/dp/B07BJKFG69?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B07BJKFG69&amp;ref_=pd_hp_d_r_btf_unk_B07BJKFG69",
+      "fragment": "",
+      "text": "Amazon Essentials Men's Stretch Jeans, Athletic Fit – Colours Out of Production 5% off Limited Prime deal €24.51 € 24 51 Lowest: €25.80 €25.80",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Large-Hard-Suitcase/dp/B0711F4437?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B0711F4437&amp;ref_=pd_hp_d_r_btf_unk_B0711F4437",
+      "fragment": "",
+      "text": "Amazon Basics Large Hard Suitcase - Expandable ABS Luggage with 4 Double Swivel Wheels - Scratch Resistant and Lightweight - 78 x 52.5 x 32 cm - Navy Blue 22% off Limited Prime deal €54.43 € 54 43 Med",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Kitchen-Container-Smoothie/dp/B0DBPZJ7MH?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B0DBPZJ7MH&amp;ref_=pd_hp_d_r_btf_unk_B0DBPZJ7MH",
+      "fragment": "",
+      "text": "Amazon Basics 1.5L 600W Kitchen Blender with Plastic Container for Smoothie and Ice Mincing - Black 30% off Limited Prime deal €17.34 € 17 34 Median price: €24.90 €24.90",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/AmazonCommercial-Jumbo-Premium-Toilet-Paper/dp/B07XL9YYMR?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B07XL9YYMR&amp;ref_=pd_hp_d_r_btf_unk_B07XL9YYMR",
+      "fragment": "",
+      "text": "AmazonCommercial Mini Jumbo Premium 2 Ply Toilet Paper Rolls, 12 Rolls (1 Pack), 557 Tears per Roll, Sheet Size: 12\" x 3.5\", Compatible with T2 Dispenser 19% off Limited Prime deal €24.30 € 24 30 Medi",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Dishwasher-Stainless-Rounded/dp/B0736THH7G?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B0736THH7G&amp;ref_=pd_hp_d_r_btf_unk_B0736THH7G",
+      "fragment": "",
+      "text": "Amazon Basics - Dishwasher Safe Stainless Steel Table Spoons with Rounded Edge, Large Spoons, 20cm, Pack of 12, Silver 30% off Limited Prime deal €8.35 € 8 35 Median price: €11.99 €11.99",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Scratching-Standard-Hanging/dp/B07G3GVBV7?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B07G3GVBV7&amp;ref_=pd_hp_d_r_btf_unk_B07G3GVBV7",
+      "fragment": "",
+      "text": "Amazon Basics Indoor Cat Scratching Post Standard with Hanging Toy 80cm Grey 38% off Limited Prime deal €17.43 € 17 43 Median price: €27.99 €27.99",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Magnetic-Whiteboard-Aluminium/dp/B085PH6Z51?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B085PH6Z51&amp;ref_=pd_hp_d_r_btf_unk_B085PH6Z51",
+      "fragment": "",
+      "text": "Amazon Basics - Magnetic Dry Erase Whiteboard, Aluminium Frame, Magnetic Notice Board, Wall Mount Sticker, for Home, Office, School, 11 x 36 cm 30% off Limited Prime deal €7.30 € 7 30 Median price: €1",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Performance-Alkaline-Batteries/dp/B00O869KJE?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B00O869KJE&amp;ref_=pd_hp_d_r_btf_unk_B00O869KJE",
+      "fragment": "",
+      "text": "Amazon Basics, 8 x AA High Performance Alkaline Batteries 1.5 Volt 10 Year Life 29% off Limited Prime deal €4.16 € 4 16 Median price: €5.86 €5.86",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Essentials-Ultralight-Storage-Compression/dp/B0DRNJ7Q49?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B0DRNJ7Q49&amp;ref_=pd_hp_d_r_btf_unk_B0DRNJ7Q49",
+      "fragment": "",
+      "text": "Amazon Essentials Ultralight Travel Storage Cubes with Zip and Compression, Pack of 6, Grey 30% off Limited Prime deal €11.77 € 11 77 Median price: €16.90 €16.90",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Transparent-Window-Preset/dp/B0DN665MVK?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B0DN665MVK&amp;ref_=pd_hp_d_r_btf_unk_B0DN665MVK",
+      "fragment": "",
+      "text": "Amazon Basics - Air Fryer 4.2L, with Transparent Window, 8 Preset Menus, 1500W, Black 33% off Limited Prime deal €45.39 € 45 39 Median price: €67.49 €67.49",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Essentials-AEMN56621Q326/dp/B0GMHVNWRB?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B0GMHVNWRB&amp;ref_=pd_hp_d_r_btf_unk_B0GMHVNWRB",
+      "fragment": "",
+      "text": "Amazon Essentials Men's Loafers with 18% off Limited Prime deal €34.69 € 34 69 Lowest: €42.20 €42.20",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Containers-Refrigerator-Dishwasher/dp/B071XYVHB7?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B071XYVHB7&amp;ref_=pd_hp_d_r_btf_unk_B071XYVHB7",
+      "fragment": "",
+      "text": "Amazon Basics 0.8 Litre Airtight Food Storage Containers with Lids, BPA Free Plastic Storage Containers for Refrigerator, Freezer, Microwave and Dishwasher, Clear (Pack of 3) 54% off Limited Prime dea",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Amazon-Basics-Memory-Pillow-Round/dp/B076ZQKP41?pd_rd_w=EhXAL&amp;content-id=amzn1.sym.054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_p=054c24e5-dcd4-4456-a5da-d7695bd8cd04&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;pd_rd_i=B076ZQKP41&amp;ref_=pd_hp_d_r_btf_unk_B076ZQKP41",
+      "fragment": "",
+      "text": "Amazon Basics Memory Foam Neck Pillow 1 Unit Half Round Black 30% off Limited Prime deal €9.19 € 9 19 Median price: €13.19 €13.19",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=411663031&amp;pd_rd_w=n90US&amp;content-id=amzn1.sym.129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_p=129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Books and manuals Books and manuals",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/s/?_encoding=UTF8&amp;bbn=411664031&amp;rh=n%3A411663031%2Cn%3A508715031&amp;dc=&amp;qid=1719319402&amp;rnid=411664031&amp;ref=lp_411664031_nr_n_4&amp;pd_rd_w=n90US&amp;content-id=amzn1.sym.129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_p=129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Youth Youth",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/s/?_encoding=UTF8&amp;bbn=411664031&amp;rh=n%3A411663031%2Cn%3A508888031&amp;dc=&amp;qid=1720198810&amp;rnid=411664031&amp;ref=lp_411664031_nr_n_21&amp;pd_rd_w=n90US&amp;content-id=amzn1.sym.129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_p=129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "School supplies School supplies",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/s/ref=nb_sb_noss/?_encoding=UTF8&amp;url=search-alias%3Daudible&amp;field-keywords=&amp;crid=3ALLXC4WGU2AB&amp;sprefix=%2Caudible%2C171&amp;pd_rd_w=n90US&amp;content-id=amzn1.sym.129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_p=129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Audio books Audio books",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/bestsellers/books/?ie=UTF8&amp;pd_rd_w=n90US&amp;content-id=amzn1.sym.129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_p=129620a4-28ee-4d7b-bce5-0dd0b429fb5f&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Best-sellers Best-sellers",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/stores/Herschel/page/28DF5CF5-E63A-4432-B4C8-1EA0CD31A151/?_encoding=UTF8&amp;lp_asin=B0CL8HRZC5&amp;ref_=ast_bln&amp;store_ref=bl_ast_dp_brandlogo_sto&amp;language=en_GB&amp;pd_rd_w=A8MwU&amp;content-id=amzn1.sym.964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_p=964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Explore the Herschel range Explore the Herschel range",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/stores/page/233DF111-D86E-48AA-A060-B3131DC283AB/?_encoding=UTF8&amp;ingress=2&amp;lp_context_asin=B0CL8HRZC5&amp;visitId=31938551-bb61-407a-beac-b37e3f89abbc&amp;store_ref=bl_ast_dp_brandlogo_sto&amp;ref_=ast_bln&amp;language=en_GB&amp;pd_rd_w=A8MwU&amp;content-id=amzn1.sym.964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_p=964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Backpacks Backpacks",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/stores/page/FBC6ED9A-7E23-4880-87B1-586734DC86BC/?_encoding=UTF8&amp;ingress=2&amp;lp_context_asin=B0CL8HRZC5&amp;visitId=31938551-bb61-407a-beac-b37e3f89abbc&amp;store_ref=bl_ast_dp_brandlogo_sto&amp;ref_=ast_bln&amp;language=en_GB&amp;pd_rd_w=A8MwU&amp;content-id=amzn1.sym.964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_p=964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Duffles Duffles",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/stores/page/A86C0491-86C3-4A1E-8E5A-BD2ED8EB936A/?_encoding=UTF8&amp;ingress=2&amp;lp_context_asin=B0CL8HRZC5&amp;visitId=31938551-bb61-407a-beac-b37e3f89abbc&amp;store_ref=bl_ast_dp_brandlogo_sto&amp;ref_=ast_bln&amp;language=en_GB&amp;pd_rd_w=A8MwU&amp;content-id=amzn1.sym.964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_p=964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Totes Totes",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/stores/page/56007D33-E417-47B5-81E7-257DFA4FF80F/?_encoding=UTF8&amp;ingress=2&amp;lp_context_asin=B0CL8HRZC5&amp;visitId=7998e85f-6e98-4055-b3a6-175d1ca11524&amp;store_ref=bl_ast_dp_brandlogo_sto&amp;ref_=ast_bln&amp;language=en_GB&amp;pd_rd_w=A8MwU&amp;content-id=amzn1.sym.964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_p=964fca3e-9a4b-4277-894c-fcb13e677501&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Luggage Luggage",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fall2026/?_encoding=UTF8&amp;pd_rd_w=wFH69&amp;content-id=amzn1.sym.431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_p=431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Autumn must-haves Autumn must-haves",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fall-cozy-night/?_encoding=UTF8&amp;pd_rd_w=wFH69&amp;content-id=amzn1.sym.431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_p=431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Cosy night in Cosy night in",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fall-indore-game/?_encoding=UTF8&amp;pd_rd_w=wFH69&amp;content-id=amzn1.sym.431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_p=431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Indoor games night Indoor games night",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/cozy-season/?_encoding=UTF8&amp;pd_rd_w=wFH69&amp;content-id=amzn1.sym.431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_p=431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Cosy essentials Cosy essentials",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/fall-kitchen/?_encoding=UTF8&amp;pd_rd_w=wFH69&amp;content-id=amzn1.sym.431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_p=431eb69b-e2da-409e-a0dc-95996e38b0cb&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Kitchen warmers Kitchen warmers",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/goldbox/?ie=UTF8&amp;ref_=topnav_storetab_gb&amp;discounts=&amp;discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25226198093031%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522&amp;language=en_GB&amp;pd_rd_w=ZCyYv&amp;content-id=amzn1.sym.3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_p=3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "For your basic grocery list For your basic grocery list",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=6198092031&amp;pd_rd_w=ZCyYv&amp;content-id=amzn1.sym.3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_p=3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Grocery Grocery",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/Pulizia-Cura-Casa/b/?_encoding=UTF8&amp;ie=UTF8&amp;node=6394759031&amp;ref_=sv_grocery_subnav_9&amp;language=en_GB&amp;pd_rd_w=ZCyYv&amp;content-id=amzn1.sym.3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_p=3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102",
+      "fragment": "",
+      "text": "Housekeeping Housekeeping",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;ie=UTF8&amp;node=1571289031&amp;pd_rd_w=ZCyYv&amp;content-id=amzn1.sym.3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_p=3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Hygiene products Hygiene products",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?_encoding=UTF8&amp;node=6377842031&amp;pd_rd_w=ZCyYv&amp;content-id=amzn1.sym.3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_p=3727286f-b705-4d57-917d-81c9450f5834&amp;pf_rd_r=CJ26F46C20BENR9BB2YE&amp;pd_rd_wg=qMjrC&amp;pd_rd_r=56e1ce08-2490-4a24-a27b-7c94a2db1102&amp;ref_=pd_hp_d_r_btf_unk",
+      "fragment": "",
+      "text": "Coffee, tea, and drinks Coffee, tea, and drinks",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/ap/signin?openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.it%2Fref%3Drhf_sign_in&amp;openid.assoc_handle=itflex&amp;openid.pape.max_auth_age=0",
+      "fragment": "",
+      "text": "Sign in",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/ap/register?openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.it%2Fref%3Drhf_sign_in&amp;openid.assoc_handle=itflex",
+      "fragment": "",
+      "text": "Start here.",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/history",
+      "fragment": "",
+      "text": "View or edit your browsing history",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=521771031&amp;ref_=footer_gw_m_b_careers",
+      "fragment": "",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/p/feature/u2eov7zkabqn3n2",
+      "fragment": "",
+      "text": "About Amazon",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://sostenibilita.aboutamazon.it/?utm_source=gateway&amp;utm_medium=footer&amp;ref_=susty_footer",
+      "fragment": "",
+      "text": "Sustainability",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.science",
+      "fragment": "",
+      "text": "Amazon Science",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://services.amazon.it/sell.html?ld=AZITSOAFooter&amp;ref_=sdit_soa",
+      "fragment": "",
+      "text": "Sell on Amazon",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://services.amazon.it/servizi/raggiungi-i-clienti-business/caratteristiche-e-vantaggi.html?ld=AZITB2BRetailFooter",
+      "fragment": "",
+      "text": "Sell on Amazon Business",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://services.amazon.it/handmade.htm?ref=azitsoafoo53331&amp;ld=AZITHNDFooter",
+      "fragment": "",
+      "text": "Sell on Amazon Handmade",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://sell.amazon.it/titolari-di-marchi/?ref_=AOITABRLGNRFOOT&amp;ld=AZITBrandRegFooter",
+      "fragment": "inscrivi-il-tuo-marchio",
+      "text": "Brand Registry and New Seller Incentives",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://supply.amazon.com/?ref_=footer_sta&amp;lang=it-IT",
+      "fragment": "",
+      "text": "Supply to Amazon",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://programma-affiliazione.amazon.it",
+      "fragment": "",
+      "text": "Associates Programme",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://services.amazon.it/servizi/logistica-di-amazon/caratteristiche-e-vantaggi.html?ld=AZITFBAFooter",
+      "fragment": "",
+      "text": "Fulfilment by Amazon",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://kdp.amazon.com/?language=it_IT",
+      "fragment": "",
+      "text": "Independently Publish with Us",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://pay.amazon.eu/?ld=AWREFRAPAFooter",
+      "fragment": "",
+      "text": "Amazon Pay",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://advertising.amazon.it/products-self-serve?ref_=ext_amzn_ftr",
+      "fragment": "",
+      "text": "Advertise Your Products",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b?node=10833679031",
+      "fragment": "",
+      "text": "Host an Amazon Hub",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/b/?node=17751879031",
+      "fragment": "",
+      "text": "See More Make Money with Us",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=201239010&amp;ref_=footer_payment",
+      "fragment": "",
+      "text": "Payment Methods Help",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=201239250&amp;ref_=footer_tfx",
+      "fragment": "",
+      "text": "Amazon Currency Converter",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/gc?ref_=footer_giftcards",
+      "fragment": "",
+      "text": "Gift Cards",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/gc/create?ref_=footer_topup_it",
+      "fragment": "",
+      "text": "Top Up Your Account",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=13829824031&amp;ref_=footer_purchase_code",
+      "fragment": "",
+      "text": "Top Up Your Account in Store",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/dp/B0B1VKXVYW?plattr=ACOMFO&amp;ie=UTF-8&amp;ref_=b2b_sow_sbcc_it_acom_omp_na_footer_nca_202210",
+      "fragment": "",
+      "text": "Amazon Business Amex Card",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/css/order-history?ref_=footer_hp_ss_comp_tmp",
+      "fragment": "",
+      "text": "Track Packages or View Orders",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=200522630&amp;ref_=footer_shiprates",
+      "fragment": "",
+      "text": "Delivery Rates &amp; Policies",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/prime?ref_=footer_prime",
+      "fragment": "",
+      "text": "Amazon Prime",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/css/returns/homepage.html?ref_=footer_hy_f_4",
+      "fragment": "",
+      "text": "Return, Replace or Withdraw",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=22380244031&amp;ref_=footer_disposal",
+      "fragment": "",
+      "text": "Recycling",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/hz/mycd/myx?ref_=footer_myk",
+      "fragment": "",
+      "text": "Manage Your Content and Devices",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=4951392031&amp;ref_=footer_mobapp",
+      "fragment": "",
+      "text": "Amazon Mobile App",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/your-product-safety-alerts?ref_=footer_bsx_ypsa",
+      "fragment": "",
+      "text": "Recalls and Product Safety Alerts",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=200507590&amp;ref_=footer_gw_m_b_cs",
+      "fragment": "",
+      "text": "Customer Service",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=201239260&amp;ref_=footer_vat",
+      "fragment": "",
+      "text": "VAT Information",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=201495950&amp;ref_=footer_lgrt",
+      "fragment": "",
+      "text": "Legal Guarantee",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=GUUVBZ8WGVFP8R8X&amp;ref_=nav_foot_accessibility",
+      "fragment": "",
+      "text": "Accessibility",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/registries?ref_=nav_footer_registry_giftlist_desktop",
+      "fragment": "",
+      "text": "Lists and Gifting",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=TLtMJsPGBmJPpN3hvy&amp;ref_=footer_report_illegal_content",
+      "fragment": "",
+      "text": "Report illegal content",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/ref=footer_logo",
+      "fragment": "",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/customer-preferences/edit?ie=UTF8&amp;preferencesReturnUrl=%2F&amp;ref_=footer_lang",
+      "fragment": "",
+      "text": "English",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/customer-preferences/country?ie=UTF8&amp;preferencesReturnUrl=%2F&amp;ref_=footer_icp_cp",
+      "fragment": "",
+      "text": "Italy",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://advertising.amazon.it/?ref=footer_advtsing_2_it",
+      "fragment": "",
+      "text": "Amazon Advertising Find, attract and engage customers",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://music.amazon.it/?ref=dm_aff_amz_it",
+      "fragment": "",
+      "text": "Amazon Music Stream millions of songs",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.abebooks.it",
+      "fragment": "",
+      "text": "AbeBooks Books, art &amp; collectables",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.audible.it",
+      "fragment": "",
+      "text": "Audible Download Audiobooks",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://aws.amazon.com/?sc_channel=EL&amp;sc_campaign=IT_amazonfooter",
+      "fragment": "",
+      "text": "Amazon Web Services Scalable Cloud Computing Services",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=3581999031&amp;ref_=footer_wrhsdls",
+      "fragment": "",
+      "text": "Amazon Resale Great Deals on Quality Used Products",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.shopbop.com/it/welcome",
+      "fragment": "",
+      "text": "Shopbop Designer Fashion Brands",
+      "rel": "",
+      "internal": false,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/browse.html?node=14859625031&amp;ref_=nav_footer_business",
+      "fragment": "",
+      "text": "Amazon Business Service for business customers",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=200545940&amp;ref_=footer_cou",
+      "fragment": "",
+      "text": "Conditions of Use &amp; Sale",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=200545460&amp;ref_=footer_privacy",
+      "fragment": "",
+      "text": "Privacy Notice",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=200571750&amp;ref_=footer_legal_area",
+      "fragment": "",
+      "text": "Legal Area",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=201890250&amp;ref_=footer_cookies_notice",
+      "fragment": "",
+      "text": "Cookies Notice",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=201909150&amp;ref_=footer_Interest_Based_Ads_Notice",
+      "fragment": "",
+      "text": "Interest-Based Ads Notice",
+      "rel": "",
+      "internal": true,
+      "tag": "a"
+    },
+    {
+      "url": "https://images-eu.ssl-images-amazon.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://m.media-amazon.com",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/214aTrUk8lL._RC|51nfWTBkewL.css_.css?AUIClients/AmazonUI",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/11WsGYSItxL._RC|01DE6WSvLKL.css,516AF8YtSfL.css,31VyBF3Z4EL.css,01dpRn7s1DL.css,21JMC7OC91L.css,01xH+fhFIJL.css,01oplyhwgTL.css,413Vvv3GONL.css,1170nDgl0uL.css,01Rw4F+QU6L.css,11GW2DCngTL.css,01dwEpLmO4L.css,01IdKcBuAdL.css,01iHqjS7YfL.css,21D3IemrALL.css,11Cv7swYm2L.css,51kR4v4RCcL.css,01yC8kk5kkL.css,11hdEXw-6rL.css,01GAxF7K5tL.css,01ZM-s8Z3xL.css,21gEzBqpmtL.css,11FeoxrgiyL.css,21Yuul0BcnL.css,01rSTIgNJIL.css,21HqyYwP3xL.css,31u+uM+C07L.css,019TAYpKRCL.css,01Lgkx7LWKL.css,31g3RABPKHL.css,11PDZ29p-PL.css,117zDsOznQL.css,215WpAjwzoL.css,11INh4d+2FL.css,114aTS6SjML.css,01Uw64cHNCL.css,21GcfcmbahL.css,21OD8FuBraL.css,11XozyxiH7L.css,210W8HxtP4L.css,11GyUpf9PlL.css,119Cktja74L.css,11PMguLK6gL.css,01890+Vwk8L.css,11TZSntL0oL.css,01qiwJ7qDfL.css,21jZ2Hny6UL.css,01ONg56w3qL.css,0136+UFOtpL.css,31un+UKeIeL.css,21MLYj6O8gL.css,013-xYw+SRL.css_.css?AUIClients/AmazonUI",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/51waPb-h-9L._RC|71FPgDj0RpL.css,41WcY5PbsbL.css,61TfJG19yjL.css,61Y0ThXQrKL.css,41sOnlSfhtL.css,01FcI3FsaiL.css,21y6uRBcF9L.css,01-Mnqi69mL.css,31YZpDCYJPL.css,21P0tNl-emL.css,41vWFCvFunL.css,21CB9R4dxNL.css,111Bp55OByL.css,01f-B++9uCL.css,21KQnzhmfTL.css,41bqNBi+QSL.css,61zKl62V-ML.css,01NLp3ZKNoL.css_.css?AUIClients/NavDesktopUberAsset",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/51matnnm4+L.css?AUIClients/GWMWebAssets",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/01Dq01vW6DL.css?AUIClients/AmazonEmberModernFontAssets",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/01rFHUwLouL.css?AUIClients/AmazonHomepageWindowDisplayAssets",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.amazon.it/-/en/",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://www.amazon.it/favicon.ico",
+      "text": "",
+      "rel": "link",
+      "internal": true,
+      "tag": "link"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/31mjaJWc+YL.css?AUIClients/AdPlacementStyleAssets",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/11ekNxhYanL.css?AUIClients/WebFlowIngressJs",
+      "text": "",
+      "rel": "link",
+      "internal": false,
+      "tag": "link"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://www.bertani.it/it_IT/products/gessi-inverso-miscelatore-doccia",
+  "model": "qwen2.5:32b",
+  "html": "it_IT_products_gessi-inverso-miscelatore-doccia.html",
+  "title": "Gessi, Inverso Miscelatore doccia | Bertani",
+  "text_chars": 936,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "width": {
+      "value": "140 mm",
+      "evidence": "Larghezza placca 140 mm",
+      "location": "body"
+    },
+    "height": {
+      "value": "220 mm",
+      "evidence": "Altezza placca 220 mm",
+      "location": "body"
+    },
+    "depth": {
+      "value": "82 mm",
+      "evidence": "Profondità miscelatore 82 mm",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "shape_style": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "rettangolare",
+        "evidence": "La collezione Inverso racchiude intriganti giochi di geometrie, dal rettangolo al cerchio"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1185,
+    "output_tokens": 560,
+    "seconds": 46.48
+  }
+}

@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /webapp/
+Allow: /webapp/wcs/stores/Widgets_701/com.ibm.commerce.store.widgets.csr.RegisteredCustomers/javascript/RegisteredCustomers.js
+Allow: /webapp/wcs/stores/Widgets_701/Common/javascript/OnBehalfUtilities.js
+Allow: /webapp/wcs/stores/Widgets_701/Common/javascript/WidgetCommon.js
+Allow: /webapp/wcs/stores/Widgets_701/com.ibm.commerce.store.widgets.csr.OrderComments/javascript/OrderComments.js
+Allow: /webapp/wcs/stores/Widgets_701/com.ibm.commerce.store.widgets.csr.RegisteredCustomers/javascript/RegisteredCustomers.js
+Allow: /webapp/wcs/stores/Widgets_701/Common/javascript/OnBehalfUtilities.js
+Allow: /webapp/wcs/stores/Widgets_701/Common/javascript/WidgetCommon.js
+Disallow: /MiniShopCartDisplayView
+Disallow: /ShopCartDisplayView
+Disallow: /AmbienceLeafView
+Disallow: /AmbienceGroupView
+Disallow: /UserRegistrationForm
+Disallow: /SearchDisplay
+Disallow: /StaticPageView
+Disallow: /ProductListingView
+Disallow: /ProductDisplay
+Disallow: /AttachmentPaginationListView
+
+Sitemap: https://www.iperceramica.it/asset/sitemap-index.xml

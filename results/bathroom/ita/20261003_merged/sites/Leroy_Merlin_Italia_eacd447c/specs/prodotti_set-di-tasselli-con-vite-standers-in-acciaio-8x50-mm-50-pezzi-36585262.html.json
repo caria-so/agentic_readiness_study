@@ -1,0 +1,154 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/set-di-tasselli-con-vite-standers-in-acciaio-8x50-mm-50-pezzi-36585262.html",
+ "file": "prodotti_set-di-tasselli-con-vite-standers-in-acciaio-8x50-mm-50-pezzi-36585262.html.html",
+ "title": "Set di tasselli con vite STANDERS in acciaio ø 8x50 mm, 50 pezzi",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4490,
+ "attributes": {
+  "brand": {
+   "value": "STANDERS",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "STANDERS"
+    }
+   ]
+  },
+  "sku": {
+   "value": "36585262",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "36585262"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "3276000356035",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "3276000356035"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Tutti i tipi di muro",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di muro",
+     "value": "Tutti i tipi di muro"
+    }
+   ]
+  },
+  "material": {
+   "value": "Acciaio",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Materiale principale",
+     "value": "Acciaio"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Composizione del kit",
+     "value": "vite"
+    }
+   ]
+  },
+  "installation": {
+   "value": "50",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Numero di pezzi",
+     "value": "50"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "8.4",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "8.4"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "9.2"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "12.2"
+    }
+   ]
+  },
+  "warranty": {
+   "value": "3",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Garanzia del prodotto (per la pubblicazione- in anni)",
+     "value": "3"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "0.36",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "0.36"
+    }
+   ]
+  },
+  "compliance_eu_contact": {
+   "value": "ADEO Services",
+   "layer": "L3_lines",
+   "sources": [
+    {
+     "layer": "L3_lines",
+     "label": "Persona responsabile",
+     "value": "ADEO Services"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Diametro di foratura (in mm)": "8",
+  "Home Index": "B"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "contact",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 9,
+  "L3": 3,
+  "dropped": 0
+ }
+}

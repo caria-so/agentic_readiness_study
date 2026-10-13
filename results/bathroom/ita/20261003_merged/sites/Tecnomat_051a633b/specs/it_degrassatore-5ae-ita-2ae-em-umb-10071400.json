@@ -1,0 +1,125 @@
+{
+ "url": "https://www.tecnomat.it/it/degrassatore-5ae-ita-2ae-em-umb-10071400/",
+ "file": "it_degrassatore-5ae-ita-2ae-em-umb-10071400.html",
+ "title": "Degrassatore 5ae ita - 2ae em.umb em.rom. umbria 2ae 95 l polietilene",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 2118,
+ "attributes": {
+  "brand": {
+   "value": "ELBI",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "brand",
+     "value": "ELBI"
+    }
+   ]
+  },
+  "sku": {
+   "value": "10071400",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "10071400"
+    }
+   ]
+  },
+  "mpn": {
+   "value": "10071400",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "mpn",
+     "value": "10071400"
+    }
+   ]
+  },
+  "width": {
+   "value": "0,69",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Larghezza (in m)",
+     "value": "0,69"
+    }
+   ]
+  },
+  "height": {
+   "value": "60",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm)",
+     "value": "60"
+    }
+   ]
+  },
+  "depth": {
+   "value": "83",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Profondità (in cm)",
+     "value": "83"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Blu",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Famiglia colore",
+     "value": "Blu"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Blu"
+    }
+   ]
+  },
+  "installation": {
+   "value": "Esterno",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Luogo di utilizzo",
+     "value": "Esterno"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Capienza (in l)": "95",
+  "Numero di persone nella famiglia": "5",
+  "Utilizzo del prodotto": "Esterno, Trattamento acque chiare/grassi"
+ },
+ "ids_identical": [
+  "mpn=sku"
+ ],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": true,
+  "manufacturer_text": "ELBI SPA VIA BUCCIA 9 35010, LIMENA Italia Persona responsabile nell'UE : Questa informazione non è attualmente disponibile sul nostro sito. Ti consigliamo di contattare direttamente il venditore. Chiudi Scan the barcode to see all the prod"
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 3,
+  "L2": 9,
+  "L3": 0,
+  "dropped": 3
+ }
+}

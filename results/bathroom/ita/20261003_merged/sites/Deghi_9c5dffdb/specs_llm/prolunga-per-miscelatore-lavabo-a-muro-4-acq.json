@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "url": "https://www.deghi.it/prolunga-per-miscelatore-lavabo-a-muro-4-acq",
+  "model": "qwen2.5:32b",
+  "html": "prolunga-per-miscelatore-lavabo-a-muro-4-acq.html",
+  "title": "Prolunga per miscelatore lavabo a muro 4 - Acq+",
+  "text_chars": 9000,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {},
+  "dropped": {},
+  "stats": {
+    "prompt_tokens": 3406,
+    "output_tokens": 503,
+    "seconds": 48.7
+  }
+}

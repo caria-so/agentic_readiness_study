@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "url": "https://www.arcshop.it/products/lampada-led-a-basso-consumo-56-cm",
+  "model": "qwen2.5:32b",
+  "html": "products_lampada-led-a-basso-consumo-56-cm.html",
+  "title": "Lampada LED a basso consumo 56 cm | Arcshop",
+  "text_chars": 2787,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "height": {
+      "value": "56 cm",
+      "evidence": "Lampada LED a basso consumo 56 cm",
+      "location": "title"
+    },
+    "electrical": {
+      "value": "8 W",
+      "evidence": "Applique LED a basso consumo 56 cm 8 W",
+      "location": "body"
+    },
+    "warranty": {
+      "value": "2 anni",
+      "evidence": "Esaurito Garanzia: 2 anni",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "installation": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "a muro",
+        "evidence": "Applique LED a basso consumo 56 cm 8 W"
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 1782,
+    "output_tokens": 561,
+    "seconds": 46.79
+  }
+}

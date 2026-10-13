@@ -1,0 +1,136 @@
+{
+ "url": "https://www.leroymerlin.it/prodotti/tessuto-al-metro-tela-filtrante-linen-panna-tinta-unita-360-cm-81268889.html",
+ "file": "prodotti_tessuto-al-metro-tela-filtrante-linen-panna-tinta-unita-360-cm-81268889.html.html",
+ "title": "Tessuto al metro tela filtrante Linen panna tinta unita 360 cm",
+ "excluded_reason": null,
+ "main_area_method": "candidates",
+ "main_area_chars": 4455,
+ "attributes": {
+  "sku": {
+   "value": "81268889",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "sku",
+     "value": "81268889"
+    }
+   ]
+  },
+  "gtin": {
+   "value": "8003818089368",
+   "layer": "L1_schema",
+   "sources": [
+    {
+     "layer": "L1_schema",
+     "label": "gtin",
+     "value": "8003818089368"
+    }
+   ]
+  },
+  "colour": {
+   "value": "Panna",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Colore",
+     "value": "Panna"
+    }
+   ]
+  },
+  "shape_style": {
+   "value": "Filtrante",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tipo di funzione",
+     "value": "Filtrante"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tipo di prodotto",
+     "value": "Tessuto al metro"
+    }
+   ]
+  },
+  "material": {
+   "value": "Tela",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Tessuto",
+     "value": "Tela"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Tessuto da ruotare",
+     "value": "Sì"
+    }
+   ]
+  },
+  "height": {
+   "value": "360",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Altezza (in cm)",
+     "value": "360"
+    }
+   ]
+  },
+  "packaged_weight": {
+   "value": "1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: peso (in kg)",
+     "value": "1"
+    }
+   ]
+  },
+  "packaged_dims": {
+   "value": "1",
+   "layer": "L2_block",
+   "sources": [
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: larghezza (in cm)",
+     "value": "1"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: altezza (in cm)",
+     "value": "1"
+    },
+    {
+     "layer": "L2_block",
+     "label": "Prodotto imballato: profondità (in cm)",
+     "value": "1"
+    }
+   ]
+  }
+ },
+ "other_labels": {
+  "Rapporto": "0"
+ },
+ "ids_identical": [],
+ "gpsr": {
+  "raw_html": true,
+  "text": true,
+  "state": "unavailable",
+  "manufacturer_block": false,
+  "manufacturer_text": ""
+ },
+ "typo_labels": {},
+ "counts": {
+  "L1": 2,
+  "L2": 11,
+  "L3": 0,
+  "dropped": 1
+ }
+}

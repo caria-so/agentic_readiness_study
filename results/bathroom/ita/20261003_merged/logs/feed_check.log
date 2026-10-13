@@ -1,0 +1,52 @@
+Arcshop_0500465b (shopify)
+    ok: feed carries ['brand', 'gtin', 'product_type', 'sku', 'weight']
+    ok: feed carries ['brand', 'gtin', 'product_type', 'sku', 'weight']
+    ok: feed carries ['brand', 'gtin', 'product_type', 'sku', 'weight']
+    ok: feed carries ['brand', 'gtin', 'product_type', 'sku', 'weight']
+    ok: feed carries ['brand', 'gtin', 'product_type', 'sku', 'weight']
+Bertani_a7c880a2 (shopify)
+    https://www.bertani.it/it_IT/products/ever-buck-mensola-con-specchio.j -> not exposed (404)
+    https://www.bertani.it/it_IT/products/cea-milo-gruppo-lavabo.json -> not exposed (404)
+    https://www.bertani.it/it_IT/products/fantini-lame-miscelatore-lavabo- -> not exposed (404)
+    https://www.bertani.it/it_IT/products/nic-design-mod-mobile-portalavab -> not exposed (404)
+    https://www.bertani.it/it_IT/products/antoniolupi-servoretto-lavabo-50 -> not exposed (404)
+Jo_Bagno_6e8bc823 (woocommerce)
+    ok: feed carries []
+    ok: feed carries []
+    ok: feed carries []
+    ok: feed carries []
+    ok: feed carries []
+ShopBagno_212db257 (shopify)
+    ok: feed carries ['brand', 'gtin', 'product_type', 'sku', 'weight']
+    ok: feed carries ['brand', 'dimensions', 'gtin', 'product_type', 'sku']
+    ok: feed carries ['brand', 'finish', 'gtin', 'product_type', 'sku', 'weight']
+    ok: feed carries ['brand', 'finish', 'gtin', 'product_type', 'sku', 'weight']
+    ok: feed carries ['brand', 'dimensions', 'gtin', 'product_type', 'sku', 'weight']
+Termoidraulica_RV_43060b5c (woocommerce)
+    ok: feed carries ['sku', 'weight']
+    ok: feed carries []
+    ok: feed carries ['sku', 'weight']
+    ok: feed carries []
+    ok: feed carries ['sku', 'weight']
+
+Wrote feed_check_results.json
+Bertani_a7c880a2 (shopify)
+    https://www.bertani.it/products/ever-buck-mensola-con-specchio.json -> not exposed (404)
+    https://www.bertani.it/products/cea-milo-gruppo-lavabo.json -> not exposed (404)
+    https://www.bertani.it/products/fantini-lame-miscelatore-lavabo-2-.jso -> not exposed (404)
+    https://www.bertani.it/products/nic-design-mod-mobile-portalavabo-diam -> not exposed (404)
+    https://www.bertani.it/products/antoniolupi-servoretto-lavabo-50x38cm. -> not exposed (404)
+Jo_Bagno_6e8bc823 (woocommerce)
+    ok: feed carries ['brand', 'dimensions', 'sku', 'weight']
+    ok: feed carries ['brand', 'dimensions', 'sku', 'weight']
+    ok: feed carries ['brand', 'dimensions', 'sku', 'weight']
+    ok: feed carries ['brand', 'dimensions', 'sku', 'weight']
+    ok: feed carries ['brand', 'dimensions', 'sku', 'weight']
+Termoidraulica_RV_43060b5c (woocommerce)
+    ok: feed carries ['sku', 'weight']
+    ok: feed carries []
+    ok: feed carries ['sku', 'weight']
+    ok: feed carries []
+    ok: feed carries ['sku', 'weight']
+
+Wrote feed_check_results.json

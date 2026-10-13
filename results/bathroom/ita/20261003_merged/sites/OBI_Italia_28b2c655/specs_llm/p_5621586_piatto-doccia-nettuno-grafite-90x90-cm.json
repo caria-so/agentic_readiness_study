@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "url": "https://www.obi-italia.it/p/5621586/piatto-doccia-nettuno-grafite-90x90-cm",
+  "model": "qwen2.5:32b",
+  "html": "p_5621586_piatto-doccia-nettuno-grafite-90x90-cm.html",
+  "title": "Piatto doccia Nettuno grafite 90x90 cm",
+  "text_chars": 8931,
+  "requested": [
+    "material",
+    "finish",
+    "colour",
+    "width",
+    "height",
+    "depth",
+    "length",
+    "dimensions",
+    "thickness",
+    "weight",
+    "installation",
+    "opening",
+    "plumbing",
+    "water",
+    "electrical",
+    "shape_style",
+    "series",
+    "brand",
+    "warranty",
+    "certification",
+    "origin",
+    "care"
+  ],
+  "found": {
+    "material": {
+      "value": "composito di marmo",
+      "evidence": "Piatto doccia ultrapiatto con texture effetto pietra in composito di marmo, un materiale composto da resina e cariche minerali",
+      "location": "body"
+    },
+    "dimensions": {
+      "value": "90x90 cm",
+      "evidence": "Piatto doccia Nettuno grafite 90x90 cm",
+      "location": "title"
+    },
+    "installation": {
+      "value": "a filo pavimento o in appoggio",
+      "evidence": "Installazione a filo pavimento o in appoggio",
+      "location": "body"
+    },
+    "series": {
+      "value": "Nettuno",
+      "evidence": "Piatto doccia Nettuno grafite 90x90 cm",
+      "location": "title"
+    },
+    "brand": {
+      "value": "Ercos S.p.A",
+      "evidence": "Dati del produttore Ercos S.p.A",
+      "location": "body"
+    }
+  },
+  "dropped": {
+    "finish": {
+      "reason": "value_not_in_evidence",
+      "raw": {
+        "value": "opaco",
+        "evidence": "Disponibile con finitura opaca nei colori: bianco, nero, grafite, grigio, sabbia."
+      }
+    }
+  },
+  "stats": {
+    "prompt_tokens": 4320,
+    "output_tokens": 678,
+    "seconds": 69.33
+  }
+}
